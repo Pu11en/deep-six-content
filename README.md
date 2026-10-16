@@ -14,7 +14,7 @@ Flow: content -> social (YT/FB/IG/Reddit) -> geo-fenced ads near new subdivision
 
 ## Status
 
-- Step 1: not started. Next: plan topics and formats with Drew.
+- Step 1: tool + inspiration research done (01-content/research/2026-10-16-content-tools-and-inspiration.md). Next: Drew picks format (who's on camera); then one test video with OpenMontage + HyperFrames and a claim ledger.
 - Steps 2-4: waiting on step 1.
 - Nothing published, no accounts created, no money spent.
 
