@@ -1,0 +1,115 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 1940,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Why do Argentine ants invade your home?"
+    } ]
+  }, {
+    "tStartMs": 4340,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Worker ants must support a large, ever-expanding colony"
+    } ]
+  }, {
+    "tStartMs": 8460,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "and are constantly in search of new food sources."
+    } ]
+  }, {
+    "tStartMs": 12169,
+    "dDurationMs": 5931,
+    "segs": [ {
+      "utf8": "If you have ant nests very near your\nhouse you are likely to have frequent invasions."
+    } ]
+  }, {
+    "tStartMs": 18179,
+    "dDurationMs": 4791,
+    "segs": [ {
+      "utf8": "Nesting materials like wood debris,\nmulch or plants close to your foundation"
+    } ]
+  }, {
+    "tStartMs": 22970,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "may increase the likelihood of invasion."
+    } ]
+  }, {
+    "tStartMs": 25000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Plants that produce sugary fruit or nectar,"
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "or have honeydew producing insects like"
+    } ]
+  }, {
+    "tStartMs": 31200,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "aphids on them also attract ants and grow colonies."
+    } ]
+  }, {
+    "tStartMs": 35050,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Water sources such as dripping taps or\nair conditioning drains"
+    } ]
+  }, {
+    "tStartMs": 39500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "also draw ants close to structures."
+    } ]
+  }, {
+    "tStartMs": 43000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Once inside if ants fine food they are likely to\ncontinue to invade"
+    } ]
+  }, {
+    "tStartMs": 47800,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "until the food source goes away,"
+    } ]
+  }, {
+    "tStartMs": 49640,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "or until entryways are sealed up."
+    } ]
+  }, {
+    "tStartMs": 53400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "People often notice ant invasions during"
+    } ]
+  }, {
+    "tStartMs": 56280,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "heat waves or after rainstorms. These\nweather events drive ants"
+    } ]
+  }, {
+    "tStartMs": 60850,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "into homes for protection against heat, wet, or cold."
+    } ]
+  } ]
+}

@@ -1,0 +1,259 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 3169,
+    "dDurationMs": 831,
+    "segs": [ {
+      "utf8": "Have you been bitten in bed?"
+    } ]
+  }, {
+    "tStartMs": 4000,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Are you suspicious you may have a bed bug infestation?"
+    } ]
+  }, {
+    "tStartMs": 8010,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Don't panic. Bed bugs are just one cause of bites in the home"
+    } ]
+  }, {
+    "tStartMs": 12070,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "and not the most common one."
+    } ]
+  }, {
+    "tStartMs": 13500,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Mosquitoes, spiders, fleas, bird mites, conenose bugs,"
+    } ]
+  }, {
+    "tStartMs": 17900,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "and several other pests also bite people,"
+    } ]
+  }, {
+    "tStartMs": 20189,
+    "dDurationMs": 2811,
+    "segs": [ {
+      "utf8": "causing similar red itchy welts on the skin."
+    } ]
+  }, {
+    "tStartMs": 23000,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "To confirm that bed bugs are the source of your problem,"
+    } ]
+  }, {
+    "tStartMs": 26039,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "you need to inspect your sleeping and lounging areas for bed bugs"
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "or signs of their presence."
+    } ]
+  }, {
+    "tStartMs": 30810,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Important indicators of a bed bug infestation include blood smears"
+    } ]
+  }, {
+    "tStartMs": 35020,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and fecal spots on mattresses or bedding, or bed bug shed skins."
+    } ]
+  }, {
+    "tStartMs": 40220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Equip yourself with a flashlight before beginning your inspection."
+    } ]
+  }, {
+    "tStartMs": 43940,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Bed bugs are small—about the size of an apple seed as an adult"
+    } ]
+  }, {
+    "tStartMs": 47560,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "and even smaller when they are young, and they like to hide in dark spaces."
+    } ]
+  }, {
+    "tStartMs": 51770,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Make sure to thoroughly inspect all potential harborage sites"
+    } ]
+  }, {
+    "tStartMs": 55460,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "and keep in mind that bedbugs can hide in cracks and crevices"
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "as small as the width of a credit card."
+    } ]
+  }, {
+    "tStartMs": 60680,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Start your inspection at the place most likely to be invested."
+    } ]
+  }, {
+    "tStartMs": 64100,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Your bed."
+    } ]
+  }, {
+    "tStartMs": 65000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Check the pillows, sheets and blankets,"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "especially around edges and seams."
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "After carefully removing all bedding, lift the mattress"
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "and inspect all its seams, ridges, its label area, and surfaces."
+    } ]
+  }, {
+    "tStartMs": 77900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Next, do the same for the box spring,"
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "paying special attention to the cracks and crevices."
+    } ]
+  }, {
+    "tStartMs": 83000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Look behind the headboard and on the bed frame."
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "You may need to dismantle the bed."
+    } ]
+  }, {
+    "tStartMs": 88700,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "If you find no evidence the bedbugs in these areas,"
+    } ]
+  }, {
+    "tStartMs": 91900,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "chances are you don't have an infestation."
+    } ]
+  }, {
+    "tStartMs": 94259,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "However, also thoroughly check other upholstered furniture in your home"
+    } ]
+  }, {
+    "tStartMs": 98069,
+    "dDurationMs": 4031,
+    "segs": [ {
+      "utf8": "and wood cabinets, baseboards, wall hangings and other hiding places"
+    } ]
+  }, {
+    "tStartMs": 102100,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "within about 6 feet of the bed."
+    } ]
+  }, {
+    "tStartMs": 103969,
+    "dDurationMs": 3381,
+    "segs": [ {
+      "utf8": "Remember that bedbugs prefer wood or fabric surfaces."
+    } ]
+  }, {
+    "tStartMs": 107350,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "If you do find bed bugs, call a pest control company that is experienced"
+    } ]
+  }, {
+    "tStartMs": 111800,
+    "dDurationMs": 2609,
+    "segs": [ {
+      "utf8": "in bed bug management and uses IPM"
+    } ]
+  }, {
+    "tStartMs": 114409,
+    "dDurationMs": 3191,
+    "segs": [ {
+      "utf8": "or integrated pest management methods to handle the problem."
+    } ]
+  }, {
+    "tStartMs": 117600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Over the counter pesticides are not usually effective against bed bugs"
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and can be dangerous when used improperly."
+    } ]
+  }, {
+    "tStartMs": 124500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "For more information on bed bugs,"
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "go to the University of California IPM web site."
+    } ]
+  } ]
+}

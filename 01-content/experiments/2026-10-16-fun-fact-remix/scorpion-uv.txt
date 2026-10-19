@@ -1,0 +1,19 @@
+INPUT 1 is the Deep Six Pest Control "Fun Fact Friday" post. Make a NEW post in the exact same series.
+
+PRESERVE exactly from INPUT 1:
+- Art style: polished 2D cartoon illustration, bold dark outlines, soft cel shading, warm cinematic lighting.
+- The mascot, identical: chibi grim reaper, dark purple hood with a curled tip, round white skull face, big black oval eyes, tiny nose, row of rounded teeth, purple robe, white cartoon gloves, light purple D6 shield with down arrow on the chest. Same proportions, same friendly curious expression.
+- Layout and type: DEEP SIX PEST CONTROL logo top left, exactly as in INPUT 1. Below it "FUN FACT" in lime green (#A9D554) with thick black outline and "FRIDAY" in white with black outline, with small lime burst marks. Cream paper fact card on the left. Lime green sticky note top right. Lime green pill button at the bottom center with black text.
+- Square format.
+
+REPLACE:
+- Scene: a Texas backyard patio at night, stone pavers, a potted plant, a garden hose, dark blue night sky, porch light glow.
+- Pest: one cartoon Arizona bark scorpion, anatomically correct: 8 walking legs, 2 pincers, a segmented tail curling up to one stinger. Same cute big-eyed cartoon treatment as the spider in INPUT 1. The scorpion glows bright blue-green where the light hits it.
+- Props: the reaper holds the magnifying glass in one hand and a small purple UV blacklight flashlight in the other, its violet beam shining on the scorpion.
+- Text, spelled exactly, nothing else added:
+  Fact card: "Scorpions glow blue-green under a UV black light."
+  Sticky note: "Check your patio at night!"
+  Button: "SCORPION CONTROL AVAILABLE"
+
+ADAPT: keep the warm lit feel, but night-time, with the violet UV beam as the main light on the floor.
+No extra text, no watermark, no extra limbs.

@@ -1,0 +1,181 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 2679,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "Don't get bitten by pesky mosquitoes!"
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Protect yourself and your family from annoying bites"
+    } ]
+  }, {
+    "tStartMs": 8000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "but also from West Nile virus,"
+    } ]
+  }, {
+    "tStartMs": 10040,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "a potentially deadly disease transmitted by mosquitoes."
+    } ]
+  }, {
+    "tStartMs": 13110,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Stay indoors when mosquito activity is greatest,"
+    } ]
+  }, {
+    "tStartMs": 16470,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "which varies by mosquito species, where you live, and the time of year."
+    } ]
+  }, {
+    "tStartMs": 20250,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Keep mosquitoes out of your house"
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "with screens on doors and windows."
+    } ]
+  }, {
+    "tStartMs": 24510,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Repair any holes or openings."
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "If you must be outdoors when mosquitoes are out"
+    } ]
+  }, {
+    "tStartMs": 29900,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "wear protective clothing such as a long-sleeved shirts,"
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "trousers, socks, and a hat."
+    } ]
+  }, {
+    "tStartMs": 35730,
+    "dDurationMs": 3509,
+    "segs": [ {
+      "utf8": "Apply mosquito repellents containing DEET, picaridin,"
+    } ]
+  }, {
+    "tStartMs": 39239,
+    "dDurationMs": 2261,
+    "segs": [ {
+      "utf8": "or oil of lemon eucalyptus."
+    } ]
+  }, {
+    "tStartMs": 41800,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Some repellents may need to be reapplied frequently."
+    } ]
+  }, {
+    "tStartMs": 44640,
+    "dDurationMs": 4309,
+    "segs": [ {
+      "utf8": "Keep repellents out of eyes and wash hands after applying."
+    } ]
+  }, {
+    "tStartMs": 48949,
+    "dDurationMs": 3261,
+    "segs": [ {
+      "utf8": "Keep mosquitoes from breeding in your yard by emptying buckets,"
+    } ]
+  }, {
+    "tStartMs": 52210,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "garden pots, old tires, toys or other items that hold water."
+    } ]
+  }, {
+    "tStartMs": 56670,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Change water frequently in bird baths and pet dishes."
+    } ]
+  }, {
+    "tStartMs": 60469,
+    "dDurationMs": 3381,
+    "segs": [ {
+      "utf8": "Be sure to properly maintain pools and fountains."
+    } ]
+  }, {
+    "tStartMs": 63850,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "In stagnant ponds, water gardens, or pools you can't or don't want to drain,"
+    } ]
+  }, {
+    "tStartMs": 69140,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "apply Bacillus thuringiensis or \"Bt\" mosquito dunks or bits"
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to kill mosquito larvae,"
+    } ]
+  }, {
+    "tStartMs": 75850,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "or contact your local Mosquito and Vector Control District"
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "about providing mosquito-eating fish."
+    } ]
+  }, {
+    "tStartMs": 83070,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "To learn more about protecting yourself against mosquitoes"
+    } ]
+  }, {
+    "tStartMs": 85800,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "and West Nile virus, visit the UC IPM website"
+    } ]
+  }, {
+    "tStartMs": 89260,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "or contact your local Mosquito and Vector Control District."
+    } ]
+  } ]
+}

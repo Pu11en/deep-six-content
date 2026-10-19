@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0J4A6s2BdWs",
+    "title": "Jev and Laya Explained: Fast AI Decisions and the Dispute (Part 1 of 3)",
+    "channel": "SlopLearning",
+    "uploader": "SlopLearning",
+    "upload_date": "20260927",
+    "timestamp": 1790479168,
+    "duration": 1076,
+    "description": "What changes when an AI model returns a decision instead of writing a paragraph? Meet TypeSafe's Jev, the open Laya model, and the public argument about credit and prior work.\n\nPart 1 introduces the typed-decision idea, separates vendor demonstrations from independent tests, and examines what the evidence supports in the dispute. You do not need to have watched Jose's behind-the-scenes video first.\n\nSlopLearning channel: https://www.youtube.com/@SlopLearning\nWatch all three lessons: https://www.youtube.com/playlist?list=PLAdwvGCs1cSU\nSource checks and corrections: https://hijoseromero.substack.com/p/i-asked-opus-55-to-make-three-videos\n\nPRODUCTION AND CREDIT\nThis is an AI-generated educational lesson made with Claude Opus 5.5 and Manim. The narration is synthetic, using Kokoro-82M voice am_puck. It is not Jose Romero's recorded voice. Source review led to corrections in the narration and matching visuals before this upload; generated teaching still needs critical reading.\n\nBehind the scenes: Jose's recorded experiment\nhttps://youtu.be/I9imG1CD-o8\n\nProduction inspiration: Deedy Das (@deedydas), whose September 24 X post prompted the experiment\nhttps://x.com/deedydas/status/2103141339651350646\n\nAnimation: Manim Community\nhttps://www.manim.community/\nSynthetic narration: Kokoro\nhttps://github.com/hexgrad/kokoro\n\nCHAPTERS\n0:00 A decision instead of a paragraph\n1:36 System 1 and System 2\n3:16 What is Jev?\n5:42 Vendor claims vs. independent tests\n7:43 Where did the idea come from?\n9:19 The dispute: both sides\n12:36 Head to head, with caveats\n14:18 Why it matters\n16:31 Recap & quiz\n\nSOURCE NOTES AND CORRECTIONS\nThe corrected narration distinguishes TypeSafe's own speed/cost claims from independent benchmarks. Different hardware, prompts, sample sets and adaptation modes prevent simple universal rankings. Teacher-derived benchmark answers measure agreement with that teacher, not objective correctness.\n\nThe prior-art allegation is presented as an allegation. The source review did not establish copied code or weights. Statements about the absence of a public response are dated to September 24, 2026 in the lesson, not asserted as a permanent status. Public code and weights do not mean every training detail was released.\n\nSources were reviewed September 25, 2026. Prices, repository counts and public responses can change.\n\nSOURCES\nTypeSafe: introducing Jev\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nTypeSafe model and API documentation\nhttps://docs.typesafe.ai/\n\nLaya code and benchmark notes\nhttps://github.com/NandhaKishorM/laya\n\nLaya model card and weights\nhttps://huggingface.co/convaiinnovations/laya\n\nSalesRLAgent paper\nhttps://arxiv.org/abs/2503.23303\n\nConfidence-aware routing paper\nhttps://arxiv.org/abs/2510.01237\n\nGLiNER paper\nhttps://arxiv.org/abs/2311.08526\n\nIndependent decision-model benchmark\nhttps://github.com/nibzard/decision-model-benchmark\n\nTyped-decisions dataset and evaluation limits\nhttps://huggingface.co/datasets/LocalLLaMA/typed-decisions\n\nAnthus paired Jev/Laya report\nhttps://anth.us/blog/jev-vs-laya/\n\n#AI #Laya #Jev",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "A decision instead of a paragraph",
+        "end_time": 96.0
+      },
+      {
+        "start_time": 96.0,
+        "title": "System 1 and System 2",
+        "end_time": 196.0
+      },
+      {
+        "start_time": 196.0,
+        "title": "What is Jev?",
+        "end_time": 342.0
+      },
+      {
+        "start_time": 342.0,
+        "title": "Vendor claims vs. independent tests",
+        "end_time": 463.0
+      },
+      {
+        "start_time": 463.0,
+        "title": "Where did the idea come from?",
+        "end_time": 559.0
+      },
+      {
+        "start_time": 559.0,
+        "title": "The dispute: both sides",
+        "end_time": 756.0
+      },
+      {
+        "start_time": 756.0,
+        "title": "Head to head, with caveats",
+        "end_time": 858.0
+      },
+      {
+        "start_time": 858.0,
+        "title": "Why it matters",
+        "end_time": 991.0
+      },
+      {
+        "start_time": 991.0,
+        "title": "Recap & quiz",
+        "end_time": 1076
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0J4A6s2BdWs",
+    "url": null
+  },
+  {
+    "id": "obR9DYQq3v4",
+    "title": "How Laya Works: Encoders, Typed Decisions and Calibration (Part 2 of 3)",
+    "channel": "SlopLearning",
+    "uploader": "SlopLearning",
+    "upload_date": "20260927",
+    "timestamp": 1790479188,
+    "duration": 1124,
+    "description": "How can an AI model make a typed decision without generating a stream of text? This animated lesson explains encoders, Laya's question and answer slots, probabilities, calibration and the training ideas behind calibrated decisions.\n\nPart 2 uses the open Laya implementation to explain the mechanism. Jev's internal architecture is not public, so the Laya diagrams are not a claim about how Jev is built. The lesson also covers where these systems fail and why a confidence score needs testing.\n\nSlopLearning channel: https://www.youtube.com/@SlopLearning\nWatch all three lessons: https://www.youtube.com/playlist?list=PLAdwvGCs1cSU\nSource checks and corrections: https://hijoseromero.substack.com/p/i-asked-opus-55-to-make-three-videos\n\nPRODUCTION AND CREDIT\nThis is an AI-generated educational lesson made with Claude Opus 5.5 and Manim. The narration is synthetic, using Kokoro-82M voice am_puck. It is not Jose Romero's recorded voice. Source review led to corrections in the narration and matching visuals before this upload; generated teaching still needs critical reading.\n\nBehind the scenes: Jose's recorded experiment\nhttps://youtu.be/I9imG1CD-o8\n\nProduction inspiration: Deedy Das (@deedydas), whose September 24 X post prompted the experiment\nhttps://x.com/deedydas/status/2103141339651350646\n\nAnimation: Manim Community\nhttps://www.manim.community/\nSynthetic narration: Kokoro\nhttps://github.com/hexgrad/kokoro\n\nCHAPTERS\n0:00 One step instead of hundreds\n1:15 Autoregressive text generation\n2:48 Encoders: reading everything at once\n4:18 Question rows and batched decisions\n7:01 What makes a probability honest?\n9:34 Rewarding honesty\n11:32 RLCD: reinforcement learning for calibrated decisions\n13:34 What affects speed\n14:48 Where it breaks\n16:23 The open landscape\n17:37 Recap & quiz\n\nSOURCE NOTES AND CORRECTIONS\nThe corrected animation shows each question as its own input row, with rows processed together in a batched forward call. It does not imply arbitrary numbers of questions have zero added cost.\n\nA model's total parameter count is not its active compute per token. The corrected comparison acknowledges that gpt-oss-120b activates about 5.1 billion parameters per token; comparing 120 billion total parameters with Laya's size cannot establish a 300x arithmetic or speed advantage.\n\nLaya's reported benchmark temperature refitting uses question-type and option-count groups. This is distinct from the separate notebook procedure discussed in Part 3. Confidence and calibration are task-dependent, and vendor or self-run speed figures remain specific to their tested conditions.\n\nSources were reviewed September 25, 2026.\n\nSOURCES\nLaya model card\nhttps://huggingface.co/convaiinnovations/laya\n\nLaya implementation and calibration documentation\nhttps://github.com/NandhaKishorM/laya\n\nLaya benchmark methods and limits\nhttps://github.com/NandhaKishorM/laya/blob/main/BENCHMARKS.md\n\nOpenAI: gpt-oss architecture\nhttps://openai.com/index/introducing-gpt-oss/\n\nModernBERT paper\nhttps://arxiv.org/abs/2412.13663\n\nmmBERT paper\nhttps://arxiv.org/abs/2509.06888\n\nOn Calibration of Modern Neural Networks\nhttps://arxiv.org/abs/1706.04599\n\nDeepSeekMath and GRPO\nhttps://arxiv.org/abs/2402.03300\n\nTypeSafe documentation\nhttps://docs.typesafe.ai/\n\nIndependent decision-model benchmark\nhttps://github.com/nibzard/decision-model-benchmark\n\n#AI #Laya #Jev",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "One step instead of hundreds",
+        "end_time": 75.0
+      },
+      {
+        "start_time": 75.0,
+        "title": "Autoregressive text generation",
+        "end_time": 168.0
+      },
+      {
+        "start_time": 168.0,
+        "title": "Encoders: reading everything at once",
+        "end_time": 258.0
+      },
+      {
+        "start_time": 258.0,
+        "title": "Question rows and batched decisions",
+        "end_time": 421.0
+      },
+      {
+        "start_time": 421.0,
+        "title": "What makes a probability honest?",
+        "end_time": 574.0
+      },
+      {
+        "start_time": 574.0,
+        "title": "Rewarding honesty",
+        "end_time": 692.0
+      },
+      {
+        "start_time": 692.0,
+        "title": "RLCD: reinforcement learning for calibrated decisions",
+        "end_time": 814.0
+      },
+      {
+        "start_time": 814.0,
+        "title": "What affects speed",
+        "end_time": 888.0
+      },
+      {
+        "start_time": 888.0,
+        "title": "Where it breaks",
+        "end_time": 983.0
+      },
+      {
+        "start_time": 983.0,
+        "title": "The open landscape",
+        "end_time": 1057.0
+      },
+      {
+        "start_time": 1057.0,
+        "title": "Recap & quiz",
+        "end_time": 1124
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=obR9DYQq3v4",
+    "url": null
+  },
+  {
+    "id": "IslM2OhwCbY",
+    "title": "Building with Laya: Use Cases, Fine-Tuning and Evaluation (Part 3 of 3)",
+    "channel": "SlopLearning",
+    "uploader": "SlopLearning",
+    "upload_date": "20260927",
+    "timestamp": 1790479133,
+    "duration": 1086,
+    "description": "Where do small decision models fit in a real product? This animated lesson moves from question design and useful applications to zero-shot baselines, data, Laya fine-tuning, deployment and knowing when to ask a human.\n\nPart 3 explains the workflow and walks through a public training notebook. It is not a claim that Jose trained and deployed a new model. The examples are starting points for your own evaluation, not production guarantees.\n\nSlopLearning channel: https://www.youtube.com/@SlopLearning\nWatch all three lessons: https://www.youtube.com/playlist?list=PLAdwvGCs1cSU\nSource checks and corrections: https://hijoseromero.substack.com/p/i-asked-opus-55-to-make-three-videos\n\nPRODUCTION AND CREDIT\nThis is an AI-generated educational lesson made with Claude Opus 5.5 and Manim. The narration is synthetic, using Kokoro-82M voice am_puck. It is not Jose Romero's recorded voice. Source review led to corrections in the narration and matching visuals before this upload; generated teaching still needs critical reading.\n\nBehind the scenes: Jose's recorded experiment\nhttps://youtu.be/I9imG1CD-o8\n\nProduction inspiration: Deedy Das (@deedydas), whose September 24 X post prompted the experiment\nhttps://x.com/deedydas/status/2103141339651350646\n\nAnimation: Manim Community\nhttps://www.manim.community/\nSynthetic narration: Kokoro\nhttps://github.com/hexgrad/kokoro\n\nCHAPTERS\n0:00 Three bricks\n1:02 Designing a good question\n2:13 A gallery of use cases\n4:34 Knowing when to ask a human\n6:20 Step one: try it zero-shot\n8:00 Step two: the data\n9:54 Step three: fine-tuning Laya\n11:37 Step four: deploy and improve\n12:42 Case study: a moderation guardrail\n14:43 Counting the cost\n15:54 A builder's checklist\n16:36 Series recap & quiz\n\nSOURCE NOTES AND COMPLETED CORRECTIONS\nThis upload includes two September 26, 2026 corrections in both narration and visuals:\n\n1. The browser-model developer disclosed that training examples contaminated the original 16-task test, including the cited 62% result. That result does not demonstrate performance on unseen tasks.\n2. The current Laya notebook documentation says its temperature fitting uses training items. The lesson now separates that fitting step from evaluation on held-out data. This differs from the separate bucket-calibration benchmark described in Part 2.\n\nReported application scores are task-specific, self-run tests. Spam and phishing examples overlap the training mix, and performance on other tasks was uneven. The typed-decisions reference labels come from a teacher model, so agreement is not the same as objective correctness. Use a separate evaluation set, check data leakage, measure calibration on your task, and keep an appropriate human fallback.\n\nSources were reviewed September 25 and updated September 26, 2026.\n\nSOURCES\nLaya code, quickstart and fine-tuning documentation\nhttps://github.com/NandhaKishorM/laya\n\nLaya Kaggle fine-tuning notebook\nhttps://github.com/NandhaKishorM/laya/blob/main/notebooks/laya_finetune_typed_decisions_2xT4_kaggle.ipynb\n\nLaya application benchmarks and caveats\nhttps://github.com/NandhaKishorM/laya/blob/main/BENCHMARKS.md\n\nCommitted application benchmark results\nhttps://raw.githubusercontent.com/NandhaKishorM/laya/main/research/results/app_benchmark_results.json\n\nTyped-decisions dataset and evaluation limits\nhttps://huggingface.co/datasets/LocalLLaMA/typed-decisions\n\nBrowser-model card and September 26 contamination disclosure\nhttps://huggingface.co/cklxx/laya-browser\n\nTypeSafe API documentation\nhttps://docs.typesafe.ai/api.md\n\nTypeSafe Jev announcement\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\n#AI #Laya #Jev",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Three bricks",
+        "end_time": 62.0
+      },
+      {
+        "start_time": 62.0,
+        "title": "Designing a good question",
+        "end_time": 133.0
+      },
+      {
+        "start_time": 133.0,
+        "title": "A gallery of use cases",
+        "end_time": 274.0
+      },
+      {
+        "start_time": 274.0,
+        "title": "Knowing when to ask a human",
+        "end_time": 380.0
+      },
+      {
+        "start_time": 380.0,
+        "title": "Step one: try it zero-shot",
+        "end_time": 480.0
+      },
+      {
+        "start_time": 480.0,
+        "title": "Step two: the data",
+        "end_time": 594.0
+      },
+      {
+        "start_time": 594.0,
+        "title": "Step three: fine-tuning Laya",
+        "end_time": 697.0
+      },
+      {
+        "start_time": 697.0,
+        "title": "Step four: deploy and improve",
+        "end_time": 762.0
+      },
+      {
+        "start_time": 762.0,
+        "title": "Case study: a moderation guardrail",
+        "end_time": 883.0
+      },
+      {
+        "start_time": 883.0,
+        "title": "Counting the cost",
+        "end_time": 954.0
+      },
+      {
+        "start_time": 954.0,
+        "title": "A builder's checklist",
+        "end_time": 996.0
+      },
+      {
+        "start_time": 996.0,
+        "title": "Series recap & quiz",
+        "end_time": 1086
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=IslM2OhwCbY",
+    "url": null
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr268d/a_different_kind_of_opus_55_video_prompt/",
+    "error": "ERROR: [Reddit] 1wr268d: Account authentication is required. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (reddit) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt8tvk/i_used_opus_55_to_build_a_15_minute_animated/",
+    "error": "ERROR: [Reddit] 1wt8tvk: Account authentication is required. Use --cookies, --cookies-from-browser, --username and --password, --netrc-cmd, or --netrc (reddit) to provide account credentials. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies\n"
+  }
+]

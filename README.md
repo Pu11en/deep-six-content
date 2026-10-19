@@ -14,9 +14,11 @@ Flow: content -> social (YT/FB/IG/Reddit) -> geo-fenced ads near new subdivision
 
 ## Status
 
-- Step 1: tool + inspiration research done (01-content/research/2026-10-16-content-tools-and-inspiration.md). Next: Drew picks format (who's on camera); then one test video with OpenMontage + HyperFrames and a claim ledger.
+- Step 1: researching useful homeowner lessons and cartoons animated with JavaScript/TypeScript. All Deep Six videos must be 9:16 with brand colors. Narration scrapped October 19; no replacement written or final animation tool chosen. [Workflow, narration method, and step history](01-content/video-workflow.md).
 - Steps 2-4: waiting on step 1.
-- Nothing published, no accounts created, no money spent.
+- 16 Oct: workspace set up (live board, project CLAUDE.md, style spec, image script). First on-brand AI image made: scorpion Fun Fact Friday, $0.03, looks on-brand.
+- 16 Oct: AI video test ($0.48) made no sense to Drew; that direction dropped. Test videos, storyboards, video-prompting skill and AI video rules deleted on Drew's OK. Kept: brand image, style spec, code-drawn reaper, scorpion image, research notes, board + image tools. Video work continues in a separate session (Opus code video). No spending for now.
+- Nothing published, no accounts created. Money spent: see 01-content/experiments/cost-log.csv.
 
 ## Folders
 

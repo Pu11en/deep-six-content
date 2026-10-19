@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# Put a new image or video at the top of BOARD.md (the live board open beside chat).
+# Usage: tools/show <file> "short caption"   (image, video, or .txt/.md content text)
+# Videos get an animated GIF preview so they move in Zed's Markdown Preview; the MP4 is linked.
+set -euo pipefail
+root="$(cd "$(dirname "$0")/.." && pwd)"
+file="$(realpath "$1")"; caption="${2:-}"
+[ -f "$file" ] || { echo "No such file: $1" >&2; exit 1; }
+rel="$(realpath --relative-to="$root" "$file")"
+stamp="$(date '+%Y-%m-%d %H:%M')"
+case "${file,,}" in
+  *.mp4|*.mov|*.webm)
+    mkdir -p "$root/board-previews"; gif="board-previews/$(basename "${file%.*}")-$(date +%s).gif"
+    ffmpeg -loglevel error -y -i "$file" -t 12 -vf "fps=8,scale=${GIF_WIDTH:-480}:-1:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer" "$root/$gif"
+    entry="### $stamp · $caption\n\n![$caption]($gif)\n\nVideo: [$rel]($rel)\n";;
+  *.md)
+    # Designed content text (storyboard, script): shown as written.
+    entry="### $stamp · $caption\n\n$(sed 's/\\/\\\\/g' "$file")\n";;
+  *.txt)
+    # Raw prompt text: shown as a quoted block.
+    txt="$(sed 's/^/> /; s/$/  /' "$file")"
+    entry="### $stamp · $caption\n\n${txt//\\/\\\\}\n";;
+  *) entry="### $stamp · $caption\n\n![$caption]($rel)\n";;
+esac
+mkdir -p "$root/board-previews"
+board="$root/BOARD.md"
+head='# Deep Six board\n\nNewest on top.\n\n---\n'
+[ -f "$board" ] || printf "$head" > "$board"
+body="$(sed '1,/^---$/d' "$board")"
+{ printf "$head\n"; printf "%b\n" "$entry"; printf '%s\n' "$body"; } > "$board.tmp" && mv "$board.tmp" "$board"
+echo "On board: $rel"

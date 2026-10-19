@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "cartoon-workflow",
+    "url": "https://x.com/free_ai_guides/status/2107886470421750022",
+    "text": "https://x.com/i/article/2107882308514525184",
+    "date": "Wed Oct 07 17:31:11 +0000 2026",
+    "videos": []
+  },
+  {
+    "slug": "pelican",
+    "url": "https://x.com/goodside/status/2103149526244618682",
+    "text": "> Create a 30s animated video with sythesized voice where an animated pelican on a unicycle explains the shell command `w | tail -n +3 | cut -d ' ' -f1 | sort -u` with visuals while juggling several fish.\n\nClaude Opus 5.5 (Extra)",
+    "date": "Thu Sep 24 15:48:16 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2103149480165969920/vid/avc1/1920x1080/Ls5locCbHOE1xvjp.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103149480165969920/img/8KFAA_IrpBjCSVJF.jpg",
+        "duration": 30,
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  {
+    "slug": "dinosaur",
+    "url": "https://x.com/moyingy66/status/2103110271711728101",
+    "text": "用 Opus 5.5 做了个恐龙进化史的小视频，效果太棒了，一键直出。\n提示词：\n\n纯代码实现，以一个小三角龙的视角，来讲述恐龙进化史，生成一个动画视频，要生动且引人入胜。",
+    "date": "Thu Sep 24 13:12:17 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2103110105273356289/vid/avc1/1280x720/zo1oyWjBQm_oshdK.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103110105273356289/img/pseEpmSeTXOYrOgF.jpg",
+        "duration": 149.3,
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "slug": "life-cycle",
+    "url": "https://x.com/loicRambo/status/2103428454355980558",
+    "text": "just one shot the cycle of life in Opus 5.5 . \n\nprompt 👉 \"make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.\"\n\nthis is just day 3, what else will be made in a week",
+    "date": "Fri Sep 25 10:16:37 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2103428266769973248/vid/avc1/1920x1080/ljX85FSvqpiIoOhd.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/media/HTEsm9uXMAEANp0.jpg",
+        "duration": 20,
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  {
+    "slug": "pig",
+    "url": "https://x.com/jackfriks/status/2103132260589338762",
+    "text": "okay this is WILD... opus 5.5 is an insanely good animator\n\nit made this short film of my app using new assets i have for redesign in ONE SHOT. no edits, all sound made by claude too, fully made in claude then exported in mp4 all by itself\n\nprompt below :)",
+    "date": "Thu Sep 24 14:39:39 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2103131986701230082/vid/avc1/1080x1920/xaDXW340ab8ADebn.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103131986701230082/img/9PcFlH2KPZDZVz_U.jpg",
+        "duration": 19.5,
+        "width": 1080,
+        "height": 1920
+      }
+    ]
+  },
+  {
+    "slug": "paper-home",
+    "url": "https://x.com/x4b47x/status/2103019799614034026",
+    "text": "Opus 5.5, one shot. 15 minutes of work. \n\nPrompt: \"Create a pure javascript animation. 30-60s, vertical 9:16, paper cut-out shadow theatre style with gentle, fitting audio (made in code) on the topic: What makes a place feel like home?\"",
+    "date": "Thu Sep 24 07:12:47 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2103019675663683584/vid/avc1/720x1280/TNv78PvffXLuFX-J.mp4?tag=14",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103019675663683584/img/PMqxPogPtwNvY9wp.jpg",
+        "duration": 57,
+        "width": 1080,
+        "height": 1920
+      }
+    ]
+  },
+  {
+    "slug": "wordfeel",
+    "url": "https://x.com/hx831126/status/2104061687527575568",
+    "text": "做了个学习英语的小产品，还在不断完善中。不过宣传视频已经让 Opus 5.5跑出来了。\n\n全网搜 Wordfeel |用美剧学英语 \n\n应该能看到账号之前发的内容，之前的视频使用 Grok Bot 做的，👇这个是用 Opus 5.5做的。就充钱使劲做，继续完善承接流量的产品 http://Wordfeel.cc\n\n然后整个流程我也是让 grok bot 跑的，比如各平台发布，自动回复评论等等行为！\n\nGrok bot 做的视频，视频流量在抖音也就1000多个小眼睛，Opus 5.5做的视频小眼睛有4000多个了！ 所以说视频质量还是流量的关键因素！",
+    "date": "Sun Sep 27 04:12:52 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2104061638760615937/vid/avc1/1080x1920/OVyHx0EKLEOnq3Kq.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104061638760615937/img/vjQiReg83XIBIPwb.jpg",
+        "duration": 23.6,
+        "width": 1080,
+        "height": 1920
+      }
+    ]
+  },
+  {
+    "slug": "bug",
+    "url": "https://x.com/KamStudioLabs/status/2102903173161877996",
+    "text": "Opus 5.5, second prompt: \"Make a 90-second animated short film about a bug that doesn't want to be fixed.\"",
+    "date": "Wed Sep 23 23:29:21 +0000 2026",
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2102902788699099136/vid/avc1/1920x1080/UdcrU2SKSV64JN45.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102902788699099136/img/-Wy4jhLJvUAj7TCj.jpg",
+        "duration": 90,
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  }
+]

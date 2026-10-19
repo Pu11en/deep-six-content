@@ -1,0 +1,55 @@
+// film.mjs — "The leaf and the colony": a 32 s, 16:9 showcase of the claude-animation skill.
+//   node film.mjs sheet 0.5,3,5,8,12,18 | strip 9.5 12 | verify | cues | render
+//
+// STYLE BIBLE (verbatim): textured editorial storybook. Paper #F3EEDD + grain + 40° light bands in skies.
+// Ink #1E1612, heroes 2.6–3.4 px. Ant browns; leaf greens #8CCB6A→#4E9A42; soil #7A5234→#3E2616 with lit
+// chambers #F0CC98→#8E6342; brood whites; fungus #FFFFFF→#DCD6C8; construction blue #5E80CC only for the
+// cut line and the process section. No text between 7 s and the end card: the pictures carry it.
+//
+// BEATS
+//  0.0– 2.2  HOOK: the ant's face, huge. "This is code." + the line that draws it.
+//  2.2– 7.0  PROCESS: sketch → ink → colour → polish (sweeps), then it walks out.
+//  7.0–10.8  LEAF: a fallen leaf; a blue cut-line; the ant chews along it; the piece goes up like a sail.
+// 10.8–15.4  TRAIL: tracking shot with parallax, a column of leaf-carriers, morning into gold, the mound.
+// 15.4–15.9  DIVE into the hole.
+// 15.9–26.6  COLONY in cross-section: down the shaft, the leaf goes onto the fungus garden, the nursery
+//            (magnifier on a larva), the queen lays an egg, pull back to the whole nest while day turns to night.
+// 26.6–32.0  END CARD: every frame is code + repo.
+import path from "node:path";
+import fs from "node:fs";
+import { fileURLToPath } from "node:url";
+const HERE = path.dirname(fileURLToPath(import.meta.url));
+const LIB = process.env.CLAUDE_ANIMATION_LIB || path.join(HERE, "../../plugins/claude-animation/skills/claude-animation/lib");
+const { clamp, lerp, ss, eOut, eIn, eIO, eBack, popS, at, line, ellipse, stroke, fill, poly, smooth, hatch, burst, speedLines, rrect, rng, rad, hash, pathOf, createCanvas, INK } = await import(path.join(LIB, "core.mjs"));
+const { paper, lightBands, sun, moon, star4, grass } = await import(path.join(LIB, "textures.mjs"));
+const { sprout, drop, blossom } = await import(path.join(LIB, "nature.mjs"));
+const { leaf, leafPiece, egg, larva, cocoon, seedGrain, fungus, roots, nestCanvas } = await import(path.join(LIB, "colony.mjs"));
+const { ant, antGuides } = await import(path.join(LIB, "rigs/ant.mjs"));
+const { run } = await import(path.join(LIB, "film.mjs"));
+const { GlobalFonts } = await import(path.join(LIB, "../node_modules/@napi-rs/canvas/index.js"));
+const FD = process.env.FONT_DIR || path.join(process.env.HOME, ".claude/skills/tesseract-edit/assets/fonts");
+const reg = (f, n) => { if (fs.existsSync(f)) GlobalFonts.registerFromPath(f, n); };
+reg(path.join(FD, "Inter/Inter_28pt-Bold.ttf"), "IBold"); reg(path.join(FD, "Inter/Inter_28pt-SemiBold.ttf"), "ISemi"); reg("/System/Library/Fonts/Menlo.ttc", "Mono");
+
+const W = 1920, H = 1080, FPS = 24, DUR = 32;
+const CUT = { process: 2.2, leaf: 7.0, trail: 10.8, dive: 15.4, colony: 15.9, end: 26.6 };
+const RENDER_SECONDS = process.env.RENDER_SECONDS || "20";
+const BLUE = "#5E80CC";
+
+// ---------------------------------------------------------------- type helpers
+function typed(ctx, str, x, y, t0, t1, t, { font = "76px IBold", color = INK, align = "left", caret = false } = {}) {
+  const n = Math.floor(str.length * clamp((t - t0) / (t1 - t0))); if (n <= 0 && !caret) return;
+  ctx.save(); ctx.font = font; ctx.fillStyle = color; const full = ctx.measureText(str).width, x0 = align === "center" ? x - full / 2 : x, s = str.slice(0, n); ctx.fillText(s, x0, y);
+  if (caret && (t < t1 + .6 || Math.floor(t * 2.5) % 2 === 0)) { const cw = ctx.measureText(s).width, fs_ = parseInt(font); ctx.fillRect(x0 + cw + 4, y - fs_ * .78, fs_ * .08, fs_ * .9); }
+  ctx.restore();
+}
+function codeChip(ctx, str, x, y, t0, t1, t, size = 32, align = "left") {
+  ctx.save(); ctx.font = `${size}px Mono`; const w = ctx.measureText(str).width + 56, h = size * 1.9, k = clamp((t - t0 + .15) / .2); if (k <= 0) { ctx.restore(); return; }
+  const x0 = align === "center" ? x - w / 2 : x; ctx.globalAlpha = k; poly(ctx, rrect(x0, y - h / 2, w, h, 20)); fill(ctx, "#1E1612"); ctx.restore();
+  typed(ctx, str, x0 + 28, y + size * .35, t0, t1, t, { font: `${size}px Mono`, color: "#F3EEDD", caret: true });
+}
+
+// ================================================================ 1. HOOK
+function hook(ctx, t, S) {
+  ctx.drawImage(S.paper, 0, 0); lightBands(ctx, W, H, t, { alpha: .45 });
+  const Z = lerp(3.1, 2.75, eOut(t / 2.2)), fx = 1330, fy = 650;

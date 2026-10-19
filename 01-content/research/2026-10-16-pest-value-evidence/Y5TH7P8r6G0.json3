@@ -1,0 +1,91 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 1440,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "If you find hundreds or thousands of\nants suddenly invading your home"
+    } ]
+  }, {
+    "tStartMs": 6180,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "don't grab that can of ant spray instead\nfollow these steps to get rid of them."
+    } ]
+  }, {
+    "tStartMs": 11420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "First determine what the ants are\ntrailing to and remove the food source."
+    } ]
+  }, {
+    "tStartMs": 16760,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "Clean up sugary spills, crumbs left on\ncounters, unsealed food pet food or garbage."
+    } ]
+  }, {
+    "tStartMs": 23180,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Wipe trails of ants with soapy\nwater or window cleaner"
+    } ]
+  }, {
+    "tStartMs": 26920,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "or vacuum them up and then clean the trail."
+    } ]
+  }, {
+    "tStartMs": 29820,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Use vacuum attachments to get in corners or along wall edges."
+    } ]
+  }, {
+    "tStartMs": 34800,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Locate places where ants are entering and caulk openings or plug with petroleum jelly"
+    } ]
+  }, {
+    "tStartMs": 41120,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Place baits outdoors where ants are trailing"
+    } ]
+  }, {
+    "tStartMs": 44540,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "or apply gel bait or bait stations indoors at entry points."
+    } ]
+  }, {
+    "tStartMs": 49180,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Baits take up to a week or more to work, so continue to clean up trails as necessary"
+    } ]
+  }, {
+    "tStartMs": 54940,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Indoor sprays are not usually needed."
+    } ]
+  }, {
+    "tStartMs": 58360,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "For more information about managing ants, see the UC IPM website."
+    } ]
+  } ]
+}

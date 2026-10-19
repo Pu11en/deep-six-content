@@ -1,0 +1,331 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 1510,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "One souvenir you don't want to bring home when you travel"
+    } ]
+  }, {
+    "tStartMs": 4000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "is a bed bug."
+    } ]
+  }, {
+    "tStartMs": 5200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Unfortunately bed bugs are becoming an increasing problem"
+    } ]
+  }, {
+    "tStartMs": 8500,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "in hotels across the United States and worldwide"
+    } ]
+  }, {
+    "tStartMs": 11800,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "You can greatly reduce your chances of bringing home bed bugs"
+    } ]
+  }, {
+    "tStartMs": 14700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "by following a few basic steps when you arrive at your accommodation."
+    } ]
+  }, {
+    "tStartMs": 18500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "when you first enter your room,"
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "place all your bags and luggage in the bathtub."
+    } ]
+  }, {
+    "tStartMs": 23010,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "even if your room has bed bugs they are unlikely to be in the bathroom"
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The next step is to inspect key locations in the room for bed bugs,"
+    } ]
+  }, {
+    "tStartMs": 31000,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "fecal spots, blood smears, or cast skins from bed bugs."
+    } ]
+  }, {
+    "tStartMs": 34679,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "They are very small. A thorough inspection can take up to 20 minutes."
+    } ]
+  }, {
+    "tStartMs": 39400,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "Start your inspection with the bed and the areas directly around it"
+    } ]
+  }, {
+    "tStartMs": 43039,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Pull up the sheets, blankets and mattress pad looking for"
+    } ]
+  }, {
+    "tStartMs": 46489,
+    "dDurationMs": 1511,
+    "segs": [ {
+      "utf8": "fecal spots or blood smears."
+    } ]
+  }, {
+    "tStartMs": 48000,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "Inspect the corners, seams and edges of the mattress,"
+    } ]
+  }, {
+    "tStartMs": 51199,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "using a flashlight if necessary"
+    } ]
+  }, {
+    "tStartMs": 53400,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Also look around the headboard,"
+    } ]
+  }, {
+    "tStartMs": 55440,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "if it is glued or bolted to the wall,"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "you can swipe your room key card around the edge"
+    } ]
+  }, {
+    "tStartMs": 60010,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "this may dislodge bugs or their cast skins."
+    } ]
+  }, {
+    "tStartMs": 63089,
+    "dDurationMs": 3501,
+    "segs": [ {
+      "utf8": "Also look under lamps our phones next to the bed."
+    } ]
+  }, {
+    "tStartMs": 66590,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Check in the drawers at the side table."
+    } ]
+  }, {
+    "tStartMs": 69000,
+    "dDurationMs": 3549,
+    "segs": [ {
+      "utf8": "Also look behind any pictures or wall hangings above the bed."
+    } ]
+  }, {
+    "tStartMs": 72549,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "Generally you can restrict your search to objects"
+    } ]
+  }, {
+    "tStartMs": 75000,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "within six feet of the bed."
+    } ]
+  }, {
+    "tStartMs": 77200,
+    "dDurationMs": 2909,
+    "segs": [ {
+      "utf8": "Another important place to look is on the luggage rack."
+    } ]
+  }, {
+    "tStartMs": 80109,
+    "dDurationMs": 2891,
+    "segs": [ {
+      "utf8": "although the luggage rack is a good place to protect the suitcase from"
+    } ]
+  }, {
+    "tStartMs": 83000,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "bugs hiding in other areas in the room,"
+    } ]
+  }, {
+    "tStartMs": 85420,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "bed bugs that have come in on a previous guest's luggage"
+    } ]
+  }, {
+    "tStartMs": 88530,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "may have found a hiding place in the straps."
+    } ]
+  }, {
+    "tStartMs": 91200,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "If you DO find bed bugs or signs of their presence in your room,"
+    } ]
+  }, {
+    "tStartMs": 94700,
+    "dDurationMs": 1949,
+    "segs": [ {
+      "utf8": "remove your luggage from the bathroom,"
+    } ]
+  }, {
+    "tStartMs": 96649,
+    "dDurationMs": 3351,
+    "segs": [ {
+      "utf8": "leave the room, and complain to the manager."
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Ask for a new room in another part of the hotel or a refund."
+    } ]
+  }, {
+    "tStartMs": 103500,
+    "dDurationMs": 3009,
+    "segs": [ {
+      "utf8": "If your room appears to be free of bed bugs,"
+    } ]
+  }, {
+    "tStartMs": 106509,
+    "dDurationMs": 2191,
+    "segs": [ {
+      "utf8": "you can relax and enjoy your stay."
+    } ]
+  }, {
+    "tStartMs": 108800,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "However, it is always good to take certain precautions."
+    } ]
+  }, {
+    "tStartMs": 111770,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "keep your luggage on the luggage rack."
+    } ]
+  }, {
+    "tStartMs": 114000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Don't place it on the bed or other upholstered surfaces"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "favored by bed bugs."
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Also, hang your clothes in the closet."
+    } ]
+  }, {
+    "tStartMs": 120500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Place dirty clothes in a sealed plastic laundry bag."
+    } ]
+  }, {
+    "tStartMs": 123530,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Don't let clothes rest on furniture or on the floor."
+    } ]
+  }, {
+    "tStartMs": 126630,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Bed bugs could hide in them and be brought home."
+    } ]
+  }, {
+    "tStartMs": 129400,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "If you think there might have been bed bugs in your room,"
+    } ]
+  }, {
+    "tStartMs": 132050,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "make sure to launder your clothes at the hottest settings"
+    } ]
+  }, {
+    "tStartMs": 134000,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "as soon as you get home."
+    } ]
+  }, {
+    "tStartMs": 135570,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Storing luggage away from the bedroom or other sleeping surfaces"
+    } ]
+  }, {
+    "tStartMs": 138900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "between trips is another way to prevent bed bugs"
+    } ]
+  }, {
+    "tStartMs": 141000,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "from establishing in your home."
+    } ]
+  }, {
+    "tStartMs": 143400,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "For more information on bed bugs"
+    } ]
+  }, {
+    "tStartMs": 145100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "go to the University of California IPM website."
+    } ]
+  } ]
+}

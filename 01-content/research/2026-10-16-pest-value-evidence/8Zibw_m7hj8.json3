@@ -1,0 +1,205 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 3220,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "Do you have moths flying around your kitchen or insects crawling inside food packages or containers?"
+    } ]
+  }, {
+    "tStartMs": 9840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "If so, you might have pantry pests."
+    } ]
+  }, {
+    "tStartMs": 13360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Pantry pests can be moths , beetles, or other insects that infest stored food products"
+    } ]
+  }, {
+    "tStartMs": 19200,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "such as flour, grains, nuts, sweets, and other pantry items."
+    } ]
+  }, {
+    "tStartMs": 24460,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "There are several types of pantry pests"
+    } ]
+  }, {
+    "tStartMs": 26800,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "including the Indian meal moth, cigarette beetle, rice weevil,"
+    } ]
+  }, {
+    "tStartMs": 32340,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "warehouse beetle, and other beetles such as flour beetles and grain beetles."
+    } ]
+  }, {
+    "tStartMs": 36940,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Telltale signs of an infestation"
+    } ]
+  }, {
+    "tStartMs": 39880,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "include webbing or tiny holes in the food item or package."
+    } ]
+  }, {
+    "tStartMs": 43460,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "The larvae and adults of some insects"
+    } ]
+  }, {
+    "tStartMs": 46440,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "produce secretions that give food a disagreeable odor or taste."
+    } ]
+  }, {
+    "tStartMs": 51060,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Often by the time you notice pantry pests,"
+    } ]
+  }, {
+    "tStartMs": 54580,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "they have already infested opened packages or products"
+    } ]
+  }, {
+    "tStartMs": 57900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "that have been on the shelf for long periods of time."
+    } ]
+  }, {
+    "tStartMs": 61200,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "If you find the main source of the pest infestation"
+    } ]
+  }, {
+    "tStartMs": 63740,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "before it spreads to other packages,"
+    } ]
+  }, {
+    "tStartMs": 66200,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "pantry pest control is relatively easy."
+    } ]
+  }, {
+    "tStartMs": 69340,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Simply seal up the infested container or package and throw it away."
+    } ]
+  }, {
+    "tStartMs": 74700,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "To eliminate a pantry pest infestation,"
+    } ]
+  }, {
+    "tStartMs": 76820,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "first inspect all food packages"
+    } ]
+  }, {
+    "tStartMs": 79300,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and destroy any that show signs of infestation."
+    } ]
+  }, {
+    "tStartMs": 83780,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Then remove everything from your shelves"
+    } ]
+  }, {
+    "tStartMs": 86100,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and wash the shelves with soap and water."
+    } ]
+  }, {
+    "tStartMs": 88740,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Vacuum corners or crevices"
+    } ]
+  }, {
+    "tStartMs": 91180,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "to remove hidden crumbs and any pest eggs and pupae."
+    } ]
+  }, {
+    "tStartMs": 94900,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Prevent future pantry pest infestations"
+    } ]
+  }, {
+    "tStartMs": 97460,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "by inspecting new purchases of packages and bulk food items,"
+    } ]
+  }, {
+    "tStartMs": 101220,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "storing food in containers with tight-fitting lids,"
+    } ]
+  }, {
+    "tStartMs": 104560,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and frequently cleaning up any spills or crumbs."
+    } ]
+  }, {
+    "tStartMs": 108100,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Monitor for any future pantry pests using sticky pheromone traps,"
+    } ]
+  }, {
+    "tStartMs": 113240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "available at most garden centers and hardware stores."
+    } ]
+  }, {
+    "tStartMs": 116840,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "For more information on how to prevent and control pantry pests, visit the UC IPM web site."
+    } ]
+  } ]
+}

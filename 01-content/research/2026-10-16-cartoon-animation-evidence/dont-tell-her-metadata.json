@@ -1,0 +1,147 @@
+{
+  "url": "https://x.com/jackfriks/status/2103525576912855363",
+  "text": "putting more effort into the mini films (literally using MAX instead of high effort now) and result is very good while still using almost any usage at all\n\nyes this was made completely with opus 5.5 on max in a few attempts (20 minutes)",
+  "created_at": "Fri Sep 25 16:42:33 +0000 2026",
+  "media": {
+    "all": [
+      {
+        "id": "2103525483912499200",
+        "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/1080x1920/3QzCdtrGiS63yKWw.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103525483912499200/img/_rh0ByPVdtOuvjjJ.jpg",
+        "duration": 35.266,
+        "width": 1080,
+        "height": 1920,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/pl/f7HmcNVGVDeV3Lf8.m3u8?tag=29&v=cfc",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/320x568/z0lwk84EGI8LB-HS.mp4?tag=29",
+            "bitrate": 632000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/480x852/DLvdGay9X8dA8RJg.mp4?tag=29",
+            "bitrate": 950000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/720x1280/t1AhEIDWNt08Sdhc.mp4?tag=29",
+            "bitrate": 2176000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/1080x1920/3QzCdtrGiS63yKWw.mp4?tag=29",
+            "bitrate": 10368000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/pl/f7HmcNVGVDeV3Lf8.m3u8?tag=29&v=cfc",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/320x568/z0lwk84EGI8LB-HS.mp4?tag=29",
+            "bitrate": 632000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/480x852/DLvdGay9X8dA8RJg.mp4?tag=29",
+            "bitrate": 950000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/720x1280/t1AhEIDWNt08Sdhc.mp4?tag=29",
+            "bitrate": 2176000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/1080x1920/3QzCdtrGiS63yKWw.mp4?tag=29",
+            "bitrate": 10368000,
+            "content_type": "video/mp4"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "id": "2103525483912499200",
+        "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/1080x1920/3QzCdtrGiS63yKWw.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103525483912499200/img/_rh0ByPVdtOuvjjJ.jpg",
+        "duration": 35.266,
+        "width": 1080,
+        "height": 1920,
+        "format": "video/mp4",
+        "type": "video",
+        "formats": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/pl/f7HmcNVGVDeV3Lf8.m3u8?tag=29&v=cfc",
+            "container": "m3u8"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/320x568/z0lwk84EGI8LB-HS.mp4?tag=29",
+            "bitrate": 632000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/480x852/DLvdGay9X8dA8RJg.mp4?tag=29",
+            "bitrate": 950000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/720x1280/t1AhEIDWNt08Sdhc.mp4?tag=29",
+            "bitrate": 2176000,
+            "container": "mp4",
+            "codec": "h264"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/1080x1920/3QzCdtrGiS63yKWw.mp4?tag=29",
+            "bitrate": 10368000,
+            "container": "mp4",
+            "codec": "h264"
+          }
+        ],
+        "publisher": null,
+        "variants": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/pl/f7HmcNVGVDeV3Lf8.m3u8?tag=29&v=cfc",
+            "bitrate": 0,
+            "content_type": "application/x-mpegURL"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/320x568/z0lwk84EGI8LB-HS.mp4?tag=29",
+            "bitrate": 632000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/480x852/DLvdGay9X8dA8RJg.mp4?tag=29",
+            "bitrate": 950000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/720x1280/t1AhEIDWNt08Sdhc.mp4?tag=29",
+            "bitrate": 2176000,
+            "content_type": "video/mp4"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2103525483912499200/vid/avc1/1080x1920/3QzCdtrGiS63yKWw.mp4?tag=29",
+            "bitrate": 10368000,
+            "content_type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

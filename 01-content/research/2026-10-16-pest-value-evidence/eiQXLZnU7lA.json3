@@ -1,0 +1,241 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mosquitoes are not only annoying,"
+    } ]
+  }, {
+    "tStartMs": 3000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "they bite, and can also transmit diseases such as"
+    } ]
+  }, {
+    "tStartMs": 5640,
+    "dDurationMs": 1339,
+    "segs": [ {
+      "utf8": "West Nile virus."
+    } ]
+  }, {
+    "tStartMs": 6979,
+    "dDurationMs": 3021,
+    "segs": [ {
+      "utf8": "Reduce your chances of getting bitten by eliminating"
+    } ]
+  }, {
+    "tStartMs": 10000,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "mosquito-breeding sites around your home."
+    } ]
+  }, {
+    "tStartMs": 12180,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Mosquitoes need water and warm weather to reproduce and grow."
+    } ]
+  }, {
+    "tStartMs": 15980,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "any container that can hold even a small volume of standing water"
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "for a few days can be a breeding site."
+    } ]
+  }, {
+    "tStartMs": 21800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Before they can lay eggs,"
+    } ]
+  }, {
+    "tStartMs": 23000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "female mosquitoes must feed on human or other animal blood."
+    } ]
+  }, {
+    "tStartMs": 26500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Once fed females lay either single eggs or a cluster of eggs,"
+    } ]
+  }, {
+    "tStartMs": 30500,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "called a \"raft\", in stagnant water or wet soil."
+    } ]
+  }, {
+    "tStartMs": 33460,
+    "dDurationMs": 3029,
+    "segs": [ {
+      "utf8": "Eggs then hatch into larvae, or \"wigglers\"."
+    } ]
+  }, {
+    "tStartMs": 36489,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "Larvae live in water, frequently coming up to the surface"
+    } ]
+  }, {
+    "tStartMs": 39700,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to get air through a breathing tube."
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Larvae develop into pupae and finally transform into adults,"
+    } ]
+  }, {
+    "tStartMs": 45690,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the only stage that lives out of water."
+    } ]
+  }, {
+    "tStartMs": 48000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "In summer, the life cycle can be completed in a week or less"
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 1889,
+    "segs": [ {
+      "utf8": "depending on water temperature."
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "To eliminate sites where mosquitoes can develop in your yard:"
+    } ]
+  }, {
+    "tStartMs": 57100,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Dump water in containers such as garden pots,"
+    } ]
+  }, {
+    "tStartMs": 60000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "buckets and barrels and store them upside down."
+    } ]
+  }, {
+    "tStartMs": 63500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Empty water in toys, wagons, and wading pools."
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Drain neglected swimming pools and spas, or cover them."
+    } ]
+  }, {
+    "tStartMs": 72700,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Drain or keep water circulating in fountains."
+    } ]
+  }, {
+    "tStartMs": 75600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Change water frequently in bird baths, watering troughs,"
+    } ]
+  }, {
+    "tStartMs": 78800,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "and pet dishes."
+    } ]
+  }, {
+    "tStartMs": 80500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Plug up tree holes."
+    } ]
+  }, {
+    "tStartMs": 82300,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Clean debris from roof gutters, street gutters, or catch basins."
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Dispose of old tires."
+    } ]
+  }, {
+    "tStartMs": 88800,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "For stagnant pools, or water gardens that you don't want to drain,"
+    } ]
+  }, {
+    "tStartMs": 92360,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "use Bacillus thuringiensis or \"Bt\" products such as mosquito dunks,"
+    } ]
+  }, {
+    "tStartMs": 96900,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "plunks or bits, to kill mosquito larvae,"
+    } ]
+  }, {
+    "tStartMs": 99800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "or contact your local Mosquito and Vector Control District"
+    } ]
+  }, {
+    "tStartMs": 102400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "about providing mosquito-eating fish."
+    } ]
+  }, {
+    "tStartMs": 106000,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "To learn more about protecting yourself against mosquitoes"
+    } ]
+  }, {
+    "tStartMs": 109820,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and West Nile virus visit the UC IPM website,"
+    } ]
+  }, {
+    "tStartMs": 113270,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "or contact your local Mosquito and Vector Control District."
+    } ]
+  } ]
+}

@@ -1,0 +1,337 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 2889,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "Baits are insecticides mixed with\nmaterials that attract worker ants."
+    } ]
+  }, {
+    "tStartMs": 7819,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "Worker ants take the bait back to the\nnest to feed the colony. The advantage of"
+    } ]
+  }, {
+    "tStartMs": 13340,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "baits is that they kill the ants in the\ncolony, not just the workers in the trail,"
+    } ]
+  }, {
+    "tStartMs": 18110,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "as is the case with insecticide sprays.\nBaiting takes patience, baits must be"
+    } ]
+  }, {
+    "tStartMs": 23990,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "slow acting so workers are not killed\nbefore they can take the bait to the"
+    } ]
+  }, {
+    "tStartMs": 27470,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "colony. It could take seven to ten days or more"
+    } ]
+  }, {
+    "tStartMs": 30590,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "before you see results and it could take\nseveral weeks before the problem goes"
+    } ]
+  }, {
+    "tStartMs": 34820,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "away. I've tried baits but they never seem to work."
+    } ]
+  }, {
+    "tStartMs": 37190,
+    "dDurationMs": 4859,
+    "segs": [ {
+      "utf8": "Only certain baits are effective against\nArgentine ant and you have to use them"
+    } ]
+  }, {
+    "tStartMs": 42049,
+    "dDurationMs": 2891,
+    "segs": [ {
+      "utf8": "correctly."
+    } ]
+  }, {
+    "tStartMs": 44940,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Many people have tried ant\nbaits to control Argentine ant problems"
+    } ]
+  }, {
+    "tStartMs": 48920,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "but have not had success. Choice of bait\nattractant, pesticide active ingredient"
+    } ]
+  }, {
+    "tStartMs": 54229,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "and bait dispenser are critical for\nobtaining good control. Argentine ants"
+    } ]
+  }, {
+    "tStartMs": 60110,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "prefer liquid baits with sweet\nattractant. Borate products such as"
+    } ]
+  }, {
+    "tStartMs": 65540,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "disodium octaborate tetrahydrate with a\n0.5 to 1.0 percent concentration of"
+    } ]
+  }, {
+    "tStartMs": 72020,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "active ingredient, are most effective for\nArgentine ants. Look on the label to find"
+    } ]
+  }, {
+    "tStartMs": 78290,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the active ingredient and percent\nconcentration. Other products may work"
+    } ]
+  }, {
+    "tStartMs": 83090,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "well for other ant species. Higher\nconcentrations of borate may repel or"
+    } ]
+  }, {
+    "tStartMs": 88040,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "kill many ants before they can take the\nbait back to the colony. Most prepackaged"
+    } ]
+  }, {
+    "tStartMs": 93230,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "baits contain higher concentrations of\nborate, often around 5%. They can be"
+    } ]
+  }, {
+    "tStartMs": 98630,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "effective at killing foragers which may\nprovide enough control for low-level"
+    } ]
+  }, {
+    "tStartMs": 102470,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "infestations but will not be effective\nfor severe infestations where the whole"
+    } ]
+  }, {
+    "tStartMs": 107420,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "colony must be significantly reduced. To\nget the most out of baits, remove any"
+    } ]
+  }, {
+    "tStartMs": 113270,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "food sources such as sugary foods, pet\nfood and water sources that might"
+    } ]
+  }, {
+    "tStartMs": 117710,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "compete with the baits attractiveness. Do\nnot spray pesticides around bait"
+    } ]
+  }, {
+    "tStartMs": 123170,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "stations or on ant trails leading to\nthem, you do not want to kill ants before"
+    } ]
+  }, {
+    "tStartMs": 127820,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "they can bring the bait back to their\ncolonies. Use baits primarily outdoors"
+    } ]
+  }, {
+    "tStartMs": 133610,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "near known entry ways to houses,\nif you place them indoors they may"
+    } ]
+  }, {
+    "tStartMs": 138140,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "continue to attract ants inside.\nRemember, if colonies are large it may"
+    } ]
+  }, {
+    "tStartMs": 143450,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "take one to two weeks to see a\nsignificant reduction in ants"
+    } ]
+  }, {
+    "tStartMs": 147380,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "even when baits are working well.\nPrepackaged bait stations are the most"
+    } ]
+  }, {
+    "tStartMs": 153200,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "common products on the market and the\neasiest to use."
+    } ]
+  }, {
+    "tStartMs": 156850,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Unfortunately they generally are not\neffective against severe ant"
+    } ]
+  }, {
+    "tStartMs": 160520,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "infestations, they may be helpful in\nmanaging low to moderate levels of ants"
+    } ]
+  }, {
+    "tStartMs": 164990,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "if used in combination with sealing up\nentry ways and removing attractants."
+    } ]
+  }, {
+    "tStartMs": 170330,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "Look on the label for the active ingredient\nand percent concentration, stations with"
+    } ]
+  }, {
+    "tStartMs": 174709,
+    "dDurationMs": 4051,
+    "segs": [ {
+      "utf8": "five percent or more of borate are\nlikely to repel or kill ants before they"
+    } ]
+  }, {
+    "tStartMs": 178760,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "can bring the bait back to the colony.\nPrepackaged baits may dry up rapidly and"
+    } ]
+  }, {
+    "tStartMs": 184070,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "must be replaced frequently. Since\nArgentine ants are attracted to liquids"
+    } ]
+  }, {
+    "tStartMs": 189430,
+    "dDurationMs": 6309,
+    "segs": [ {
+      "utf8": "granular baits are not very effective.\nBaits may attract ants into your house"
+    } ]
+  }, {
+    "tStartMs": 195739,
+    "dDurationMs": 4651,
+    "segs": [ {
+      "utf8": "so don't place them indoors unless you\nare unable to find trails around your"
+    } ]
+  }, {
+    "tStartMs": 200390,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "structure outdoors. If placed indoors,\nplace them at the site where the ants"
+    } ]
+  }, {
+    "tStartMs": 206060,
+    "dDurationMs": 4679,
+    "segs": [ {
+      "utf8": "are entering your home, such as under a\nkitchen or bathroom cabinet or a long"
+    } ]
+  }, {
+    "tStartMs": 210739,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "window sills or doors or next to\nelectrical outlets. Remove them as soon"
+    } ]
+  }, {
+    "tStartMs": 215959,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "as the ants are gone."
+    } ]
+  }, {
+    "tStartMs": 217940,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Refillable bait stations are the best"
+    } ]
+  }, {
+    "tStartMs": 220160,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "choice for managing moderate to severe\ninfestations. Argentine ants can consume"
+    } ]
+  }, {
+    "tStartMs": 225709,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "enormous amounts of liquid bait in a\nshort time and refillable stations are"
+    } ]
+  }, {
+    "tStartMs": 230269,
+    "dDurationMs": 4851,
+    "segs": [ {
+      "utf8": "the best way to keep up with the ants\nneeds. Several designs are available."
+    } ]
+  }, {
+    "tStartMs": 235120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "University of California researchers\nhave had success using bait dispensers"
+    } ]
+  }, {
+    "tStartMs": 239120,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "such as the KM AntPro Liquid Bait\nDispenser that provide ants with"
+    } ]
+  }, {
+    "tStartMs": 244579,
+    "dDurationMs": 5701,
+    "segs": [ {
+      "utf8": "continuous access to the bait. Borate\nor fipronil gel baits can be useful for"
+    } ]
+  }, {
+    "tStartMs": 250280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "treating protected areas indoors, such as\nunder cabinets or long ant travel ways"
+    } ]
+  }, {
+    "tStartMs": 255320,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "in cracks or crevices"
+    } ]
+  } ]
+}

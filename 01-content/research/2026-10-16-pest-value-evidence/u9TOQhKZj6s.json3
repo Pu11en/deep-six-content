@@ -1,0 +1,2613 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 169800,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 800,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hi,"
+    }, {
+      "utf8": " I'm",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " Kim",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " Reynolds",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " entomologist",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 2670,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 2680,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with"
+    }, {
+      "utf8": " HomeTeam",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " Pest",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " Defense.",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " Termites",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 4910,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 4920,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " most",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " concerning",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " pests",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 6910,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 6920,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "homeowners"
+    }, {
+      "utf8": " will",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " ever",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " encounter.",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " They",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 8870,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 8880,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cost"
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " than",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " 5",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " billion",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " dollars",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 10710,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "damages"
+    }, {
+      "utf8": " each",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " year",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " US.",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " And",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 12910,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 12920,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unfortunately"
+    }, {
+      "utf8": " most",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " those",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " damages",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 14470,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 14480,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not"
+    }, {
+      "utf8": " covered",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " homeowners",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " insurance.",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " The",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 16750,
+    "dDurationMs": 1690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 16760,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most"
+    }, {
+      "utf8": " visible",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " way",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " tell",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " if",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 18430,
+    "dDurationMs": 1610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 18440,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "termite"
+    }, {
+      "utf8": " issue",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " what's",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " called",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 20030,
+    "dDurationMs": 3210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 20040,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a"
+    }, {
+      "utf8": " swarm.",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " And",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " that's",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " when",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " multiple",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " winged",
+      "tOffsetMs": 2440
+    } ]
+  }, {
+    "tStartMs": 23230,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 23240,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " darkened",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " termites",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " will",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " come",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " out",
+      "tOffsetMs": 2240
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 25630,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 25640,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " ground",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " look",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " mate",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " new",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 27590,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "home."
+    }, {
+      "utf8": " This",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " typically",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " happens",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 29670,
+    "dDurationMs": 3050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 29680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "springtime"
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " warm",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " day",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2360
+    }, {
+      "utf8": " often",
+      "tOffsetMs": 2520
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2880
+    } ]
+  }, {
+    "tStartMs": 32710,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 32720,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "signs"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " swarm",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " just",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " discarded",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 35030,
+    "dDurationMs": 1170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 35040,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wings"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " left",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " behind",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1080
+    } ]
+  }, {
+    "tStartMs": 36190,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 36200,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "termites"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " gone",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " underground.",
+      "tOffsetMs": 840
+    } ]
+  }, {
+    "tStartMs": 38070,
+    "dDurationMs": 1210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 38080,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Some"
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " signs",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " may",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 39270,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 39280,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "termite"
+    }, {
+      "utf8": " infestation",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 41390,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 41400,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wood"
+    }, {
+      "utf8": " itself.",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " Termites",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " eat",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " wood",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 43630,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 43640,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inside"
+    }, {
+      "utf8": " out.",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " So",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " often",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2320
+    } ]
+  }, {
+    "tStartMs": 46110,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 46120,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " wood",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " sounds",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " hollow",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " when",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " tap",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 48070,
+    "dDurationMs": 2810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 48080,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it."
+    }, {
+      "utf8": " Another",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " sign",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " what",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " call",
+      "tOffsetMs": 2080
+    }, {
+      "utf8": " mud",
+      "tOffsetMs": 2280
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 2680
+    } ]
+  }, {
+    "tStartMs": 50870,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 50880,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shelter"
+    }, {
+      "utf8": " tubes.",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " And",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " protective",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 53070,
+    "dDurationMs": 1690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 53080,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tunnels"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " termites",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " use",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " travel",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 54750,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 54760,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " forth",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " between",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " ground",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 56470,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 56480,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " food",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " supply.",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " Termites",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 58470,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 58480,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only"
+    }, {
+      "utf8": " insects",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " swarm.",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " Ants",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 2440
+    } ]
+  }, {
+    "tStartMs": 61150,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 61160,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "swarms."
+    }, {
+      "utf8": " So",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " it's",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " important",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " able",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 63190,
+    "dDurationMs": 1649,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 63200,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tell"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " difference",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " between",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " two",
+      "tOffsetMs": 1080
+    } ]
+  }, {
+    "tStartMs": 64829,
+    "dDurationMs": 2011,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 64839,
+    "dDurationMs": 3961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because"
+    }, {
+      "utf8": " termites",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " cause",
+      "tOffsetMs": 921
+    }, {
+      "utf8": " structural",
+      "tOffsetMs": 1161
+    }, {
+      "utf8": " issues",
+      "tOffsetMs": 1641
+    } ]
+  }, {
+    "tStartMs": 66830,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 66840,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where"
+    }, {
+      "utf8": " most",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " time",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " ants",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " do",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " not.",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 68790,
+    "dDurationMs": 1610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 68800,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " three",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " ways",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " tell",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 70390,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " difference",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " between",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " termite",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 71830,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 71840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ant."
+    }, {
+      "utf8": " One",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " antennae.",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " Ants",
+      "tOffsetMs": 2640
+    } ]
+  }, {
+    "tStartMs": 74750,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 74760,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " bent",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " antennae",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " 90°",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " angle",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 77510,
+    "dDurationMs": 1690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 77520,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where"
+    }, {
+      "utf8": " termites",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " don't.",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " Termite",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " antennae",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 79190,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are"
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " straight.",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " Both",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " insects",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 81630,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 81640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "four"
+    }, {
+      "utf8": " wings.",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " However,",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " termites",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " four",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 84110,
+    "dDurationMs": 3050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 84120,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wings"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " equal",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " length.",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " Wherein",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " ants,",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2880
+    } ]
+  }, {
+    "tStartMs": 87150,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 87160,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rear"
+    }, {
+      "utf8": " wings",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " shorter.",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " The",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 89270,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 89280,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "third"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " most",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " visible",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " way",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " tell",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 90990,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difference"
+    }, {
+      "utf8": " between",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " two",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 92510,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 92520,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " shape",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " body.",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " Termites",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 94830,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 94840,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thick"
+    }, {
+      "utf8": " robust",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " body",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " where",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " ants",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 97350,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 97360,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " constriction",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " abdomen",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 2520
+    } ]
+  }, {
+    "tStartMs": 99990,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " looks",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " like",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " waist.",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " If",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 101870,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 101880,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suspect"
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " termite",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " infestation,",
+      "tOffsetMs": 1120
+    } ]
+  }, {
+    "tStartMs": 103710,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 103720,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's"
+    }, {
+      "utf8": " best",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " seek",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " advice",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " pest",
+      "tOffsetMs": 1400
+    } ]
+  }, {
+    "tStartMs": 105350,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 105360,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "professional."
+    }, {
+      "utf8": " Termite",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " infestations",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 107670,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 107680,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not"
+    }, {
+      "utf8": " something",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " treat",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " own.",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 109750,
+    "dDurationMs": 1410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 109760,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Here"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " some",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " tips",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " reduce",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 111150,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 111160,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "likelihood"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " termite",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " infestation.",
+      "tOffsetMs": 920
+    } ]
+  }, {
+    "tStartMs": 113430,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 113440,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Make"
+    }, {
+      "utf8": " sure",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " inspect",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " home",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1400
+    } ]
+  }, {
+    "tStartMs": 114950,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 114960,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a"
+    }, {
+      "utf8": " regular",
+      "tOffsetMs": 40
+    }, {
+      "utf8": " basis.",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " This",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " gives",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " good",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 117350,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 117360,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visual"
+    }, {
+      "utf8": " indication",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " what's",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " going",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 118790,
+    "dDurationMs": 1410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "around"
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " home.",
+      "tOffsetMs": 400
+    } ]
+  }, {
+    "tStartMs": 120190,
+    "dDurationMs": 2570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 120200,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Also,"
+    }, {
+      "utf8": " reduce",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " any",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " moisture",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " sources.",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " This",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 122750,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 122760,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could"
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " leaky",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " faucets,",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " standing",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " water,",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 125150,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 125160,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or"
+    }, {
+      "utf8": " gutters",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " downspouts",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 127070,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 127080,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clogged."
+    }, {
+      "utf8": " Another",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " tip",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " clean",
+      "tOffsetMs": 1959
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2399
+    } ]
+  }, {
+    "tStartMs": 129590,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 129600,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remove"
+    }, {
+      "utf8": " any",
+      "tOffsetMs": 519
+    }, {
+      "utf8": " wood",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " debris",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " may",
+      "tOffsetMs": 1439
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 131310,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 131320,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "around"
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " home.",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " You",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " want",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " make",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 133550,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 133560,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sure"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " store",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " firewood",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " away",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 135710,
+    "dDurationMs": 1290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 135720,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " structure.",
+      "tOffsetMs": 120
+    } ]
+  }, {
+    "tStartMs": 136990,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 137000,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And"
+    }, {
+      "utf8": " lastly,",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " make",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " sure",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " mulch",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2240
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 139670,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "excessively"
+    }, {
+      "utf8": " piled",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " up",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " around",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 141110,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 141120,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foundation"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " home.",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " Leaving",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 142950,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 142960,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inspection"
+    }, {
+      "utf8": " space",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " allows",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 145230,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 145240,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visualize"
+    }, {
+      "utf8": " if",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " mud",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " tube",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " built.",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 147510,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 147520,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Termites"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " beneficial",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " their",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " natural",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 149270,
+    "dDurationMs": 2890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 149280,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habitat"
+    }, {
+      "utf8": " because",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " they",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " help",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " break",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " down",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 152150,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fallen"
+    }, {
+      "utf8": " trees",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " decomposing",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " wood.",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " If",
+      "tOffsetMs": 2560
+    } ]
+  }, {
+    "tStartMs": 154830,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 154840,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you"
+    }, {
+      "utf8": " suspect",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " termite",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " issue",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 156590,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 156600,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "around"
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " home,",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " it's",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " important",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " act",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 158590,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 158600,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quickly"
+    }, {
+      "utf8": " because",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " they",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " do",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " cause",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " structural",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 160430,
+    "dDurationMs": 1210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 160440,
+    "dDurationMs": 2760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "damage."
+    } ]
+  }, {
+    "tStartMs": 161630,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 161640,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "For"
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " information",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " about",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " termites",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 163190,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 163200,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " protect",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " home,",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " call",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " us",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 164950,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 164960,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "HomeTeam"
+    }, {
+      "utf8": " Pest",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " Defense",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " visit",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 166790,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 166800,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pestdefense.com."
+    } ]
+  } ]
+}

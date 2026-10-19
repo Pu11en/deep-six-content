@@ -1,0 +1,127 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 1180,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Roaches are nocturnal, so roach inspections\nare usually conducted at night."
+    } ]
+  }, {
+    "tStartMs": 5120,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "The only tool you will need to inspect for\nroaches is a flashlight."
+    } ]
+  }, {
+    "tStartMs": 8420,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Most roach species prefer dark, moist areas\nto hide and breed."
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Typically kitchens and bathrooms are the first\nrooms to be infested, so these areas should"
+    } ]
+  }, {
+    "tStartMs": 16390,
+    "dDurationMs": 7650,
+    "segs": [ {
+      "utf8": "be inspected first . Use your flashlight to\nlook behind or under refrigerators, stoves,"
+    } ]
+  }, {
+    "tStartMs": 24040,
+    "dDurationMs": 7150,
+    "segs": [ {
+      "utf8": "microwaves, dishwashers, sinks, or cabinets."
+    } ]
+  }, {
+    "tStartMs": 31190,
+    "dDurationMs": 7310,
+    "segs": [ {
+      "utf8": "Roaches may also be found in or around floor\ndrains, inside the motor areas of refrigerators"
+    } ]
+  }, {
+    "tStartMs": 38500,
+    "dDurationMs": 5739,
+    "segs": [ {
+      "utf8": "and microwaves, behind wall mounted pictures\nor clocks, under floor mats, behind wall paper,"
+    } ]
+  }, {
+    "tStartMs": 44239,
+    "dDurationMs": 2591,
+    "segs": [ {
+      "utf8": "and in cracks and crevices in cabinets."
+    } ]
+  }, {
+    "tStartMs": 46830,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "You will also be able to detect roaches by\nthe feces they leave behind."
+    } ]
+  }, {
+    "tStartMs": 50510,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Feces are often the size of coffee grounds."
+    } ]
+  }, {
+    "tStartMs": 52760,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "Check inside cabinets around the hinges, the\ncracks and crevices in drawers, the door gasket"
+    } ]
+  }, {
+    "tStartMs": 58810,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "of the refrigerator, and in other suspected\nhiding places."
+    } ]
+  }, {
+    "tStartMs": 63430,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Roaches will also lay egg cases called oothecae."
+    } ]
+  }, {
+    "tStartMs": 66020,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "This is a sign that an infestation is present."
+    } ]
+  }, {
+    "tStartMs": 68860,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Some species of roaches will drop these egg\ncases in the same areas that you have previously"
+    } ]
+  }, {
+    "tStartMs": 72820,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "checked."
+    } ]
+  }, {
+    "tStartMs": 74040,
+    "dDurationMs": 9660,
+    "segs": [ {
+      "utf8": "These cylindrical egg cases can vary in size\nfrom about 5mm to 10mm and are tan to dark"
+    } ]
+  }, {
+    "tStartMs": 83700,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "brown."
+    } ]
+  } ]
+}

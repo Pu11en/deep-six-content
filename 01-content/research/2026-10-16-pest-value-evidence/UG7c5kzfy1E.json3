@@ -1,0 +1,157 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 5170,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Welcome to PestiBytes, from the National Pesticide Information Center at Oregon State University."
+    } ]
+  }, {
+    "tStartMs": 11500,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "This is Sandra, and I'm here with Dixie to\ntalk about cockroaches in the home."
+    } ]
+  }, {
+    "tStartMs": 15560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Dixie, don't cockroaches only live in dirty homes?"
+    } ]
+  }, {
+    "tStartMs": 18800,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "No, cockroaches can survive anywhere they\nare able to find food, water, and shelter."
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "They hide in narrow cracks and crevices and forage for food at night."
+    } ]
+  }, {
+    "tStartMs": 27720,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Roaches eat a wide variety of foods and non-food materials, even cardboard,"
+    } ]
+  }, {
+    "tStartMs": 32260,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "so they can survive even in tidy homes."
+    } ]
+  }, {
+    "tStartMs": 34680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How can someone prevent roaches from coming\ninto their home?"
+    } ]
+  }, {
+    "tStartMs": 37740,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Roaches get inside homes in a variety of ways,\nsuch as sneaking in on grocery bags and other containers."
+    } ]
+  }, {
+    "tStartMs": 43580,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Always check boxes and bags before\nbringing them into the home."
+    } ]
+  }, {
+    "tStartMs": 47100,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Roaches can also come inside from outdoors,"
+    } ]
+  }, {
+    "tStartMs": 49640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and move from one apartment to another through the plumbing and other holes in shared walls."
+    } ]
+  }, {
+    "tStartMs": 54660,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So be sure\nto seal visible cracks and holes around doors,"
+    } ]
+  }, {
+    "tStartMs": 57670,
+    "dDurationMs": 3529,
+    "segs": [ {
+      "utf8": "windows, baseboards, pipes, and electrical outlets."
+    } ]
+  }, {
+    "tStartMs": 61199,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "What should someone do if they find cockroaches in their home?"
+    } ]
+  }, {
+    "tStartMs": 64180,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "Start by removing sources of food and water.\nFix any water leaks in the kitchen or bathroom,"
+    } ]
+  }, {
+    "tStartMs": 68970,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and be sure to cover food, pet food, and garbage containers with lids."
+    } ]
+  }, {
+    "tStartMs": 73240,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Regularly search for signs of cockroaches to find out where they are hiding."
+    } ]
+  }, {
+    "tStartMs": 77360,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "This information will help you decide on the best treatment plan."
+    } ]
+  }, {
+    "tStartMs": 80420,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Pesticide products can be used, but always read and follow the label."
+    } ]
+  }, {
+    "tStartMs": 84420,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Consider starting with the\nleast toxic options available."
+    } ]
+  }, {
+    "tStartMs": 86980,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "You can call NPIC, or go to the NPIC web site for more\ninformation on cockroach control."
+    } ]
+  }, {
+    "tStartMs": 92200,
+    "dDurationMs": 1059,
+    "segs": [ {
+      "utf8": "Thanks, Dixie!"
+    } ]
+  }, {
+    "tStartMs": 93259,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "You're welcome."
+    } ]
+  } ]
+}

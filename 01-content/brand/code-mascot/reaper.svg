@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 900" width="680" height="900">
+  <defs>
+    <linearGradient id="robe" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a3d6e"/>
+      <stop offset="0.55" stop-color="#2e2547"/>
+      <stop offset="1" stop-color="#1f1833"/>
+    </linearGradient>
+    <radialGradient id="lens" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#f1f8e4"/>
+      <stop offset="0.6" stop-color="#dcebc9"/>
+      <stop offset="1" stop-color="#b3c99e"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff6b0" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#fff6b0" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fffbe0"/>
+      <stop offset="0.5" stop-color="#ffe76a"/>
+      <stop offset="1" stop-color="#ffe76a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skull" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e6e1ee"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="900" fill="#ece6da"/>
+  <ellipse cx="330" cy="790" rx="300" ry="40" fill="#000" opacity="0.12"/>
+
+
+  <g stroke="#150f22" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <!-- robe body, kneeling -->
+    <path d="M240 420 C190 520 185 610 215 690 C230 735 260 765 300 775 C340 790 380 790 420 788
+             L600 788 C650 788 668 745 650 690 C630 600 610 520 565 450 C520 390 300 380 240 420 Z" fill="url(#robe)"/>
+    <!-- knee / front drape -->
+    <path d="M215 640 C200 700 225 760 290 778 C340 790 420 790 430 760 C440 720 400 690 340 680 C290 672 245 660 215 640 Z" fill="#33294f"/>
+    <path d="M560 560 C590 640 605 700 595 770" fill="none" stroke="#120d1e" stroke-width="5"/>
+    <path d="M300 560 C315 600 320 640 318 668" fill="none" stroke="#5a4c80" stroke-width="5"/>
+
+    <!-- D6 shield -->
+    <path d="M362 462 L428 462 L428 520 C428 548 395 568 395 568 C395 568 362 548 362 520 Z" fill="#8f80b4" stroke="#6b5c94" stroke-width="5"/>
+    <text x="395" y="510" font-family="Arial Black, Arial, sans-serif" font-size="32" font-weight="900" fill="#2e2547" stroke="none" text-anchor="middle">D6</text>
+    <path d="M395 518 L395 548 M385 537 L395 549 L405 537" fill="none" stroke="#2e2547" stroke-width="4"/>
+
+    <!-- head group, tilted forward -->
+    <g transform="rotate(-9 270 320)">
+      <!-- hood -->
+      <path d="M85 470 C40 380 45 240 110 150 C160 85 240 40 315 38
+               C328 20 352 4 382 8 C400 12 400 34 380 36 C368 40 366 52 382 62
+               C480 105 545 200 545 310 C545 400 515 455 470 485 C380 505 170 505 85 470 Z" fill="url(#robe)"/>
+      <path d="M140 145 C195 90 255 68 312 66 C262 95 210 125 170 170 Z" fill="#5d4f86" stroke="none"/>
+      <path d="M480 170 C515 225 528 290 518 355 C505 300 492 250 465 200 Z" fill="#3a2f58" stroke="none"/>
+      <!-- face opening -->
+      <path d="M100 420 C72 330 95 215 185 172 C265 135 375 155 428 222
+               C476 285 470 385 432 445 C355 478 170 476 100 420 Z" fill="#150f22"/>
+      <!-- skull cranium -->
+      <path d="M118 320 C112 235 180 180 262 180 C350 180 412 235 410 318
+               C408 362 385 390 350 400 C340 418 325 436 300 440 L220 440
+               C195 436 180 418 172 400 C140 390 120 362 118 320 Z" fill="url(#skull)" stroke-width="6"/>
+      <path d="M128 345 C140 380 165 395 190 400 C160 378 145 360 140 325 Z" fill="#cfc7dd" stroke="none"/>
+      <path d="M385 340 C378 372 360 390 340 398 C365 372 375 352 380 320 Z" fill="#cfc7dd" stroke="none"/>
+      <!-- eyes with lavender rims -->
+      <ellipse cx="200" cy="305" rx="52" ry="56" fill="#d9d2e6" stroke="none" transform="rotate(-10 200 305)"/>
+      <ellipse cx="322" cy="300" rx="52" ry="56" fill="#d9d2e6" stroke="none" transform="rotate(10 322 300)"/>
+      <ellipse cx="202" cy="308" rx="42" ry="47" fill="#0b0810" stroke="none" transform="rotate(-10 202 308)"/>
+      <ellipse cx="320" cy="303" rx="42" ry="47" fill="#0b0810" stroke="none" transform="rotate(10 320 303)"/>
+      <!-- nose -->
+      <path d="M252 362 C256 354 268 354 272 362 L262 378 Z" fill="#0b0810" stroke="none"/>
+      <!-- teeth: rounded row -->
+      <path d="M210 400 C210 428 222 440 236 440 C244 440 248 428 248 400 Z" fill="#ffffff" stroke-width="4"/>
+      <path d="M248 400 C248 432 256 444 266 444 C276 444 284 432 284 400 Z" fill="#ffffff" stroke-width="4"/>
+      <path d="M284 400 C284 428 290 440 300 440 C312 440 320 428 320 400 Z" fill="#ffffff" stroke-width="4"/>
+      <path d="M200 400 L330 400" fill="none" stroke-width="5"/>
+    </g>
+
+    <!-- left sleeve + glove + magnifier -->
+    <path d="M262 450 C228 480 214 520 224 565 L284 550 C290 515 300 485 322 465 Z" fill="#2e2547"/>
+    <line x1="185" y1="495" x2="250" y2="612" stroke-width="22"/>
+    <line x1="185" y1="495" x2="250" y2="612" stroke="#2c2c33" stroke-width="12"/>
+    <ellipse cx="125" cy="445" rx="100" ry="86" fill="#55555e" transform="rotate(-20 125 445)"/>
+    <ellipse cx="125" cy="445" rx="100" ry="86" fill="none" stroke="#8a8a94" stroke-width="5" transform="rotate(-20 125 445) translate(-3 -4) scale(0.99)"/>
+    <ellipse cx="125" cy="445" rx="80" ry="68" fill="url(#lens)" transform="rotate(-20 125 445)" stroke-width="5"/>
+    <ellipse cx="92" cy="412" rx="20" ry="11" fill="#ffffff" stroke="none" transform="rotate(-30 92 412)"/>
+    <circle cx="170" cy="488" r="8" fill="#ffffff" stroke="none"/>
+    <path d="M198 545 C188 522 205 505 226 513 C248 500 268 517 260 538 C270 556 256 580 232 576 C208 584 190 568 198 545 Z" fill="#ffffff"/>
+
+    <!-- flashlight beam (in front of robe) -->
+    <path d="M352 640 L40 850 L300 900 L392 665 Z" fill="url(#beam)" stroke="none"/>
+    <!-- right sleeve + glove + flashlight -->
+    <path d="M522 445 C562 485 568 535 542 580 L482 565 C497 525 492 485 472 465 Z" fill="#2e2547"/>
+    <path d="M378 612 L478 566 L500 610 L398 656 Z" fill="#1b1b20" stroke="#0a0a0d"/>
+    <path d="M392 616 L472 580" fill="none" stroke="#5a5a64" stroke-width="5"/>
+    <ellipse cx="383" cy="636" rx="24" ry="32" fill="#2c2c33" stroke="#0a0a0d" transform="rotate(-25 383 636)"/>
+    <circle cx="372" cy="642" r="60" fill="url(#glow)" stroke="none"/>
+    <ellipse cx="375" cy="640" rx="15" ry="22" fill="#fffbe0" stroke-width="4" transform="rotate(-25 375 640)"/>
+    <path d="M472 548 C472 522 502 514 520 527 C542 527 555 550 543 568 C543 592 512 600 494 587 C472 587 464 564 472 548 Z" fill="#ffffff"/>
+  </g>
+</svg>

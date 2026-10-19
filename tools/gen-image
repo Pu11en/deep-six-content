@@ -1,0 +1,36 @@
+#!/usr/bin/env python3
+"""Make ONE image with Google Nano Banana 2.1, with reference images attached.
+Usage: tools/gen-image <prompt.txt> <out.png> [ref1.png ref2.png ...]
+Logs cost to 01-content/experiments/cost-log.csv and puts the result on BOARD.md.
+Key comes from ~/.config/allwork/keys.env (DEEPSIX_GOOGLE_API_KEY); never printed."""
+import base64, csv, datetime, json, pathlib, subprocess, sys, urllib.request
+MODEL, PRICE = "gemini-nano-banana-2.1", 0.0336  # USD per 1K image, Google pricing page 16 Oct 2026
+root = pathlib.Path(__file__).resolve().parent.parent
+prompt_file, out = pathlib.Path(sys.argv[1]), pathlib.Path(sys.argv[2]).resolve()
+key = next(l.split("=", 1)[1].strip() for l in open(pathlib.Path.home() / ".config/allwork/keys.env")
+           if l.startswith("DEEPSIX_GOOGLE_API_KEY="))
+parts = [{"inline_data": {"mime_type": "image/png", "data": base64.b64encode(open(r, "rb").read()).decode()}}
+         for r in sys.argv[3:]]
+parts.append({"text": prompt_file.read_text()})
+body = {"contents": [{"parts": parts}],
+        "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": __import__("os").environ.get("ASPECT", "1:1"), "imageSize": "1K"}}}
+req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent",
+                             data=json.dumps(body).encode(), headers={"x-goog-api-key": key, "Content-Type": "application/json"})
+try:
+    resp = json.load(urllib.request.urlopen(req, timeout=300))
+except urllib.error.HTTPError as e:
+    sys.exit(f"API error {e.code}: {e.read().decode()[:400]}")
+imgs = [p["inlineData"]["data"] for c in resp.get("candidates", []) for p in c["content"].get("parts", []) if "inlineData" in p]
+if not imgs:
+    sys.exit("No image returned: " + json.dumps(resp)[:400])
+out.parent.mkdir(parents=True, exist_ok=True)
+out.write_bytes(base64.b64decode(imgs[0]))
+log = root / "01-content/experiments/cost-log.csv"
+new = not log.exists()
+with open(log, "a", newline="") as f:
+    w = csv.writer(f)
+    if new: w.writerow(["time", "model", "output", "usd"])
+    w.writerow([datetime.datetime.now().isoformat(timespec="seconds"), MODEL, out.relative_to(root), PRICE])
+total = sum(float(r["usd"]) for r in csv.DictReader(open(log)))
+print(f"Saved {out}. Cost ${PRICE:.4f}. Running total ${total:.2f}.")
+subprocess.run([str(root / "tools/show"), str(out), prompt_file.stem.replace("-", " ")], check=True)

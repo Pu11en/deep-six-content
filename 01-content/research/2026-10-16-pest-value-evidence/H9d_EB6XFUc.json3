@@ -1,0 +1,301 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Think you might have bed bugs in your home?"
+    } ]
+  }, {
+    "tStartMs": 2000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Or did you have your home treated for bed bugs"
+    } ]
+  }, {
+    "tStartMs": 4000,
+    "dDurationMs": 1819,
+    "segs": [ {
+      "utf8": "and you're not sure they've all been killed?"
+    } ]
+  }, {
+    "tStartMs": 5819,
+    "dDurationMs": 2581,
+    "segs": [ {
+      "utf8": "The best way to keep on top of bed bug problems"
+    } ]
+  }, {
+    "tStartMs": 8400,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "is to regularly inspect bedding, mattresses and other furniture"
+    } ]
+  }, {
+    "tStartMs": 11900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "for bed bugs or their shed skins and fecal spots."
+    } ]
+  }, {
+    "tStartMs": 16000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "However, you can back up these inspections by using a simple trap,"
+    } ]
+  }, {
+    "tStartMs": 19600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "or monitor, that can detect bed bugs."
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 2939,
+    "segs": [ {
+      "utf8": "A number of simple-to-use detectors are available in"
+    } ]
+  }, {
+    "tStartMs": 24939,
+    "dDurationMs": 2061,
+    "segs": [ {
+      "utf8": "home stores or on the web."
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 3539,
+    "segs": [ {
+      "utf8": "Two examples are interceptor monitors and refuge traps."
+    } ]
+  }, {
+    "tStartMs": 30539,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Intercepted traps rely on the presence of a human being"
+    } ]
+  }, {
+    "tStartMs": 33500,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to attract the bug into the trap."
+    } ]
+  }, {
+    "tStartMs": 35660,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "To use the trap, place it underneath the legs of the bed or couch."
+    } ]
+  }, {
+    "tStartMs": 39920,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "When you were sleeping or resting bedbugs hiding \nin other parts of the room"
+    } ]
+  }, {
+    "tStartMs": 43780,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "will detect your presence and try to climb up the furniture \nleg to reach you for a blood meal."
+    } ]
+  }, {
+    "tStartMs": 48149,
+    "dDurationMs": 3111,
+    "segs": [ {
+      "utf8": "In the process, they get caught in the interceptor."
+    } ]
+  }, {
+    "tStartMs": 51800,
+    "dDurationMs": 3579,
+    "segs": [ {
+      "utf8": "The Interceptor is constructed so bed bugs can climb up the outside,"
+    } ]
+  }, {
+    "tStartMs": 55379,
+    "dDurationMs": 2621,
+    "segs": [ {
+      "utf8": "but once they get into the center moat, a slippery surface or a"
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "talc coating prevents them from getting out."
+    } ]
+  }, {
+    "tStartMs": 60520,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "If caught, bed bugs will remain in the moat until the morning."
+    } ]
+  }, {
+    "tStartMs": 63980,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "All four legs need to have traps around them."
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If any other part of your sleeping surface, such as the bedding,"
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 2549,
+    "segs": [ {
+      "utf8": "or frame, is touching the wall or the floor,"
+    } ]
+  }, {
+    "tStartMs": 72549,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "it can provide alternative routes for bed bugs"
+    } ]
+  }, {
+    "tStartMs": 76280,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "and the interceptor will be less effective."
+    } ]
+  }, {
+    "tStartMs": 76979,
+    "dDurationMs": 3261,
+    "segs": [ {
+      "utf8": "Also keep in mind that if bed bugs are already in the bed"
+    } ]
+  }, {
+    "tStartMs": 80240,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Intercepted traps may not work as well."
+    } ]
+  }, {
+    "tStartMs": 82500,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "To detect bed bugs in the bed,"
+    } ]
+  }, {
+    "tStartMs": 84640,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "you will need a trap you can put in the bed itself."
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Cardboard refuge traps with glue in the middle work well."
+    } ]
+  }, {
+    "tStartMs": 90630,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Place them around the bed frame or headboard"
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 2939,
+    "segs": [ {
+      "utf8": "and check them regularly for bed bugs caught in the glue."
+    } ]
+  }, {
+    "tStartMs": 95939,
+    "dDurationMs": 2261,
+    "segs": [ {
+      "utf8": "bed bugs are drawn to these types of traps"
+    } ]
+  }, {
+    "tStartMs": 98200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "because they provide good hiding places."
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Bed bug traps will not effectively control bed bugs by themselves,"
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "but they will detect bed bugs in most infested rooms,"
+    } ]
+  }, {
+    "tStartMs": 108320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "especially when used for several days or weeks."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "You may want to use both types of traps at the same time."
+    } ]
+  }, {
+    "tStartMs": 114140,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "If you do catch bed bugs in your traps, call a pest control professional"
+    } ]
+  }, {
+    "tStartMs": 118300,
+    "dDurationMs": 1349,
+    "segs": [ {
+      "utf8": "to manage the problem."
+    } ]
+  }, {
+    "tStartMs": 119649,
+    "dDurationMs": 2351,
+    "segs": [ {
+      "utf8": "Home use pesticides are not usually effective"
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 2689,
+    "segs": [ {
+      "utf8": "and can be dangerous when used improperly."
+    } ]
+  }, {
+    "tStartMs": 124689,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Save any captured bugs for the professional to examine,"
+    } ]
+  }, {
+    "tStartMs": 128399,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "or dump them in soapy water and flush them down the toilet."
+    } ]
+  }, {
+    "tStartMs": 131000,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Don't let them reinvest your home."
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "For more information on bed bugs,"
+    } ]
+  }, {
+    "tStartMs": 135300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "go to the University of California IPM web site."
+    } ]
+  } ]
+}

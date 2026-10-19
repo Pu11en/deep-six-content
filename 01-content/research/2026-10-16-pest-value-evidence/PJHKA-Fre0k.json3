@@ -1,0 +1,241 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+
+  } ],
+  "wsWinStyles": [ {
+
+  } ],
+  "wpWinPositions": [ {
+
+  } ],
+  "events": [ {
+    "tStartMs": 2540,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Yellowjackets sometimes called \"meat bees\" are aggressive"
+    } ]
+  }, {
+    "tStartMs": 5200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "when disturbed and can inflict a painful sting."
+    } ]
+  }, {
+    "tStartMs": 8000,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Learn to recognize the difference between yellowjackets"
+    } ]
+  }, {
+    "tStartMs": 10410,
+    "dDurationMs": 2309,
+    "segs": [ {
+      "utf8": "and other similar looking insects."
+    } ]
+  }, {
+    "tStartMs": 12719,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "Yellowjackets are often confused with honey bees,"
+    } ]
+  }, {
+    "tStartMs": 16010,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "syrphid flies, paper wasps, and mud daubers."
+    } ]
+  }, {
+    "tStartMs": 19080,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Yellowjackets are less than three-quarters inch long with jagged bright"
+    } ]
+  }, {
+    "tStartMs": 22850,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "yellow and dark black stripes."
+    } ]
+  }, {
+    "tStartMs": 24490,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "The most common pest species in California"
+    } ]
+  }, {
+    "tStartMs": 27500,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "is the western yellowjacket,"
+    } ]
+  }, {
+    "tStartMs": 29140,
+    "dDurationMs": 3389,
+    "segs": [ {
+      "utf8": "although the German yellowjacket and other species also occur."
+    } ]
+  }, {
+    "tStartMs": 32529,
+    "dDurationMs": 2471,
+    "segs": [ {
+      "utf8": "Unlike other common wasps,"
+    } ]
+  }, {
+    "tStartMs": 35000,
+    "dDurationMs": 3429,
+    "segs": [ {
+      "utf8": "yellowjackets don't appear to have a narrow \"wasp waist\""
+    } ]
+  }, {
+    "tStartMs": 38429,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "and problem species scavenge on human food and garbage"
+    } ]
+  }, {
+    "tStartMs": 42129,
+    "dDurationMs": 1871,
+    "segs": [ {
+      "utf8": "especially in late summer and fall."
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They are social insects"
+    } ]
+  }, {
+    "tStartMs": 46000,
+    "dDurationMs": 1089,
+    "segs": [ {
+      "utf8": "that live in large colonies of several thousand wasps."
+    } ]
+  }, {
+    "tStartMs": 47089,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "colonies have several thousand wasps"
+    } ]
+  }, {
+    "tStartMs": 49269,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "Paper-like nests are built in underground holes or inside wall cavities."
+    } ]
+  }, {
+    "tStartMs": 55000,
+    "dDurationMs": 1749,
+    "segs": [ {
+      "utf8": "Another group of yellowjackets,"
+    } ]
+  }, {
+    "tStartMs": 56749,
+    "dDurationMs": 2251,
+    "segs": [ {
+      "utf8": "aerial yellowjackets, build large hanging nests."
+    } ]
+  }, {
+    "tStartMs": 59000,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "aerial yellowjackets do not generally bother people"
+    } ]
+  }, {
+    "tStartMs": 63010,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "but can be aggressively protective of their nests."
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "In contrast to yellow jackets, paper wasps have long slender waists"
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and build open, umbrella-like paper nests"
+    } ]
+  }, {
+    "tStartMs": 72800,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "under eaves a building's"
+    } ]
+  }, {
+    "tStartMs": 74430,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Mud daubers are dark-colored and thread-waisted"
+    } ]
+  }, {
+    "tStartMs": 77400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and build small, hard mud nests."
+    } ]
+  }, {
+    "tStartMs": 80100,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "Paper wasps and mud daubers are rarely aggressive,"
+    } ]
+  }, {
+    "tStartMs": 83219,
+    "dDurationMs": 1781,
+    "segs": [ {
+      "utf8": "but don't usually feed on human food,"
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 2579,
+    "segs": [ {
+      "utf8": "and generally don't need to be controlled."
+    } ]
+  }, {
+    "tStartMs": 87579,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "instead they are beneficial predators that feed on caterpillars,"
+    } ]
+  }, {
+    "tStartMs": 91729,
+    "dDurationMs": 2271,
+    "segs": [ {
+      "utf8": "spiders and other insects."
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Prevent potential stings by avoiding yellowjackets,"
+    } ]
+  }, {
+    "tStartMs": 97000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "their nests, and removing any attractive food sources."
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Trapping or nest treatment can reduce populations around your home."
+    } ]
+  }, {
+    "tStartMs": 104219,
+    "dDurationMs": 3581,
+    "segs": [ {
+      "utf8": "for more information about using lure traps, how to locate nests,"
+    } ]
+  }, {
+    "tStartMs": 107800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and managing yellowjackets, see the UC IPM website."
+    } ]
+  } ]
+}

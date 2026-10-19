@@ -1,0 +1,6 @@
+time,model,output,usd
+2026-10-16T15:16:18,gemini-nano-banana-2.1,01-content/experiments/2026-10-16-fun-fact-remix/scorpion-uv.png,0.0336
+2026-10-16T16:47:13,gemini-nano-banana-2.1,01-content/experiments/2026-10-16-video-motion-test/start-frame.png,0.0336
+2026-10-16T16:48:14,kie:grok-imagine/image-to-video,01-content/experiments/2026-10-16-video-motion-test/grok.mp4,0.18
+2026-10-16T16:48:44,kie:hailuo/2-3-image-to-video-standard,01-content/experiments/2026-10-16-video-motion-test/hailuo.mp4,0.15
+2026-10-16T16:48:44,kie:veo-3-1,01-content/experiments/2026-10-16-video-motion-test/veo-lite.mp4,0.15

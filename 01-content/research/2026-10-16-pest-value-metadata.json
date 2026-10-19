@@ -1,0 +1,592 @@
+[
+  {
+    "id": "uesD7YnmQww",
+    "title": "Why do ants invade your home?",
+    "channel": "UCIPM",
+    "upload_date": "20130716",
+    "duration": 70,
+    "description": "Find out what conditions cause ants to invade your home.  Water sources, plants or mulch near the foundation, or changes in weather are just a few. Learn more at http://www.ipm.ucanr.edu/",
+    "webpage_url": "https://www.youtube.com/watch?v=uesD7YnmQww",
+    "chapters": null,
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 17,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/uesD7YnmQww.txt"
+    }
+  },
+  {
+    "id": "9_CpRnOfn0A",
+    "title": "How to inspect for ants",
+    "channel": "UCIPM",
+    "upload_date": "20130716",
+    "duration": 133,
+    "description": "Inspect your home inside and out for ants.  Search for places where they enter and look for attractive food sources.  Learn more at http://www.ipm.ucdavis.edu/",
+    "webpage_url": "https://www.youtube.com/watch?v=9_CpRnOfn0A",
+    "chapters": null,
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 23,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/9_CpRnOfn0A.txt"
+    }
+  },
+  {
+    "id": "Y5TH7P8r6G0",
+    "title": "What to do if you have an ant emergency",
+    "channel": "UCIPM",
+    "upload_date": "20140425",
+    "duration": 69,
+    "description": "If ants suddenly invade your home, don't grab that can of ant spray! Follow these steps to get rid of ants and keep them away. Learn more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=Y5TH7P8r6G0",
+    "chapters": null,
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 13,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/Y5TH7P8r6G0.txt"
+    }
+  },
+  {
+    "id": "eiQXLZnU7lA",
+    "title": "Don't let mosquitoes breed in your yard!",
+    "channel": "UCIPM",
+    "upload_date": "20130911",
+    "duration": 122,
+    "description": "Reduce your chances of getting bitten by eliminating mosquito-breeding sites around your home. Learn more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=eiQXLZnU7lA",
+    "chapters": [
+      {
+        "start_time": 0,
+        "end_time": 8.0,
+        "title": "<Untitled Chapter 1>"
+      },
+      {
+        "start_time": 8.0,
+        "title": "Eliminating Mosquito Breeding Sites",
+        "end_time": 53.0
+      },
+      {
+        "start_time": 53.0,
+        "title": "Eliminate Sites Where Mosquitoes Can Develop in Your Yard",
+        "end_time": 106.0
+      },
+      {
+        "start_time": 106.0,
+        "title": "Learn More about Protecting Yourself against Mosquitoes",
+        "end_time": 122
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 38,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/eiQXLZnU7lA.txt"
+    }
+  },
+  {
+    "id": "sqZhxcIeICM",
+    "title": "Protect yourself from mosquito bites",
+    "channel": "UCIPM",
+    "upload_date": "20130912",
+    "duration": 98,
+    "description": "Protect yourself and your family from mosquito bites and West Nile Virus.  Learn more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=sqZhxcIeICM",
+    "chapters": [
+      {
+        "start_time": 0,
+        "end_time": 23.0,
+        "title": "<Untitled Chapter 1>"
+      },
+      {
+        "start_time": 23.0,
+        "title": "repair any holes or openings",
+        "end_time": 34.0
+      },
+      {
+        "start_time": 34.0,
+        "title": "apply mosquito repellents containing",
+        "end_time": 68.0
+      },
+      {
+        "start_time": 68.0,
+        "title": "apply bacillus thuringiensis or bt mosquito dunks",
+        "end_time": 98
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 28,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/sqZhxcIeICM.txt"
+    }
+  },
+  {
+    "id": "oWCc3Mngo7E",
+    "title": "Don't bring bed bugs home when you travel",
+    "channel": "UCIPM",
+    "upload_date": "20130823",
+    "duration": 159,
+    "description": "Learn how to protect yourself from picking up bed bugs when you travel. Find out more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=oWCc3Mngo7E",
+    "chapters": [
+      {
+        "start_time": 0,
+        "end_time": 28.0,
+        "title": "<Untitled Chapter 1>"
+      },
+      {
+        "start_time": 28.0,
+        "title": "inspect key locations in the room for bedbugs",
+        "end_time": 45.0
+      },
+      {
+        "start_time": 45.0,
+        "title": "looking for fecal spots or blood smears",
+        "end_time": 94.0
+      },
+      {
+        "start_time": 94.0,
+        "title": "remove your luggage from the bathroom",
+        "end_time": 139.0
+      },
+      {
+        "start_time": 139.0,
+        "title": "prevent bed bugs from establishing in your home",
+        "end_time": 159
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 53,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/oWCc3Mngo7E.txt"
+    }
+  },
+  {
+    "id": "ORR7yAT-Vic",
+    "title": "How to inspect for bed bugs",
+    "channel": "UCIPM",
+    "upload_date": "20130823",
+    "duration": 139,
+    "description": "Learn how to inspect your bed and home for bed bugs. Find out more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=ORR7yAT-Vic",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Identifying bed bug bites",
+        "end_time": 23.0
+      },
+      {
+        "start_time": 23.0,
+        "title": "Signs of an infestation",
+        "end_time": 40.0
+      },
+      {
+        "start_time": 40.0,
+        "title": "Inspection tools and tips",
+        "end_time": 60.0
+      },
+      {
+        "start_time": 60.0,
+        "title": "How to inspect your bed",
+        "end_time": 107.0
+      },
+      {
+        "start_time": 107.0,
+        "title": "Treatment and resources",
+        "end_time": 139
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 41,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/ORR7yAT-Vic.txt"
+    }
+  },
+  {
+    "id": "H9d_EB6XFUc",
+    "title": "How to use a bed bug detector",
+    "channel": "UCIPM",
+    "upload_date": "20130820",
+    "duration": 149,
+    "description": "Learn how to inspect and use traps to detect bed bugs in your home. Find out more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=H9d_EB6XFUc",
+    "chapters": [
+      {
+        "start_time": 0,
+        "end_time": 35.0,
+        "title": "<Untitled Chapter 1>"
+      },
+      {
+        "start_time": 35.0,
+        "title": "How do you use a RAID bed bug detector and trap?",
+        "end_time": 149
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 48,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/H9d_EB6XFUc.txt"
+    }
+  },
+  {
+    "id": "8Zibw_m7hj8",
+    "title": "How to Get Rid of Pantry Pests",
+    "channel": "UCIPM",
+    "upload_date": "20160919",
+    "duration": 129,
+    "description": "Learn how to get rid of pantry pests in your kitchen using nonchemical methods. Find more information about managing these and other pests at http://ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=8Zibw_m7hj8",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Identifying pantry pests",
+        "end_time": 24.0
+      },
+      {
+        "start_time": 24.0,
+        "title": "Types and signs",
+        "end_time": 50.0
+      },
+      {
+        "start_time": 50.0,
+        "title": "Eliminating an infestation",
+        "end_time": 77.0
+      },
+      {
+        "start_time": 77.0,
+        "title": "Preventing future issues",
+        "end_time": 129
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 32,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/8Zibw_m7hj8.txt"
+    }
+  },
+  {
+    "id": "PJHKA-Fre0k",
+    "title": "Distinguishing between yellowjackets, wasps, and look alikes",
+    "channel": "UCIPM",
+    "upload_date": "20131011",
+    "duration": 119,
+    "description": "Learn to recognize the difference between yellowjackets and other similar looking insects. Read more at http://www.ipm.ucanr.edu.",
+    "webpage_url": "https://www.youtube.com/watch?v=PJHKA-Fre0k",
+    "chapters": null,
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 38,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/PJHKA-Fre0k.txt"
+    }
+  },
+  {
+    "id": "UG7c5kzfy1E",
+    "title": "Why do I have cockroaches in my home?",
+    "channel": "NPIC@OSU",
+    "upload_date": "20160219",
+    "duration": 118,
+    "description": "NPIC provides free information via a toll-free number (1-800-858-7378) to anyone in the United States, Puerto-Rico, and the Virgin Islands including the general public, medical, veterinary, and other professionals. NPIC operates from 8:00am to 12:00pm PST, Monday through Friday. Pesticide information is also available at NPIC's website, or via email (npic@ace.orst.edu).\n\nThe National Pesticide Information Center (NPIC) is a collaboration between Oregon State University and the United States Environmental Protection Agency. NPIC provides objective, science-based information about a wide variety of pesticide-related topics, including pesticide product information, information on the recognition and management of pesticide poisonings, toxicology and environmental chemistry.\n\nTerms of Use and Deletion Policy: http://bit.ly/PolicY",
+    "webpage_url": "https://www.youtube.com/watch?v=UG7c5kzfy1E",
+    "chapters": [
+      {
+        "start_time": 0,
+        "end_time": 10.0,
+        "title": "<Untitled Chapter 1>"
+      },
+      {
+        "start_time": 10.0,
+        "title": "Where do Cockroaches hide in the house?",
+        "end_time": 118
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 24,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/UG7c5kzfy1E.txt"
+    }
+  },
+  {
+    "id": "l-kXfEmupXc",
+    "title": "Cockroach Inspection - Learn Where Roaches Hide | DoMyOwn.com",
+    "channel": "DoMyOwn",
+    "upload_date": "20150106",
+    "duration": 98,
+    "description": "https://goo.gl/kNaUyk  ...Click here for Roach Control Products!\n\nWhere do cockroaches hide? How do you find cockroaches? This video will highlight the different places to check and the common signs of a roach infestation.\n\nFollow us on social media...\nFacebook: https://www.facebook.com/DoMyOwnPestControl\nTwitter:  https://twitter.com/mypestcontrol\nPinterest:  https://www.pinterest.com/diypestcontrol\nInstagram: https://www.instagram.com/domyown_dotcom\n\nVisit Our Website... https://www.domyown.com\n\n#getridofroaches #roaches #domyownpestcontrol",
+    "webpage_url": "https://www.youtube.com/watch?v=l-kXfEmupXc",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Do cockroaches come out during the day?",
+        "end_time": 34.0
+      },
+      {
+        "start_time": 34.0,
+        "title": "Where do Cockroaches hide in the house?",
+        "end_time": 98
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 19,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/l-kXfEmupXc.txt"
+    }
+  },
+  {
+    "id": "u9TOQhKZj6s",
+    "title": "Termites: Signs and prevention tips",
+    "channel": "HomeTeam Pest Defense",
+    "upload_date": "20150504",
+    "duration": 169,
+    "description": "Termite damage is typically not covered by homeowners insurance. Learn how to protect your home from termites by visiting https://www.pestdefense.com. Find out if you have a termite infestation by looking for signs of termites – 0:19. If you find a swarm of insects or discarded wings in your home, learn the difference between a winged termite and a winged ant – 0:58. Learn how to prevent termites in your home – 1:50. Termites are difficult to treat on your own so protect your home with our built-in pest control system, Taexx. For more information about termites, contact HomeTeam Pest Defense today – 2:42.\n\nRequest a quote online: https://pestdefense.com/request-quote/\n\nSpokesperson: Kim Reynolds, Entomologist, HomeTeam Pest Defense\nVideo produced by: VNR1 Communications https://www.youtube.com/user/VNR1Communications",
+    "webpage_url": "https://www.youtube.com/watch?v=u9TOQhKZj6s",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "The impact of termites",
+        "end_time": 16.0
+      },
+      {
+        "start_time": 16.0,
+        "title": "Identifying a swarm",
+        "end_time": 38.0
+      },
+      {
+        "start_time": 38.0,
+        "title": "Signs of infestation",
+        "end_time": 57.0
+      },
+      {
+        "start_time": 57.0,
+        "title": "Termites versus ants",
+        "end_time": 101.0
+      },
+      {
+        "start_time": 101.0,
+        "title": "Prevention and treatment",
+        "end_time": 147.0
+      },
+      {
+        "start_time": 147.0,
+        "title": "Conclusion and resources",
+        "end_time": 169
+      }
+    ],
+    "captions": {
+      "kind": "automatic",
+      "language": "en",
+      "lines": 82,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/u9TOQhKZj6s.txt"
+    }
+  },
+  {
+    "id": "05GHwaE6ocA",
+    "title": "How To Keep Bugs Out Of Your Home | Bug Proof Your House (4 Common Entry Points)",
+    "channel": "How To Home",
+    "upload_date": "20200703",
+    "duration": 343,
+    "description": "In this video I show you how to keep bugs out of your home and bug proof your house.  I will show you some of the most common ways and entry points that bugs and pests are getting into your house and easy DIY solutions to then keep them out.  Sometimes insecticide alone is not enough to keep them from getting in.\n\n#bugproofyourhome #howtokeepbugsoutofyourhouse #DIYpestcontrol",
+    "webpage_url": "https://www.youtube.com/watch?v=05GHwaE6ocA",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Introduction to pest entry",
+        "end_time": 79.0
+      },
+      {
+        "start_time": 79.0,
+        "title": "Sealing exterior doors",
+        "end_time": 107.0
+      },
+      {
+        "start_time": 107.0,
+        "title": "Fixing foundation cracks",
+        "end_time": 149.0
+      },
+      {
+        "start_time": 149.0,
+        "title": "Securing utility pipes",
+        "end_time": 194.0
+      },
+      {
+        "start_time": 194.0,
+        "title": "Bathroom exhaust vent fix",
+        "end_time": 286.0
+      },
+      {
+        "start_time": 286.0,
+        "title": "Conclusion and call to action",
+        "end_time": 343
+      }
+    ],
+    "captions": {
+      "kind": "automatic",
+      "language": "en",
+      "lines": 130,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/05GHwaE6ocA.txt"
+    }
+  },
+  {
+    "id": "QdJ_hRex_NU",
+    "title": "How To Find Rodent Entry Points Fast & Seal Them For Good",
+    "channel": "Pest Protection Plus",
+    "upload_date": "20250430",
+    "duration": 338,
+    "description": "🐭🔎  How To Find Rodent Entry Points Fast ⁉️ \n\n🏡 Rodent Entry Points in Residential Homes! 🐁 Entry Points Where Rats & Mice Get In Your Home! @pestproplus  Rodent Expert points our 5 areas in your home that need protection from rodents, we also discuss the exterior areas of the house most prone to entry points and the behaviours of mice 🐭 \n\n➡️   Click Here to Get Your Rodent Prevention Calendar 🔗 https://pestprotectionplus.com/resources/seasonal-home-pest-prevention-calendars/\n\n🐭🔎  How To Find Rodent Entry Points Fast ⁉️ \n\nAs seasons shift in Southern Ontario, rodents actively seek indoor refuge, making proactive home sealing crucial, especially given the region's abundant nature and older housing stock. Pest Protection Plus highlights five key entry points to fortify against these unwanted guests, as ignoring them can lead to property damage and health risks. Your first line of defence is weatherstripping around all doors, including the garage, and windows; regularly inspect for damage and replace with durable, rodent-resistant materials, even considering metal door sweeps for added protection. Windows and doors themselves, particularly unsealed frames common in older homes, require attention; seal gaps with high-quality silicone caulk or rodent-proof expanding foam, check screens, and inspect basement windows closely. Utility lines also serve as pathways, with waterline entry points into foundations or walls needing waterproof sealant or expanding foam, potentially with a steel wool backing for larger gaps. Similarly, gas line entry points demand fire-resistant sealant or expanding foam, again with steel wool as a pre-sealant (always consult a professional for gas line concerns). Finally, AC line penetrations are common access areas, requiring durable, weatherproof sealant flexible enough for movement, and replacement of any damaged grommets. Sealing these five key areas, combined with regular inspections and maintenance, is a vital step in enjoying a pest-free Southern Ontario home; contact Pest Protection Plus for expert advice and tailored rodent control solutions.\n\n📍Pest Protection Plus is a premium pest control and humane wildlife company proudly serving the Greater Toronto Area since 2012! Our channel offers FREE educational content about pests, rodents, and wildlife in Southern Ontario!\n\n⏱️ Timestamps ⏱️ \n00:00 - 🏁Start\n00:20 - ☔️ Weatherstripping\n01:22 - 🚪Windows and Doors\n01:58 - 🥶 AC Unit\n02:27 - ⛽️ Gas Line\n02:28 - 💦 Waterline\n03:16 - ✅ General Checks in Your Home\n03:24 - ✏️ Rodent Inspection Tool\n03:58 - 🛖 Two Building Materials Intersect\n04:18 - 🐭 Mice Behaviour in Your Home\n04:53 - 🔄 Quick Recap \n\n🇨🇦 Hey GTA Viewers! Click Here to Get a FREE Rodent Control Quote ➡️  https://ap9sokfvex6.typeform.com/to/FmlBJpKF?typeform-source=pestprotectionplus.com\n\nHearing or Seeing Rodents in Your Home? Call our Experts! ☎️  1-888-510-5277 \n\nWant to identify insects, bugs, rodents, and wildlife 🔎  Send it here 📧 info@pestprotectionplus.com\n\nFor More Information About @pestproplus 🔗  https://pestprotectionplus.com/   \n\nThank You for tuning into our \"Entry Points Where Rats & Mice Get In Your Home!” Video Please subscribe to our Youtube Channel @pestproplus  for more great tips and tricks to protecting your home from pests, rodents, and wildlife!\n\n📺 Check Out our \"Seal Mice & Rats Out of Your Home-Easy & Affordable\" Video Here 👇 \n🔗 https://www.youtube.com/watch?v=L4UnIwZMeGA",
+    "webpage_url": "https://www.youtube.com/watch?v=QdJ_hRex_NU",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Start",
+        "end_time": 20.0
+      },
+      {
+        "start_time": 20.0,
+        "title": "️ Weatherstripping",
+        "end_time": 82.0
+      },
+      {
+        "start_time": 82.0,
+        "title": "Windows and Doors",
+        "end_time": 118.0
+      },
+      {
+        "start_time": 118.0,
+        "title": "AC Unit",
+        "end_time": 148.0
+      },
+      {
+        "start_time": 148.0,
+        "title": "Waterline",
+        "end_time": 196.0
+      },
+      {
+        "start_time": 196.0,
+        "title": "General Checks in Your Home",
+        "end_time": 204.0
+      },
+      {
+        "start_time": 204.0,
+        "title": "️ Rodent Inspection Tool",
+        "end_time": 238.0
+      },
+      {
+        "start_time": 238.0,
+        "title": "Two Building Materials Intersect",
+        "end_time": 258.0
+      },
+      {
+        "start_time": 258.0,
+        "title": "Mice Behaviour in Your Home",
+        "end_time": 293.0
+      },
+      {
+        "start_time": 293.0,
+        "title": "Quick Recap",
+        "end_time": 338
+      }
+    ],
+    "captions": {
+      "kind": "automatic",
+      "language": "en",
+      "lines": 153,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/QdJ_hRex_NU.txt"
+    }
+  },
+  {
+    "id": "lkdLg0Nq4SQ",
+    "title": "Why are cockroaches so hard to kill? - Ameya Gondhalekar",
+    "channel": "TED-Ed",
+    "upload_date": "20220419",
+    "duration": 309,
+    "description": "Dig into the genetic adaptations of cockroaches, and find out what makes it so hard to get rid of these tenacious creatures.\n\n--\n\nIn ancient Egypt, there was a spell that declared, “Be far from me, O vile cockroach.” Thousands of years later, we’re still trying to oust these insects. But from poison traps to brandished slippers, cockroaches seem to weather just about everything we throw at them. So, what makes cockroaches so hard to kill? Ameya Gondhalekar digs into the genetic wonders of this troublingly tenacious creature.\n\nLesson by Ameya Gondhalekar, directed by Irida Zhonga.\n\nIn order to visualize and dramatize the lives of these fascinating creatures, the artists have chosen to playfully anthropomorphize cockroaches. In real life cockroaches don’t dine like humans, go shopping for organic matter, and most unfortunately, don’t wear lederhosen (at least, to the best of our knowledge).\n\nSupport Our Non-Profit Mission\n----------------------------------------------\nSupport us on Patreon: http://bit.ly/TEDEdPatreon\nCheck out our merch: http://bit.ly/TEDEDShop\n----------------------------------------------\n\nConnect With Us\n----------------------------------------------\nSign up for our newsletter: http://bit.ly/TEDEdNewsletter\nFollow us on Facebook: http://bit.ly/TEDEdFacebook\nFind us on Twitter: http://bit.ly/TEDEdTwitter\nPeep us on Instagram: http://bit.ly/TEDEdInstagram\n----------------------------------------------\n\nKeep Learning\n----------------------------------------------\nView full lesson: https://ed.ted.com/lessons/why-are-cockroaches-so-hard-to-kill-ameya-gondhalekar\nDig deeper with additional resources: https://ed.ted.com/lessons/why-are-cockroaches-so-hard-to-kill-ameya-gondhalekar#digdeeper\n\nAnimator's website: http://www.iridazhonga.com\nMusic & sound: https://www.philbrookes.com & https://www.instagram.com/philbrookesuk\n----------------------------------------------\n\nThank you so much to our patrons for your support! Without you this video would not be possible! Maxwell Ramsby, Dmitry Yuryev, Denis Chon, Julian Oberhofer, Monte Carroll, Eddy, Jay M, Constantino Victor Delgado, Andrea Galvagni, Andrew Tweddle, Laurel-Ann Rice, Fernando A. Endo, Helen Lee, pam morgan, sarim haq, Juan Pablo Rodriguez Morales, ANNE FINE, Gerardo Castro, Siddharth Toshniwal, Michel-Ange Hortegat, Enes Kirimi, Amaury BISIAUX, Aravind C V, ND, Samyogita Hardikar, Vanessa Graulich, Vandana Gunwani, LvL042, Abdulmohsin Almadi, Andrew Brodski, AJ Lyon, Anandha Krishnan, Geoffrey Bultitude, Mi Mi, Thomas Rothert, Christopher McVay, Carlo Solaroli, Javier Aldavaz, Ivan Yeung, Brian Elieson, Grayson Garbarino, Oge O, Weronika Falkowska, Stefano Esposito, Nevin Spoljaric, Yvonne Feijoo, Sid Chanpuriya, Arjay Arcinue Dineros, Anoom Yasmin and Anoop Varghese.",
+    "webpage_url": "https://www.youtube.com/watch?v=lkdLg0Nq4SQ",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "The cockroach problem",
+        "end_time": 34.0
+      },
+      {
+        "start_time": 34.0,
+        "title": "Cockroach adaptations",
+        "end_time": 65.0
+      },
+      {
+        "start_time": 65.0,
+        "title": "Survival mechanisms",
+        "end_time": 116.0
+      },
+      {
+        "start_time": 116.0,
+        "title": "Diet and immunity",
+        "end_time": 156.0
+      },
+      {
+        "start_time": 156.0,
+        "title": "Pesticide resistance",
+        "end_time": 192.0
+      },
+      {
+        "start_time": 192.0,
+        "title": "Life after humanity",
+        "end_time": 309
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 76,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/lkdLg0Nq4SQ.txt"
+    }
+  },
+  {
+    "id": "dNRFuOwl-5o",
+    "title": "Using ant baits",
+    "channel": "UCIPM",
+    "upload_date": "20130716",
+    "duration": 263,
+    "description": "Use baits to manage ant problems.  Find out how baits work, which ones are best, and how to get the most out of them.  See more at http://www.ipm.ucdavis.edu/",
+    "webpage_url": "https://www.youtube.com/watch?v=dNRFuOwl-5o",
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "title": "Using baits",
+        "end_time": 44.0
+      },
+      {
+        "start_time": 44.0,
+        "title": "Choosing the right bait",
+        "end_time": 110.0
+      },
+      {
+        "start_time": 110.0,
+        "title": "Get the most out of your bait",
+        "end_time": 150.0
+      },
+      {
+        "start_time": 150.0,
+        "title": "Prepackaged baits",
+        "end_time": 217.0
+      },
+      {
+        "start_time": 217.0,
+        "title": "Refillable bait stations",
+        "end_time": 263
+      }
+    ],
+    "captions": {
+      "kind": "manual",
+      "language": "en",
+      "lines": 54,
+      "path": "01-content/research/2026-10-16-pest-value-evidence/dNRFuOwl-5o.txt"
+    }
+  }
+]
