@@ -1,0 +1,206 @@
+{
+  "title": "Deep Six shorts — top-to-bottom overview",
+  "subtitle": "Read stages from top to bottom; one active video; 9:16 in Deep Six colors; planning draft.",
+  "column_width": 350,
+  "lane_height": 100,
+  "connect_first_lane": false,
+  "lanes": [
+    {
+      "key": "drew",
+      "label": "DREW\nchoices and review",
+      "kind": "person",
+      "line_below": {
+        "label": "human choices",
+        "style": "dashed"
+      }
+    },
+    {
+      "key": "display",
+      "label": "ON SCREEN\nwhat you see",
+      "kind": "frontstage",
+      "line_below": {
+        "label": "visible choices above / background work below",
+        "style": "solid"
+      }
+    },
+    {
+      "key": "system",
+      "label": "SYSTEM\nflow and timing",
+      "kind": "system"
+    },
+    {
+      "key": "ai",
+      "label": "HARNESSES\nresearch and creation",
+      "kind": "ai",
+      "line_below": {
+        "label": "saved inputs and selected work",
+        "style": "dashed"
+      }
+    },
+    {
+      "key": "data",
+      "label": "RECORDS\nkeep the evidence",
+      "kind": "support"
+    }
+  ],
+  "phases": [
+    {
+      "name": "1. RESEARCH",
+      "time": "scheduled • cadence open",
+      "cells": {
+        "drew": "Set topic direction",
+        "display": "Resource links\nand hook examples",
+        "system": "Refresh two libraries\nKeep pending choices",
+        "ai": "Read pest articles\nStudy social openings",
+        "data": "Source facts + limits\nVideo links + observations"
+      }
+    },
+    {
+      "name": "2. CHOOSE A HOOK",
+      "time": "wait for your choice",
+      "cells": {
+        "drew": "Choose 1 or skip 5\nOptional: queue a second",
+        "display": "Five numbered hooks\nwith their source links",
+        "system": "Skip → replace 5\nSave second for later",
+        "ai": "Sonnet writing harness\nDraft 5 supported hooks",
+        "data": "Hook + lesson + source\nQueue and feedback"
+      }
+    },
+    {
+      "name": "3. CHOOSE A SCRIPT",
+      "time": "wait for your choice",
+      "cells": {
+        "drew": "Choose 1 or skip 5",
+        "display": "Five complete scripts\nSame hook in every one",
+        "system": "Skip → replace 5\nKeep same hook + source",
+        "ai": "Same writing harness\nDraft 5 distinct scripts",
+        "data": "Chosen script + source\nDelete rejected text"
+      }
+    },
+    {
+      "name": "4. PLAN + ANIMATE",
+      "time": "production tools open",
+      "cells": {
+        "drew": "Review preview\n(proposed)",
+        "display": "Scenes and voice\nVertical cartoon preview",
+        "system": "Time scenes to audio\nRender 9:16",
+        "ai": "Plan scenes, then code\ncharacter action",
+        "data": "Script + timed scenes\nCode and brand assets"
+      }
+    },
+    {
+      "name": "5. ASSEMBLE + REVIEW",
+      "time": "wait for final review",
+      "cells": {
+        "drew": "Request changes\nor approve the video",
+        "display": "Full video with\ncaption, sound and outro",
+        "system": "Assemble + check\nReturn edits if needed",
+        "ai": "Create branded outro\nonce, then reuse",
+        "data": "Approved outro version\nFinal review feedback"
+      }
+    },
+    {
+      "name": "6. EXPORT",
+      "time": "after approval",
+      "cells": {
+        "drew": "Decide when to publish",
+        "display": "Finished vertical short\nready for posting",
+        "system": "Export 1080 × 1920\nPublishing is separate",
+        "data": "Final file + source log\nKeep chosen work only"
+      }
+    }
+  ],
+  "handoffs": [
+    {
+      "phase": 0,
+      "from": "ai",
+      "to": "data",
+      "label": "evidence cards"
+    },
+    {
+      "phase": 1,
+      "from": "ai",
+      "to": "display",
+      "label": "five hooks"
+    },
+    {
+      "phase": 1,
+      "from": "drew",
+      "to": "system",
+      "label": "choose / skip / queue"
+    },
+    {
+      "phase": 2,
+      "from": "ai",
+      "to": "display",
+      "label": "five full scripts"
+    },
+    {
+      "phase": 2,
+      "from": "drew",
+      "to": "system",
+      "label": "choose / skip"
+    },
+    {
+      "phase": 3,
+      "from": "ai",
+      "to": "system",
+      "label": "scene code"
+    },
+    {
+      "phase": 4,
+      "from": "drew",
+      "to": "system",
+      "label": "feedback / approval"
+    },
+    {
+      "phase": 5,
+      "from": "system",
+      "to": "data",
+      "label": "final file + sources"
+    }
+  ],
+  "problems": [
+    {
+      "phase": 0,
+      "n": 2,
+      "text": "Scheduled runs must not\noverwrite pending choices."
+    },
+    {
+      "phase": 1,
+      "n": 1,
+      "text": "Open: one article or\nfive lessons per batch?"
+    },
+    {
+      "phase": 2,
+      "n": 4,
+      "text": "Five scripts must explain\nthe lesson differently."
+    },
+    {
+      "phase": 3,
+      "n": 5,
+      "text": "Confirm animation really\ncomes from code."
+    },
+    {
+      "phase": 4,
+      "n": 3,
+      "text": "Check that every promise\nhas factual support."
+    }
+  ],
+  "orientation": "top-to-bottom",
+  "layout": {
+    "phaseAxis": "y",
+    "roleAxis": "x",
+    "phaseStart": 270,
+    "phaseSpacing": 350,
+    "roleColumns": {
+      "drew": 340,
+      "display": 620,
+      "system": 900,
+      "ai": 1180,
+      "data": 1460
+    },
+    "cardWidth": 240,
+    "cardHeight": 100
+  }
+}

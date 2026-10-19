@@ -4,6 +4,12 @@ Newest on top.
 
 ---
 
+### Excalidraw system design — October 19
+
+[Open the main flow](http://localhost:3003/boards/f8724119f563ab46a50243e7) · [System overview — top to bottom](http://localhost:3003/boards/52831f1163e1277b819320fd)
+
+Both five-choice loops, the saved-hook queue, source links into narration, and production through the reusable outro are drawn. Open decisions are marked in yellow.
+
 ### 2026-10-19 11:31 · Your whiteboard — research, choices, production
 
 # Deep Six shorts — working flow

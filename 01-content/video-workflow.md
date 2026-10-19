@@ -2,6 +2,8 @@
 
 **Two research feeds supply five hooks. You choose one, then get five full scripts using that same hook and factual source.** No automation is running yet.
 
+[Open the Excalidraw main flow](http://localhost:3003/boards/f8724119f563ab46a50243e7) · [Who does what](http://localhost:3003/boards/52831f1163e1277b819320fd)
+
 ## 1. Research on a schedule
 
 - **Pest resources:** articles with useful homeowner lessons. Start with [Texas A&M](https://citybugs.tamu.edu/2018/06/14/when-ants-invade/), [NPIC](https://npic.orst.edu/pest/ant.html), and [UC IPM](https://ipm.ucanr.edu/home-and-landscape/ants/). [Resource library](pest-resource-library.md).

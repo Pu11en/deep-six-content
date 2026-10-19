@@ -1,0 +1,15 @@
+{
+  "title": "2. Turn the chosen narration into a short",
+  "subtitle": "Proposed production steps • all previews and exports are 9:16 • renderer, voice and timing still to choose",
+  "main": [
+    {"id":"scene_plan","type":"step","kind":"ai","text":"Plan scenes\nShow the lesson","next_label":"scene beats"},
+    {"id":"voice_timing","type":"step","kind":"system","text":"Make voiceover\nMeasure timings","next_label":"timed plan"},
+    {"id":"animate_code","type":"step","kind":"ai","text":"Animate cartoons\nJavaScript / TS","next_label":"render"},
+    {"id":"assemble_video","type":"step","kind":"system","text":"Add captions, sound\nand branded outro","next_label":"preview"},
+    {"id":"review_video","type":"decision","text":"Drew\napproves?","next_label":"yes"},
+    {"id":"export_video","type":"end","text":"Export\n1080 × 1920"}
+  ],
+  "branches": [
+    {"from":"review_video","label":"needs changes","id":"revise_scene","text":"Revise the affected\nscene, audio or edit","to":"scene_plan"}
+  ]
+}

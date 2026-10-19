@@ -1,0 +1,16 @@
+{
+  "title": "1. Research and choose the writing",
+  "subtitle": "Working design • human choices stay in the loop • Sonnet requested; exact model still to verify",
+  "main": [
+    {"id":"research_ready","type":"start","text":"Research\nready","next_label":"inputs"},
+    {"id":"write_hooks","type":"step","kind":"ai","text":"Write 5 hooks\nSonnet harness","next_label":"5 choices"},
+    {"id":"choose_hook","type":"decision","text":"Pick\none?","next_label":"yes"},
+    {"id":"write_narrations","type":"step","kind":"ai","text":"Write 5 scripts\nSame hook + source","next_label":"5 full scripts"},
+    {"id":"choose_narration","type":"decision","text":"Pick\none?","next_label":"yes"},
+    {"id":"narration_selected","type":"end","text":"Chosen\nnarration"}
+  ],
+  "branches": [
+    {"from":"choose_hook","label":"skip all 5","id":"skip_hooks","text":"Replace with\n5 new hooks","to":"write_hooks"},
+    {"from":"choose_narration","label":"skip all 5","id":"skip_narrations","text":"Replace with\n5 new scripts","to":"write_narrations"}
+  ]
+}

@@ -2,6 +2,8 @@
 
 **Design in progress.** This records Drew’s October 19 whiteboard and the proposed missing production steps. No cron, model calls, voiceover, animation, or publishing automation has been set up.
 
+[Excalidraw main flow and overview](diagrams/README.md) are now drawn and open. They show the current working design while the questions below remain open.
+
 ## Goal and people
 
 Make useful, entertaining pest-control education for homeowners, published as vertical shorts on YouTube, Facebook, and TikTok. Drew chooses the hook and narration. One selected hook leads to one video. Proposed success check: each finished video teaches a source-supported homeowner lesson and passes Drew’s review; audience performance is not yet measured.
@@ -151,3 +153,6 @@ Queue changes, selections and skips need stable IDs so a repeated click or cron 
 ## Change log
 
 - 2026-10-19: transcribed the whiteboard decisions; added proposed production steps; asked Q1. Read the named System Blueprint skill and interview guide. Research-only comparison of hook repos completed. Deleted narration files and board copies; no new archive created. Diagram remains in the interview stage while Q1 and production choices are open.
+- 2026-10-19: Drew requested Excalidraw now. Created and opened a main flow plus a service overview, with open choices labeled rather than assumed. Added the source-to-narration arrow, both skip loops, second-hook queue, production continuation, and reusable outro. Content audit and JSON/binding checks completed; no screenshot or viewer fit checks.
+
+- 2026-10-19: Drew requested a top-to-bottom system overview. Reflowed the same drawing into six stage rows, with roles in columns and chronological arrows pointing down; no process decisions changed.
