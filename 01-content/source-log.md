@@ -14,11 +14,11 @@
 
 | Source ID | Source | Episode | Status / first use | Topic already covered |
 |---|---|---|---|---|
-| ANT-S001 | [Managing Household Ant Pests — Texas A&M, B-6183, December 2005](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf) | D6-ANT-001 — [narration](experiments/2026-10-16-ant-return-narration/narration.md) | First used 2026-10-16; narration scrapped 2026-10-19 · source remains logged against this episode | Scrapped draft angle: vegetation touching the house as an ant bridge; inspect trails, trim contact, seal entry gaps; an indoor nest may still need attention. Earlier draft: recurring indoor ants, visible workers versus hidden nest, food, water, identification, and professional nest access. |
+| ANT-S001 | [Managing Household Ant Pests — Texas A&M, B-6183, December 2005](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf) | D6-ANT-001 — [source findings](experiments/2026-10-16-ant-return-narration/source-check.md) | First used 2026-10-16; narration scrapped 2026-10-19 · source remains logged against this episode | Scrapped draft angle: vegetation touching the house as an ant bridge; inspect trails, trim contact, seal entry gaps; an indoor nest may still need attention. Earlier draft: recurring indoor ants, visible workers versus hidden nest, food, water, identification, and professional nest access. |
 
 Alternate copy of ANT-S001: `https://extensionentomology.tamu.edu/wp-content/uploads/sites/3/2018/05/Household-ants-B6183.pdf`. Treat as the same publication.
 
-Drew selected hook 14: “That branch touching your house? Ants can use it as a bridge.” After rejecting the earlier narration and its patched transition, Drew requested a full rewrite. The last take followed an ant from branch to roof to a possible entry crack, then explains why keeping branches off the house helps prevent access. On October 19, Drew scrapped this narration. The last draft is preserved in `narration-scrapped-2026-10-19.md`, alongside `narration-v1.md` through `narration-v4.md`. No active script, approved replacement, or published video. ANT-S001 remains logged; scrapping a draft does not make its source unused. See the [workflow record](video-workflow.md).
+D6-ANT-001 was a narration experiment, never published. Drew scrapped the script, then explicitly requested no narration archives on October 19. All saved narration versions and board copies have been deleted from the working project. The source-use record and brief feedback remain; ANT-S001 is still logged against that experiment. See the [current workflow](video-workflow.md).
 
 [First hook round](experiments/2026-10-16-ant-return-narration/hooks.md) and [second hook round, options 9–18](experiments/2026-10-16-ant-return-narration/hooks-round-2.md) are revisions within this episode and use the same source. No additional factual source used.
 
@@ -32,6 +32,8 @@ Drew selected hook 14: “That branch touching your house? Ants can use it as a 
 | [Ant colony — Hanif](https://x.com/hanifproduktif/status/2102742924148830211) · [source code](https://github.com/buildwithhanif/claude-animation-skill/tree/main/examples/ant-colony) | Code-drawn ants, walking, carrying leaves, and underground scenes. | Candidate shown 2026-10-16; original is 16:9 and would require a new 9:16 layout. Leafcutter visual reference only; no pest facts reused or skill installed. |
 
 ## Reusable writing references
+
+October 19 additions: [hook-research repo comparison](research/hook-research-repos-2026-10-19.md), [proposed writing instructions](writing-harness-prompts.md), and [system design log](video-system-design.md). These are research/method references, not new factual episode sources. No new narration was drafted.
 
 These inform how scripts are written, not pest facts. They do not consume a new factual episode source. Checked October 16, 2026; [prompt research and exact workflow locations](research/n8n-narration-prompts-2026-10-16.md).
 

@@ -1,6 +1,6 @@
 # D6-ANT-001: source check
 
-**Historical fact check. This narration was scrapped on October 19, 2026.** The checks below describe the archived script, not an active draft.
+**Historical fact check. This narration was scrapped on October 19, 2026.** The checks below retain the source findings. All saved narration versions and their board copies were deleted at Drew’s request.
 
 ## Factual source
 
@@ -23,7 +23,6 @@ Uses the previously researched spoken-writing and separate editing-pass ideas. N
 ## Progress
 
 - Drew requested a complete rewrite. Hook 14 retained exactly; all following narration rewritten.
-- Prior drafts preserved in `narration-v1.md` through `narration-v4.md`.
-- That draft is now preserved in `narration-scrapped-2026-10-19.md`; older board entries are historical.
+- October 19: removed all saved narration drafts and board copies; no narration archive retained in the working project.
 - Source log updated. No audio, video, paid calls, or publication.
 - October 19: script scrapped; no active replacement. Source remains logged.

@@ -4,57 +4,48 @@ Newest on top.
 
 ---
 
-### 2026-10-19 11:05 · Narration reset and video workflow
+### 2026-10-19 11:31 · Your whiteboard — research, choices, production
 
-# How we make Deep Six videos
+# Deep Six shorts — working flow
 
-**The narration was scrapped October 19. We are still testing the writing method; no current ant video has been produced.** This record will supply the steps and decisions for a later flow diagram.
+**Two research feeds supply five hooks. You choose one, then get five full scripts using that same hook and factual source.** No automation is running yet.
 
-All videos: **9:16, Deep Six colors, cartoon animation made through code such as JavaScript or TypeScript.**
+## 1. Research on a schedule
 
-## Steps and current position
+- **Pest resources:** articles with useful homeowner lessons. Start with [Texas A&M](https://citybugs.tamu.edu/2018/06/14/when-ants-invade/), [NPIC](https://npic.orst.edu/pest/ant.html), and [UC IPM](https://ipm.ucanr.edu/home-and-landscape/ants/). [Resource library](01-content/pest-resource-library.md).
+- **Social hooks:** real educational videos, their opening words and visuals, and the pattern worth learning. Keep original links and observed evidence.
 
-| ID | Step | What it produces | Current ant episode |
-|---|---|---|---|
-| V01 | Pick a homeowner problem and check previous sources | Episode ID, useful angle, unused factual source | Ant research done; ANT-S001 already logged |
-| V02 | Extract supported facts and limits | Claim notes with source pages or timestamps | [Historical fact check](01-content/experiments/2026-10-16-ant-return-narration/source-check.md) saved |
-| V03 | Write hooks; Drew chooses one | Selected hook and feedback | Hook 14 chosen for the old draft; no new selection |
-| V04 | Draft the narration from that same factual source | Versioned script and exact writing prompt | Script scrapped; replacement not started |
-| V05 | Review facts, natural speech, and context; revise | Checked script and Drew’s feedback | Writing method still unproven; spoken read not completed |
-| V06 | Choose a cartoon reference and plan scenes | Verified production method, characters, brand palette, 9:16 storyboard | [References found](01-content/cartoon-animation-links.md); final style not chosen |
-| V07 | Make the voiceover and measure its timing | Audio, voice settings, timestamps | Planned; voice tool not chosen |
-| V08 | Write the animation code and render a sample | Saved code, visual assets, short 9:16 preview | Planned; rendering tool not chosen |
-| V09 | Review and revise the video | Checks for facts, character action, captions, timing, sound, and brand | Planned |
-| V10 | Export and review the finished video | 1080 × 1920 file, source credits, final feedback | Planned |
-| V11 | Publish after Drew authorizes it | Platform links and publication date | Planned; no posting authorized |
+Articles supply the facts. Social research supplies ideas for how to open and explain them. Research frequency is still open.
 
-For the later diagram: a rejected hook returns to V03; narration feedback returns to V04; video feedback returns to the affected scene, audio, or code step. Style research can happen alongside writing. Storyboarding needs both the script and the chosen style.
+## 2. Choose the writing
 
-## How we are developing narration
+1. Writing harness → **five hooks**.
+2. You choose one. A second choice waits for a later video. **Skip → another five.**
+3. Same writing harness → **five full narrations**, each repeating the exact chosen hook and using its same resource.
+4. You choose one. **Skip → another five with that same hook and source.**
 
-- Audience: one homeowner with a real pest problem. Explain one useful point and a practical next step.
-- Choose the hook first. Develop the rest from the same factual source. Keep writing/style examples separate from pest facts.
-- Save the exact prompt and every draft. Use specific feedback to revise the wording; keep rejected versions for comparison.
-- Explain what is happening before recommending an action. Drew rejected “before you start trimming” because the script had not established why trimming was relevant.
-- Use connected, everyday speech. Drew rejected earlier versions as unnatural. A written editing pass is recorded separately from an actual spoken read.
-- Check revised claims against the source. Record the source immediately, even if the draft is later scrapped.
-- The next method test still needs an approved voice example or actual feedback on a new draft. No narration template has earned approval yet.
+Requested writer: Sonnet; exact model/version still needs setup. [Proposed writing instructions](01-content/writing-harness-prompts.md).
 
-Methods investigated: [n8n scripting prompts](01-content/research/n8n-narration-prompts-2026-10-16.md) and [narration-writing repositories](01-content/research/narration-writing-repos-2026-10-16.md). Ideas were combined in a [trial prompt](01-content/experiments/2026-10-16-ant-return-narration/narration-prompt-trial.md). No n8n workflow or repository automation was installed or run.
+## 3. After the chosen narration — proposed
 
-## Record each attempt
+**Scene plan → voiceover and measured timing → code cartoon animation → captions and sound → reusable branded outro → your final review → export.**
 
-For each step, record the date, episode and step ID, input/source links, tool/model if known, exact prompt or settings, output version, checks performed, Drew’s feedback, next action, and cost if any. Mark unknown details as unknown. Keep planned steps separate from completed ones.
+Plan the characters’ actions around the lesson. Time the animation to the actual voiceover. Make the outro once, approve it, and reuse it; AI image/video generation can be used for that asset. Every produced preview and final video stays **9:16 in Deep Six colors**.
 
-## Progress history
+## Hook-research repos
 
-| Date | Steps | Work and outcome |
-|---|---|---|
-| October 16 | V01–V03 | Ant homeowner research; ANT-S001 logged for D6-ANT-001. Two hook rounds; Drew selected 14: “That branch touching your house? Ants can use it as a bridge.” |
-| October 16 | V04–V05 | Several drafts and a full rewrite. Researched n8n and writing repositories, saved a trial prompt, and applied writing/editing ideas. Feedback: unnatural voice and missing context before the trimming advice. No approved voice example or measured spoken read. |
-| October 16 | V06 | Found cartoon references. Ant colony has published JavaScript but is widescreen; the two vertical animal cartoons have unverified code methods. No reference yet meets every requirement with verified evidence. |
-| October 19 | V04–V05 | Scrapped the narration. [Final old draft archived](01-content/experiments/2026-10-16-ant-return-narration/narration-scrapped-2026-10-19.md); earlier drafts preserved. No replacement written. ANT-S001 stays in the [source log](01-content/source-log.md). |
-| October 19 | All | Started this process record for the future diagram. Downstream steps remain plans. No diagram made yet. |
+- [Instagram Viral Reels Research](https://github.com/w-avw/instagram-viral-reels-research-claude-skill): finds candidate reels and combines transcripts with visual frames. Needs Instagram access/setup; its fixed view thresholds would need adapting.
+- [Hookmaxxing](https://github.com/yerdaulet-damir/hookmaxxing): useful rules for studying the opening and checking whether a hook’s promise has evidence. It does not discover videos by itself.
+
+[Inspected files and limits](01-content/research/hook-research-repos-2026-10-19.md). Neither repo has been installed or tested here.
+
+## Decisions and records
+
+Keep sources, prompts, chosen work and brief feedback. **No rejected narration archives.** The old script files and board copies have been deleted; earlier Git history still exists.
+
+Open decision: should five hooks cover five separate lessons/sources, or five openings for one article? This affects saving a second hook for the next video.
+
+[Full design log and step cards](01-content/video-system-design.md) · [Source-use log](01-content/source-log.md)
 
 
 ### 2026-10-16 23:18 · Cartoon animation — closer matches
@@ -147,67 +138,6 @@ A longer lesson using mathematical animation and narration.
 [Browse the Opus animation collection](https://github.com/yihui-dev/awesome-opus5-5-videos)
 
 
-### 2026-10-16 22:37 · Ant bridge — full rewrite
-
-**The branch ants use as a bridge**
-
-*Narration · full rewrite · draft for feedback*
-
-That branch touching your house? Ants can use it as a bridge.
-
-An ant can walk out along that branch and step straight onto your roof. If it finds a crack leading inside, it’s in.
-
-That’s why keeping trees trimmed is part of keeping ants out. Walk around the house and check for branches touching the roof or walls.
-
-Trim those back so they no longer touch. You’re removing a way for ants to reach the house.
-
----
-
-Source: [Managing Household Ant Pests — Texas A&M](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf).
-
-
-### 2026-10-16 22:35 · Ant bridge — trimming context fixed
-
-**The branch ants use as a bridge**
-
-*Narration · new take · draft for feedback*
-
-That branch touching your house? Ants can use it as a bridge.
-
-Say you’ve got ants in the kitchen. You wipe them up, and the next morning there’s another line of them.
-
-Take a look at the tree beside the house. If a branch touches the roof, ants can walk right across. A crack in the house may be all they need to get inside.
-
-If you see ants crossing that branch, watch where they go. They might lead you to the crack they’re getting through.
-
-Cutting the branch back so it no longer touches the house takes away that bridge. Seal the crack they’ve been using, too.
-
----
-
-Source: [Managing Household Ant Pests — Texas A&M](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf).
-
-
-### 2026-10-16 21:56 · Ant bridge — new narration take
-
-**The branch ants use as a bridge**
-
-*Narration · new take · draft for feedback*
-
-That branch touching your house? Ants can use it as a bridge.
-
-Say you’ve got ants in the kitchen. You wipe them up, and the next morning there’s another line of them.
-
-Take a look at the tree beside the house. If a branch touches the roof, ants can walk right across. A crack in the house may be all they need to get inside.
-
-Before you start trimming, see if ants are actually using that branch. If they’re crossing over, watch where they go. They might lead you to the crack they’re getting through.
-
-Then trim the branch away from the house and seal that crack.
-
----
-
-Source: [Managing Household Ant Pests — Texas A&M](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf).
-
-
 ### 2026-10-16 20:51 · Trial prompt for natural narration
 
 **Deep Six narration prompt — trial**
@@ -229,29 +159,6 @@ Before returning the draft, check the wording as speech. Rewrite anything that s
 Apply the supplied editing notes to the actual wording. Treat approved examples as the voice target; treat rejected drafts as examples of what needs to change.
 
 Return the narration as short paragraphs. Put the source credit separately, outside the spoken script.
-
-
-### 2026-10-16 20:48 · Ant bridge — narration draft
-
-**The branch ants use as a bridge**
-
-*Narration · selected hook 14 · about 45 seconds*
-
-That branch touching your house? Ants can use it as a bridge.
-
-A branch can get them onto the roof. From there, a small gap may give them a way inside.
-
-So if ants keep turning up indoors, check what’s touching the outside. Tree limbs, shrubs against the siding, vines growing up the wall.
-
-Watch for ants at those contact points. Follow any trail you find—it can help you spot where they’re getting in.
-
-Trim the vegetation back from the house, and seal small entry gaps.
-
-That blocks a route. If ants are already nesting inside, the nest still needs attention.
-
----
-
-Source: [Managing Household Ant Pests — Texas A&M](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf).
 
 
 ### 2026-10-16 20:11 · More ant hooks — 9 through 18
@@ -306,29 +213,6 @@ Same source: [Managing Household Ant Pests — Texas A&M](https://extensionentom
 ---
 
 Same source: [Managing Household Ant Pests — Texas A&M](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf).
-
-
-### 2026-10-16 19:25 · Why the ants keep coming back — narration draft
-
-**Why the ants keep coming back**
-
-*Narration · first draft · about 50 seconds*
-
-You wiped up the ants yesterday. Today, they’re back on the same counter.
-
-That can happen when you remove the workers but leave their nest untouched.
-
-Before cleaning up the next trail, watch where it goes. Check along the wall and around pipes. You may spot where they’re getting in.
-
-Then check what they’re after. Seal up open food, clean up spills, and look under the sink for leaks. Ants need water, too.
-
-If they keep coming back, get the ant identified before choosing a treatment. Different species can need different approaches.
-
-And if reaching the nest would mean opening a wall, leave that to a professional.
-
----
-
-Source: [Managing Household Ant Pests — Texas A&M](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf).
 
 
 ### 2026-10-16 15:16 · Scorpion fun fact, AI image, 3 cents
