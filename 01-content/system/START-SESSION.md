@@ -15,6 +15,7 @@ Drew, 20 Oct 2026, in his words: "establish the entire system and create a new d
    - The runner's planner, animator, new-drawings maker and triage roles have never run for real.
    - Open choice: how hard the AI reviewer works. A whole-video review took 14 minutes of Opus at max effort.
 5. **Clean-up.** List the junk with sizes: old tests, superseded drafts, unused previews, duplicate renders, old diagrams. Drew approves the list before anything is deleted. Keep approved videos, approved audio, approvals and source logs. Commit before and after. No push without Drew's OK.
+   - Also decide where big media should live. The repo is about 2.2 GB, and GitHub warned on 20 Oct about music preview MP4s over 50 MB (72 MB each). Options: keep only finals in git, or use Git LFS.
 
 ## Read first
 
