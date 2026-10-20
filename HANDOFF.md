@@ -1,5 +1,9 @@
 # Session handoff: October 20, 2026
 
+## Next session: one canvas for the whole system, then clean-up (Drew, 20 Oct)
+
+**Start the next chat with [the brief](01-content/system/START-SESSION.md).** It covers a new zero-to-video canvas that includes music, building what is missing, then deleting junk with Drew's approval. The MP3-to-MP4 runner was built and tested on 20 Oct: [build note](01-content/animation/AUTOMATION-BUILD.md). Everything is committed locally; nothing is pushed.
+
 **This is a checkpoint of unfinished work. Drew authorized pushing the current project so another session can continue.**
 
 ## Resume the approved ensign-wasp narration
