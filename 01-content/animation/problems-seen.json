@@ -1,0 +1,234 @@
+{
+ "subject-too-small": {
+  "title": "Small subjects too small to read",
+  "rule": "Show insects, eggs, larvae and other small subjects in close-ups where they fill a third of the frame or more; avoid wide room shots for them.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct): mound",
+    "said": "Mound too small.",
+    "by": "self-check"
+   },
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct): brood",
+    "said": "Brood and life cycle too small to read.",
+    "by": "self-check"
+   },
+   {
+    "at": "2026-10-20",
+    "where": "D6-01096ba333e3 beat sheets, self-check by hand (20 Oct): under-sink shots",
+    "said": "Wide room shots made the insects too small.",
+    "by": "self-check"
+   },
+   {
+    "at": "2026-10-20T04:40:04-05:00",
+    "where": "d6-01096ba333e3-replay the whole video (d6-01096ba333e3-replay-v2-final.mp4) at 41.9 s",
+    "said": "On 'look for egg cases' the egg cases are tiny in a dim, wide under-sink shot. The case in the crack and the one by the back-wall gap are each only about 100 px wide (under a tenth of the 1080 px frame), far below the 'fill a third of the frame' rule for small subjects. On 'egg' (42.0 s) the glint c",
+    "by": "reviewer (claude-opus-5-5)"
+   }
+  ],
+  "rule_added": true
+ },
+ "hidden-under-later-drawing": {
+  "title": "Marks hidden under later drawings",
+  "rule": "Draw highlights, lime rings and hand-held props after the thing they mark, and keep them above the caption, so nothing drawn later covers them.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct): magnifier",
+    "said": "Magnifier hidden by captions and front grass.",
+    "by": "self-check"
+   },
+   {
+    "at": "2026-10-20",
+    "where": "D6-01096ba333e3 beat sheets, self-check by hand (20 Oct): jaw close-up",
+    "said": "A highlight drawn before the head was hidden under it.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": true
+ },
+ "pale-on-dark-misread": {
+  "title": "Pale small shapes on a dark ground read as something else",
+  "rule": "Check close-ups of pale rows on dark grounds (eggs in a case) at full size; give them outlines, shading and spacing so they cannot read as teeth.",
+  "seen": [
+   {
+    "at": "2026-10-20",
+    "where": "D6-01096ba333e3 beat sheets, self-check by hand (20 Oct): egg-case cutaway",
+    "said": "Pale eggs in a dark cut-open case looked like teeth.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "closeup-cluttered": {
+  "title": "Hero close-up cluttered by other characters",
+  "rule": "Keep neighbours out of the close-up window.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Hero ant close-up cluttered by other ants.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "path2d-addpath-joins": {
+  "title": "Path2D.addPath joins pieces into one shape",
+  "rule": "Draw tunnels as round-capped strokes; build paths by hand.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Path2D.addPath drew tunnels as one big triangle.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "overlap-after-pullback": {
+  "title": "Characters overlap after a pull-back",
+  "rule": "Space characters, or walk them in during the move.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Characters overlapping on one ground line after a pull-back.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "upside-down-on-slope": {
+  "title": "Insects upside down on slopes",
+  "rule": "Use rotation = path angle and choose facing from the direction of travel.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Ants upside down on slopes.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "empty-sky": {
+  "title": "Empty sky in side views",
+  "rule": "Zoom until the subject fills most of the frame width.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Empty sky in side views.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "blur-ghosting": {
+  "title": "Motion blur made paper slides ghostly",
+  "rule": "Blur only big zooms and whips; keep paper moves crisp.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Motion blur made paper slides look ghostly.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "full-turn-arc-vanishes": {
+  "title": "A full lime loop vanished",
+  "rule": "An arc of exactly 2*PI draws nothing; stop just short.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "A full lime loop vanished.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "named-element-missing": {
+  "title": "A beat's named element never appeared",
+  "rule": "Check each beat's named element is visible at its beat frame.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Magnifier never appeared: its state was computed but not passed in.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "prop-overlaps-character": {
+  "title": "Prop overlapping a character",
+  "rule": "Check props against characters at the beat frame.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Gauge overlapping the homeowner.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "contradicts-narration-state": {
+  "title": "Picture contradicts the stated situation",
+  "rule": "Hide anything the narration says is absent (no mound means nothing above ground).",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Tunnel ant above a quiet, mound-less lawn.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "holds-go-still": {
+  "title": "Holds went still",
+  "rule": "Keep the camera breathing (live) and push through every hold.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Holds went still for up to 1 s.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "drifting-prop-offscreen": {
+  "title": "Drifting props off-screen during their shot",
+  "rule": "Check drifting props at the shot's actual time.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Drifting clouds off-screen during their shot.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ },
+ "effect-leaks": {
+  "title": "An effect leaked outside its region",
+  "rule": "Clip effects to the region they describe.",
+  "seen": [
+   {
+    "at": "2026-10-19",
+    "where": "D6-6c917b49743b full video, self-check by hand (19 Oct)",
+    "said": "Heat tint leaked into the sky.",
+    "by": "self-check"
+   }
+  ],
+  "rule_added": false
+ }
+}

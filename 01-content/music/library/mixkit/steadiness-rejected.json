@@ -1,0 +1,74 @@
+[
+ {
+  "track": "mixkit-602.mp3",
+  "level_spread_db": 8.8,
+  "big_jumps": 15,
+  "short_term_spread_db": 9.1,
+  "section_changes": 1,
+  "worst_change": 0.165,
+  "voice_room_db": 8.8,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -12.2
+ },
+ {
+  "track": "mixkit-282.mp3",
+  "level_spread_db": 17.8,
+  "big_jumps": 105,
+  "short_term_spread_db": 9.7,
+  "section_changes": 0,
+  "worst_change": 0.13,
+  "voice_room_db": 12.2,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -12.9
+ },
+ {
+  "track": "mixkit-729.mp3",
+  "level_spread_db": 4.5,
+  "big_jumps": 18,
+  "short_term_spread_db": 3.3,
+  "section_changes": 2,
+  "worst_change": 0.177,
+  "voice_room_db": 8.8,
+  "speech_segments": 1,
+  "heard": "\ud83c\udfb5",
+  "lufs": -10.7
+ },
+ {
+  "track": "mixkit-73.mp3",
+  "level_spread_db": 9.6,
+  "big_jumps": 40,
+  "short_term_spread_db": 8.3,
+  "section_changes": 3,
+  "worst_change": 0.563,
+  "voice_room_db": 8.3,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -13.5
+ },
+ {
+  "track": "mixkit-165.mp3",
+  "level_spread_db": 6.7,
+  "big_jumps": 46,
+  "short_term_spread_db": 3.5,
+  "section_changes": 0,
+  "worst_change": 0.163,
+  "voice_room_db": 6.4,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -11.1
+ },
+ {
+  "track": "mixkit-597.mp3",
+  "level_spread_db": 9.7,
+  "big_jumps": 153,
+  "short_term_spread_db": 8.6,
+  "section_changes": 1,
+  "worst_change": 0.167,
+  "voice_room_db": 8.1,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -22.1
+ }
+]

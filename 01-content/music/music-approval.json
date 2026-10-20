@@ -1,0 +1,20 @@
+{
+ "decision": "approved",
+ "approved_by": "Drew",
+ "date": "2026-10-20",
+ "quote": "1 on both is closer. I would say we're done, and those two are good. The using the warm ambient, but obviously, later when we make more, we want it to be better than that, but for now, that's fine.",
+ "track": "library/ace-step/2026-10-20-smooth-no-beat/ambient-warm-seed1002.wav",
+ "track_sha256": "8a7d0ccce92850652aaaa49b4be4d488034665f0842e25832d22771afebe77fd",
+ "mix": "--under 12 --target -14 --tp -2.0 --steady",
+ "finals": {
+  "fire-ants": {
+   "file": "previews/fire-ants-music-H-warm-ambient.mp4",
+   "sha256": "317759c3f314a6839553998f61823f4a2fd165262d8761e639bbf1540f2e2294"
+  },
+  "ensign-wasp": {
+   "file": "previews/ensign-wasp-music-H-warm-ambient.mp4",
+   "sha256": "07ce2c45c8c42f8ea6a9d93ac65a31a9da93b69323c3bc765a74ac123f71a706"
+  }
+ },
+ "paid_calls": 0
+}

@@ -1,0 +1,67 @@
+{
+ "role": "reviewer",
+ "ok": true,
+ "model": "opus",
+ "result": {
+  "pass": false,
+  "notes": [
+   {
+    "time": 41.92,
+    "shot": "I2",
+    "problem": "On 'look for egg cases' the egg cases are tiny in a dim, wide under-sink shot. The case in the crack and the one by the back-wall gap are each only about 100 px wide (under a tenth of the 1080 px frame), far below the 'fill a third of the frame' rule for small subjects. On 'egg' (42.0 s) the glint covers most of the crack case, and at 42.4 s its lime ring runs off the left edge. This is the lesson's key 'what to look for' moment.",
+    "fix": "Make I2's push toward the crack go much further. By 'egg' (41.92 s) the lit egg case in the crack should fill about a third of the frame width, sitting above y 1250. Put the glint beside the case, not on top of it, and keep its lime ring fully inside the frame and above the caption on 'cases' (42.18 s). Ring the back-gap case only if it can also be shown that large; otherwise ring just the crack case, then whip to the gap on 'as' (42.62 s) as planned.",
+    "problem_key": "subject-too-small"
+   }
+  ],
+  "summary": "Checked all 9 filmstrips plus 54 single-frame renders. In every frame checked, the caption highlights the word being said. Every planned beat shows on its word. Motion, holds and cuts are fine. Wasp, larva, pupa, cockroach and egg-case anatomy matches science-notes.md. The episode limits are kept: only the American cockroach is shown, no treatment advice, and no wasp-means-infestation link. The ending is right: the last teaching picture stays readable through 'roaches.' (44.13 s), then the cream wipe plays, and the logo lands at 46.87 s, before 'Deep' at 46.91 s. One fix: the egg cases are too small on 'look for egg cases' (I2). Small things left alone: the flashlight hand sits below the caption, and the pennant is clipped at the right edge for a few frames near 6.0 s. Context: replay-compare.json says this render is frame-for-frame identical to the approved ensign-wasp-v3-final.mp4, so the I2 shot is also in the version Drew approved, and Drew may choose to keep it."
+ },
+ "runs": [
+  {
+   "model": "claude-opus-5-5",
+   "effort": "max",
+   "exit": 0,
+   "elapsed_seconds": 848.5,
+   "usage": {
+    "input_tokens": 76,
+    "cache_creation_input_tokens": 279009,
+    "cache_read_input_tokens": 5195972,
+    "output_tokens": 72477,
+    "output_tokens_details": {
+     "thinking_tokens": 60770
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 279009,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 18497,
+      "cache_read_input_tokens": 270474,
+      "cache_creation_input_tokens": 8535,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 8535
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "plan_cost_equivalent_usd": 4.7211104,
+   "limit": false,
+   "reset": null,
+   "unavailable": false
+  }
+ ],
+ "protected_files_restored": [
+  "make_video.py"
+ ]
+}

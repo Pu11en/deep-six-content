@@ -1,0 +1,280 @@
+{
+ "episode": "D6-01096ba333e3",
+ "run": "d6-01096ba333e3-replay",
+ "manifest": "../audio/D6-01096ba333e3/full-chris-01/comparison.json",
+ "mp3": "../audio/D6-01096ba333e3/full-chris-01/ensign-wasp-chris.mp3",
+ "audio_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710",
+ "audio_seconds": 48.352653,
+ "title": "Runner Test Ensign Wasp",
+ "when": "later",
+ "created_at": "2026-10-20T04:08:19-05:00",
+ "queued_at": "2026-10-20T04:08:19-05:00",
+ "seed": 20261020,
+ "range": [
+  0.0,
+  null
+ ],
+ "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species.",
+ "exclude": [],
+ "ladder": [
+  "opus",
+  "sol",
+  "astra"
+ ],
+ "state": "stopped",
+ "step": "deliver",
+ "steps_done": [
+  "plan",
+  "assets",
+  "prepare",
+  "segments",
+  "join",
+  "render",
+  "finish",
+  "check",
+  "review",
+  "deliver"
+ ],
+ "segments": [
+  {
+   "name": "d6-01096ba333e3-replay-seg01",
+   "start": 0,
+   "end": 44.1333
+  }
+ ],
+ "segments_done": [
+  "d6-01096ba333e3-replay-seg01"
+ ],
+ "made_by": {
+  "plan": "opus",
+  "d6-01096ba333e3-replay-seg01": "opus"
+ },
+ "attempts": {},
+ "notes": {},
+ "seg_model": {},
+ "pilot": {
+  "approved": []
+ },
+ "renders": [
+  {
+   "scene": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/scene.json",
+   "revision": "v1",
+   "pid": 35489,
+   "status": "failed",
+   "started_at": "2026-10-20T04:08:45-05:00",
+   "label": "video",
+   "mp4": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v1.mp4",
+   "log": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/render-v1.log",
+   "ended_at": "2026-10-20T04:13:33-05:00",
+   "error": "stopped near frame 601 of 1472 (crash test: worker and render killed on purpose)",
+   "cleared": true
+  },
+  {
+   "scene": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/scene.json",
+   "revision": "v2",
+   "pid": 41133,
+   "status": "done",
+   "started_at": "2026-10-20T04:13:33-05:00",
+   "label": "video",
+   "mp4": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2.mp4",
+   "log": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/render-v2.log",
+   "ended_at": "2026-10-20T04:25:23-05:00",
+   "cleared": true
+  }
+ ],
+ "deliveries": [
+  {
+   "status": "copied_and_verified",
+   "destination": "C:\\Users\\drewp\\Desktop\\Deep Six - Runner Test Ensign Wasp v1.mp4",
+   "name": "Deep Six - Runner Test Ensign Wasp v1.mp4",
+   "version": 1,
+   "source": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final.mp4",
+   "bytes": 42247930,
+   "sha256": "58bc986bf2146a04e1e9e14036c552ff2a1d8999e3bebd63692108113d2efab7",
+   "player_opened": false,
+   "revision": "d6-01096ba333e3-replay-v2-final",
+   "made_by": {
+    "d6-01096ba333e3-replay-seg01": "claude-opus-5-5"
+   }
+  }
+ ],
+ "version": 2,
+ "fix_rounds": 0,
+ "fix_rounds_allowed": 0,
+ "history": [
+  {
+   "at": "2026-10-20T04:08:19-05:00",
+   "event": "state: waiting",
+   "waiting_for": "Drew's go"
+  },
+  {
+   "at": "2026-10-20T04:08:19-05:00",
+   "event": "test setup: plan and lesson taken from the approved hand-made video of 20 Oct"
+  },
+  {
+   "at": "2026-10-20T04:08:19-05:00",
+   "event": "state: queued"
+  },
+  {
+   "at": "2026-10-20T04:08:20-05:00",
+   "event": "state: running"
+  },
+  {
+   "at": "2026-10-20T04:08:20-05:00",
+   "event": "word timing reused from the episode folder (same MP3 fingerprint)"
+  },
+  {
+   "at": "2026-10-20T04:08:45-05:00",
+   "event": "prepare done"
+  },
+  {
+   "at": "2026-10-20T04:08:45-05:00",
+   "event": "segments done"
+  },
+  {
+   "at": "2026-10-20T04:08:45-05:00",
+   "event": "outro fitted",
+   "trimmed_frames": 9,
+   "logo_landed": 46.8667,
+   "deep": 46.91,
+   "hold": 1.007
+  },
+  {
+   "at": "2026-10-20T04:08:45-05:00",
+   "event": "join done"
+  },
+  {
+   "at": "2026-10-20T04:08:45-05:00",
+   "event": "render started: video v1",
+   "pid": 35489
+  },
+  {
+   "at": "2026-10-20T04:09:13-05:00",
+   "event": "state: queued"
+  },
+  {
+   "at": "2026-10-20T04:09:13-05:00",
+   "event": "resumed after the worker stopped (crash, restart or closed session)"
+  },
+  {
+   "at": "2026-10-20T04:09:13-05:00",
+   "event": "state: running"
+  },
+  {
+   "at": "2026-10-20T04:13:33-05:00",
+   "event": "state: queued"
+  },
+  {
+   "at": "2026-10-20T04:13:33-05:00",
+   "event": "resumed after the worker stopped (crash, restart or closed session)"
+  },
+  {
+   "at": "2026-10-20T04:13:33-05:00",
+   "event": "state: running"
+  },
+  {
+   "at": "2026-10-20T04:13:33-05:00",
+   "event": "render failed: video v1; the next try takes the next revision"
+  },
+  {
+   "at": "2026-10-20T04:13:33-05:00",
+   "event": "render started: video v2",
+   "pid": 41133
+  },
+  {
+   "at": "2026-10-20T04:25:23-05:00",
+   "event": "render finished: video v2"
+  },
+  {
+   "at": "2026-10-20T04:25:23-05:00",
+   "event": "render done"
+  },
+  {
+   "at": "2026-10-20T04:25:26-05:00",
+   "event": "finish done"
+  },
+  {
+   "at": "2026-10-20T04:25:48-05:00",
+   "event": "check done"
+  },
+  {
+   "at": "2026-10-20T04:40:04-05:00",
+   "event": "state: parked",
+   "waiting_for": "Drew decides: go (try again) or stop",
+   "reason": "Still failing after 0 fix rounds (the whole-video reviewer): 41.92 s, shot I2: On 'look for egg cases' the egg cases are tiny in a dim, wide under-sink shot. The case in the crack and the one by the back-wall gap are each only about 100 px wide (under a tenth of the 1080 px frame), far below the 'fill a third of the frame' rule for small subjects. On 'egg' (42.0 s) the glint covers most of the crack case, and at 42.4 s its lime ring runs off the left edge. This is the lesson's key 'what to look for' moment. Fix: Make I2's push toward the crack go much further. By 'egg' (41.92 s) the lit egg case in the crack should fill about a third of the frame width, sitting above y 1250. Put the glint beside the case, not on top of it, and keep its lime ring fully inside the frame and above the caption on 'cases' (42.18 s). Ring the back-gap case only if it can also be shown that large; otherwise ring just the crack case, then whip to the gap on 'as' (42.62 s) as planned."
+  },
+  {
+   "at": "2026-10-20T04:40:47-05:00",
+   "event": "test only: reviewer note recorded, then review marked done by hand so the delivery step runs (Drew approved this video as it is)"
+  },
+  {
+   "at": "2026-10-20T04:40:48-05:00",
+   "event": "state: queued"
+  },
+  {
+   "at": "2026-10-20T04:40:48-05:00",
+   "event": "state: running"
+  },
+  {
+   "at": "2026-10-20T04:40:57-05:00",
+   "event": "deliver done"
+  },
+  {
+   "at": "2026-10-20T04:40:57-05:00",
+   "event": "state: waiting_drew",
+   "waiting_for": {
+    "kind": "video",
+    "version": 1,
+    "desktop": "Deep Six - Runner Test Ensign Wasp v1.mp4",
+    "mp4": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final.mp4",
+    "ask": "Watch 'Deep Six - Runner Test Ensign Wasp v1.mp4' on the Desktop: approve, or give notes."
+   }
+  },
+  {
+   "at": "2026-10-20T04:41:17-05:00",
+   "event": "state: stopped",
+   "reason": "Runner test finished. It reproduced the approved ensign-wasp video byte for byte; nothing to approve."
+  }
+ ],
+ "waiting_for": null,
+ "reason": "Runner test finished. It reproduced the approved ensign-wasp video byte for byte; nothing to approve.",
+ "not_before": null,
+ "new_assets": [],
+ "segment_sha256": {
+  "d6-01096ba333e3-replay-seg01": "1323bb29360c550fe2647b222294d4155fc6a608f0f403e0ac2be6a2641a0b02"
+ },
+ "test": "Replay of the approved, hand-made ensign-wasp lesson; agent steps not re-run.",
+ "worker_pid": 60819,
+ "signoff": 130,
+ "lesson_range": [
+  0.0,
+  44.1333
+ ],
+ "video_range": [
+  0.0,
+  48.352
+ ],
+ "flagged_words": [],
+ "picture": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2.mp4",
+ "final": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final.mp4",
+ "keywords": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final-keywords.png",
+ "file_checks": {
+  "motion": {
+   "longest_still_seconds": 0.233,
+   "picture_change_half_second_median": 0.219
+  },
+  "outro": {
+   "frames_compared": 139,
+   "worst_mean_difference": 1.83,
+   "pass": true,
+   "note": "Mean absolute difference per pixel (0-255) against the approved outro frames, 108x192."
+  },
+  "audio_pass": true,
+  "problems": []
+ },
+ "review": {
+  "pass": false,
+  "summary": "Checked all 9 filmstrips plus 54 single-frame renders. In every frame checked, the caption highlights the word being said. Every planned beat shows on its word. Motion, holds and cuts are fine. Wasp, larva, pupa, cockroach and egg-case anatomy matches science-notes.md. The episode limits are kept: only the American cockroach is shown, no treatment advice, and no wasp-means-infestation link. The ending is right: the last teaching picture stays readable through 'roaches.' (44.13 s), then the cream wipe plays, and the logo lands at 46.87 s, before 'Deep' at 46.91 s. One fix: the egg cases are too small on 'look for egg cases' (I2). Small things left alone: the flashlight hand sits below the caption, and the pennant is clipped at the right edge for a few frames near 6.0 s. Context: replay-compare.json says this render is frame-for-frame identical to the approved ensign-wasp-v3-final.mp4, so the I2 shot is also in the version Drew approved, and Drew may choose to keep it.",
+  "notes": 1
+ }
+}

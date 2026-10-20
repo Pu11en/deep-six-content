@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "manifest": "/home/drewp/main-projects/deep-six-content/01-content/audio/D6-01096ba333e3/full-chris-01/comparison.json",
+  "variant": "full_chris",
+  "request_sha256": "4e0bbf0f51107496d20b5710c184904aa0bcd75898879c383987063f7910b6fd",
+  "started_at": "2026-10-20T06:50:44+00:00",
+  "path": "/home/drewp/main-projects/deep-six-content/01-content/audio/D6-01096ba333e3/full-chris-01/ensign-wasp-chris.mp3",
+  "audio_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710"
+}

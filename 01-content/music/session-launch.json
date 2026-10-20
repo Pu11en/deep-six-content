@@ -1,0 +1,14 @@
+{
+  "status": "submitted",
+  "agent": "claude",
+  "project": "/home/drewp/main-projects/deep-six-content",
+  "workspace_id": 17,
+  "thread_id": "5e15bb8f-815f-4210-9ec0-576130851a8e",
+  "sidebar_open": true,
+  "title": "deep-six-content (Ubuntu)",
+  "window_count_after": 1,
+  "window_count_before": 1,
+  "window": 198690,
+  "prompt_sha256": "6468f212b73c814670da6b96e8c890f2fe53c93ca383df4d8279815a1a39309a",
+  "session_id": "af57653a-1d86-45d0-bea2-5c18e98cb286"
+}

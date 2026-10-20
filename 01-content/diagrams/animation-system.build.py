@@ -521,7 +521,7 @@ text('l_g9_ok', CX + 14, ybot('g9') + 22, 'approve', 15, ONLIGHT)
 arrow('a_d9_bypass', [right('d9'), (1300, ymid('d9')), (1300, ymid('d10')), right('d10')], 'd9', 'd10', FILL['branch'][1])
 text('l_d9_no', 1180, ymid('d9') - 30, 'no', 15, ONLIGHT)
 text('risky_note', RX, ymid('d9') - 30,
-     'Risky = the first segment with new drawings\nor a new pest or set.\n\n'
+     'Risky = the first segment Sol or Astra makes,\nor the first with new drawings.\n\n'
      'Drew watches the clip on the Desktop or board.\nHis notes go back to the Animator.\n\n'
      '19 Oct: Drew approved the hook first; then the\nfull video was made.\n\nDrew\'s choice, 19 Oct: risky runs only.', 16, ONLIGHT)
 
@@ -635,11 +635,13 @@ arrow('a_done_o3', [right('done'), (1520, ymid('done')), top('o3', 1520)], 'done
 # side panels
 py = C + 300
 zone('router_zone', PX, py, PW, 10, 'aizone', 'solid', 2)
-text('router_title', PX + 24, py + 18, 'MAIN FLOW: CLAUDE CODE', 24, PURPLE)
-text('router_sub', PX + 24, py + 52, 'Every AI role uses Opus 5.5. Local tools do the rest.', 15, BODY)
+text('router_title', PX + 24, py + 18, 'MODEL LADDER', 24, PURPLE)
+text('router_sub', PX + 24, py + 52, 'Every AI job starts on Opus 5.5. Drew chose this on 20 Oct.', 15, BODY)
 ladder = [('r1', 'ai', '1  Opus 5.5, max effort', 'Claude Code on Drew\'s Claude plan'),
-          ('r4', 'pause', 'Pause and wait', 'Save finished work. Resume with Claude Code\nwhen available; keep the same approved choices.')]
-why = ['Claude usage limit, or Opus unavailable']
+          ('r2', 'ai', '2  GPT-6 Sol, xhigh', 'Codex on Drew\'s ChatGPT plan'),
+          ('r3', 'ai', '3  GPT-6 Astra, xhigh', 'Codex, same ChatGPT usage limit as Sol'),
+          ('r4', 'pause', 'Pause and wait', 'Save finished work. Resume by itself at the\nfirst reset, starting at Opus again.')]
+why = ['Claude usage limit, or Opus unavailable', 'Sol unavailable, not a usage limit', 'Codex usage limit: blocks Sol and Astra']
 ry = py + 96
 for i, (rid, kind, name, detail) in enumerate(ladder):
     stage(rid, PX + 30 + i * 30, ry, 560, kind, '', name, detail, title_size=20, size=15)
@@ -649,14 +651,15 @@ for i, (rid, kind, name, detail) in enumerate(ladder):
         arrow(f'a_{prev}_{rid}', [(ax, ybot(prev) + EDGE), (ax, ry - EDGE)], prev, rid, FILL['ai'][1] if i < 3 else RED)
         text(f'l_{rid}', ax + 14, ybot(prev) + 22, why[i - 1], 15, ONLIGHT)
     ry = ybot(rid) + GAP
-rules = ('Quality failure: Opus retries with notes.\nAvailability failure: pause and save progress.\n'
+rules = ('Quality failure: the same model retries with notes.\nAvailability failure: next model down, or pause.\n'
          'Every job gets a shell, file writing and image viewing.\nEvery job sees frames from the approved video.\n'
-         'Use the Claude subscription; no paid API calls.\nAstra/Sol prompting research stays outside this flow.')
+         'Subscriptions only; no paid API calls.')
 text('router_rules', PX + 30, ry - 30, rules, 16, ONLIGHT)
 ry = ry - 30 + measure(rules, 16)[1] + 24
-evidence('ev_router', PX + 30, ry, PW - 60, 'Claude Code call (no --bare, no API key)',
-         'claude -p --model claude-opus-5-5 --effort max\n  --output-format json --json-schema <schema>\n\n'
-         'Canvas decision: Claude-only main flow.\nExisting runner defaults still need a separate update.')
+evidence('ev_router', PX + 30, ry, PW - 60, 'The calls (no --bare, no API keys)',
+         'claude -p --model claude-opus-5-5 --effort max\n  --output-format json --json-schema <schema>\n'
+         'codex exec -m gpt-6-sol -c model_reasoning_effort="xhigh"\n  --output-schema <schema>\n\n'
+         'Built in make_video.py on 20 Oct.')
 BY['router_zone']['height'] = round(ybot('ev_router') + 24 - py, 2)
 
 py = ybot('router_zone') + 80
@@ -732,7 +735,7 @@ text('cast_title', HX + 24, 166, 'WHO\'S WHO', 20, TITLE)
 cy2 = 206
 for cid, kind, chip, desc in [('cast_you', 'drew', 'YOU', 'You choose, approve and give notes.'),
                               ('cast_pc', 'code', 'COMPUTER', 'Timing, checks, joining, copying, and the voice\nrecording. Only the voice costs money.'),
-                              ('cast_ai', 'ai', 'AI CREW', 'Researcher, writer, director, animator, reviewers.\nClaude Code with Opus 5.5 for every AI role.')]:
+                              ('cast_ai', 'ai', 'AI CREW', 'Researcher, writer, director, animator, reviewers.\nOpus 5.5 first, then Sol, then Astra.')]:
     box(cid, HX + 24, cy2, 140, 40, kind, chip, 16)
     text(cid + '_desc', HX + 184, cy2 + 8, desc, 18, ONLIGHT)
     cy2 += max(40, measure(desc, 18)[1]) + 18
@@ -998,7 +1001,7 @@ ref = [
      'OPEN, FOR DREW\n'
      'Usage across many videos on the Claude plan.\n\n'
      'DECIDED IN THIS DESIGN\n'
-     'Claude Code with Opus 5.5 for every AI role.\n'
+     'Opus 5.5 first; Sol, then Astra, when Claude\nusage runs out (Drew, 20 Oct).\n'
      'Astra/Sol prompting research: separate, later.\n'
      'Ideas adopted: show the target, proven shot types,\n'
      'watch then judge, pilot when risky, learn from\n'
@@ -1024,7 +1027,7 @@ FX, FW, FC = 4620, 760, 5000
 SX, SW = 5620, 820
 text('research_design_title', FX, 30, 'RESEARCH: START TO CHECKED EVIDENCE', 32, TITLE)
 text('research_design_sub', FX, 84,
-     '20 Oct: refine and prove this flow first. This section ends before narration writing.\n'
+     '20 Oct: refine and prove this flow first. Narration writing continues below.\n'
      'Claude Code / Opus 5.5 directs the research; Ultimate Crawler searches and reads.', 18, BODY)
 stage('rd_start', FX, 170, FW, 'input', '', '1  Start or resume the episode',
       'Continue an unfinished episode at its saved step.\n'
@@ -1088,7 +1091,7 @@ stage('rd_packet', FX, 2010, FW, 'code', '', '9  Pass checked evidence to narrat
       'Contradiction or missing proof: return to research or hook choice.\n'
       'A changed hook needs Drew\'s approval before writing.')
 arrow('rd_a_support_packet', [bottom('rd_support'), top('rd_packet')], 'rd_support', 'rd_packet')
-ellipse('rd_end', FC, 2350, 520, 140, 'done', 'Ready for narration writing\nThis section ends here.', 18)
+ellipse('rd_end', FC, 2350, 520, 140, 'done', 'Evidence ready\nNarration writing starts below', 18)
 arrow('rd_a_packet_end', [bottom('rd_packet'), top('rd_end')], 'rd_packet', 'rd_end')
 stage('rd_history', SX, 1550, SW, 'code', '', 'ONE SOURCE HISTORY, SEPARATE STATES',
       'Shown / rejected / liked and queued / reserved / used.\n'
@@ -1157,6 +1160,286 @@ stage('rd_ready', SX, 3360, SW, 'later', '', 'F  Define evidence ready to write'
       'Every planned factual claim has a checked source and limits.\n'
       'No unresolved contradiction essential to the lesson remains.\n'
       'Pass this package to writing; narration review comes after drafts.', ss='dashed')
+
+# Narration: checked evidence to an approved script. Continues the research flow above.
+# Design from the first full trial (ensign wasp, approved 20 Oct). Proposed rules are marked as proposed.
+N0 = 3700
+line('nr_rule', [(FX, N0 - 50), (6700, N0 - 50)], TITLE, 3, 'solid')
+text('nr_title', FX, N0, 'NARRATION: CHECKED EVIDENCE TO APPROVED SCRIPT', 32, TITLE)
+text('nr_sub', FX, N0 + 54,
+     '20 Oct: continues the research above. Ends when Drew approves the exact words.\n'
+     'Claude Code / Opus 5.5 writes and edits. Turning the script into an MP3 comes next.', 18, BODY)
+
+stage('nr_plan', FX, 3860, FW, 'code', '', '10  Plan the writing',
+      'Inputs: exact hook, checked facts and limits, approved outro.\n'
+      'Add the narration brief, Drew\'s latest feedback, two approved scripts.\n'
+      'Leave out old requests that later feedback replaced.\n'
+      'Retry: reuse checked facts unless the script needs new ones.')
+arrow('nr_a_in', [left('rd_end'), (4575, ymid('rd_end')), (4575, ymid('nr_plan')), left('nr_plan')],
+      'rd_end', 'nr_plan')
+diamond('nr_facts', FC, ybot('nr_plan') + 170, 420, 200, 'branch', 'Enough checked\nfacts?', 18)
+arrow('nr_a_plan_facts', [bottom('nr_plan'), top('nr_facts')], 'nr_plan', 'nr_facts')
+stage('nr_draft', FX, ybot('nr_facts') + 68, FW, 'ai', '', '11  Write five full narrations',
+      'Every script opens with the exact hook and answers it right away.\n'
+      'One clear lesson each. Facts are material, not a checklist.\n'
+      'Plain spoken words. Explain names. Something to notice or do.\n'
+      'No source names or credits spoken. No em dashes. No word target.\n'
+      'Drew can ask for one focused script instead of five.')
+arrow('nr_a_facts_draft', [bottom('nr_facts'), top('nr_draft')], 'nr_facts', 'nr_draft')
+text('nr_yes_facts', FC + 14, ybot('nr_facts') + 12, 'yes', 15, ONLIGHT)
+stage('nr_edit', FX, ybot('nr_draft') + 70, FW, 'ai', '', '12  Edit in a separate pass',
+      'A second call reads it like a first-time listener.\n'
+      'Cut repeats, obvious points and filler. Fix unclear steps.\n'
+      'Check every claim against its fact and limits. Never invent one.\n'
+      'One editing pass. Unfixed problems stop the script.')
+arrow('nr_a_draft_edit', [bottom('nr_draft'), top('nr_edit')], 'nr_draft', 'nr_edit')
+stage('nr_check', FX, ybot('nr_edit') + 70, FW, 'code', '', '13  Run the automatic checks',
+      'Exact hook first. Exact outro last, once, as its own paragraph.\n'
+      'Right count, no duplicates, known fact IDs, no banned wording.\n'
+      'Passing means ready for Drew to read, not approved.')
+arrow('nr_a_edit_check', [bottom('nr_edit'), top('nr_check')], 'nr_edit', 'nr_check')
+diamond('nr_pass', FC, ybot('nr_check') + 170, 420, 200, 'branch', 'Every check\npassed?', 18)
+arrow('nr_a_check_pass', [bottom('nr_check'), top('nr_pass')], 'nr_check', 'nr_pass')
+stage('nr_show', FX, ybot('nr_pass') + 68, FW, 'drew', '', '14  Drew reads every script in chat',
+      'Whole scripts, numbered, in short paragraphs.\n'
+      'Shown in chat, not the side panel. Source notes kept separate.\n'
+      'Word count is an estimate. Real length comes from the MP3.\n'
+      'Drew can stop. Next time, the same review comes back.')
+arrow('nr_a_pass_show', [bottom('nr_pass'), top('nr_show')], 'nr_pass', 'nr_show')
+text('nr_yes_pass', FC + 14, ybot('nr_pass') + 12, 'yes', 15, ONLIGHT)
+diamond('nr_choice', FC, ybot('nr_show') + 180, 420, 220, 'drew', 'What does\nDrew say?', 18)
+arrow('nr_a_show_choice', [bottom('nr_show'), top('nr_choice')], 'nr_show', 'nr_choice', FILL['drew'][1])
+stage('nr_lock', FX, ybot('nr_choice') + 68, FW, 'code', '', '15  Lock the approved words',
+      'Save the exact words and their fingerprint, unchanged.\n'
+      'Record Drew\'s reply, time, hook, source, facts, writer, prompt version.\n'
+      'Approved words never change. A change means a new version to approve.\n'
+      'Main and supporting sources stay reserved until the final MP4.')
+arrow('nr_a_choice_lock', [bottom('nr_choice'), top('nr_lock')], 'nr_choice', 'nr_lock', FILL['drew'][1])
+text('nr_pick', FC + 14, ybot('nr_choice') + 12, 'picks one', 15, ONLIGHT)
+stage('nr_learn', FX, ybot('nr_lock') + 70, FW, 'code', '', '16  Keep what Drew taught',
+      'Lasting corrections go into the narration brief for every episode.\n'
+      'Episode-only choices stay with this episode.\n'
+      'Unchosen scripts are not disliked. Do not guess reasons.')
+arrow('nr_a_lock_learn', [bottom('nr_lock'), top('nr_learn')], 'nr_lock', 'nr_learn')
+ellipse('nr_end', FC, ybot('nr_learn') + 140, 520, 140, 'done', 'Approved narration\nReady to become an MP3', 18)
+arrow('nr_a_learn_end', [bottom('nr_learn'), top('nr_end')], 'nr_learn', 'nr_end')
+
+# Retry routes on the left: back to research (step 8), rewrite (step 11), back to hook choice (step 7).
+fy, py, cy = ymid('nr_facts'), ymid('nr_pass'), ymid('nr_choice')
+arrow('nr_back_research', [left('nr_facts'), (4515, fy), (4515, 1750), left('rd_support', 1750)],
+      'nr_facts', 'rd_support', RED, 2, 'dashed', kind='back')
+text('nr_back_research_label', 4530, fy - 50, 'no: research the gap\nback to step 8', 15, RED)
+arrow('nr_rewrite', [left('nr_pass'), (4560, py), (4560, ymid('nr_draft')), left('nr_draft')],
+      'nr_pass', 'nr_draft', RED, 2, 'dashed', kind='back')
+text('nr_rewrite_label', 4572, py - 50, 'no: write again\ntwice: stop, tell Drew', 15, RED)
+arrow('nr_back_hook', [left('nr_choice'), (4480, cy), (4480, 1575), left('rd_hook', 1575)],
+      'nr_choice', 'rd_hook', RED, 2, 'dashed', kind='back')
+text('nr_back_hook_label', 4495, cy - 50, 'hook or source wrong:\nback to step 7', 15, RED)
+
+# Side column: what a finished script looks like, what the first trial taught, status, failures, revisions.
+evidence('nr_example', SX, 3990, SW, 'APPROVED EXAMPLE: ENSIGN WASP, 138 WORDS, 20 OCT',
+         'HOOK, exact: Why would a wasp lay its egg inside a cockroach\'s egg case?\n'
+         'ANSWER: A small wasp called an ensign wasp puts one egg inside...\n'
+         'STORY: tiny jaws cut the roach eggs; it grows into an adult; cuts a hole out.\n'
+         'HOMEOWNER STEP: check warm, damp cracks for egg cases as well as live roaches.\n'
+         'OUTRO, exact: Helping you understand pests. Deep Six Pest Control.\n'
+         '\n'
+         'Source credit and supporting links live in the file, never in the spoken words.')
+stage('nr_lessons', SX, ybot('nr_example') + 60, SW, 'drew', '', 'WHAT DREW TAUGHT US ON THE FIRST SCRIPT',
+      'First five: repetitive, obvious endings, filler. Fix: more science, one lesson.\n'
+      'Abrupt sign-off: finish the teaching thought, then the outro.\n'
+      'No university names spoken. Plain words: sticky traps, cardboard boxes.\n'
+      'Explain each step: the young wasp becomes an adult, then cuts its way out.\n'
+      'Liked story, weak ending: keep the story, try five endings. Drew chose 3.\n'
+      'All of this now lives in the narration brief for every episode.')
+stage('nr_status', SX, ybot('nr_lessons') + 60, SW, 'later', '', 'WHAT EXISTS / WHAT STILL NEEDS BUILDING',
+      'Built: five or one scripts, separate edit, exact hook and outro checks,\n'
+      'pick or reject, locked approval with fingerprint, feedback memory.\n'
+      'Writer today: Astra, then Sol (Claude was out of credits).\n'
+      'Design: Opus 5.5 first. Backup when Claude runs out: Sol or Astra.\n'
+      'Still needed: change-one-line edits with re-approval, version\n'
+      'history for approved scripts, one resume screen, a live Opus trial.', ss='dashed')
+stage('nr_fail', SX, ybot('nr_status') + 60, SW, 'pause', '', 'WHEN WRITING BREAKS',
+      'Model limit or outage: switch to the backup and keep every choice.\n'
+      'Broken answer: stop that step. Do not quietly retry other models.\n'
+      'Interrupted run: bring back the waiting review. Never start a second one.\n'
+      'A late result from an older request is ignored.\n'
+      'Evidence is saved before writing, so a crash never repeats research.')
+stage('nr_revise', SX, cy - 86, SW, 'ai', '', 'REVISE: SAME HOOK, SAME SOURCE',
+      'Reject all: five new scripts. Claude picks a new angle itself.\n'
+      'No reason needed from Drew. Never guess one.\n'
+      '"Keep this story, fix the end": change only what Drew named.\n'
+      '"Use 2 but change this line" is a change, not approval.\n'
+      'Show the whole new script again before anything is saved.')
+arrow('nr_a_choice_revise', [right('nr_choice'), left('nr_revise', cy)], 'nr_choice', 'nr_revise',
+      FILL['drew'][1])
+text('nr_revise_label', FC + 228, cy - 30, 'reject all, or change part', 15, ONLIGHT)
+arrow('nr_revise_loop', [right('nr_revise', cy), (6540, cy), (6540, ymid('nr_plan')), right('nr_plan')],
+      'nr_revise', 'nr_plan', RED, 2, 'dashed', kind='back')
+text('nr_revise_loop_label', 6560, cy - 200, 'Back to step 10\nwith the new\ndirection.\nSame hook,\nsame source.', 16, RED)
+
+# Proposed rules, two columns, like the research rules above.
+RY = ybot('nr_end') + 110
+text('nr_rules_title', FX, RY, 'NARRATION RULES TO ADD AND PROVE', 26, TITLE)
+text('nr_rules_sub', FX, RY + 48,
+     'Proposed. Parts exist in code; the full set needs a real trial on the next episode.', 17, BODY)
+rules = [
+    ('nr_r_frozen', 'G  Changes after approval',
+     'Approved words stay frozen. Any change becomes a new version.\n'
+     'Drew approves the new version; the old approval stays on record.\n'
+     'An MP3 of the old words no longer matches; ask before a new one.'),
+    ('nr_r_outro', 'H  Outro and brand changes',
+     'The website address may join the outro later. Not decided yet.\n'
+     'Unapproved drafts switch to the newest approved outro.\n'
+     'Approved scripts keep their words unless Drew asks for a change.'),
+    ('nr_r_misses', 'I  Repeated rejections',
+     'Each round, Claude changes something real: angle, order,\n'
+     'ending or the facts used. It says what changed in one plain line.\n'
+     'After several misses, offer one focused script or more research.\n'
+     'Never ask Drew to explain or diagnose the writing.'),
+    ('nr_r_claims', 'J  Facts and claims',
+     'Every claim maps to a checked fact. Advice drawn from facts\n'
+     'is marked as advice, like "you can leave it alone."\n'
+     'Keep species and place limits. A sighting is a clue, not proof.\n'
+     'No disclaimer for a claim the script never made.'),
+    ('nr_r_length', 'K  Length',
+     'No fixed length is approved. The lesson sets the length.\n'
+     'Show the word count; the MP3 measures the real seconds.\n'
+     'First two episodes: ants 78.6 seconds; wasp 138 words.'),
+    ('nr_r_ready', 'L  Ready to become an MP3',
+     'Drew picked it with an explicit reply. Silence is never approval.\n'
+     'Saved words match what Drew saw, character for character.\n'
+     'Hook and outro exact. Every claim checked. No em dashes.\n'
+     'Its sources stay reserved for this episode.'),
+]
+ry = RY + 110
+for i in range(0, len(rules), 2):
+    (ida, ta, ba), (idb, tb, bb) = rules[i], rules[i + 1]
+    stage(ida, FX, ry, FW, 'later', '', ta, ba, ss='dashed')
+    stage(idb, SX, ry, SW, 'later', '', tb, bb, ss='dashed')
+    h = max(BY[ida]['height'], BY[idb]['height'])
+    for rid in (ida, idb):   # equal heights per row; children stay inside
+        BY[rid]['height'] = round(h, 2)
+    ry += h + 50
+
+# MP3: approved script to approved recording. Claude's recommended design, 20 Oct.
+M0 = ybot('nr_r_ready') + 190
+line('mp_rule', [(FX, M0 - 50), (6700, M0 - 50)], TITLE, 3, 'solid')
+text('mp_title', FX, M0, 'MP3: APPROVED SCRIPT TO APPROVED RECORDING', 32, TITLE)
+text('mp_sub', FX, M0 + 54,
+     '20 Oct: Claude\'s recommended design. Ends when Drew approves one exact MP3.\n'
+     'ElevenLabs makes the voice. It costs credits, so Drew says yes before every take.', 18, BODY)
+
+stage('mp_voice', FX, M0 + 160, FW, 'code', '', '17  Pick the voice',
+      'Next in the rotation: Tyler, Chris, Liam. Wasp episode: Chris.\n'
+      'Reserve it once per script. Fixes and retakes keep the same voice.\n'
+      'A different voice only when Drew chooses one.')
+arrow('mp_a_in', [left('nr_end'), (4575, ymid('nr_end')), (4575, ymid('mp_voice')), left('mp_voice')],
+      'nr_end', 'mp_voice')
+stage('mp_prep', FX, ybot('mp_voice') + 70, FW, 'ai', '', '18  Prepare the read',
+      'Add delivery hints only: [curious], [explaining clearly], pauses.\n'
+      'Remove the hints and the words must equal the approved script.\n'
+      'Find hard words, like "ensign", and check how to say them.\n'
+      'Same model and settings as the approved ant recording.')
+arrow('mp_a_voice_prep', [bottom('mp_voice'), top('mp_prep')], 'mp_voice', 'mp_prep')
+stage('mp_cost', FX, ybot('mp_prep') + 70, FW, 'code', '', '19  Show Drew the cost and ask',
+      'One full take: characters needed and credits left, checked live.\n'
+      'Wasp: 885 characters. No top-ups or other paid voice services.\n'
+      'Drew\'s yes covers exactly one take of this read.')
+arrow('mp_a_prep_cost', [bottom('mp_prep'), top('mp_cost')], 'mp_prep', 'mp_cost')
+diamond('mp_ok', FC, ybot('mp_cost') + 170, 420, 200, 'drew', 'Drew says\nyes?', 18)
+arrow('mp_a_cost_ok', [bottom('mp_cost'), top('mp_ok')], 'mp_cost', 'mp_ok', FILL['drew'][1])
+stage('mp_take', FX, ybot('mp_ok') + 68, FW, 'code', '', '20  Make one full take',
+      'Lock the job and save a checkpoint before the request.\n'
+      'Save the MP3, its fingerprint, request ID and settings.\n'
+      'Error or timeout: check account history first. Never retry blind.')
+arrow('mp_a_ok_take', [bottom('mp_ok'), top('mp_take')], 'mp_ok', 'mp_take', FILL['drew'][1])
+text('mp_yes_ok', FC + 14, ybot('mp_ok') + 12, 'yes', 15, ONLIGHT)
+stage('mp_qc', FX, ybot('mp_take') + 70, FW, 'code', 'PROPOSED', '21  Free checks before Drew listens',
+      'Three offline speech models write down what they hear.\n'
+      'Compare with the approved words: missing, extra or garbled words.\n'
+      'Flag unclear words. Check length, silence, clipping and volume.\n'
+      'The same pass makes the word timings the video needs.')
+arrow('mp_a_take_qc', [bottom('mp_take'), top('mp_qc')], 'mp_take', 'mp_qc')
+diamond('mp_words', FC, ybot('mp_qc') + 170, 420, 200, 'branch', 'Every word\nthere?', 18)
+arrow('mp_a_qc_words', [bottom('mp_qc'), top('mp_words')], 'mp_qc', 'mp_words')
+stage('mp_listen', FX, ybot('mp_words') + 68, FW, 'drew', '', '22  Drew listens',
+      'MP3 copied to the Windows Desktop with a clear name.\n'
+      'Copy checked against the original. No player pops up.\n'
+      'Chat shows the voice, script version, length and flagged words.')
+arrow('mp_a_words_listen', [bottom('mp_words'), top('mp_listen')], 'mp_words', 'mp_listen')
+text('mp_yes_words', FC + 14, ybot('mp_words') + 12, 'yes', 15, ONLIGHT)
+diamond('mp_answer', FC, ybot('mp_listen') + 180, 420, 220, 'drew', 'What does\nDrew say?', 18)
+arrow('mp_a_listen_answer', [bottom('mp_listen'), top('mp_answer')], 'mp_listen', 'mp_answer', FILL['drew'][1])
+stage('mp_lock', FX, ybot('mp_answer') + 68, FW, 'code', '', '23  Lock the approved MP3',
+      'Bind Drew\'s reply to this exact MP3 fingerprint and settings.\n'
+      'Voice tests are preferences, not approval of the full MP3.\n'
+      'Any later change makes a new take; approval never carries over.')
+arrow('mp_a_answer_lock', [bottom('mp_answer'), top('mp_lock')], 'mp_answer', 'mp_lock', FILL['drew'][1])
+text('mp_approves', FC + 14, ybot('mp_answer') + 12, 'approves', 15, ONLIGHT)
+stage('mp_package', FX, ybot('mp_lock') + 70, FW, 'code', '', '24  Package it for the video',
+      'MP3, approved script, word timings, settings and every approval.\n'
+      'The video step starts only when Drew asks. Sources stay reserved.')
+arrow('mp_a_lock_package', [bottom('mp_lock'), top('mp_package')], 'mp_lock', 'mp_package')
+ellipse('mp_end', FC, ybot('mp_package') + 140, 520, 140, 'done', 'Approved MP3\nReady for the video', 18)
+arrow('mp_a_package_end', [bottom('mp_package'), top('mp_end')], 'mp_package', 'mp_end')
+
+# Word check fails: fix the read (step 18), then ask again.
+wy = ymid('mp_words')
+arrow('mp_refix', [left('mp_words'), (4560, wy), (4560, ymid('mp_prep')), left('mp_prep')],
+      'mp_words', 'mp_prep', RED, 2, 'dashed', kind='back')
+text('mp_refix_label', 4572, wy - 50, 'no: fix the read,\nthen ask again', 15, RED)
+
+# Side column: opinion first, then the real settings, pauses, failures, status and sound fixes.
+stage('mp_opinion', SX, M0 + 160, SW, 'ai', '', 'CLAUDE\'S OPINION: WHAT MATTERS MOST',
+      '1. Check the words for free before Drew listens. The video tool already\n'
+      '   does it: three offline speech models compare what they hear.\n'
+      '2. One full take per yes. Fix by re-taking the whole read, never splicing.\n'
+      '3. Skip voice tests for voices Drew already liked. Chris is ready.\n'
+      '4. Ask before every take for now. Once trusted: a small cap per episode.\n'
+      '5. Hand the video step the word timings with the MP3, so it starts at once.')
+evidence('mp_example', SX, ybot('mp_opinion') + 60, SW, 'REAL SETTINGS: ANT EPISODE, APPROVED 19 OCT',
+         'Voice: Tyler. Model: eleven_v4. Seed: 20261019. Format: mp3_44100_128.\n'
+         'Stability 0.5, similarity 0.75. Same settings prepared for the wasp take.\n'
+         'Render text: [curious, conversational] A fire ant colony doesn\'t...\n'
+         'Remove the [hints] and the words equal the approved script exactly.\n'
+         'Result: 78.6 seconds. Drew: "I love it." Approval bound to the MP3 fingerprint.\n'
+         '\n'
+         'Wasp take: Chris, 885 characters, same settings. Run by another session.')
+oy = ymid('mp_ok')
+stage('mp_notnow', SX, oy - 56, SW, 'pause', '', 'NOT NOW: PAUSE, NOTHING SPENT',
+      'Everything stays saved. Next time, the same question comes back.\n'
+      'No take without a clear yes in chat. Silence is never a yes.')
+arrow('mp_a_ok_notnow', [right('mp_ok'), left('mp_notnow', oy)], 'mp_ok', 'mp_notnow', FILL['drew'][1])
+text('mp_notnow_label', FC + 228, oy - 30, 'not now', 15, ONLIGHT)
+stage('mp_fail', SX, ybot('mp_notnow') + 60, SW, 'pause', '', 'WHEN A TAKE GOES WRONG',
+      'Timeout or error: check account history first. Credits may be used.\n'
+      'File arrived but broken: recover the saved bytes before a new take.\n'
+      'Not enough credits: stop and tell Drew. No top-up.\n'
+      'Double click or two sessions: the lock blocks a second paid request.')
+stage('mp_status', SX, ybot('mp_fail') + 60, SW, 'later', '', 'WHAT EXISTS / WHAT STILL NEEDS BUILDING',
+      'Built: voice rotation, word-match check on the read, spending limit per\n'
+      'yes, lock against double requests, fingerprinted approval of the MP3.\n'
+      'Built for video: offline word timing with three speech models.\n'
+      'Still needed: run that word check here, automatic Desktop copy,\n'
+      'one resume screen, a standing spending cap (Drew decides).', ss='dashed')
+ay = ymid('mp_answer')
+stage('mp_fix', SX, ay - 86, SW, 'ai', '', 'FIX THE SOUND, KEEP THE WORDS',
+      'Wrong pronunciation: test only that phrase, then one new full take.\n'
+      'Flat or odd delivery: test the hook in the same voice first.\n'
+      'Voice disliked: short hook tests in other voices. Drew picks.\n'
+      'Every new take needs a new yes from Drew (step 19).\n'
+      'Wrong words: back to narration; the script needs new approval.')
+arrow('mp_a_answer_fix', [right('mp_answer'), left('mp_fix', ay)], 'mp_answer', 'mp_fix', FILL['drew'][1])
+text('mp_fix_label', FC + 228, ay - 30, 'sound or words problem', 15, ONLIGHT)
+fy0, fy1 = BY['mp_fix']['y'] + 40, ybot('mp_fix') - 30
+arrow('mp_retake_loop', [right('mp_fix', fy0), (6540, fy0), (6540, ymid('mp_cost')), right('mp_cost')],
+      'mp_fix', 'mp_cost', RED, 2, 'dashed', kind='back')
+text('mp_retake_label', 6560, fy0 - 260, 'New take:\nback to\nstep 19 for\na new yes.', 16, RED)
+ry_ = BY['nr_revise']['y'] + BY['nr_revise']['height'] - 36
+arrow('mp_words_back', [right('mp_fix', fy1), (6720, fy1), (6720, ry_), right('nr_revise', ry_)],
+      'mp_fix', 'nr_revise', RED, 2, 'dashed', kind='back')
+text('mp_words_back_label', 6560, ry_ + 16, 'Wrong words\nfrom the MP3', 15, RED)
 
 # zones render underneath everything else
 ELS.sort(key=lambda e: 0 if (e.get('customData') or {}).get('kind') == 'zone' else 1)

@@ -1,0 +1,993 @@
+{
+  "episode_id": "D6-01096ba333e3",
+  "segment": "full",
+  "author": "Opus 5.5 (Claude Code), max effort",
+  "pacing_rules": {
+    "max_shot_seconds": 2.0,
+    "new_visual_action_every_seconds": 0.5
+  },
+  "science_guardrails": [
+    "Ensign wasp: all black, small, flag-like flattened abdomen on a thin stalk set high on the thorax, long hind legs, clear wings; does not sting people.",
+    "One white wasp egg per egg case; the larva feeds on the cockroach eggs inside; first-instar jaws sharply pointed with a row of small teeth.",
+    "Pupa inside the case with no cocoon; the adult cuts a small round jagged hole near one end of a long side.",
+    "American cockroach: reddish brown, pale-yellow band round the pronotum edge, long wings, long antennae, spiny legs. Egg case purse-shaped, dark, ridged seam, 16 eggs in two rows.",
+    "Only the American cockroach is shown as a host; no claim about every species.",
+    "No treatment advice: no sprays, baits or traps. The flashlight is inspection only.",
+    "A wasp sighting is not shown as proof of an infestation.",
+    "No on-screen text other than captions."
+  ],
+  "shots": [
+    {
+      "id": "H1",
+      "start": 0.0,
+      "end": 0.92,
+      "set": "macro floor",
+      "words": "Why would a",
+      "visual": "Close profile of the black ensign wasp walking across the cabinet floor, its small flag-shaped abdomen bobbing on a thin stalk.",
+      "camera": "Tracks the wasp, slow push.",
+      "beats": [
+        {
+          "word": "Why",
+          "word_index": 0,
+          "at": 0.0,
+          "action": "Wasp mid-stride; a question mark pops above it."
+        },
+        {
+          "word": "would",
+          "word_index": 1,
+          "at": 0.42,
+          "action": "Wasp stops; the flag-like abdomen flicks up."
+        }
+      ]
+    },
+    {
+      "id": "H2",
+      "start": 0.92,
+      "end": 2.4,
+      "set": "macro floor",
+      "words": "wasp lay its egg inside",
+      "visual": "The wasp stands on top of a dark, ridged cockroach egg case.",
+      "camera": "Whip back from the wasp to show the case under it, then push in.",
+      "beats": [
+        {
+          "word": "wasp",
+          "word_index": 3,
+          "at": 0.92,
+          "action": "Pull back: the wasp is standing on an egg case."
+        },
+        {
+          "word": "lay",
+          "word_index": 4,
+          "at": 1.3,
+          "action": "Its abdomen tip bends down and presses on the case, wriggling."
+        },
+        {
+          "word": "egg",
+          "word_index": 6,
+          "at": 1.66,
+          "action": "A see-through circle opens on the case: one white egg pops inside."
+        },
+        {
+          "word": "inside",
+          "word_index": 7,
+          "at": 1.88,
+          "action": "The circle widens to show the egg inside among the rows of cockroach eggs."
+        }
+      ]
+    },
+    {
+      "id": "H3",
+      "start": 2.4,
+      "end": 3.32,
+      "set": "macro floor",
+      "words": "a cockroach's egg",
+      "visual": "Paper slide to a big American cockroach (reddish brown, pale-rimmed shield, long wings and antennae) with its egg case at the tip of its abdomen.",
+      "camera": "Wide, then push to the egg case.",
+      "beats": [
+        {
+          "word": "cockroach's",
+          "word_index": 9,
+          "at": 2.4,
+          "action": "Cockroach slides in, walking, antennae sweeping."
+        },
+        {
+          "word": "egg",
+          "word_index": 10,
+          "at": 3.06,
+          "action": "Camera pushes to the egg case at its tail; lime ring."
+        }
+      ]
+    },
+    {
+      "id": "H4",
+      "start": 3.32,
+      "end": 4.46,
+      "set": "macro floor",
+      "words": "case?",
+      "visual": "The egg case sits on the floor; a question mark beside it.",
+      "camera": "Slow push in on the case.",
+      "beats": [
+        {
+          "word": "case?",
+          "word_index": 11,
+          "at": 3.32,
+          "action": "The case drops to the floor with a bounce; a question mark pops."
+        }
+      ]
+    },
+    {
+      "id": "A1",
+      "start": 4.46,
+      "end": 5.48,
+      "set": "macro floor",
+      "words": "A small wasp",
+      "visual": "Scale: the tiny wasp next to the egg case and the huge cockroach.",
+      "camera": "Starts tight on the wasp, fast pull back to the wide comparison.",
+      "beats": [
+        {
+          "word": "small",
+          "word_index": 13,
+          "at": 4.58,
+          "action": "Fast pull back: the wasp is tiny beside the roach."
+        },
+        {
+          "word": "wasp",
+          "word_index": 14,
+          "at": 4.9,
+          "action": "Lime ring pops round the small wasp; its abdomen bobs."
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "start": 5.48,
+      "end": 6.99,
+      "set": "macro floor",
+      "words": "called an ensign wasp",
+      "visual": "Portrait of the wasp; a purple paper pennant on a pole appears beside its abdomen and waves with it.",
+      "camera": "Medium, drifting to the abdomen.",
+      "beats": [
+        {
+          "word": "called",
+          "word_index": 15,
+          "at": 5.48,
+          "action": "Cut to the wasp portrait, antennae waving."
+        },
+        {
+          "word": "ensign",
+          "word_index": 17,
+          "at": 5.93,
+          "action": "Ensign (flag) pennant pops up beside the abdomen; both wave together. Symbol for the name."
+        },
+        {
+          "word": "wasp",
+          "word_index": 18,
+          "at": 6.36,
+          "action": "Pennant flips away; the abdomen bobs up and down twice."
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "start": 6.99,
+      "end": 8.87,
+      "set": "macro floor",
+      "words": "puts one egg inside.",
+      "visual": "The wasp braces on the egg case and presses its abdomen tip into the case wall.",
+      "camera": "Medium on the case, push in.",
+      "beats": [
+        {
+          "word": "puts",
+          "word_index": 19,
+          "at": 6.99,
+          "action": "Wasp presses its abdomen tip to the case, wriggling."
+        },
+        {
+          "word": "one",
+          "word_index": 20,
+          "at": 7.14,
+          "action": "See-through circle: ONE white egg slides in; lime ring."
+        },
+        {
+          "word": "egg",
+          "word_index": 21,
+          "at": 7.52,
+          "action": "The egg glints."
+        },
+        {
+          "word": "inside.",
+          "word_index": 22,
+          "at": 7.8,
+          "action": "Circle widens: the egg is inside, among cockroach eggs; the wasp walks off."
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "start": 8.87,
+      "end": 9.92,
+      "set": "case cutaway",
+      "words": "When it hatches,",
+      "visual": "Inside the opened case: two rows of pale cockroach eggs and the wasp egg on top.",
+      "camera": "Tight on the wasp egg.",
+      "beats": [
+        {
+          "word": "When",
+          "word_index": 23,
+          "at": 8.87,
+          "action": "The wasp egg wobbles."
+        },
+        {
+          "word": "hatches,",
+          "word_index": 25,
+          "at": 9.14,
+          "action": "It splits; a tiny pale larva wriggles out."
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "start": 9.92,
+      "end": 10.72,
+      "set": "case cutaway",
+      "words": "the young wasp",
+      "visual": "The young larva close up: pale, legless, segmented, with small jaws.",
+      "camera": "Push in on the larva.",
+      "beats": [
+        {
+          "word": "young",
+          "word_index": 27,
+          "at": 10.04,
+          "action": "Larva wriggles, jaws working."
+        },
+        {
+          "word": "wasp",
+          "word_index": 28,
+          "at": 10.26,
+          "action": "Lime ring round the young wasp."
+        }
+      ]
+    },
+    {
+      "id": "B3",
+      "start": 10.72,
+      "end": 11.76,
+      "set": "case cutaway",
+      "words": "has a dozen or more",
+      "visual": "The whole cutaway: a dozen or more cockroach eggs around the larva.",
+      "camera": "Pull back to the whole case.",
+      "beats": [
+        {
+          "word": "has",
+          "word_index": 29,
+          "at": 10.72,
+          "action": "Pull back to the whole case."
+        },
+        {
+          "word": "dozen",
+          "word_index": 31,
+          "at": 11.02,
+          "action": "Eggs light up one by one, twelve of them."
+        },
+        {
+          "word": "or",
+          "word_index": 32,
+          "at": 11.4,
+          "action": "More light up: the back row too."
+        }
+      ]
+    },
+    {
+      "id": "B4",
+      "start": 11.76,
+      "end": 13.68,
+      "set": "case cutaway",
+      "words": "cockroach eggs to feed on.",
+      "visual": "The rows of cockroach eggs; the larva turns to the nearest egg.",
+      "camera": "Pans along the egg row, then to the larva.",
+      "beats": [
+        {
+          "word": "cockroach",
+          "word_index": 34,
+          "at": 11.76,
+          "action": "Pan along the row of cockroach eggs."
+        },
+        {
+          "word": "eggs",
+          "word_index": 35,
+          "at": 12.28,
+          "action": "All the eggs bounce."
+        },
+        {
+          "word": "feed",
+          "word_index": 37,
+          "at": 12.68,
+          "action": "Larva turns to the nearest egg and opens its jaws."
+        },
+        {
+          "word": "on.",
+          "word_index": 38,
+          "at": 12.88,
+          "action": "Chomp."
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "start": 13.68,
+      "end": 14.86,
+      "set": "case cutaway",
+      "words": "The young wasp uses",
+      "visual": "The larva crawls across the tops of the eggs.",
+      "camera": "Tracks the larva, close.",
+      "beats": [
+        {
+          "word": "young",
+          "word_index": 40,
+          "at": 13.78,
+          "action": "Larva wriggles forward."
+        },
+        {
+          "word": "uses",
+          "word_index": 42,
+          "at": 14.42,
+          "action": "It lifts its head toward us."
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "start": 14.86,
+      "end": 15.98,
+      "set": "jaw close-up",
+      "words": "pointed jaws with",
+      "visual": "Head-on close-up: two sharply pointed, sickle-shaped jaws.",
+      "camera": "Close, slight push.",
+      "beats": [
+        {
+          "word": "pointed",
+          "word_index": 43,
+          "at": 14.86,
+          "action": "Jaws snap open; the sharp points glint."
+        },
+        {
+          "word": "jaws",
+          "word_index": 44,
+          "at": 15.18,
+          "action": "Jaws snap shut and open: a chomp with a small shake."
+        },
+        {
+          "word": "with",
+          "word_index": 45,
+          "at": 15.58,
+          "action": "Camera slides toward one jaw."
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "start": 15.98,
+      "end": 17.18,
+      "set": "jaw close-up",
+      "words": "tiny teeth to",
+      "visual": "The inner edge of the jaw, lined with a row of small teeth.",
+      "camera": "Tight on the jaw edge.",
+      "beats": [
+        {
+          "word": "tiny",
+          "word_index": 46,
+          "at": 15.98,
+          "action": "Tight on the jaw edge."
+        },
+        {
+          "word": "teeth",
+          "word_index": 47,
+          "at": 16.32,
+          "action": "The row of small teeth pops up one by one; a lime line runs along them."
+        },
+        {
+          "word": "to",
+          "word_index": 48,
+          "at": 16.7,
+          "action": "Jaws open wide."
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "start": 17.18,
+      "end": 18.4,
+      "set": "case cutaway",
+      "words": "cut through the shells of the",
+      "visual": "The larva bites into one cockroach egg.",
+      "camera": "Tight on one egg.",
+      "beats": [
+        {
+          "word": "cut",
+          "word_index": 49,
+          "at": 17.18,
+          "action": "Jaws close on the egg shell: a cut appears."
+        },
+        {
+          "word": "through",
+          "word_index": 50,
+          "at": 17.44,
+          "action": "The cut runs through the shell."
+        },
+        {
+          "word": "shells",
+          "word_index": 52,
+          "at": 17.8,
+          "action": "The shell collapses, empty."
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "start": 18.4,
+      "end": 20.2,
+      "set": "case cutaway",
+      "words": "individual eggs around it.",
+      "visual": "Egg after egg around the larva is emptied.",
+      "camera": "Hops egg to egg, then pulls back.",
+      "beats": [
+        {
+          "word": "individual",
+          "word_index": 55,
+          "at": 18.4,
+          "action": "Hop to the next egg: it is cut and collapses."
+        },
+        {
+          "word": "eggs",
+          "word_index": 56,
+          "at": 18.9,
+          "action": "Another egg collapses."
+        },
+        {
+          "word": "around",
+          "word_index": 57,
+          "at": 19.24,
+          "action": "Pull back: eggs around the larva empty one after another."
+        },
+        {
+          "word": "it.",
+          "word_index": 58,
+          "at": 19.56,
+          "action": "The larva wriggles in the middle."
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "start": 20.2,
+      "end": 21.73,
+      "set": "case cutaway",
+      "words": "After feeding and growing,",
+      "visual": "The larva feeds and grows inside the case.",
+      "camera": "Medium on the larva.",
+      "beats": [
+        {
+          "word": "feeding",
+          "word_index": 60,
+          "at": 20.44,
+          "action": "Fast chomping; nearby eggs empty."
+        },
+        {
+          "word": "growing,",
+          "word_index": 62,
+          "at": 21.02,
+          "action": "The larva swells, growing until it nearly fills the case."
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "start": 21.73,
+      "end": 23.14,
+      "set": "case cutaway",
+      "words": "it changes into an adult",
+      "visual": "The larva becomes a pale pupa with the adult wasp shape, legs and wings folded, no cocoon; then a black adult.",
+      "camera": "Close, slow push.",
+      "beats": [
+        {
+          "word": "changes",
+          "word_index": 64,
+          "at": 21.84,
+          "action": "Squash-flip: the larva turns into a pale pupa."
+        },
+        {
+          "word": "into",
+          "word_index": 65,
+          "at": 22.22,
+          "action": "The pupa starts to darken."
+        },
+        {
+          "word": "adult",
+          "word_index": 67,
+          "at": 22.62,
+          "action": "Pop: a black adult wasp, folded inside."
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "start": 23.14,
+      "end": 25.05,
+      "set": "case cutaway",
+      "words": "inside that same case.",
+      "visual": "Pull back: the adult lies inside the same egg case, which closes up.",
+      "camera": "Pull back to the whole case.",
+      "beats": [
+        {
+          "word": "inside",
+          "word_index": 68,
+          "at": 23.14,
+          "action": "Pull back: the adult inside the case."
+        },
+        {
+          "word": "same",
+          "word_index": 70,
+          "at": 23.72,
+          "action": "The cut-open side folds shut: the same case."
+        },
+        {
+          "word": "case.",
+          "word_index": 71,
+          "at": 24.08,
+          "action": "Lime ring round the case."
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "start": 25.05,
+      "end": 26.16,
+      "set": "case cutaway",
+      "words": "Once that change is complete,",
+      "visual": "Inside view of the adult; it stirs and its legs and antennae unfold.",
+      "camera": "Close.",
+      "beats": [
+        {
+          "word": "Once",
+          "word_index": 72,
+          "at": 25.05,
+          "action": "The adult inside the case."
+        },
+        {
+          "word": "change",
+          "word_index": 74,
+          "at": 25.42,
+          "action": "It stirs; legs and antennae unfold."
+        },
+        {
+          "word": "complete,",
+          "word_index": 76,
+          "at": 25.78,
+          "action": "A shine sweeps across it: the change is complete."
+        }
+      ]
+    },
+    {
+      "id": "E2",
+      "start": 26.16,
+      "end": 27.14,
+      "set": "macro floor",
+      "words": "the adult cuts",
+      "visual": "Outside of the case, close on one end of a long side.",
+      "camera": "Close on the hole spot.",
+      "beats": [
+        {
+          "word": "adult",
+          "word_index": 78,
+          "at": 26.64,
+          "action": "The case trembles."
+        },
+        {
+          "word": "cuts",
+          "word_index": 79,
+          "at": 26.88,
+          "action": "A chewed line starts round a small circle, crumbs flicking off."
+        }
+      ]
+    },
+    {
+      "id": "E3",
+      "start": 27.14,
+      "end": 28.52,
+      "set": "macro floor",
+      "words": "a small, round hole",
+      "visual": "The chewed circle near the end of the case completes and pops out.",
+      "camera": "Tighter on the circle.",
+      "beats": [
+        {
+          "word": "small,",
+          "word_index": 81,
+          "at": 27.32,
+          "action": "A small lime ring marks how small the circle is."
+        },
+        {
+          "word": "round",
+          "word_index": 82,
+          "at": 27.78,
+          "action": "The chewed line closes into a round circle."
+        },
+        {
+          "word": "hole",
+          "word_index": 83,
+          "at": 28.14,
+          "action": "The disc pops out: a small round hole."
+        }
+      ]
+    },
+    {
+      "id": "E4",
+      "start": 28.52,
+      "end": 30.46,
+      "set": "macro floor",
+      "words": "through the case and comes out.",
+      "visual": "The adult wasp pushes out through the hole and climbs out.",
+      "camera": "Pulls back as it emerges.",
+      "beats": [
+        {
+          "word": "through",
+          "word_index": 84,
+          "at": 28.52,
+          "action": "Head and antennae poke through the hole."
+        },
+        {
+          "word": "case",
+          "word_index": 86,
+          "at": 28.9,
+          "action": "Pull back: the case with the wasp coming out."
+        },
+        {
+          "word": "comes",
+          "word_index": 88,
+          "at": 29.48,
+          "action": "The wasp pulls free and climbs down."
+        },
+        {
+          "word": "out.",
+          "word_index": 89,
+          "at": 29.7,
+          "action": "Outside, it lifts its flag-like abdomen and flicks its wings."
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "start": 30.46,
+      "end": 31.44,
+      "set": "floor from above",
+      "words": "American cockroach",
+      "visual": "Looking down: an American cockroach scurries across the cabinet floor.",
+      "camera": "Top view; punch in on the pronotum.",
+      "beats": [
+        {
+          "word": "American",
+          "word_index": 90,
+          "at": 30.46,
+          "action": "Cockroach scurries in from the corner."
+        },
+        {
+          "word": "cockroach",
+          "word_index": 91,
+          "at": 30.92,
+          "action": "Punch in: the pale-rimmed shield behind its head."
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "start": 31.44,
+      "end": 31.96,
+      "set": "floor from above",
+      "words": "egg cases",
+      "visual": "The egg case at the tip of its abdomen is left on the floor.",
+      "camera": "Pans down the body to the tail.",
+      "beats": [
+        {
+          "word": "egg",
+          "word_index": 92,
+          "at": 31.44,
+          "action": "Pan to the tail: its egg case."
+        },
+        {
+          "word": "cases",
+          "word_index": 93,
+          "at": 31.62,
+          "action": "The case is left on the floor; the roach scurries off."
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "start": 31.96,
+      "end": 33.36,
+      "set": "macro floor",
+      "words": "are one of this wasp's",
+      "visual": "Side view: the egg case on the floor; the wasp walks up to it.",
+      "camera": "Medium on the case.",
+      "beats": [
+        {
+          "word": "are",
+          "word_index": 94,
+          "at": 31.96,
+          "action": "Cut: the case on the floor; the wasp walks in."
+        },
+        {
+          "word": "one",
+          "word_index": 95,
+          "at": 32.24,
+          "action": "Lime ring round the case."
+        },
+        {
+          "word": "wasp's",
+          "word_index": 98,
+          "at": 32.76,
+          "action": "The wasp taps the case with its antennae; its abdomen bobs."
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "start": 33.36,
+      "end": 34.38,
+      "set": "macro floor",
+      "words": "targets.",
+      "visual": "A lime target snaps onto the egg case.",
+      "camera": "Push in.",
+      "beats": [
+        {
+          "word": "targets.",
+          "word_index": 99,
+          "at": 33.36,
+          "action": "Lime target snaps onto the case."
+        }
+      ]
+    },
+    {
+      "id": "G1",
+      "start": 34.38,
+      "end": 35.32,
+      "set": "under the sink",
+      "words": "Those roaches leave their",
+      "visual": "Wide: the cabinet under a kitchen sink, with pipes, a crack in the floor and a gap under the back wall. Roaches move along the floor.",
+      "camera": "Wide, slow drift.",
+      "beats": [
+        {
+          "word": "Those",
+          "word_index": 100,
+          "at": 34.38,
+          "action": "A roach scurries in along the floor."
+        },
+        {
+          "word": "roaches",
+          "word_index": 101,
+          "at": 34.56,
+          "action": "A second roach peeks from the gap."
+        },
+        {
+          "word": "leave",
+          "word_index": 102,
+          "at": 34.9,
+          "action": "The first roach stops; an egg case shows at its tail."
+        }
+      ]
+    },
+    {
+      "id": "G2",
+      "start": 35.32,
+      "end": 36.28,
+      "set": "under the sink",
+      "words": "cases in cracks",
+      "visual": "Close on the crack in the cabinet floor.",
+      "camera": "Push in to the crack.",
+      "beats": [
+        {
+          "word": "cases",
+          "word_index": 104,
+          "at": 35.32,
+          "action": "The egg case is left at the crack and slides in."
+        },
+        {
+          "word": "cracks",
+          "word_index": 106,
+          "at": 35.86,
+          "action": "Lime line traces the crack."
+        }
+      ]
+    },
+    {
+      "id": "G3",
+      "start": 36.28,
+      "end": 37.65,
+      "set": "under the sink",
+      "words": "and small gaps,",
+      "visual": "The small gaps: under the back wall and around the drain pipe.",
+      "camera": "Whip right to the gaps.",
+      "beats": [
+        {
+          "word": "and",
+          "word_index": 107,
+          "at": 36.28,
+          "action": "Whip to the back wall."
+        },
+        {
+          "word": "small",
+          "word_index": 108,
+          "at": 36.54,
+          "action": "An egg case sits in the gap under the wall."
+        },
+        {
+          "word": "gaps,",
+          "word_index": 109,
+          "at": 36.88,
+          "action": "Lime traces the gap; a lime ring circles the gap round the pipe."
+        }
+      ]
+    },
+    {
+      "id": "G4",
+      "start": 37.65,
+      "end": 38.78,
+      "set": "under the sink",
+      "words": "and they favor warm,",
+      "visual": "The hot-water line under the sink.",
+      "camera": "Move to the warm line.",
+      "beats": [
+        {
+          "word": "favor",
+          "word_index": 112,
+          "at": 37.88,
+          "action": "A roach crawls toward the warm line, antennae waving."
+        },
+        {
+          "word": "warm,",
+          "word_index": 113,
+          "at": 38.16,
+          "action": "Warm glow and heat ripples rise from the line."
+        }
+      ]
+    },
+    {
+      "id": "G5",
+      "start": 38.78,
+      "end": 40.16,
+      "set": "under the sink",
+      "words": "damp places.",
+      "visual": "The dripping drain trap and the damp floor.",
+      "camera": "To the trap, then pull back wide.",
+      "beats": [
+        {
+          "word": "damp",
+          "word_index": 114,
+          "at": 38.78,
+          "action": "Drops fall from the trap; a damp patch spreads."
+        },
+        {
+          "word": "places.",
+          "word_index": 115,
+          "at": 39.02,
+          "action": "Pull back: the warm, damp spot under the sink, roaches near it; a lime ring circles it."
+        }
+      ]
+    },
+    {
+      "id": "I1",
+      "start": 40.16,
+      "end": 41.6,
+      "set": "under the sink",
+      "words": "When you inspect those areas,",
+      "visual": "The cabinet goes dim; a hand shines a flashlight in.",
+      "camera": "Wide.",
+      "beats": [
+        {
+          "word": "When",
+          "word_index": 116,
+          "at": 40.16,
+          "action": "The cabinet dims."
+        },
+        {
+          "word": "inspect",
+          "word_index": 118,
+          "at": 40.36,
+          "action": "A hand with a flashlight slides in; the beam clicks on."
+        },
+        {
+          "word": "those",
+          "word_index": 119,
+          "at": 40.66,
+          "action": "The beam swings to the crack."
+        },
+        {
+          "word": "areas,",
+          "word_index": 120,
+          "at": 40.86,
+          "action": "The beam sweeps the gap and the damp corner."
+        }
+      ]
+    },
+    {
+      "id": "I2",
+      "start": 41.6,
+      "end": 42.62,
+      "set": "under the sink",
+      "words": "look for egg cases",
+      "visual": "The beam finds the egg cases.",
+      "camera": "Push toward the crack.",
+      "beats": [
+        {
+          "word": "look",
+          "word_index": 121,
+          "at": 41.6,
+          "action": "The beam settles on the crack."
+        },
+        {
+          "word": "egg",
+          "word_index": 123,
+          "at": 41.92,
+          "action": "The egg case in the crack glints."
+        },
+        {
+          "word": "cases",
+          "word_index": 124,
+          "at": 42.18,
+          "action": "Lime rings on the egg cases."
+        }
+      ]
+    },
+    {
+      "id": "I3",
+      "start": 42.62,
+      "end": 44.133,
+      "set": "under the sink",
+      "words": "as well as live roaches.",
+      "visual": "The beam finds a live roach at the gap.",
+      "camera": "Push toward the gap.",
+      "beats": [
+        {
+          "word": "as",
+          "word_index": 125,
+          "at": 42.62,
+          "action": "The beam swings toward the gap."
+        },
+        {
+          "word": "live",
+          "word_index": 128,
+          "at": 43.32,
+          "action": "A live roach steps out into the light, antennae waving."
+        },
+        {
+          "word": "roaches.",
+          "word_index": 129,
+          "at": 43.56,
+          "action": "Lime ring round the roach; it freezes."
+        }
+      ]
+    },
+    {
+      "id": "O1",
+      "start": 44.133,
+      "end": 49.06666666666667,
+      "set": "approved outro",
+      "words": "Helping you understand pests. Deep Six Pest Control.",
+      "visual": "Approved Deep Six outro animation (outro-animation-v2.mp4) with its cream-paper wipe over the last teaching picture. Only opening scan time is shortened; jump, swing and reveal run at designed speed. Logo lands before \"Deep\". Top caption for the first sentence, as in the approved outro.",
+      "camera": "As supplied.",
+      "beats": [
+        {
+          "word": "Helping",
+          "word_index": 130,
+          "at": 44.61,
+          "action": "Top caption; the mascot scans."
+        },
+        {
+          "word": "Deep",
+          "word_index": 134,
+          "at": 46.91,
+          "action": "Logo already landed and readable."
+        }
+      ]
+    }
+  ]
+}

@@ -20,6 +20,137 @@ Newest on top.
 
 ---
 
+### 2026-10-20 04:40 · Runner Test Ensign Wasp v1: key moments, with the spoken word highlighted
+
+![Runner Test Ensign Wasp v1: key moments, with the spoken word highlighted](01-content/animation/episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final-keywords.png)
+
+
+### 2026-10-20 04:40 · Runner Test Ensign Wasp v1 (49 s). On your Desktop: Deep Six - Runner Test Ensign Wasp v1
+
+![Runner Test Ensign Wasp v1 (49 s). On your Desktop: Deep Six - Runner Test Ensign Wasp v1](board-previews/d6-01096ba333e3-replay-v2-final-1792489249.gif)
+
+Video: [01-content/animation/episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final.mp4](01-content/animation/episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final.mp4)
+
+
+### 2026-10-20 04:24 · Fire Ants FINAL: Warm Ambient music + The Aldus watermark
+
+![Fire Ants FINAL: Warm Ambient music + The Aldus watermark](board-previews/fire-ants-final-music-watermarked-1792488255.gif)
+
+Video: [01-content/watermark/renders/fire-ants-final-music-watermarked.mp4](01-content/watermark/renders/fire-ants-final-music-watermarked.mp4)
+
+
+### 2026-10-20 04:24 · Ensign Wasp FINAL: Warm Ambient music + The Aldus watermark
+
+![Ensign Wasp FINAL: Warm Ambient music + The Aldus watermark](board-previews/ensign-wasp-final-music-watermarked-1792488243.gif)
+
+Video: [01-content/watermark/renders/ensign-wasp-final-music-watermarked.mp4](01-content/watermark/renders/ensign-wasp-final-music-watermarked.mp4)
+
+
+### 2026-10-20 04:10 · Music tests H and I: smooth, no beat
+
+## Music tests H and I: smooth, no beat
+
+Custom music, made free on Drew's PC.
+No drums, no ticking.
+
+**H · Warm Ambient**
+Warm low drone and slow, soft pads.
+
+**I · Soft Orchestra**
+Soft strings and mellow horn, documentary feel.
+
+Each under both videos, on your Desktop:
+Deep Six - Music Test H / I - Wasp
+Deep Six - Music Test H / I - Fire Ants
+
+
+### 2026-10-20 03:51 · Music test G: Steady Pulse, both videos
+
+## Music test G: Steady Pulse
+
+Custom music made free on Drew's PC.
+One steady groove the whole time.
+No build-ups, no drops.
+
+Soft kick, ticking hi-hat, pulsing bass, dark pad.
+
+Under both finished videos:
+Deep Six - Music Test G - Steady Pulse - Fire Ants
+Deep Six - Music Test G - Steady Pulse - Wasp
+
+
+### 2026-10-20 03:24 · Ensign wasp video v1 (49 s, Chris). On your Desktop: Deep Six - Ensign Wasp v1
+
+![Ensign wasp video v1 (49 s, Chris). On your Desktop: Deep Six - Ensign Wasp v1](board-previews/ensign-wasp-v3-final-1792484675.gif)
+
+Video: [01-content/animation/episodes/D6-01096ba333e3/full/renders/ensign-wasp-v3-final.mp4](01-content/animation/episodes/D6-01096ba333e3/full/renders/ensign-wasp-v3-final.mp4)
+
+
+### 2026-10-20 03:24 · Ensign wasp video v1: key moments, with the spoken word highlighted
+
+![Ensign wasp video v1: key moments, with the spoken word highlighted](01-content/animation/episodes/D6-01096ba333e3/full/renders/ensign-wasp-v3-keywords.png)
+
+
+### 2026-10-20 03:22 · Music tests D, E, F: tense and mysterious
+
+## Music tests, tense and mysterious: fire ants
+
+Zack D. style suspense, three flavors.
+Same picture, same voice. Only the music changes.
+
+**D · Dark Pulse**
+Slow, eerie electronic beat.
+"Torn Threads" by Ahjay Stelino
+
+**E · Mystery Piano**
+Mysterious piano over a soft beat.
+"Pianinni" by Alejandro Magaña
+
+**F · Stealth Guitar**
+Sneaky investigation guitar.
+"Vertigo" by Eugenio Mininni
+
+On your Desktop: Deep Six - Music Test D, E, F.
+
+
+### 2026-10-20 03:04 · Music tests A2, B2, C2 (louder)
+
+## Music tests, louder: fire ants
+
+Same three tracks, mixed like Zack D. Films.
+Whole video as loud as his.
+Music a bit more present under the voice.
+
+**A2 · Curious Cello**
+**B2 · Chill Lo-Fi**
+**C2 · Bright Pop**
+
+On your Desktop: Deep Six - Music Test A2, B2, C2 (louder).
+
+
+### 2026-10-20 02:44 · Music tests A, B, C
+
+## Music tests: fire ants
+
+Three free tracks under the approved video.
+Same picture, same voice. Only the music changes.
+
+**A · Curious Cello**
+Plucked cello, a little mysterious.
+"The Snail" by Eugenio Mininni
+
+**B · Chill Lo-Fi**
+Soft, laid-back beat.
+"Sweet September" by Arulo
+
+**C · Bright Pop**
+Upbeat, positive, light electronic.
+"Pop Track 03" by Lily J
+
+Music sits quietly under the voice.
+On your Desktop: Deep Six - Music Test A, B, C.
+
+
 ### 2026-10-19 20:46 · Model test: Astra and Sol make our videos
 
 **Update after Drew watched: Astra's clips are bad; Sol's Test 3 is the better one.** My first read below was wrong.

@@ -1,3 +1,5 @@
+**Oct 20 update:** Chris MP3 made with Drew's OK: [manifest](../audio/D6-01096ba333e3/full-chris-01/comparison.json), 48.4 s, review `AUD-5f7ad5f88ba8`. Offline speech check heard all 138 words in order; no clipping. Desktop copy `Deep Six - Ensign Wasp Narration (Chris).mp3`, hash matches. Drew approved it ("Approve, start video now"); approval verified. Word timing done (138/138). Video session started with [this brief](../animation/session-prompts/2026-10-20-ensign-wasp-video.md). 1,571 ElevenLabs characters left until Oct 28.
+
 Current status: Drew approved option 3 from [the five v6 variations](narrations-with-outro-v6.json), review `review-e8af59c5fb1e`, by replying “3”. [Approved narration](../approved-narrations/D6-01096ba333e3.md): 138 words, saved exactly as shown. [Approval and checks](narration-approval.json). Writing is complete for this episode. Resume at audio preparation with Chris; confirm bounded spending authorization before generation. No audio has been generated for this episode. Earlier trial steps below are history; do not restart research.
 
 # Next session: test fresh research through MP3

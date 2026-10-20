@@ -17,24 +17,25 @@
 
 - **Done:** the canvas has the technical flow, plus a plain-words flow from the first source search to the finished video, with options and what-ifs beside every step. Change it only through `../diagrams/animation-system.build.py`, then re-run it; its checks replace screenshots.
 - **Drew decided:** a pilot clip only on risky runs. He picks each video's start (now, tonight at 11 PM, or later) when its MP3 is approved.
-- **Next:** build the automation by growing `make_video.py`, starting from the gaps in [AUTOMATION-DESIGN.md](AUTOMATION-DESIGN.md). Nothing new is built yet.
+- **Built 20 Oct:** the automation, by growing `make_video.py`. See [AUTOMATION-BUILD.md](AUTOMATION-BUILD.md).
 - The writing side's notes were read for the plain flow and never changed.
 
-## Make the next video
+## Make the next video (runner built 20 Oct)
+
+When Drew approves an MP3, ask him: start now, tonight at 11 PM, or later. Record his answer, then everything runs by itself:
 
 ```
 cd 01-content/animation
-python3 make_video.py prepare --episode <id> --manifest ../audio/<id>/<run>/comparison.json
-python3 make_video.py full --episode <id> --run <id>-opus --desktop-name "Deep Six - <title>.mp4"
+python3 make_video.py start --episode <id> --manifest ../audio/<id>/<run>/comparison.json --when now|tonight|later
+python3 make_video.py status
+python3 make_video.py verdict --run <run> --decision approve|notes --says "Drew's own words"
 ```
 
-`full` plans the whole video, splits it into segments, has the agent make and check each segment, joins them, renders and copies the MP4 to the Desktop. Opus is the default; if it is unavailable the run falls back to Sol. Use `--model sol` or `--model astra` to choose a Codex model. Opus through this runner has only been probed, not run on a full job; this session's video was made by Opus directly. A new pest (for example cockroaches) needs new researched drawings first; the director lists them under `new_assets`.
+The runner waits for Drew at three gates only: new drawings for a new pest, a pilot clip on risky segments, and the finished video. Each run's `STATUS.md` says what it waits for. After a computer restart, run `status`; it restarts the worker. Build note and proof: [AUTOMATION-BUILD.md](AUTOMATION-BUILD.md).
 
 ## Later sessions (Drew's plan)
 
-1. **Closer and transition**: a short transition line and picture that lead into the outro. Decide after the outro exists.
-2. **Outro**: made separately with video generation and the Deep Six branding assets.
-3. **Music**: separate.
+1. **Music**: its own session (`01-content/music/`). The finish step has a marked place for a music bed.
 
 ## Known limits
 

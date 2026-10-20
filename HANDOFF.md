@@ -4,6 +4,8 @@
 
 ## Resume the approved ensign-wasp narration
 
+**Oct 20 update: the ensign-wasp video is finished and Drew approved it ("yes good i like it").** Desktop: `Deep Six - Ensign Wasp v1.mp4`. Recorded with `tools/d6 complete-video --final`. [Progress note](01-content/animation/episodes/D6-01096ba333e3/progress.md). New reusable drawings for cockroach topics: `01-content/animation/scenes/wasp-kit.mjs` (ensign wasp, American cockroach side and top views, egg case, larva, jaws) and `home-world.mjs` (under-sink cabinet, close floor, floor from above, flashlight). Work is saved locally, not committed or pushed.
+
 - Episode: `D6-01096ba333e3`. Drew approved v6 option 3, exactly 138 words, including hook 4C and the approved Deep Six outro.
 - [Approved script](01-content/approved-narrations/D6-01096ba333e3.md) · [Approval and exact-text checks](01-content/mp3-system/narration-approval.json).
 - No audio exists for this episode. Chris is next. Prepare one full recording with the same voice through the outro, obtain bounded spending authorization, then record Drew's listening decision.
@@ -12,7 +14,6 @@
 
 ## Work still unfinished
 
-- The ensign-wasp MP3, researched drawings and finished video.
 - System design, diagrams and production automation. Preserve the existing drafts and open decisions; this push does not approve or complete them.
 - Adding the website URL to the approved outro. Drew withdrew the owner-face idea.
 - Cloud portability and an actual cloud render test. Cloud sessions remain possible after setup; [cloud handoff](CLOUD-HANDOFF.md).

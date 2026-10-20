@@ -10,10 +10,8 @@
 
 4. **Queued: [Biology](https://fireant.tamu.edu/learn/biology/)** — Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.
 
-5. **Reserved until final MP4: [Flag waving for Americans](https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/)** — Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.
+5. **Queued: [Why do I have roaches in my home?](https://npic.orst.edu/faq/roach.html)** — Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.
 
-6. **Queued: [Why do I have roaches in my home?](https://npic.orst.edu/faq/roach.html)** — Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.
-
-7. **Queued: [Cockroaches](https://npic.orst.edu/pest/roach.html)** — Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.
+6. **Queued: [Cockroaches](https://npic.orst.edu/pest/roach.html)** — Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.
 
 Next research: termites.

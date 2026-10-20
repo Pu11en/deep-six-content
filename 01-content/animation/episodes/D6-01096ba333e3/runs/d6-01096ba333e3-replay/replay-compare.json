@@ -1,0 +1,14 @@
+{
+ "replay_final": "episodes/D6-01096ba333e3/runs/d6-01096ba333e3-replay/renders/d6-01096ba333e3-replay-v2-final.mp4",
+ "approved_final": "episodes/D6-01096ba333e3/full/renders/ensign-wasp-v3-final.mp4",
+ "final_sha256_identical": true,
+ "picture_sha256_identical": true,
+ "frames_left_over": [
+  0,
+  0
+ ],
+ "frames_compared": 1472,
+ "decoded_frames_identical": 1472,
+ "largest_pixel_difference": 0,
+ "audio_samples_identical": true
+}

@@ -4,3 +4,4 @@ time,model,output,usd
 2026-10-16T16:48:14,kie:grok-imagine/image-to-video,01-content/experiments/2026-10-16-video-motion-test/grok.mp4,0.18
 2026-10-16T16:48:44,kie:hailuo/2-3-image-to-video-standard,01-content/experiments/2026-10-16-video-motion-test/hailuo.mp4,0.15
 2026-10-16T16:48:44,kie:veo-3-1,01-content/experiments/2026-10-16-video-motion-test/veo-lite.mp4,0.15
+2026-10-20T06:53:35,elevenlabs:eleven_v4 Chris (880 prepaid characters; 1571 left before reset Oct 28),01-content/audio/D6-01096ba333e3/full-chris-01/ensign-wasp-chris.mp3,

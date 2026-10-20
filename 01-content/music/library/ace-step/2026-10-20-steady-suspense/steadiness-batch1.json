@@ -1,0 +1,38 @@
+[
+ {
+  "track": "steady-pulse-seed1000.wav",
+  "level_spread_db": 7.7,
+  "big_jumps": 118,
+  "short_term_spread_db": 2.7,
+  "section_changes": 1,
+  "worst_change": 0.267,
+  "voice_room_db": 15.6,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -15.6
+ },
+ {
+  "track": "steady-pulse-seed1018.wav",
+  "level_spread_db": 9.8,
+  "big_jumps": 32,
+  "short_term_spread_db": 11.8,
+  "section_changes": 6,
+  "worst_change": 0.752,
+  "voice_room_db": 12.1,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -17.2
+ },
+ {
+  "track": "mystery-piano-seed1002.wav",
+  "level_spread_db": 18.4,
+  "big_jumps": 105,
+  "short_term_spread_db": 16.1,
+  "section_changes": 0,
+  "worst_change": 0.444,
+  "voice_room_db": 11.3,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -15.9
+ }
+]

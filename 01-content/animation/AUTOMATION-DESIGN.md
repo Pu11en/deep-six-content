@@ -1,6 +1,6 @@
 # Animation system canvas and automation design
 
-**One canvas now holds the whole animation system: the standard, how we got here, the MP3-to-MP4 automation and the reference material. The automation is designed, not built.** Drew asked on 19 Oct 2026 for one combined canvas instead of separate flow drawings. A plain-words version of the whole process sits on the far right, from the first source search to the finished video, written as a film crew with Drew as producer. Each of its 19 steps has a note with Drew's options and what happens when something goes wrong. Steps 1 to 7 and their notes summarize the writing side's own README and edge-case review; nothing there was changed. Keep both versions.
+**One canvas now holds the whole animation system: the standard, how we got here, the MP3-to-MP4 automation and the reference material. The automation was built on 20 Oct 2026 (see below).** Drew asked on 19 Oct 2026 for one combined canvas instead of separate flow drawings. A plain-words version of the whole process sits on the far right, from the first source search to the finished video, written as a film crew with Drew as producer. Each of its 19 steps has a note with Drew's options and what happens when something goes wrong. Steps 1 to 7 and their notes summarize the writing side's own README and edge-case review; nothing there was changed. Keep both versions.
 
 [Open the board](http://localhost:3003/boards/268ae6e3f42cd1f87ff6d7b2) · [drawing](../diagrams/animation-system.excalidraw) · [builder](../diagrams/animation-system.build.py) · [layout checks](../diagrams/animation-system.checks.json) · [pictures](../diagrams/animation-system-images/)
 
@@ -8,7 +8,7 @@
 
 Change wording or layout in the builder, then run `python3 01-content/diagrams/animation-system.build.py`. It rewrites the drawing atomically and checks it. The open board follows the file. Do not hand-edit the drawing, or the builder goes stale.
 
-The checks replace screenshots, per Drew's rule. They cover unique IDs, two-way bindings, text fitting its shape, overlaps and arrows crossing anything they do not connect. Last run: 611 elements, 0 errors, 0 warnings.
+The checks replace screenshots, per Drew's rule. They cover unique IDs, two-way bindings, text fitting its shape, overlaps and arrows crossing anything they do not connect. Last run (20 Oct): 868 elements, 0 errors, 0 warnings.
 
 ## Technical decisions in the design
 
@@ -28,11 +28,18 @@ The checks replace screenshots, per Drew's rule. They cover unique IDs, two-way 
 - **Edge-case handling added with the plain flow:** two videos ready at once run one at a time; a Desktop name clash gets the next version number; a copy that fails its hash check is copied again; a restart resumes from the last finished piece; silence never counts as approval.
 - **Not adopted:** best of two with Sol and Astra. It doubles usage, and Drew rated Astra "super bad".
 
-## Gaps against today's runner
+## Built on 20 Oct 2026
 
-- Its router tries one model plus one backup. The design needs the three-step ladder, the shared Codex limit and pause-resume.
-- Missing pieces: start choice and night start, reviewer, pilot gate, triage, verdict command, waiting and parked ledger states, learned rules, asset maker, final-file checks and the status note.
-- Already there: prepare, director plan, segment loop with guard and motion check, join, render, and the Desktop copy with a hash check.
+`make_video.py` now runs this design; `video_finish.py` holds the finishing steps without AI; `scenes/outro.mjs` draws the approved outro. How to run it: [VIDEO-FLOW.md](VIDEO-FLOW.md#run-it). Proof and limits: [automation build note](AUTOMATION-BUILD.md).
+
+- **Start, queue and ledger:** `start --when now|tonight|later`, one background worker, one video at a time in start order; states waiting, queued, running, paused, parked, waiting for Drew, approved, stopped. Each run has `run.json` and a plain `STATUS.md`.
+- **Model ladder** with the shared Codex limit, pause until the first reset and restart at Opus. Quality failures retry on the same model.
+- **AI roles:** Director (plan, checked), Asset maker (new drawings, Drew approves), Animator (per segment, best try kept), Reviewer (fresh session, filmstrips beside the approved videos, can only send back), Triage (maps notes to segments).
+- **Gates:** pilot clip for risky segments, new-drawings approval, final video verdict. Only `verdict` with Drew's words moves a gate.
+- **Learning:** `verdicts.jsonl`, `problems-seen.json`, `learned-rules.md`.
+- **Ensign-wasp lessons as steps:** outro fit, exact audio, lesson-only motion check, key-word frame sheet, detached crash-safe renders, Desktop copy with checksum, board entry, `tools/d6 complete-video` on approval.
+
+**Drew decided on 20 Oct: keep the ladder** (Opus, then Sol, then Astra; pause only when Codex is out too). The canvas side panel, which had said Claude-only, now shows the ladder. A Claude-only run is still one setting: `start --ladder opus`.
 
 ## Open for Drew
 

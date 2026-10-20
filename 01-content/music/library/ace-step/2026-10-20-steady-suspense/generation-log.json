@@ -1,0 +1,50 @@
+{
+ "model": "ACE-Step 1.5 acestep-v15-turbo + acestep-5Hz-lm-1.7B (MIT)",
+ "prompts": "/home/drewp/main-projects/deep-six-content/01-content/music/prompts/2026-10-20-steady-suspense.json",
+ "runs": [
+  {
+   "name": "steady-pulse",
+   "seed": 1000,
+   "seconds_to_make": 134.5,
+   "success": true,
+   "error": null,
+   "file": "steady-pulse-seed1000.wav",
+   "bpm": 100,
+   "keyscale": "D minor",
+   "caption": "Polished suspense underscore for a short science documentary. One steady groove from start to finish: soft muted kick on every beat, tight ticking hi-hat, deep pulsing synth bass on eighth notes, warm dark pad holding long minor chords. No build-ups, no drops, no breakdowns, no solos, no lead melody. Loopable background music that sits under a narrator. Instrumental."
+  },
+  {
+   "name": "steady-pulse",
+   "seed": 1018,
+   "seconds_to_make": 274.7,
+   "success": true,
+   "error": null,
+   "file": "steady-pulse-seed1018.wav",
+   "bpm": 100,
+   "keyscale": "D minor",
+   "caption": "Polished suspense underscore for a short science documentary. One steady groove from start to finish: soft muted kick on every beat, tight ticking hi-hat, deep pulsing synth bass on eighth notes, warm dark pad holding long minor chords. No build-ups, no drops, no breakdowns, no solos, no lead melody. Loopable background music that sits under a narrator. Instrumental."
+  },
+  {
+   "name": "mystery-piano",
+   "seed": 1002,
+   "seconds_to_make": 197.2,
+   "success": true,
+   "error": null,
+   "file": "mystery-piano-seed1002.wav",
+   "bpm": 85,
+   "keyscale": "A minor",
+   "caption": "Mysterious documentary background music, professionally produced. A low piano repeats the same simple four-note pattern the whole time over a soft steady hip-hop beat and warm bass. Subtle strings pad. Constant energy, no build-ups, no drops, no new sections, no solo. Curious tension made to sit under a voice-over. Instrumental."
+  },
+  {
+   "name": "mystery-piano",
+   "seed": 1020,
+   "seconds_to_make": 239.7,
+   "success": true,
+   "error": null,
+   "file": "mystery-piano-seed1020.wav",
+   "bpm": 85,
+   "keyscale": "A minor",
+   "caption": "Mysterious documentary background music, professionally produced. A low piano repeats the same simple four-note pattern the whole time over a soft steady hip-hop beat and warm bass. Subtle strings pad. Constant energy, no build-ups, no drops, no new sections, no solo. Curious tension made to sit under a voice-over. Instrumental."
+  }
+ ]
+}

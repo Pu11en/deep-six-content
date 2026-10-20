@@ -1,0 +1,277 @@
+[
+ {
+  "id": 613,
+  "title": "Sicilian Coffee",
+  "artist": "Eugenio Mininni",
+  "duration": "2:33",
+  "mp3": "https://assets.mixkit.co/music/613/613.mp3",
+  "tags": [
+   "Film Score",
+   "Mysterious",
+   "Magical",
+   "Double Bass",
+   "Plucked",
+   "Cinematic",
+   "Comedy"
+  ],
+  "found_on": [
+   "mood/humorous"
+  ]
+ },
+ {
+  "id": 595,
+  "title": "Secret Garden",
+  "artist": "Eugenio Mininni",
+  "duration": "2:33",
+  "mp3": "https://assets.mixkit.co/music/595/595.mp3",
+  "tags": [
+   "Film Score",
+   "Humorous",
+   "Plucked",
+   "Strings",
+   "Comedy",
+   "Dramedy"
+  ],
+  "found_on": [
+   "mood/playful",
+   "mood/quirky",
+   "mood/mischievous",
+   "mood/humorous"
+  ]
+ },
+ {
+  "id": 602,
+  "title": "The Snail",
+  "artist": "Eugenio Mininni",
+  "duration": "3:09",
+  "mp3": "https://assets.mixkit.co/music/602/602.mp3",
+  "tags": [
+   "Film Score",
+   "Mysterious",
+   "Cello",
+   "Plucked",
+   "Wedding",
+   "Drama"
+  ],
+  "found_on": [
+   "mood/quirky"
+  ]
+ },
+ {
+  "id": 764,
+  "title": "Lo-Fi 02",
+  "artist": "Lily J",
+  "duration": "1:38",
+  "mp3": "https://assets.mixkit.co/music/764/764.mp3",
+  "tags": [
+   "Chillout",
+   "Corporate Music",
+   "Relaxed",
+   "Bass",
+   "Drums",
+   "Corporate",
+   "City"
+  ],
+  "found_on": [
+   "mood/quirky"
+  ]
+ },
+ {
+  "id": 282,
+  "title": "Sweet September",
+  "artist": "Arulo",
+  "duration": "1:39",
+  "mp3": "https://assets.mixkit.co/music/282/282.mp3",
+  "tags": [
+   "Hip Hop",
+   "Chillout",
+   "Relaxed",
+   "Calm",
+   "Bass",
+   "Drums",
+   "Melodic",
+   "Relaxation"
+  ],
+  "found_on": [
+   "tag/lo-fi"
+  ]
+ },
+ {
+  "id": 741,
+  "title": "Hip Hop 04",
+  "artist": "Lily J",
+  "duration": "1:44",
+  "mp3": "https://assets.mixkit.co/music/741/741.mp3",
+  "tags": [
+   "Chillout",
+   "Relaxed",
+   "Bass",
+   "Drums",
+   "Lifestyle"
+  ],
+  "found_on": [
+   "mood/quirky"
+  ]
+ },
+ {
+  "id": 1142,
+  "title": "Gummies",
+  "artist": "Michael Ramir C.",
+  "duration": "1:40",
+  "mp3": "https://assets.mixkit.co/music/1142/1142.mp3",
+  "tags": [
+   "Synthpop",
+   "Underscore",
+   "Humorous",
+   "Bass",
+   "Drums"
+  ],
+  "found_on": [
+   "mood/playful"
+  ]
+ },
+ {
+  "id": 729,
+  "title": "Pop Track 03",
+  "artist": "Lily J",
+  "duration": "1:37",
+  "mp3": "https://assets.mixkit.co/music/729/729.mp3",
+  "tags": [
+   "Electronic",
+   "Corporate Music",
+   "Positive",
+   "Bass",
+   "Drums",
+   "Melodic",
+   "Technology"
+  ],
+  "found_on": [
+   "mood/playful"
+  ]
+ },
+ {
+  "id": 565,
+  "title": "Fallen (Asper)",
+  "artist": "Eugenio Mininni",
+  "duration": "4:55",
+  "mp3": "https://assets.mixkit.co/music/565/565.mp3",
+  "tags": [
+   "Atmospheres",
+   "Film Score",
+   "Atmospheric",
+   "Bass",
+   "Drums",
+   "Documentary",
+   "Mystery"
+  ],
+  "found_on": [
+   "mood/mysterious",
+   "mood/suspenseful",
+   "tag/investigation",
+   "tag/thriller",
+   "tag/mystery",
+   "tag/documentary"
+  ]
+ },
+ {
+  "id": 597,
+  "title": "Vertigo",
+  "artist": "Eugenio Mininni",
+  "duration": "3:11",
+  "mp3": "https://assets.mixkit.co/music/597/597.mp3",
+  "tags": [
+   "Film Score",
+   "Disturbing",
+   "Stealth",
+   "Bass",
+   "Electric Guitar",
+   "Cinematic",
+   "Investigation"
+  ],
+  "found_on": [
+   "mood/suspenseful",
+   "mood/cautious",
+   "tag/investigation",
+   "tag/thriller",
+   "tag/crime"
+  ]
+ },
+ {
+  "id": 73,
+  "title": "Torn Threads",
+  "artist": "Ahjay Stelino",
+  "duration": "1:56",
+  "mp3": "https://assets.mixkit.co/music/73/73.mp3",
+  "tags": [
+   "Electronica",
+   "Mysterious",
+   "Eerie",
+   "Bass",
+   "Drums",
+   "Drama",
+   "Investigation"
+  ],
+  "found_on": [
+   "mood/ominous",
+   "tag/investigation"
+  ]
+ },
+ {
+  "id": 165,
+  "title": "Pianinni",
+  "artist": "Alejandro Maga\u00f1a (A. M.)",
+  "duration": "1:58",
+  "mp3": "https://assets.mixkit.co/music/165/165.mp3",
+  "tags": [
+   "Corporate Music",
+   "Mysterious",
+   "Disturbing",
+   "Bass",
+   "Drums",
+   "Drama",
+   "Mystery"
+  ],
+  "found_on": [
+   "tag/crime",
+   "tag/mystery"
+  ]
+ },
+ {
+  "id": 548,
+  "title": "A Voice from The Past",
+  "artist": "Eugenio Mininni",
+  "duration": "3:44",
+  "mp3": "https://assets.mixkit.co/music/548/548.mp3",
+  "tags": [
+   "Electronica",
+   "Disturbing",
+   "Tension",
+   "Bass",
+   "Drums",
+   "Technology"
+  ],
+  "found_on": [
+   "tag/investigation",
+   "tag/thriller"
+  ]
+ },
+ {
+  "id": 892,
+  "title": "Vampires in the City",
+  "artist": "Michael Ramir C.",
+  "duration": "1:40",
+  "mp3": "https://assets.mixkit.co/music/892/892.mp3",
+  "tags": [
+   "Film Score",
+   "Serious",
+   "Bass",
+   "Drums",
+   "Cinematic",
+   "Mystery"
+  ],
+  "found_on": [
+   "mood/mysterious",
+   "tag/mystery"
+  ]
+ }
+]

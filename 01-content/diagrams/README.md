@@ -4,6 +4,10 @@
 
 October 20: added **Research: start to checked evidence** to the right of the existing flows. It shows pest-specific saved sources, adaptive discovery, rejection feedback, reuse protection and the second crawler pass after hook selection. Six proposed research rules cover search memory, shortages, evidence quality and recovery. This section ends before narration writing; interface and harness selection are outside its scope. [Current design and limits](../research/2026-10-20-research-design.md) · [Research gaps reviewed](../research/2026-10-20-research-edge-cases.md).
 
+October 20, later: added **Narration: checked evidence to approved script** below the research section. Steps 10 to 16 run from planning the writing to locked approved words, with retry routes back to research (step 8) and hook choice (step 7). It ends at an approved narration ready to become an MP3. [Narration design and limits](../research/2026-10-20-narration-design.md).
+
+October 20, MP3: added **MP3: approved script to approved recording** below narration. Steps 17 to 24 cover voice, read preparation, cost and Drew's yes, one take, a proposed free word check, listening and locked approval. This is Claude's recommended design, not yet approved. [MP3 design](../research/2026-10-20-mp3-design.md).
+
 **Earlier detailed audio scope: start through approved MP3.** [Open the audio flow](http://localhost:3003/boards/0d05ffd0809f0bbe1220a047) · [editable drawing](start-to-approved-mp3.excalidraw) · [stage instructions, retries and proof](../mp3-system/README.md).
 
 The new drawing has three parts: find the lesson, build the explanation, hear and approve it. It includes the source queue, supporting-research loop, exact repeated hook, separate script/audio approvals, voice rotation and spending/recovery stops. Writing is implemented; audio handoff/review are agent-operated. The separate source file preserves both older boards below. Validated JSON, unique IDs, bindings and text dimensions; no screenshots or viewer fit checks.

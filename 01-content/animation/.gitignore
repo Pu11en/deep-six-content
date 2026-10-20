@@ -1,3 +1,6 @@
 node_modules/
 .authoring/
 episodes/*/*/dev/
+
+# Shared frame caches made by video_finish.py (outro frames, reference filmstrips).
+.cache/

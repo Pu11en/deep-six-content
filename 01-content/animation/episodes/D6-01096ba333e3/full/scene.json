@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-01096ba333e3",
+  "scene_id": "d6-01096ba333e3-full",
+  "module": "scenes/d6-01096ba333e3-full.mjs",
+  "revision": "v3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "seed": 20261020,
+  "timing": "words.json",
+  "shot_list": "shot-list.json",
+  "approved_audio": {
+    "manifest": "../audio/D6-01096ba333e3/full-chris-01/comparison.json",
+    "sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710"
+  },
+  "audio_excerpt_start_seconds": 0,
+  "audio_excerpt_end_seconds": 48.352,
+  "duration_seconds": 48.352,
+  "brand_profile": "brand.json",
+  "approved_style": {
+    "selection": "episodes/D6-6c917b49743b/style-options/options.json",
+    "option": "C",
+    "sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060"
+  },
+  "caption_center_y": 1420,
+  "motion_blur": {
+    "samples": 5,
+    "shutter_seconds": 0.0125
+  },
+  "output_stem": "full",
+  "tail_seconds": 0.714667
+}

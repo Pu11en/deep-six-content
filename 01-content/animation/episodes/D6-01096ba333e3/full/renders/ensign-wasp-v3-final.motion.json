@@ -1,0 +1,27 @@
+{
+  "frames": 1472,
+  "lesson_seconds": [
+    0,
+    44.133
+  ],
+  "lesson": {
+    "longest_still_seconds": 0.233,
+    "picture_change_half_second_median": 0.219,
+    "stretches_over_0_35s": 0
+  },
+  "whole": {
+    "longest_still_seconds": 1.9,
+    "picture_change_half_second_median": 0.214,
+    "stretches_over_0_35s": 1
+  },
+  "targets": {
+    "longest_still_seconds": "<= 0.35",
+    "picture_change_half_second_median": ">= 0.15"
+  },
+  "lesson_still_stretches_over_0_2s": [
+    [
+      33.07,
+      33.3
+    ]
+  ]
+}

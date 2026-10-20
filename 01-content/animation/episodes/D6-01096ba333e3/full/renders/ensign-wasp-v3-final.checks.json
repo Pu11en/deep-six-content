@@ -1,0 +1,28 @@
+{
+  "output": "renders/ensign-wasp-v3-final.mp4",
+  "sha256": "58bc986bf2146a04e1e9e14036c552ff2a1d8999e3bebd63692108113d2efab7",
+  "bytes": 42247930,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "frames": 1472,
+  "video_seconds": 49.066667,
+  "audio_seconds": 49.066009,
+  "container_seconds": 49.066667,
+  "video_start": 0.0,
+  "audio_start": 0.0,
+  "audio_codec": "aac",
+  "audio_sample_rate": "44100",
+  "approved_mp3_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710",
+  "approved_mp3_seconds": 48.32,
+  "audio_vs_mp3": {
+    "best_lag_ms": 0.0,
+    "correlation": 0.99997,
+    "level_change_db": -0.01,
+    "padding_after_mp3_seconds": 0.767,
+    "padding_peak": 2.490170572855277e-06
+  },
+  "picture_stream_copied_from": "renders/full-v3.mp4",
+  "picture_sha256_source": "a3d3af83abe3dcb269d36a3356abe43cbc5516aadcac0fc77cf5c68130413aa7",
+  "pass": true
+}

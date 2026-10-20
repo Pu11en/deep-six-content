@@ -1,0 +1,1132 @@
+{
+ "audio": "../../../../audio/D6-01096ba333e3/full-chris-01/ensign-wasp-chris.mp3",
+ "audio_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710",
+ "excerpt": "Why would a wasp lay its egg inside a cockroach's egg case? A small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on. The young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it. After feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out. American cockroach egg cases are one of this wasp's targets. Those roaches leave their cases in cracks and small gaps, and they favor warm, damp places. When you inspect those areas, look for egg cases as well as live roaches. Helping you understand pests. Deep Six Pest Control.",
+ "excerpt_start_seconds": 0,
+ "excerpt_end_seconds": 48.353,
+ "method": "Median word start of three offline faster-whisper models aligned to the approved script, snapped to ffmpeg silencedetect (-38 dB, 0.12 s). Machine alignment, not a human listening check.",
+ "model_votes": {
+  "small.en": 138,
+  "medium.en": 137,
+  "mobiuslabsgmbh/faster-whisper-large-v3-turbo": 138
+ },
+ "low_confidence_words": [],
+ "silences_seconds": [
+  [
+   0.0,
+   0.194
+  ],
+  [
+   2.274,
+   2.407
+  ],
+  [
+   3.814,
+   4.47
+  ],
+  [
+   5.335,
+   5.489
+  ],
+  [
+   5.804,
+   5.942
+  ],
+  [
+   6.718,
+   6.995
+  ],
+  [
+   8.258,
+   8.877
+  ],
+  [
+   9.613,
+   9.931
+  ],
+  [
+   13.073,
+   13.687
+  ],
+  [
+   14.745,
+   14.872
+  ],
+  [
+   15.815,
+   15.986
+  ],
+  [
+   16.716,
+   17.093
+  ],
+  [
+   19.734,
+   20.209
+  ],
+  [
+   21.433,
+   21.744
+  ],
+  [
+   22.988,
+   23.152
+  ],
+  [
+   24.638,
+   25.064
+  ],
+  [
+   26.194,
+   26.569
+  ],
+  [
+   29.953,
+   30.465
+  ],
+  [
+   33.96,
+   34.392
+  ],
+  [
+   37.357,
+   37.663
+  ],
+  [
+   39.693,
+   40.167
+  ],
+  [
+   41.294,
+   41.613
+  ],
+  [
+   44.131,
+   44.62
+  ],
+  [
+   46.596,
+   46.917
+  ],
+  [
+   48.172,
+   48.32
+  ]
+ ],
+ "words": [
+  {
+   "text": "Why",
+   "start": 0.0,
+   "end": 0.42
+  },
+  {
+   "text": "would",
+   "start": 0.42,
+   "end": 0.58
+  },
+  {
+   "text": "a",
+   "start": 0.58,
+   "end": 0.92
+  },
+  {
+   "text": "wasp",
+   "start": 0.92,
+   "end": 1.3
+  },
+  {
+   "text": "lay",
+   "start": 1.3,
+   "end": 1.5
+  },
+  {
+   "text": "its",
+   "start": 1.5,
+   "end": 1.66
+  },
+  {
+   "text": "egg",
+   "start": 1.66,
+   "end": 1.88
+  },
+  {
+   "text": "inside",
+   "start": 1.88,
+   "end": 2.27
+  },
+  {
+   "text": "a",
+   "start": 2.4,
+   "end": 2.45
+  },
+  {
+   "text": "cockroach's",
+   "start": 2.4,
+   "end": 3.06
+  },
+  {
+   "text": "egg",
+   "start": 3.06,
+   "end": 3.32
+  },
+  {
+   "text": "case?",
+   "start": 3.32,
+   "end": 3.81
+  },
+  {
+   "text": "A",
+   "start": 4.46,
+   "end": 4.58
+  },
+  {
+   "text": "small",
+   "start": 4.58,
+   "end": 4.9
+  },
+  {
+   "text": "wasp",
+   "start": 4.9,
+   "end": 5.34
+  },
+  {
+   "text": "called",
+   "start": 5.48,
+   "end": 5.8
+  },
+  {
+   "text": "an",
+   "start": 5.93,
+   "end": 5.98
+  },
+  {
+   "text": "ensign",
+   "start": 5.93,
+   "end": 6.36
+  },
+  {
+   "text": "wasp",
+   "start": 6.36,
+   "end": 6.72
+  },
+  {
+   "text": "puts",
+   "start": 6.99,
+   "end": 7.14
+  },
+  {
+   "text": "one",
+   "start": 7.14,
+   "end": 7.52
+  },
+  {
+   "text": "egg",
+   "start": 7.52,
+   "end": 7.8
+  },
+  {
+   "text": "inside.",
+   "start": 7.8,
+   "end": 8.26
+  },
+  {
+   "text": "When",
+   "start": 8.87,
+   "end": 8.98
+  },
+  {
+   "text": "it",
+   "start": 8.98,
+   "end": 9.14
+  },
+  {
+   "text": "hatches,",
+   "start": 9.14,
+   "end": 9.61
+  },
+  {
+   "text": "the",
+   "start": 9.92,
+   "end": 10.04
+  },
+  {
+   "text": "young",
+   "start": 10.04,
+   "end": 10.26
+  },
+  {
+   "text": "wasp",
+   "start": 10.26,
+   "end": 10.72
+  },
+  {
+   "text": "has",
+   "start": 10.72,
+   "end": 10.86
+  },
+  {
+   "text": "a",
+   "start": 10.86,
+   "end": 11.02
+  },
+  {
+   "text": "dozen",
+   "start": 11.02,
+   "end": 11.4
+  },
+  {
+   "text": "or",
+   "start": 11.4,
+   "end": 11.54
+  },
+  {
+   "text": "more",
+   "start": 11.54,
+   "end": 11.76
+  },
+  {
+   "text": "cockroach",
+   "start": 11.76,
+   "end": 12.28
+  },
+  {
+   "text": "eggs",
+   "start": 12.28,
+   "end": 12.46
+  },
+  {
+   "text": "to",
+   "start": 12.46,
+   "end": 12.68
+  },
+  {
+   "text": "feed",
+   "start": 12.68,
+   "end": 12.88
+  },
+  {
+   "text": "on.",
+   "start": 12.88,
+   "end": 13.07
+  },
+  {
+   "text": "The",
+   "start": 13.68,
+   "end": 13.78
+  },
+  {
+   "text": "young",
+   "start": 13.78,
+   "end": 13.98
+  },
+  {
+   "text": "wasp",
+   "start": 13.98,
+   "end": 14.42
+  },
+  {
+   "text": "uses",
+   "start": 14.42,
+   "end": 14.75
+  },
+  {
+   "text": "pointed",
+   "start": 14.86,
+   "end": 15.18
+  },
+  {
+   "text": "jaws",
+   "start": 15.18,
+   "end": 15.58
+  },
+  {
+   "text": "with",
+   "start": 15.58,
+   "end": 15.81
+  },
+  {
+   "text": "tiny",
+   "start": 15.98,
+   "end": 16.32
+  },
+  {
+   "text": "teeth",
+   "start": 16.32,
+   "end": 16.7
+  },
+  {
+   "text": "to",
+   "start": 16.7,
+   "end": 17.18
+  },
+  {
+   "text": "cut",
+   "start": 17.18,
+   "end": 17.44
+  },
+  {
+   "text": "through",
+   "start": 17.44,
+   "end": 17.64
+  },
+  {
+   "text": "the",
+   "start": 17.64,
+   "end": 17.8
+  },
+  {
+   "text": "shells",
+   "start": 17.8,
+   "end": 18.06
+  },
+  {
+   "text": "of",
+   "start": 18.06,
+   "end": 18.28
+  },
+  {
+   "text": "the",
+   "start": 18.28,
+   "end": 18.4
+  },
+  {
+   "text": "individual",
+   "start": 18.4,
+   "end": 18.9
+  },
+  {
+   "text": "eggs",
+   "start": 18.9,
+   "end": 19.24
+  },
+  {
+   "text": "around",
+   "start": 19.24,
+   "end": 19.56
+  },
+  {
+   "text": "it.",
+   "start": 19.56,
+   "end": 19.73
+  },
+  {
+   "text": "After",
+   "start": 20.2,
+   "end": 20.44
+  },
+  {
+   "text": "feeding",
+   "start": 20.44,
+   "end": 20.82
+  },
+  {
+   "text": "and",
+   "start": 20.82,
+   "end": 21.02
+  },
+  {
+   "text": "growing,",
+   "start": 21.02,
+   "end": 21.43
+  },
+  {
+   "text": "it",
+   "start": 21.73,
+   "end": 21.84
+  },
+  {
+   "text": "changes",
+   "start": 21.84,
+   "end": 22.22
+  },
+  {
+   "text": "into",
+   "start": 22.22,
+   "end": 22.48
+  },
+  {
+   "text": "an",
+   "start": 22.48,
+   "end": 22.62
+  },
+  {
+   "text": "adult",
+   "start": 22.62,
+   "end": 22.99
+  },
+  {
+   "text": "inside",
+   "start": 23.14,
+   "end": 23.48
+  },
+  {
+   "text": "that",
+   "start": 23.48,
+   "end": 23.72
+  },
+  {
+   "text": "same",
+   "start": 23.72,
+   "end": 24.08
+  },
+  {
+   "text": "case.",
+   "start": 24.08,
+   "end": 24.64
+  },
+  {
+   "text": "Once",
+   "start": 25.05,
+   "end": 25.22
+  },
+  {
+   "text": "that",
+   "start": 25.22,
+   "end": 25.42
+  },
+  {
+   "text": "change",
+   "start": 25.42,
+   "end": 25.64
+  },
+  {
+   "text": "is",
+   "start": 25.64,
+   "end": 25.78
+  },
+  {
+   "text": "complete,",
+   "start": 25.78,
+   "end": 26.16
+  },
+  {
+   "text": "the",
+   "start": 26.16,
+   "end": 26.64
+  },
+  {
+   "text": "adult",
+   "start": 26.64,
+   "end": 26.88
+  },
+  {
+   "text": "cuts",
+   "start": 26.88,
+   "end": 27.14
+  },
+  {
+   "text": "a",
+   "start": 27.14,
+   "end": 27.32
+  },
+  {
+   "text": "small,",
+   "start": 27.32,
+   "end": 27.74
+  },
+  {
+   "text": "round",
+   "start": 27.78,
+   "end": 28.14
+  },
+  {
+   "text": "hole",
+   "start": 28.14,
+   "end": 28.52
+  },
+  {
+   "text": "through",
+   "start": 28.52,
+   "end": 28.76
+  },
+  {
+   "text": "the",
+   "start": 28.76,
+   "end": 28.9
+  },
+  {
+   "text": "case",
+   "start": 28.9,
+   "end": 29.22
+  },
+  {
+   "text": "and",
+   "start": 29.22,
+   "end": 29.48
+  },
+  {
+   "text": "comes",
+   "start": 29.48,
+   "end": 29.7
+  },
+  {
+   "text": "out.",
+   "start": 29.7,
+   "end": 29.95
+  },
+  {
+   "text": "American",
+   "start": 30.46,
+   "end": 30.92
+  },
+  {
+   "text": "cockroach",
+   "start": 30.92,
+   "end": 31.44
+  },
+  {
+   "text": "egg",
+   "start": 31.44,
+   "end": 31.62
+  },
+  {
+   "text": "cases",
+   "start": 31.62,
+   "end": 31.96
+  },
+  {
+   "text": "are",
+   "start": 31.96,
+   "end": 32.24
+  },
+  {
+   "text": "one",
+   "start": 32.24,
+   "end": 32.46
+  },
+  {
+   "text": "of",
+   "start": 32.46,
+   "end": 32.6
+  },
+  {
+   "text": "this",
+   "start": 32.6,
+   "end": 32.76
+  },
+  {
+   "text": "wasp's",
+   "start": 32.76,
+   "end": 33.36
+  },
+  {
+   "text": "targets.",
+   "start": 33.36,
+   "end": 33.96
+  },
+  {
+   "text": "Those",
+   "start": 34.38,
+   "end": 34.56
+  },
+  {
+   "text": "roaches",
+   "start": 34.56,
+   "end": 34.9
+  },
+  {
+   "text": "leave",
+   "start": 34.9,
+   "end": 35.16
+  },
+  {
+   "text": "their",
+   "start": 35.16,
+   "end": 35.32
+  },
+  {
+   "text": "cases",
+   "start": 35.32,
+   "end": 35.64
+  },
+  {
+   "text": "in",
+   "start": 35.64,
+   "end": 35.86
+  },
+  {
+   "text": "cracks",
+   "start": 35.86,
+   "end": 36.28
+  },
+  {
+   "text": "and",
+   "start": 36.28,
+   "end": 36.54
+  },
+  {
+   "text": "small",
+   "start": 36.54,
+   "end": 36.88
+  },
+  {
+   "text": "gaps,",
+   "start": 36.88,
+   "end": 37.36
+  },
+  {
+   "text": "and",
+   "start": 37.65,
+   "end": 37.76
+  },
+  {
+   "text": "they",
+   "start": 37.76,
+   "end": 37.88
+  },
+  {
+   "text": "favor",
+   "start": 37.88,
+   "end": 38.16
+  },
+  {
+   "text": "warm,",
+   "start": 38.16,
+   "end": 38.64
+  },
+  {
+   "text": "damp",
+   "start": 38.78,
+   "end": 39.02
+  },
+  {
+   "text": "places.",
+   "start": 39.02,
+   "end": 39.69
+  },
+  {
+   "text": "When",
+   "start": 40.16,
+   "end": 40.26
+  },
+  {
+   "text": "you",
+   "start": 40.26,
+   "end": 40.36
+  },
+  {
+   "text": "inspect",
+   "start": 40.36,
+   "end": 40.66
+  },
+  {
+   "text": "those",
+   "start": 40.66,
+   "end": 40.86
+  },
+  {
+   "text": "areas,",
+   "start": 40.86,
+   "end": 41.29
+  },
+  {
+   "text": "look",
+   "start": 41.6,
+   "end": 41.74
+  },
+  {
+   "text": "for",
+   "start": 41.74,
+   "end": 41.92
+  },
+  {
+   "text": "egg",
+   "start": 41.92,
+   "end": 42.18
+  },
+  {
+   "text": "cases",
+   "start": 42.18,
+   "end": 42.62
+  },
+  {
+   "text": "as",
+   "start": 42.62,
+   "end": 42.88
+  },
+  {
+   "text": "well",
+   "start": 42.88,
+   "end": 43.1
+  },
+  {
+   "text": "as",
+   "start": 43.1,
+   "end": 43.32
+  },
+  {
+   "text": "live",
+   "start": 43.32,
+   "end": 43.56
+  },
+  {
+   "text": "roaches.",
+   "start": 43.56,
+   "end": 44.13
+  },
+  {
+   "text": "Helping",
+   "start": 44.61,
+   "end": 45.0
+  },
+  {
+   "text": "you",
+   "start": 45.0,
+   "end": 45.24
+  },
+  {
+   "text": "understand",
+   "start": 45.24,
+   "end": 45.88
+  },
+  {
+   "text": "pests.",
+   "start": 45.88,
+   "end": 46.6
+  },
+  {
+   "text": "Deep",
+   "start": 46.91,
+   "end": 47.07
+  },
+  {
+   "text": "Six",
+   "start": 47.07,
+   "end": 47.36
+  },
+  {
+   "text": "Pest",
+   "start": 47.36,
+   "end": 47.74
+  },
+  {
+   "text": "Control.",
+   "start": 47.74,
+   "end": 48.06
+  }
+ ],
+ "caption_groups": [
+  {
+   "words": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "words": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "words": [
+    8,
+    9
+   ]
+  },
+  {
+   "words": [
+    10,
+    11
+   ]
+  },
+  {
+   "words": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "words": [
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "words": [
+    19,
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "words": [
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "words": [
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "words": [
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "words": [
+    32,
+    33
+   ]
+  },
+  {
+   "words": [
+    34,
+    35
+   ]
+  },
+  {
+   "words": [
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "words": [
+    39,
+    40,
+    41,
+    42
+   ]
+  },
+  {
+   "words": [
+    43,
+    44
+   ]
+  },
+  {
+   "words": [
+    45,
+    46,
+    47
+   ]
+  },
+  {
+   "words": [
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "words": [
+    51,
+    52
+   ]
+  },
+  {
+   "words": [
+    53,
+    54,
+    55,
+    56
+   ]
+  },
+  {
+   "words": [
+    57,
+    58
+   ]
+  },
+  {
+   "words": [
+    59,
+    60
+   ]
+  },
+  {
+   "words": [
+    61,
+    62
+   ]
+  },
+  {
+   "words": [
+    63,
+    64
+   ]
+  },
+  {
+   "words": [
+    65,
+    66,
+    67
+   ]
+  },
+  {
+   "words": [
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "words": [
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "words": [
+    75,
+    76
+   ]
+  },
+  {
+   "words": [
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "words": [
+    80,
+    81
+   ]
+  },
+  {
+   "words": [
+    82,
+    83
+   ]
+  },
+  {
+   "words": [
+    84,
+    85,
+    86
+   ]
+  },
+  {
+   "words": [
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "words": [
+    90,
+    91
+   ]
+  },
+  {
+   "words": [
+    92,
+    93
+   ]
+  },
+  {
+   "words": [
+    94,
+    95,
+    96
+   ]
+  },
+  {
+   "words": [
+    97,
+    98,
+    99
+   ]
+  },
+  {
+   "words": [
+    100,
+    101,
+    102
+   ]
+  },
+  {
+   "words": [
+    103,
+    104
+   ]
+  },
+  {
+   "words": [
+    105,
+    106
+   ]
+  },
+  {
+   "words": [
+    107,
+    108,
+    109
+   ]
+  },
+  {
+   "words": [
+    110,
+    111,
+    112
+   ]
+  },
+  {
+   "words": [
+    113
+   ]
+  },
+  {
+   "words": [
+    114,
+    115
+   ]
+  },
+  {
+   "words": [
+    116,
+    117,
+    118
+   ]
+  },
+  {
+   "words": [
+    119,
+    120
+   ]
+  },
+  {
+   "words": [
+    121,
+    122,
+    123,
+    124
+   ]
+  },
+  {
+   "words": [
+    125,
+    126
+   ]
+  },
+  {
+   "words": [
+    127,
+    128,
+    129
+   ]
+  }
+ ]
+}

@@ -65,3 +65,25 @@ export function createScene(config, timing) {
 ```
 
 `blurWindows` entries look like `[start, end, samples, shutter]`. Use them only for big zooms and whips.
+
+## `scenes/wasp-kit.mjs`: ensign wasp, American cockroach and egg case (made for D6-01096ba333e3)
+
+Researched pieces in style C; anatomy and sources in `science-notes.md`. Reuse them for any cockroach or wasp episode; do not redraw them.
+
+- **Ensign wasp:** `placeWasp(ctx, texture, x, groundY, scale, pose, { faceRight, rotation })`, about 560 px long at scale 1, faces left. Pose: `phase`, `walk`, `stride`, `flag` (gaster angle; about -1.1 is held high), `antennae`, `wing`, `fold` (0..1 tucks legs and wings, as in the pupa), `tint` (0..1 pale), `bob`. Use `gaitPhase(distance, scale, stride)` so feet never slide.
+- **Young wasp:** `drawWaspEgg(ctx, tex, x, y, len, angle, k)`, `drawGrub(ctx, tex, x, y, len, angle, opts)` (pale, legless, segmented), `drawJawFace(ctx, tex, x, y, size, open, teethK, boost, lime)` (head-on, sickle jaws with small teeth).
+- **Egg case:** `drawEggCase(ctx, tex, x, y, L, opts)` (purse-shaped, ridged seam; height `CASE_H` x L; exit hole `CASE_HOLE`), `drawCaseCutaway(ctx, tex, x, y, L, state)` with 16 eggs in two rows of eight (`caseEgg(L, i)` gives an egg's place), `drawRoachEgg(...)` (whole 1, empty shell 0), `drawCaseHole`, `drawCaseDisc`, `drawEggCaseTop`.
+- **American cockroach:** `placeRoach(ctx, tex, x, groundY, scale, pose, options)` side view, about 860 px at scale 1; `drawRoachTop(ctx, tex, x, y, scale, angle, pose)` from above.
+- **Props:** `ensignFlag` (pennant for the word "ensign"), `limeRing(ctx, x, y, rx, ry, k)` (drawn on like a marker), `targetMark`, `flashlightHand`.
+
+## `scenes/home-world.mjs`: home sets (made for D6-01096ba333e3)
+
+- `createSink(texture).draw(ctx, t, { crack, damp, warm, drip, extra })`: the cabinet under a kitchen sink, front view, with a crack, a gap under the back wall, a gap round the drain pipe, a warm supply line, a dripping trap and a damp floor. Named places in `SINK`.
+- `createMacro(texture).draw(ctx, t, s)`: the same cabinet floor very close (floor line `MACRO_FLOOR` = 1150), where an egg case lies near a crack.
+- `createFloorTop(texture).draw(ctx, t, { crackY })`: the floor seen from above.
+- `tracePath(ctx, points, k)` draws a lime outline along a path; `flashlightBeam(ctx, x0, y0, x1, y1, spread, beam, dim)` lights a cone and dims the rest.
+- Insects in wide sink shots read as specks: see `learned-rules.md`.
+
+## `scenes/outro.mjs`: the approved Deep Six outro
+
+The runner adds it after the lesson; segment authors never draw it. `createOutro(config, timing)` reads the frame plan written by `video_finish.fit_outro` (cream-paper wipe on the first frame after the last lesson word, logo landed before "Deep", about 1 s hold) and draws the outro's own top caption.

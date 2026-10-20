@@ -1,16 +1,16 @@
 {
  "drawing": "animation-system.excalidraw",
- "elements": 688,
- "shapes": 139,
+ "elements": 868,
+ "shapes": 181,
  "pictures": 4,
  "zones": 35,
- "texts": 402,
- "arrows": 99,
+ "texts": 503,
+ "arrows": 134,
  "canvas": [
   40,
   24,
   6772,
-  8697
+  10055
  ],
  "checks": [
   "unique ids",

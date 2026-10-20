@@ -1,0 +1,16 @@
+{
+  "note": "Drew rejected Test G (steady pulse) as annoying because of the sound itself: the ticking and the beat (20 Oct). Still tense and mysterious, his choice. So: no drums, no percussion, no ticking, no plucked notes, smooth and polished, not eerie.",
+  "duration": 95,
+  "seeds_per_prompt": 2,
+  "seed_order": "seed-first",
+  "prompts": [
+    {"name": "warm-strings", "bpm": 70, "keyscale": "D minor",
+     "caption": "Smooth mysterious documentary underscore. A warm legato string section holds long minor chords with slow gentle movement, a soft low cello line underneath, a light airy pad on top. No drums, no percussion, no ticking, no beat, no plucked notes. Calm, curious tension. Polished film sound, steady from start to finish. Instrumental background music under a narrator."},
+    {"name": "soft-piano-pad", "bpm": 66, "keyscale": "A minor",
+     "caption": "Gentle mysterious piano and pad. Soft sustained piano chords played slowly with warm reverb, over a smooth synth pad. No drums, no percussion, no beat, no ticking. Curious nature documentary feel, not scary. Smooth and steady, same mood from start to end. Instrumental."},
+    {"name": "ambient-warm", "bpm": 60, "keyscale": "E minor",
+     "caption": "Smooth cinematic ambient bed for a science documentary. Deep warm low drone, slowly moving synth pads, a subtle soft shimmer. No drums, no percussion, no rhythm, no lead melody, no sudden swells. Mysterious but calm and pleasant, not eerie, not dark horror. Instrumental."},
+    {"name": "orchestral-wonder", "bpm": 72, "keyscale": "C minor",
+     "caption": "Mysterious wonder underscore for a nature documentary about insects. Soft strings and a mellow French horn hold long notes, gentle woodwinds answer softly. No drums, no percussion, no ticking, no plucked strings. Curious and a little suspenseful, warm and polished, steady throughout. Instrumental."}
+  ]
+}

@@ -1,0 +1,32 @@
+[
+ {
+  "track": "ambient-warm-seed1002.wav",
+  "level_spread_db": 10.3,
+  "big_jumps": 68,
+  "short_term_spread_db": 6.8,
+  "section_changes": 1,
+  "worst_change": 0.218,
+  "voice_room_db": 21.1,
+  "pulse_strength": 0.24,
+  "hit_rate": 3.23,
+  "percussive_ratio": 0.139,
+  "speech_segments": 0,
+  "heard": "",
+  "lufs": -12.9
+ },
+ {
+  "track": "orchestral-wonder-seed1003.wav",
+  "level_spread_db": 16.8,
+  "big_jumps": 58,
+  "short_term_spread_db": 11.7,
+  "section_changes": 2,
+  "worst_change": 0.433,
+  "voice_room_db": 5.4,
+  "pulse_strength": 0.1,
+  "hit_rate": 0.18,
+  "percussive_ratio": 0.026,
+  "speech_segments": 1,
+  "heard": "This is the end of the video.",
+  "lufs": -16.2
+ }
+]

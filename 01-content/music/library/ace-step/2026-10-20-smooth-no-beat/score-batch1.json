@@ -1,0 +1,30 @@
+[
+ {
+  "track": "warm-strings-seed1000.wav",
+  "level_spread_db": 10.4,
+  "big_jumps": 101,
+  "short_term_spread_db": 9.7,
+  "section_changes": 1,
+  "worst_change": 0.334,
+  "voice_room_db": 10.5,
+  "pulse_strength": 0.51,
+  "hit_rate": 2.93,
+  "speech_segments": 1,
+  "heard": "I'll see you next time.",
+  "lufs": -18.8
+ },
+ {
+  "track": "soft-piano-pad-seed1001.wav",
+  "level_spread_db": 18.0,
+  "big_jumps": 88,
+  "short_term_spread_db": 14.1,
+  "section_changes": 0,
+  "worst_change": 0.204,
+  "voice_room_db": 9.2,
+  "pulse_strength": 0.45,
+  "hit_rate": 1.62,
+  "speech_segments": 2,
+  "heard": "\ud83c\udfb6 \ud83c\udfb6",
+  "lufs": -15.8
+ }
+]

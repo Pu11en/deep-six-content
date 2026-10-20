@@ -1,0 +1,72 @@
+{
+ "model": "ACE-Step 1.5 acestep-v15-turbo + acestep-5Hz-lm-1.7B (MIT)",
+ "prompts": "/home/drewp/main-projects/deep-six-content/01-content/music/prompts/2026-10-20-smooth-no-beat.json",
+ "runs": [
+  {
+   "name": "warm-strings",
+   "seed": 1000,
+   "seconds_to_make": 136.2,
+   "success": true,
+   "error": null,
+   "file": "warm-strings-seed1000.wav",
+   "bpm": 70,
+   "keyscale": "D minor",
+   "caption": "Smooth mysterious documentary underscore. A warm legato string section holds long minor chords with slow gentle movement, a soft low cello line underneath, a light airy pad on top. No drums, no percussion, no ticking, no beat, no plucked notes. Calm, curious tension. Polished film sound, steady from start to finish. Instrumental background music under a narrator."
+  },
+  {
+   "name": "soft-piano-pad",
+   "seed": 1001,
+   "seconds_to_make": 180.6,
+   "success": true,
+   "error": null,
+   "file": "soft-piano-pad-seed1001.wav",
+   "bpm": 66,
+   "keyscale": "A minor",
+   "caption": "Gentle mysterious piano and pad. Soft sustained piano chords played slowly with warm reverb, over a smooth synth pad. No drums, no percussion, no beat, no ticking. Curious nature documentary feel, not scary. Smooth and steady, same mood from start to end. Instrumental."
+  },
+  {
+   "name": "ambient-warm",
+   "seed": 1002,
+   "seconds_to_make": 225.2,
+   "success": true,
+   "error": null,
+   "file": "ambient-warm-seed1002.wav",
+   "bpm": 60,
+   "keyscale": "E minor",
+   "caption": "Smooth cinematic ambient bed for a science documentary. Deep warm low drone, slowly moving synth pads, a subtle soft shimmer. No drums, no percussion, no rhythm, no lead melody, no sudden swells. Mysterious but calm and pleasant, not eerie, not dark horror. Instrumental."
+  },
+  {
+   "name": "orchestral-wonder",
+   "seed": 1003,
+   "seconds_to_make": 203.7,
+   "success": true,
+   "error": null,
+   "file": "orchestral-wonder-seed1003.wav",
+   "bpm": 72,
+   "keyscale": "C minor",
+   "caption": "Mysterious wonder underscore for a nature documentary about insects. Soft strings and a mellow French horn hold long notes, gentle woodwinds answer softly. No drums, no percussion, no ticking, no plucked strings. Curious and a little suspenseful, warm and polished, steady throughout. Instrumental."
+  },
+  {
+   "name": "warm-strings",
+   "seed": 1021,
+   "seconds_to_make": 282.6,
+   "success": true,
+   "error": null,
+   "file": "warm-strings-seed1021.wav",
+   "bpm": 70,
+   "keyscale": "D minor",
+   "caption": "Smooth mysterious documentary underscore. A warm legato string section holds long minor chords with slow gentle movement, a soft low cello line underneath, a light airy pad on top. No drums, no percussion, no ticking, no beat, no plucked notes. Calm, curious tension. Polished film sound, steady from start to finish. Instrumental background music under a narrator."
+  },
+  {
+   "name": "soft-piano-pad",
+   "seed": 1022,
+   "seconds_to_make": 235.6,
+   "success": true,
+   "error": null,
+   "file": "soft-piano-pad-seed1022.wav",
+   "bpm": 66,
+   "keyscale": "A minor",
+   "caption": "Gentle mysterious piano and pad. Soft sustained piano chords played slowly with warm reverb, over a smooth synth pad. No drums, no percussion, no beat, no ticking. Curious nature documentary feel, not scary. Smooth and steady, same mood from start to end. Instrumental."
+  }
+ ]
+}

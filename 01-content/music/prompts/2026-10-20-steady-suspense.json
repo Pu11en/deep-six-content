@@ -1,0 +1,15 @@
+{
+  "note": "Drew chose tense and mysterious like Zack D. (20 Oct). He rejected six stock tracks as cheap and unstable, 'random'. So every prompt asks for one steady groove, no section changes, polished sound.",
+  "duration": 95,
+  "seeds_per_prompt": 2,
+  "prompts": [
+    {"name": "steady-pulse", "bpm": 100, "keyscale": "D minor",
+     "caption": "Polished suspense underscore for a short science documentary. One steady groove from start to finish: soft muted kick on every beat, tight ticking hi-hat, deep pulsing synth bass on eighth notes, warm dark pad holding long minor chords. No build-ups, no drops, no breakdowns, no solos, no lead melody. Loopable background music that sits under a narrator. Instrumental."},
+    {"name": "mystery-piano", "bpm": 85, "keyscale": "A minor",
+     "caption": "Mysterious documentary background music, professionally produced. A low piano repeats the same simple four-note pattern the whole time over a soft steady hip-hop beat and warm bass. Subtle strings pad. Constant energy, no build-ups, no drops, no new sections, no solo. Curious tension made to sit under a voice-over. Instrumental."},
+    {"name": "ticking-strings", "bpm": 110, "keyscale": "E minor",
+     "caption": "Cinematic tension bed for an educational video about insects. Steady staccato string ostinato repeating one pattern, ticking clock percussion, soft low drum pulse on each bar, airy synth pad. Same intensity from start to end, no crescendo, no big hits, no solos. Modern film sound kept quiet and steady for voice-over. Instrumental."},
+    {"name": "minimal-electronic", "bpm": 105, "keyscale": "C minor",
+     "caption": "Modern minimal electronic suspense track for a viral explainer video. Steady soft kick and clap, a muted synth arpeggio repeating the same pattern, deep sub bass, dark atmospheric pad. Clean, professional mix. Same groove the whole time, no risers, no drops, no breakdowns, no lead melody. Background music under narration. Instrumental."}
+  ]
+}

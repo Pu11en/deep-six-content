@@ -1,0 +1,10 @@
+{
+  "episode_id": "D6-01096ba333e3",
+  "stage": "hook_motion_review",
+  "candidate": "d6-01096ba333e3-replay-v2.mp4",
+  "candidate_sha256": "a3d3af83abe3dcb269d36a3356abe43cbc5516aadcac0fc77cf5c68130413aa7",
+  "decision": "pending",
+  "feedback": [],
+  "approved_by": null,
+  "approved_at": null
+}

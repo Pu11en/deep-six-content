@@ -1,0 +1,70 @@
+{
+  "approved_narration_id": "D6-01096ba333e3",
+  "comparison_id": "D6-01096ba333e3-full-chris-01",
+  "kind": "full_narration",
+  "approved_script_file": "../../../approved-narrations/D6-01096ba333e3.md",
+  "status": "audio_approved",
+  "voice_rotation_file": "../../voice-rotation.json",
+  "voice_id": "iP95p4xoKVk53GoZ742B",
+  "voice_name": "Chris",
+  "model_id": "eleven_v4",
+  "seed": 20261019,
+  "output_format": "mp3_44100_128",
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "player_title": "D6 Ensign Wasp Narration - Chris",
+  "spoken_text_check": "After removing delivery tags and normalizing whitespace, render text equals the approved narration D6-01096ba333e3 exactly, including the outro.",
+  "variants": [
+    {
+      "name": "full_chris",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "label": "Chris - Ensign wasp full narration with outro",
+      "description": "Full approved script, same model and settings as the approved Tyler fire-ant recording.",
+      "text_file": "render.txt",
+      "audio_file": "ensign-wasp-chris.mp3",
+      "status": "complete",
+      "text_sha256": "61aef038dd03ea4f88b2b821f0ae3104e9274f37b2114504d983515ef613733a",
+      "script_sha256": "b9e9ee3b2dfbb736519da95d8210080411fa59032542c6831b06156b7b77149a",
+      "request_sha256": "4e0bbf0f51107496d20b5710c184904aa0bcd75898879c383987063f7910b6fd",
+      "characters": 880,
+      "started_at": "2026-10-20T06:50:44+00:00",
+      "request_id": "pBbgxkeY2y6pNwmhxoQu",
+      "audio_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710",
+      "bytes": 774103,
+      "duration_seconds": 48.352653,
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1,
+      "completed_at": "2026-10-20T06:50:54+00:00"
+    }
+  ],
+  "authorization": {
+    "approved": true,
+    "approved_at": "2026-10-20T06:50:43+00:00",
+    "evidence": "Drew chose \"Yes, make it (Recommended)\": one full Chris recording, 880 characters, same settings as the Tyler fire-ant MP3, no top-up.",
+    "max_requests": 1,
+    "max_characters": 880,
+    "request_sha256": [
+      "4e0bbf0f51107496d20b5710c184904aa0bcd75898879c383987063f7910b6fd"
+    ]
+  },
+  "available_characters_before": 2451,
+  "review_id": "AUD-5f7ad5f88ba8",
+  "audio_review": {
+    "path": "/home/drewp/main-projects/deep-six-content/01-content/audio/D6-01096ba333e3/full-chris-01/ensign-wasp-chris.mp3",
+    "duration_seconds": 48.352653,
+    "audio_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710",
+    "approved_narration_id": "D6-01096ba333e3",
+    "request_sha256": "4e0bbf0f51107496d20b5710c184904aa0bcd75898879c383987063f7910b6fd",
+    "script_sha256": "b9e9ee3b2dfbb736519da95d8210080411fa59032542c6831b06156b7b77149a",
+    "legacy_approval": false,
+    "status": "approved",
+    "feedback": "Drew listened to the Desktop MP3 and chose \"Approve, start video now\".",
+    "reviewed_at": "2026-10-20T07:01:45+00:00",
+    "review_id": "AUD-5f7ad5f88ba8",
+    "approved_variant": "full_chris",
+    "reviewed_variant": "full_chris"
+  }
+}

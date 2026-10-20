@@ -1,0 +1,6 @@
+{
+ "frames_compared": 139,
+ "worst_mean_difference": 1.83,
+ "pass": true,
+ "note": "Mean absolute difference per pixel (0-255) against the approved outro frames, 108x192."
+}

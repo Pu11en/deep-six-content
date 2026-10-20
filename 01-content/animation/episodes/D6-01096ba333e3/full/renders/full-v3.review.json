@@ -1,0 +1,14 @@
+{
+  "episode_id": "D6-01096ba333e3",
+  "stage": "final_video_review",
+  "candidate": "full-v3.mp4",
+  "candidate_sha256": "a3d3af83abe3dcb269d36a3356abe43cbc5516aadcac0fc77cf5c68130413aa7",
+  "decision": "approved",
+  "feedback": [
+    "Drew watched the Desktop copy \"Deep Six - Ensign Wasp v1.mp4\" and said: \"yes good i like it\"."
+  ],
+  "approved_by": "Drew",
+  "approved_at": "2026-10-20T08:29:41+00:00",
+  "delivered_final": "ensign-wasp-v3-final.mp4",
+  "delivered_final_sha256": "58bc986bf2146a04e1e9e14036c552ff2a1d8999e3bebd63692108113d2efab7"
+}

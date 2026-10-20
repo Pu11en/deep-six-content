@@ -31,16 +31,21 @@ Measured on the reference: never still longer than 0.33 s; a median 17% of the p
 
 ## Run it
 
-`make_video.py` hands each step to an agent: Opus 5.5 by default, or Sol or Astra with `--model`. The agent writes only inside this folder and cannot edit protected files; the runner restores any it touches. The runner then validates the output and renders the result.
+`make_video.py` is the runner (built October 20 from [AUTOMATION-DESIGN.md](AUTOMATION-DESIGN.md)). When Drew approves an MP3, an agent records his start choice with one command; a background worker then makes the video by itself, one video at a time, in the order started.
 
 ```
-python3 make_video.py prepare --episode <id> --manifest ../audio/<id>/<run>/comparison.json
-python3 make_video.py full --episode <id> --run <id>-opus --desktop-name "Deep Six - <title>.mp4"
+cd 01-content/animation
+python3 make_video.py start --episode <id> --manifest ../audio/<id>/<run>/comparison.json --when now|tonight|later
+python3 make_video.py status                       # where every video stands; restarts the worker after a crash or reboot
+python3 make_video.py verdict --run <run> --decision approve|notes --says "Drew's own words"
+python3 make_video.py go --run <run>               # start a "later" video, or retry a parked one
 ```
 
-`full` plans the whole video, splits it at sentence pauses into 6-to-15-second segments, makes each segment, joins them, renders and copies the MP4 to the Desktop. Stopping and re-running the same command resumes; finished work is kept.
+What the worker does, in order: verify the MP3 against its approval fingerprint; time every word (reusing `episodes/<id>/full/words.json` when the MP3 matches); the Director plans the lesson, checked by the runner; new drawings for a new pest (Asset maker, then Drew approves); each segment by the Animator, then the runner's checks, then a fresh Reviewer AI watching 5-fps filmstrips beside the approved videos; a pilot clip for Drew only on risky segments; join with the approved outro fitted to the narrator; a detached render; the approved MP3 re-muxed unchanged; file checks; a whole-video Reviewer; Desktop copy and board entry. Each run keeps a ledger (`run.json`) and a plain status note (`STATUS.md`) in `episodes/<id>/runs/<run>/`.
 
-**Usage limits.** Astra and Sol share one ChatGPT Codex usage limit, so switching between them does not help once it is used up. On October 19 the tests used it up; Drew's access was back the same evening (an Astra probe passed). A segment used about 2 to 4 million input tokens, mostly cached. The briefs now point agents to `KIT-API.md` instead of the full source, to use less. `--backup sonnet` runs the same job on Claude Sonnet with Claude plan credits; it is opt-in, never automatic.
+Every AI job tries Opus 5.5 (max), then GPT-6 Sol, then GPT-6 Astra (xhigh) when a model is out of usage or unavailable. A Codex usage limit blocks both Codex models, so the video pauses and resumes by itself at the first reset, starting at Opus again. A quality failure never switches models: the same model retries with notes (Director and Animator twice, a crashed render once), then the video parks with its reason. Drew's notes go through a Triage AI that redoes only the affected segments and re-delivers the next version. A problem seen twice becomes a rule in `learned-rules.md`, which every brief reads. Finishing steps without AI live in `video_finish.py`; offline tests in `tests/`.
+
+**Usage limits.** Astra and Sol share one ChatGPT Codex usage limit, so switching between them does not help once it is used up. On October 19 the tests used it up; Drew's access was back the same evening (an Astra probe passed). A segment used about 2 to 4 million input tokens, mostly cached. The briefs now point agents to `KIT-API.md` instead of the full source, to use less. Claude Sonnet can join the ladder only when asked (`start --ladder opus,sonnet,sol,astra`); it is never automatic.
 
 ## Model test, October 19
 
@@ -61,7 +66,7 @@ End-to-end test: Astra ran `full` on the last 21 seconds with the approved versi
 - Kit: `scenes/paper-kit.mjs` contains paper pieces, the fire-ant worker, eggs, larvae and pupae, brood piles, carrying, captions, camera and effects.
 - Sets: `scenes/nest-world.mjs` (cutaway with weather, water, heat, brood and ants) and `scenes/yard-world.mjs` (yard, homeowner, thought bubble, gauge, magnifier, pushpin, X, question mark).
 - Reference modules: `scenes/hook-fire-ant-drought.mjs` (hook), `scenes/d6-6c917b49743b-body.mjs` (everything after it) and `scenes/d6-6c917b49743b-full.mjs` (assembly).
-- Renderer: `render-shots.mjs`. Timing: `tools/align_words.py`. Runner: `make_video.py`.
+- Renderer: `render-shots.mjs`. Timing: `tools/align_words.py`. Runner: `make_video.py`, finishing steps `video_finish.py`, outro `scenes/outro.mjs`.
 
 ## Time conventions
 
@@ -69,6 +74,4 @@ Scene modules, shot lists and captions use absolute narration time, counted from
 
 ## Still to decide in later sessions
 
-- The closer: a short transition line and picture leading into the Deep Six outro. It depends on the outro, which will be made separately with video generation and the branding assets.
-- Music.
-- New pests need new researched drawings, such as a cockroach and a kitchen set, built in the same style before their first video.
+- Music. The finish step has a marked place for a music bed (`audio_graph` in `video_finish.py`); the music session decides.

@@ -31,6 +31,19 @@ D6-ANT-001 was a narration experiment, never published. Drew scrapped the script
 | [Mailbox cartoon — jackfriks](https://x.com/jackfriks/status/2103132260589338762) | Vertical character story, illustrated scenery and captions. | Candidate shown 2026-10-16; creator says supplied app artwork was animated with Opus 5.5. No factual content reused. |
 | [Ant colony — Hanif](https://x.com/hanifproduktif/status/2102742924148830211) · [source code](https://github.com/buildwithhanif/claude-animation-skill/tree/main/examples/ant-colony) | Code-drawn ants, walking, carrying leaves, and underground scenes. | Candidate shown 2026-10-16; original is 16:9 and would require a new 9:16 layout. Leafcutter visual reference only; no pest facts reused or skill installed. |
 
+## Drawing anatomy checks
+
+Used on October 20, 2026 only to check the new cut-paper drawings for the ensign-wasp video (D6-01096ba333e3). No narration wording came from them; the approved script and its sources are unchanged. Drew decides whether these block reuse as narration sources. Details: [science notes](animation/science-notes.md).
+
+| Source | Used for | Episode |
+|---|---|---|
+| [UF/IFAS IN319, Evania appendigaster](https://ask.ifas.ufl.edu/publication/IN319) | Wasp shape and colour, one white egg, toothed first-instar jaws, pupa without cocoon, round exit hole. Already a supporting source of the approved script. | D6-01096ba333e3 |
+| [TAMU City Bugs, Flag waving for Americans](https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/) | Flag-like abdomen waved up and down; antennae tap the case. Already the script's source (SRC-0fa91dcbc971). | D6-01096ba333e3 |
+| [UF/IFAS EENY-141 (IN298), American cockroach](https://ask.ifas.ufl.edu/publication/IN298) | Roach colour and pale pronotum band; purse-shaped egg case, about 8 x 5 mm, brown turning dark, 16 eggs. New, drawing check only. | D6-01096ba333e3 |
+| [UMN Extension, Cockroaches](https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches) | Egg case in a crack or crevice; warm, moist places. Already a supporting source of the approved script. | D6-01096ba333e3 |
+| [Lander University, Periplaneta americana](https://lanwebs.lander.edu/faculty/rsfox/invertebrates/periplaneta.html) | Eggs in two rows of eight inside the case. New, drawing check only. | D6-01096ba333e3 |
+| [Wikipedia, Evania appendigaster](https://en.wikipedia.org/wiki/Evania_appendigaster) and Wikimedia Commons photos of the wasp and the American cockroach | Cross-check of the flag-like gaster held high; photo shapes for the side and top views. Visual reference only. | D6-01096ba333e3 |
+
 ## Reusable writing references
 
 October 19 additions: [hook-research repo comparison](research/hook-research-repos-2026-10-19.md), [proposed writing instructions](writing-harness-prompts.md), and [system design log](video-system-design.md). These are research/method references, not new factual episode sources. No new narration was drafted.

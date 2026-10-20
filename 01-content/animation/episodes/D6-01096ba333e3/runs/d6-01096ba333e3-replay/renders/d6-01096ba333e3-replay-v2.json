@@ -1,0 +1,41 @@
+{
+  "candidate": "d6-01096ba333e3-replay-v2.mp4",
+  "revision": "v2",
+  "video_sha256": "a3d3af83abe3dcb269d36a3356abe43cbc5516aadcac0fc77cf5c68130413aa7",
+  "approval_file": "d6-01096ba333e3-replay-v2.review.json",
+  "created_with": {
+    "scene": "scenes/d6-01096ba333e3-replay-full.mjs",
+    "kit": "scenes/paper-kit.mjs",
+    "renderer": "render-shots.mjs",
+    "node": "v22.22.0"
+  },
+  "inputs": {
+    "config_sha256": "0fcd45c59480fad913ad7576c60957e6f9b72f6ff9f7a17a57081c767576dbcd",
+    "scene_sha256": "ac90f4d8ca9a80c5200dde7e7cf36e55fafcbe0f8ff2c591bb75bc2f398f14de",
+    "kit_sha256": "16088af7ee39eaece50ba86cfe81450a49bfcacc2ea1911a34151935b883791b",
+    "timing_sha256": "102a478057895b10f593edabef0c535998b41fba656d65408dfdd66bafb508a4",
+    "shot_list_sha256": "5d568f1d072c98ffb9c96d16e03b3b87a746847e6995434cdd2e8730ad92ec20",
+    "approved_audio_sha256": "48b3cd7ce950a65f51603f320868072966b0ce0e3532909df93b5878070b5710",
+    "approved_style_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060"
+  },
+  "checks": {
+    "width": 1080,
+    "height": 1920,
+    "aspect": "1080:1920",
+    "fps": "30/1",
+    "frames": 1472,
+    "video_seconds": 49.066667,
+    "audio_seconds": 49.066009,
+    "container_seconds": 49.066667,
+    "longest_still_seconds": 1.533,
+    "mean_motion": 4.613,
+    "picture_change_half_second_median": 0.217,
+    "render_seconds": 657.5
+  },
+  "contact_sheets": [
+    "d6-01096ba333e3-replay-v2-beats-1.png",
+    "d6-01096ba333e3-replay-v2-beats-2.png",
+    "d6-01096ba333e3-replay-v2-beats-3.png",
+    "d6-01096ba333e3-replay-v2-beats-4.png"
+  ]
+}
