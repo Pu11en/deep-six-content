@@ -1,0 +1,42 @@
+[
+  {
+    "candidate_number": 1,
+    "crawler_source_id": "s14",
+    "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+    "quote_words": 22,
+    "crawler_text_sha256": "25ad24cabd3ef5e612b84711cf19fcbcf52626902d002f07045efefa386b9901",
+    "truncated": false
+  },
+  {
+    "candidate_number": 2,
+    "crawler_source_id": "s6",
+    "url": "https://npic.orst.edu/faq/roach.html",
+    "quote_words": 21,
+    "crawler_text_sha256": "e912d9657cb95513312bc04ac863065866e93adb7257b941083a9cf124a7a572",
+    "truncated": false
+  },
+  {
+    "candidate_number": 3,
+    "crawler_source_id": "s3",
+    "url": "https://npic.orst.edu/pest/roach.html",
+    "quote_words": 18,
+    "crawler_text_sha256": "491fc5edb1603653b3ec08dd9259be3847131f889750c0f392b072ac4e1fe475",
+    "truncated": false
+  },
+  {
+    "candidate_number": 4,
+    "crawler_source_id": "s1",
+    "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+    "quote_words": 19,
+    "crawler_text_sha256": "4cee8d54d7a78e44c1bbf0f773595090fff8ce4eba56f6420d8ec6322f2fac2c",
+    "truncated": false
+  },
+  {
+    "candidate_number": 5,
+    "crawler_source_id": "s9",
+    "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+    "quote_words": 22,
+    "crawler_text_sha256": "2b876133731aa19768b3fdd079dee7661db232cb69111bf616f36897ec6dc54a",
+    "truncated": false
+  }
+]

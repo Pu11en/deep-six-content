@@ -1,0 +1,41 @@
+{
+  "client_id": "imac-research",
+  "original_goal": "Find five distinct, useful educational cockroach sources for Central Texas homeowners. This is a draft example for the next source-stocking round, not a request to start it.",
+  "brief": {
+    "goal": "Prepare five source choices about cockroaches, each teaching a different useful, less-obvious homeowner lesson with checked evidence.",
+    "questions": [
+      "Which five distinct original publications can support useful lessons about cockroach biology, behavior, identification or nonchemical prevention?",
+      "What does each source teach, why would a homeowner care, and does the main source itself support an honest hook?",
+      "Which exact passages support each lesson, and what species, geographic, date or evidence limits matter?",
+      "Are any candidates duplicate, reserved, inaccessible, too shallow or unsupported? What remains unknown?"
+    ],
+    "output": "Five original source links with one- or two-sentence lesson previews (maximum four sentences/600 characters), plus internal publisher/date/species/region/limits, one to four factual statements and short exact evidence (at most 25 quoted words total per publication). Return fewer with a stated shortage if necessary. No hooks or scripts.",
+    "scope_constraints": [
+      "Audience: homeowners around New Braunfels and Central Texas. Research pest: cockroaches; do not default back to ants.",
+      "Prioritize useful, less-obvious explanations over generic tips. Explain what happens, why it happens and what a homeowner can understand or do.",
+      "Keep five choices varied by lesson and publication. No invented facts, quotes, dates, access, local measurements or viewer-performance claims.",
+      "Use only current verified public read/search capabilities. No paid fallback, model calls, cookie access, downloads to execute, or new logins.",
+      "Current acceptance domains: citybugs.tamu.edu, fireant.tamu.edu, extensionentomology.tamu.edu, agrilifeextension.tamu.edu, npic.orst.edu, epa.gov",
+      "Reserved publication URLs: [\"https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop\", \"https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001\", \"https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013\", \"https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002\", \"https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012\", \"https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf\", \"https://fireant.tamu.edu/learn/biology\", \"https://fireant.tamu.edu/manage/faq\", \"https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants\", \"https://npic.orst.edu/pest/ant.html\"]",
+      "Also consult 01-content/source-log.md for older reservations, including ANT-S001. Refresh all exclusions from current state before sending this example.",
+      "Current stocked source counts: {\"ants\": 3, \"cockroaches\": 0, \"termites\": 0, \"mosquitoes\": 0, \"rodents\": 0, \"spiders\": 0, \"scorpions\": 0, \"bed bugs\": 0, \"fleas and ticks\": 0, \"stinging insects\": 0, \"wildlife\": 0}. Stocking this pest is separate from choosing the next episode.",
+      "Respect latest source-specific choices and comments; unchosen options are neutral. Refresh relevant feedback from saved decisions before sending.",
+      "Identification, behavior and nonchemical prevention only; no dosing, mixing, medical advice or product-specific directions.",
+      "A main source must support its hook promise. Supporting science is a separate request after hook selection.",
+      "No videos watched or authenticated social content accessed unless actual capability and retrieval are verified. Never substitute snippets for evidence."
+    ]
+  },
+  "budget": {
+    "calls": 1,
+    "pages": 20,
+    "searches": 4,
+    "seconds": 300,
+    "steps": 70
+  },
+  "notes": [
+    {
+      "role": "agent",
+      "content": "DRAFT ONLY. Prepared during the flow-design discussion; not submitted, approved or started. Three approved ant sources are already queued, tawny crazy ants first. New source discovery would target cockroaches. Continued background queue stocking versus on-demand-only research is awaiting Drew’s preference. No source-research timer is active."
+    }
+  ]
+}

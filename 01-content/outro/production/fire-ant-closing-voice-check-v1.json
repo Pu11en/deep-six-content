@@ -1,0 +1,104 @@
+{
+  "spoken_text": "So a missing mound doesn't mean the colony is gone.",
+  "transcript": "So, a missing mound doesn't mean the colony is gone.",
+  "exact_words_once": true,
+  "asr_model": "small.en cached CPU int8",
+  "segments": [
+    {
+      "text": " So, a missing mound doesn't mean the colony is gone.",
+      "start": 0.0,
+      "end": 3.14,
+      "words": [
+        {
+          "text": "So,",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.8127140998840332
+        },
+        {
+          "text": "a",
+          "start": 0.54,
+          "end": 0.62,
+          "probability": 0.9894595146179199
+        },
+        {
+          "text": "missing",
+          "start": 0.62,
+          "end": 0.94,
+          "probability": 0.9916447997093201
+        },
+        {
+          "text": "mound",
+          "start": 0.94,
+          "end": 1.28,
+          "probability": 0.9768911004066467
+        },
+        {
+          "text": "doesn't",
+          "start": 1.28,
+          "end": 1.86,
+          "probability": 0.9822346866130829
+        },
+        {
+          "text": "mean",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.9979684948921204
+        },
+        {
+          "text": "the",
+          "start": 2.04,
+          "end": 2.22,
+          "probability": 0.977188229560852
+        },
+        {
+          "text": "colony",
+          "start": 2.22,
+          "end": 2.56,
+          "probability": 0.9981210827827454
+        },
+        {
+          "text": "is",
+          "start": 2.56,
+          "end": 2.84,
+          "probability": 0.9871783256530762
+        },
+        {
+          "text": "gone.",
+          "start": 2.84,
+          "end": 3.14,
+          "probability": 0.9972419738769531
+        }
+      ]
+    }
+  ],
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "3.395918"
+    }
+  },
+  "source_loudness": {
+    "input_i": "-26.60",
+    "input_tp": "-8.59",
+    "input_lra": "1.00",
+    "input_thresh": "-36.60",
+    "output_i": "-16.98",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.98",
+    "normalization_type": "dynamic",
+    "target_offset": "0.98"
+  },
+  "target_lesson_end_loudness_lufs": -26.35,
+  "matching_gain_db": 0.25,
+  "voice_identity_proof": "Same Tyler voice ID, model, seed and voice settings as original fire-ant recording.",
+  "speech_speed_change": false
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 43,
+  "idempotency_key": "d6-43-826bb36b16b9fa56",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s20",
+    "claim": "Texas A&M describes fire-ant pupae as naked, without enclosing cocoons.",
+    "quote": "Pupae of some species, like fire ants, are “naked”"
+  }
+}

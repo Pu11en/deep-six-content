@@ -1,0 +1,135 @@
+{
+  "episode_id": "D6-6c917b49743b",
+  "segment": "hook",
+  "style": "C cut-paper storybook",
+  "format": "1080x1920, 30 fps, 9:16",
+  "timing_file": "words.json",
+  "pacing_rules": {
+    "max_shot_seconds_in_hook": 1.9,
+    "new_visual_action_every_seconds": 0.5,
+    "action_lands_on_stressed_word_within_frames": 2,
+    "camera_never_fully_still": true,
+    "on_screen_text": "word-synced captions only; no labels or numbers"
+  },
+  "science_guardrails": [
+    "Fire-ant mound: irregular dome of soil with NO central opening.",
+    "Workers: six legs on the thorax, two waist nodes, elbowed antennae, red-brown head and thorax, darker gaster.",
+    "No depths, temperatures, treatment advice or survival claims. The dashed ghost mound is a symbol, not a mechanism.",
+    "Underground tunnels are illustrative, not a map."
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "start": 0.0,
+      "end": 1.14,
+      "words": "A fire ant colony",
+      "visual": "Big close-up of one fire-ant worker walking left across layered paper ground. On 'colony' the camera pulls far back: the worker becomes one of dozens marching in four rows.",
+      "beats": [
+        {"word": "fire", "at": 0.22, "action": "Antennae flick up, slight push-in."},
+        {"word": "ant", "at": 0.52, "action": "Mandibles chomp once."},
+        {"word": "colony", "at": 0.72, "action": "Fast zoom-out (0.33 s) reveals the crowd. Match cut on the same ant."}
+      ],
+      "camera": "Tracks the hero ant, then zooms out from 3.4x to 0.9x.",
+      "transition_in": "Opens mid-motion; frame 0 already shows the ant."
+    },
+    {
+      "id": "S2",
+      "start": 1.14,
+      "end": 2.38,
+      "words": "doesn't always have",
+      "visual": "Backyard: house, fence, green lawn. A fire-ant mound pops up from the lawn, then squashes flat and vanishes.",
+      "beats": [
+        {"word": "doesn't", "at": 1.14, "action": "Yard sheet slides up over the crowd; mound pops up with bounce."},
+        {"word": "always", "at": 1.8, "action": "Mound stretches, then squashes into the lawn with a dust puff."},
+        {"word": "have", "at": 2.14, "action": "Grass blades spring back over the empty spot."}
+      ],
+      "camera": "Slow push-in.",
+      "transition_in": "Paper slide from below, 0.16 s."
+    },
+    {
+      "id": "S3",
+      "start": 2.38,
+      "end": 4.19,
+      "words": "a mound you can see.",
+      "visual": "Same yard. A dashed outline marks the missing mound. A magnifying glass swoops in; its lens shows ants still busy in tunnels under the flat lawn.",
+      "beats": [
+        {"word": "mound", "at": 2.56, "action": "Dashed mound outline draws itself."},
+        {"word": "you", "at": 2.8, "action": "Magnifying glass swings in from the right."},
+        {"word": "see", "at": 3.13, "action": "Lens settles over the spot; glint sweeps the glass; ants move in the tunnels."},
+        {"word": "(pause)", "at": 3.59, "action": "Slow push-in on the lens; ants keep moving."}
+      ],
+      "camera": "Push-in toward the lens.",
+      "transition_in": "Continuous with S2."
+    },
+    {
+      "id": "S4",
+      "start": 4.19,
+      "end": 4.98,
+      "words": "In a drought,",
+      "visual": "Hot yellow sky. A big paper sun drops in. A rain cloud dries up. Grass wilts and turns straw-colored.",
+      "beats": [
+        {"word": "In", "at": 4.19, "action": "Hard cut; sun drops from the top with a bounce, rays spinning."},
+        {"word": "drought", "at": 4.42, "action": "Cloud evaporates; grass droops and fades from green to straw, left to right."}
+      ],
+      "camera": "Slight push-in; heat shimmer rises.",
+      "transition_in": "Hard cut on 'In'."
+    },
+    {
+      "id": "S5",
+      "start": 4.98,
+      "end": 5.88,
+      "words": "the ground itself",
+      "visual": "Top-down close-up of dry soil. Cracks race outward and the plates pull apart.",
+      "beats": [
+        {"word": "the", "at": 4.98, "action": "Whip tilt down from the sky to the ground."},
+        {"word": "ground", "at": 5.14, "action": "Cracks spread out from the center."},
+        {"word": "itself", "at": 5.42, "action": "Cracks widen; plate edges lift."}
+      ],
+      "camera": "Slow rotate and zoom.",
+      "transition_in": "Whip pan down with motion blur, 0.16 s."
+    },
+    {
+      "id": "S6",
+      "start": 5.88,
+      "end": 7.0,
+      "words": "can be too hard",
+      "visual": "Side view at ant level on a thick dry crust. The worker walks in, rears back and bites the ground: CLANK. The crust does not dent; the ant bounces back.",
+      "beats": [
+        {"word": "can", "at": 5.88, "action": "Ant walks in from the right."},
+        {"word": "too", "at": 6.34, "action": "Ant rears back, mandibles open (anticipation)."},
+        {"word": "hard", "at": 6.6, "action": "Strike: impact star, camera shake, ant recoils."}
+      ],
+      "camera": "Close side view; shake on impact.",
+      "transition_in": "Hard cut on 'can'."
+    },
+    {
+      "id": "S7",
+      "start": 7.0,
+      "end": 7.48,
+      "words": "and dry",
+      "visual": "Dust gusts across the crust. A last drop of moisture shrinks away. Cracks open wider.",
+      "beats": [
+        {"word": "and", "at": 7.0, "action": "Dust gust streams across."},
+        {"word": "dry", "at": 7.2, "action": "Dust puff rises; droplet evaporates with a steam curl."}
+      ],
+      "camera": "Small push-in.",
+      "transition_in": "Continuous with S6."
+    },
+    {
+      "id": "S8",
+      "start": 7.48,
+      "end": 8.8,
+      "words": "for them to build one.",
+      "visual": "Camera pulls back: three ants on the cracked surface. A dashed ghost mound draws over them, then falls apart. Camera tilts down to show the colony still busy underground.",
+      "beats": [
+        {"word": "for", "at": 7.48, "action": "Zoom out to a wider view with three ants."},
+        {"word": "them", "at": 7.7, "action": "Ants raise their antennae."},
+        {"word": "build", "at": 8.0, "action": "Dashed ghost mound draws over the ants."},
+        {"word": "one", "at": 8.2, "action": "Ghost mound dashes fall and scatter."},
+        {"word": "(tail)", "at": 8.38, "action": "Tilt down: tunnels and ants underground."}
+      ],
+      "camera": "Zoom out, then tilt down.",
+      "transition_in": "Continuous with S7."
+    }
+  ]
+}

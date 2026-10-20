@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 36,
+  "idempotency_key": "d6-36-c6834f7781b94119",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s10",
+    "claim": "MediaScaleUp says visuals should land on or slightly before the word they illustrate.",
+    "quote": "Visuals should land on or slightly before the word, never noticeably after it."
+  }
+}

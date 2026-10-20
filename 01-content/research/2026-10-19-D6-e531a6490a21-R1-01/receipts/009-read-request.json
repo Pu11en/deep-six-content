@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 8,
+  "idempotency_key": "research-359182d1022c-a9",
+  "action": {
+    "tool": "read",
+    "url": "https://www3.epa.gov/pesticides/kids/roaches/english/keepthem/index.html"
+  }
+}

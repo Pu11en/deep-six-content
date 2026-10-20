@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-31-664c5a4f760c1daa",
+  "payload": "{\"action\":{\"claim\":\"Aspire's Shorts guide asks for quick cuts and visual variety but gives no number.\",\"quote\":\"Quick cuts, dynamic editing, and visual variety help maintain interest throughout the clip.\",\"source_id\":\"s5\",\"tool\":\"evidence\"},\"expected_revision\":31}",
+  "revision": 32,
+  "outcome": "applied"
+}

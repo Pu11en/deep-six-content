@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 11,
+  "idempotency_key": "research-488991e51202-a12",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The ensign wasp described in this article does not sting or bite people.",
+    "quote": "does not sting or bite"
+  }
+}

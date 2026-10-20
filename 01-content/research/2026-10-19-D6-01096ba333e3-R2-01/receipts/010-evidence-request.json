@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 9,
+  "idempotency_key": "research-488991e51202-a10",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+    "quote": "slender ovipositor into the tough ootheca"
+  }
+}

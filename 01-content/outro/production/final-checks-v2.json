@@ -1,0 +1,99 @@
+{
+  "checked_utc": "2026-10-20T03:58:40.034652+00:00",
+  "status": "v2_ready_for_Drew_review",
+  "finished_media_approved": false,
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 165,
+    "duration_seconds": 5.5
+  },
+  "source_format": {
+    "width": 720,
+    "height": 1280,
+    "fps": 24
+  },
+  "export_checks": "v2-export-checks.json",
+  "composition_timing": "v2-composition-timing.json",
+  "visual_check_sheet": "v2-finished-check.jpg",
+  "visual_review": {
+    "body_dip_jump_robe_flare_and_arm_swing_visible": true,
+    "continuous_source_action_preserved": true,
+    "no_reverse_or_static_action_substitute": true,
+    "eyes_black_no_new_pupils": true,
+    "brief_blink_present": true,
+    "jaw_closed": true,
+    "prop_hands_preserved": true,
+    "brand_identity_subject_to_Drew_review": true,
+    "real_logo_source_pixels_used": true,
+    "logo_source_low_resolution": true
+  },
+  "spoken_line": "Helping you understand pests. Deep Six Pest Control.",
+  "words_once_asr_checked": true,
+  "matching_Tyler_voice_settings": true,
+  "logo_landed_seconds": 3.033333333333333,
+  "company_name_asr_start_seconds": 3.18,
+  "logo_landed_before_company_name": true,
+  "masters_have_no_audio_or_caption": true,
+  "protected_original_hash_matches": {
+    "01-content/brand/fun-fact-friday-spider.png": true,
+    "01-content/brand/style-spec.md": true,
+    "01-content/brand/code-mascot/reaper.svg": true,
+    "01-content/brand/code-mascot/compare.png": true,
+    "01-content/animation/brand.json": true,
+    "01-content/mp3-system/OUTRO-PAUSE.md": true,
+    "01-content/mp3-system/narrations-before-outro.json": true,
+    "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4": true,
+    "01-content/audio/D6-6c917b49743b/full-original-tyler-01/original-tyler.mp3": true
+  },
+  "desktop_copy": "/mnt/c/Users/drewp/Desktop/Deep Six - Reusable Outro v2.mp4",
+  "desktop_copy_matches": true,
+  "outputs": {
+    "assets/outro-animation-clean-v2.mp4": {
+      "sha256": "aef5daa51f6ad7f41dd03759ad154787ca84ccfb1ecec69c4e5f2336a145c614",
+      "bytes": 3026575
+    },
+    "assets/outro-animation-v2.mp4": {
+      "sha256": "201c8cf62c61b415574ae0fdf3676fbc258f5a7dc1685cd34e7a4a650472569e",
+      "bytes": 2743169
+    },
+    "assets/outro-review-fire-ant-v2.mp4": {
+      "sha256": "8e8ace076c3fc93deab648bb6955432b9609e58ef56fe40233ec54a871ddf4c3",
+      "bytes": 2878546
+    },
+    "assets/fire-ant-tyler-signoff-review-v2.wav": {
+      "sha256": "b4aacc8c624f681f8e52e21751742b0ba230473e9fabb55fbe51fbe4bb1ddaf4",
+      "bytes": 384078
+    },
+    "previews/outro-v2-motion.gif": {
+      "sha256": "4400998f46defa58e580bc1ef9758a21cc539a9b006640caca10f4958bff41fe",
+      "bytes": 4937493
+    },
+    "previews/outro-v2-finish.png": {
+      "sha256": "14265fc026cd96456892f2216df5cab2b8711971c3b5d61063808fe80211b68b",
+      "bytes": 1068608
+    }
+  },
+  "spending": {
+    "replacement_estimate_usd": 1.1452395,
+    "prior_production_estimate_usd": 1.13607,
+    "cumulative_production_estimate_usd": 2.2813095,
+    "production_cap_usd": 3.0,
+    "initial_test_separate_estimate_usd": 0.058155,
+    "all_media_estimate_usd": 2.3394645,
+    "invoice_confirmed": false,
+    "calls": {
+      "images": 2,
+      "video": 1,
+      "voice": 1
+    },
+    "automatic_retries": false,
+    "further_calls_planned": false
+  },
+  "fire_ant_close_written": false,
+  "fire_ant_join_started": false,
+  "original_script_adaptations_performed": 0,
+  "published": false,
+  "other_sessions_messaged": false
+}

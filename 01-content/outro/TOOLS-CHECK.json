@@ -1,0 +1,161 @@
+{
+  "checked_date": "2026-10-19",
+  "generation_requests": 1,
+  "spend_authorized": true,
+  "services": {
+    "google": {
+      "http_status": 200,
+      "credential_accepted": true,
+      "model_catalog_complete": true,
+      "generation_access_tested": true,
+      "relevant_listed_models": [
+        {
+          "name": "models/gemini-2.5-flash-preview-tts",
+          "supported_methods": [
+            "countTokens",
+            "generateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-2.5-pro-preview-tts",
+          "supported_methods": [
+            "countTokens",
+            "generateContent",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-2.5-flash-image",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3-pro-image-preview",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3-pro-image",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/nano-banana-pro-preview",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3.1-flash-image-preview",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3.1-flash-image",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3.1-flash-lite-image",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-nano-banana-2.1",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-omni-flash-preview",
+          "supported_methods": [
+            "generateContent",
+            "countTokens"
+          ]
+        },
+        {
+          "name": "models/gemini-omni-1.1-flash",
+          "supported_methods": [
+            "generateContent",
+            "countTokens"
+          ]
+        },
+        {
+          "name": "models/gemini-3.1-flash-tts-preview",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3.8-flash-tts",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/gemini-3.8-flash-lite-tts",
+          "supported_methods": [
+            "generateContent",
+            "countTokens",
+            "batchGenerateContent"
+          ]
+        },
+        {
+          "name": "models/veo-3.1-generate-preview",
+          "supported_methods": [
+            "predictLongRunning"
+          ]
+        },
+        {
+          "name": "models/veo-3.1-fast-generate-preview",
+          "supported_methods": [
+            "predictLongRunning"
+          ]
+        },
+        {
+          "name": "models/veo-3.1-lite-generate-preview",
+          "supported_methods": [
+            "predictLongRunning"
+          ]
+        }
+      ],
+      "generation_test_result": "One still returned successfully; identity corrections needed"
+    },
+    "kie": {
+      "http_status": 200,
+      "api_code": 200,
+      "credential_accepted": true,
+      "generation_access_tested": false,
+      "remaining_credits": 6195.7
+    }
+  },
+  "spend_scope": "Single image test capped at US $0.15, now consumed",
+  "further_spending_authorized": false,
+  "generation_receipt": "production/image-test-v1.json"
+}

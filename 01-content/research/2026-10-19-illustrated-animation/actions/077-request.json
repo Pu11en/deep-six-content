@@ -1,0 +1,16 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 77,
+  "idempotency_key": "d6-77-e514adfa91953504",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e13",
+      "e14",
+      "e20"
+    ],
+    "reason": "Known documentation/setup limitations and all untested runtime questions are explicit. Recommend a short narration-matched test showing workers move brood through a textured nest before making the full video."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 6,
+  "idempotency_key": "d6-6-83230562ee7e6a96",
+  "action": {
+    "tool": "search",
+    "query": "average shot length in TikTok and YouTube Shorts videos: analysis of seconds per shot or cuts per minute in top performing short-form videos"
+  }
+}

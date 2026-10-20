@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-37-b771a811bde1606c",
+  "payload": "{\"action\":{\"claim\":\"FrameJam's explainer playbook aims for one idea per scene with every picture landing on its word.\",\"quote\":\"one idea per scene, and every picture landing on its word\",\"source_id\":\"s9\",\"tool\":\"evidence\"},\"expected_revision\":37}",
+  "revision": 38,
+  "outcome": "applied"
+}

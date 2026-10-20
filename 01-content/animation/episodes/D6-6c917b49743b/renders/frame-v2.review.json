@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "fire-ant-brood",
+  "candidate": "frame-v2.png",
+  "candidate_sha256": "39e778db2e00de4124bb80be81873dbc0565ee4158e9753ae0cb7091e7ce0194",
+  "stage": "style_review",
+  "decision": "pending",
+  "feedback": [
+    {
+      "text": "Give me three other options that are vastly different, so I have much more variety to choose from.",
+      "scope": "style exploration",
+      "recorded_at": "2026-10-19T21:09:28.974921+00:00",
+      "interpretation": "Keep this option available; no rejection or approval of the existing artwork was stated."
+    }
+  ],
+  "approved_by": null,
+  "approved_at": null,
+  "next_step_after_approval": "Measure the approved audio excerpt, then render the short moving test."
+}

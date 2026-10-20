@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 35,
+  "idempotency_key": "d6-35-d4759c6bf7d52902",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s6",
+    "claim": "The ant package declares @napi-rs/canvas ^0.1.65 as its sole direct dependency.",
+    "quote": "\"dependencies\": { \"@napi-rs/canvas\": \"^0.1.65\" }"
+  }
+}

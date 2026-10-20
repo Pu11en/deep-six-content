@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "png_sha256": "cedd6ccad617f6a68973bdaeadb09654398e556438d5b42b5f862289fc307bba",
+  "width": 1080,
+  "height": 1920,
+  "repeat_matches_saved_frame": true,
+  "same_scene_repeated_draw_matches": true,
+  "non_opaque_pixels": 0,
+  "review_status": "pending",
+  "limits": [
+    "Static artwork only. Walking/transport animation, narration alignment and final captions are not implemented.",
+    "Technical checks do not represent Drew approving the visual style."
+  ],
+  "changed_inputs_preserve_existing_candidate": true,
+  "wrong_dimensions_blocked_before_rendering": true,
+  "changed_audio_blocked_before_rendering": true,
+  "whiteboard_and_diagrams_unchanged": true,
+  "manifest_matches_pending_review": true,
+  "local_note_links_valid": true,
+  "manual_visual_inspection": "Two waist nodes, six thoracic legs, carried pale larva, connected cavities and legible title/footer. Illustrated proportions; not a scientific identification plate."
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 46,
+  "idempotency_key": "d6-46-99b7e94da0abb549",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "Quote found; supports the blog's 5-7 second guidance for 30-45 second story Shorts. Vendor advice, no data."
+  }
+}

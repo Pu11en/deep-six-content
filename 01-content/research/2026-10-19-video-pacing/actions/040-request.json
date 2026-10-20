@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 40,
+  "idempotency_key": "d6-40-83a5596201c74561",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s12",
+    "claim": "Another listed Explainers entry (Deedy's X post) was prompted as a slick, punchy startup video.",
+    "quote": "make a modern slick and punchy video for a modern startup that works on inference"
+  }
+}

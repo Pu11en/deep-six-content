@@ -1,0 +1,14 @@
+Use case: identity-preserve, with the already selected paper-style treatment.
+Asset: one portrait 9:16 still for the Deep Six educational-video outro, 2K setting.
+
+Image 1 is the original Deep Six brand ad, the authority for the mascot's identity.
+Path: 01-content/brand/fun-fact-friday-spider.png
+
+Image 2 is the draft to correct. Keep its cream paper background, purple/lime border accents, subtle texture, empty upper area, and soft layered-paper depth.
+Path: 01-content/outro/assets/hybrid-still-v1.jpg
+
+Correct the mascot to match image 1. Do not invent a new version. Preserve its original skull contour, large oval eyes, small triangular black nose, short subtle jaw marks, curled purple hood and original D6 shield. In the finished image, as seen by the viewer, the magnifying glass is on the LEFT and the downward flashlight is on the RIGHT, as in image 1. The hood curl has the same orientation as image 1. Keep the original D6 badge reading correctly; do not mirror the letters. Preserve the green-tinted magnifier glass and the original friendly, curious look.
+
+Retain the paper texture and simpler shading of image 2. Keep the mascot fully in frame. Move it slightly upward so its feet end around 85% of frame height, leaving a clear lower margin. Keep all important parts between 12% and 82% of frame width. Keep the upper 40% mostly blank for the actual logo and sentence to be composited later.
+
+No generated wordmark, slogan, website, caption, button or speech bubble. No scene grid, spider, ants or garage. No glossy 3D surfaces or additional teeth. One still image only, with steady hands and props suitable for a very small nod later. Return only the image.

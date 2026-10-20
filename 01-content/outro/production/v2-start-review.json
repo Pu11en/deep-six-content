@@ -1,0 +1,21 @@
+{
+  "checked_utc": "2026-10-20T03:48:00.561057+00:00",
+  "output": "01-content/outro/assets/outro-v2-start.jpg",
+  "sha256": "6c8d3d750c619d544777b99468db38a488f764ee7fb8345d798cacbbe26b7f6b",
+  "accepted_for_motion": true,
+  "user_approved": false,
+  "visual_checks": {
+    "hood_curl_viewer_right": true,
+    "solid_black_eyes_no_pupils": true,
+    "triangle_nose_short_jaw_marks": true,
+    "magnifier_viewer_left_flashlight_right": true,
+    "chest_shield_D6_and_down_arrow": true,
+    "matte_paper_hybrid": true,
+    "clear_top_space": true,
+    "pest_specific_background": false
+  },
+  "limits": [
+    "AI recreation checked against original ad; not a new authoritative identity source.",
+    "Robe reaches right edge in crouched pose; raised ending must retain face, hands, shield and logo in safe viewing area."
+  ]
+}

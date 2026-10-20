@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 50,
+  "idempotency_key": "d6-50-c80a39f0db920473",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e9",
+    "assessment": "supported",
+    "reason": "Full license retrieved. Preserve notices when adapting code. Transitive dependency terms were not audited."
+  }
+}

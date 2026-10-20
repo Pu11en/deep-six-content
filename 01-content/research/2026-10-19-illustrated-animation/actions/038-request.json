@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 38,
+  "idempotency_key": "d6-38-eb6221b0e6252156",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e3",
+    "assessment": "supported",
+    "reason": "Full renderer creates the canvas and FFmpeg output using these values. Vertical composition remains work to author and test."
+  }
+}

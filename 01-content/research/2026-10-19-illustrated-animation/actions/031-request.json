@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 31,
+  "idempotency_key": "d6-31-d1907dc27cbe4436",
+  "action": {
+    "tool": "read",
+    "url": "https://texasinsects.tamu.edu/red-imported-fire-ant/"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-25-4fe3347de310c799",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.youtube.com/@kurzgesagt/shorts\"},\"expected_revision\":25}",
+  "revision": 26,
+  "outcome": "document_too_large"
+}

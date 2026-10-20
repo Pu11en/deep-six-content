@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "candidate": "motion-v2.mp4",
+  "candidate_sha256": "ea772c18ca5fec3ac3fca72b35ddb181dbf7ea43944eab956e3902dad2f9e5f0",
+  "stage": "motion_review",
+  "decision": "pending",
+  "feedback": [],
+  "approved_by": null,
+  "approved_at": null
+}

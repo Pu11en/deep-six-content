@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-52-db43d8e4ea6c4e86",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e10\",\"reason\":\"Quote found; supports the scene-length formula in this skill. Skill text, not tested.\",\"tool\":\"check\"},\"expected_revision\":52}",
+  "revision": 53,
+  "outcome": "applied"
+}

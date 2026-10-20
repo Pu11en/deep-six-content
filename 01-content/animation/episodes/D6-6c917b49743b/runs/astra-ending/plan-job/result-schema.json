@@ -1,0 +1,42 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "status",
+  "files_written",
+  "shot_count",
+  "segment_count",
+  "new_assets",
+  "summary"
+ ],
+ "properties": {
+  "status": {
+   "type": "string",
+   "enum": [
+    "done",
+    "blocked"
+   ]
+  },
+  "files_written": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "shot_count": {
+   "type": "integer"
+  },
+  "segment_count": {
+   "type": "integer"
+  },
+  "new_assets": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "summary": {
+   "type": "string"
+  }
+ }
+}

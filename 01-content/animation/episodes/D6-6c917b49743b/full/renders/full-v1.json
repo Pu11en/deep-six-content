@@ -1,0 +1,43 @@
+{
+  "candidate": "full-v1.mp4",
+  "revision": "v1",
+  "video_sha256": "407ddcb2cffe5bf77f2d22ae2d9ea34a71b7677ddd15ee7112699fdefb1b6e6a",
+  "approval_file": "full-v1.review.json",
+  "created_with": {
+    "scene": "scenes/d6-6c917b49743b-full.mjs",
+    "kit": "scenes/paper-kit.mjs",
+    "renderer": "render-shots.mjs",
+    "node": "v22.22.0"
+  },
+  "inputs": {
+    "config_sha256": "991322a2c6669c1044850acedc54375e343c4514b6cfe024c34220885f29fae3",
+    "scene_sha256": "e980d3ea60691f7aa53e2dfba66f1b083095f7a24fab343ece46820035231186",
+    "kit_sha256": "b31ab29c5436b40bedccc877d5d8082dfcafa26888832a38018d3c4b60db6eed",
+    "timing_sha256": "ccabf940cb43dae142ff8e87ecfc31186dbdf98d78d76536ae9717ee1d5aeb44",
+    "shot_list_sha256": "d41041dd2f51b7f3e2baad5d60e1581ab8476c4d0829d45304f22c33ac02cfbd",
+    "approved_audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+    "approved_style_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060"
+  },
+  "checks": {
+    "width": 1080,
+    "height": 1920,
+    "aspect": "1080:1920",
+    "fps": "30/1",
+    "frames": 2376,
+    "video_seconds": 79.2,
+    "audio_seconds": 79.2,
+    "container_seconds": 79.2,
+    "longest_still_seconds": 1,
+    "mean_motion": 3.168,
+    "picture_change_half_second_median": 0.144,
+    "render_seconds": 1032.2
+  },
+  "contact_sheets": [
+    "full-v1-beats-1.png",
+    "full-v1-beats-2.png",
+    "full-v1-beats-3.png",
+    "full-v1-beats-4.png",
+    "full-v1-beats-5.png",
+    "full-v1-beats-6.png"
+  ]
+}

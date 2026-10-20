@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-66-fc699bfc91507b12",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e17\",\"reason\":\"Relevant primary README section read; snapshot truncated. General rendering capability, not a ready pest illustration library or measured determinism.\",\"tool\":\"check\"},\"expected_revision\":66}",
+  "revision": 67,
+  "outcome": "applied"
+}

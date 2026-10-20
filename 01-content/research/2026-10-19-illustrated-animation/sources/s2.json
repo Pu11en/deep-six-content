@@ -1,0 +1,12 @@
+{
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": 1792441119.903291,
+  "final_url": "https://raw.githubusercontent.com/ToBeWin/HandDraw-Skill/main/README.md",
+  "id": "s2",
+  "policy": "public-readonly-free-v1",
+  "sha256": "61ec908d7eb56130e3fadaae0221a8c2e83e86aa781b1c56875d4ae41481b0fa",
+  "source_exists": true,
+  "text": "# HandDraw Skill\n\nAgent-native, deterministic whiteboard-animation rendering. A JSON animation DSL drives SVG and text animation through Remotion into MP4.\n\nFor Chinese idiom, history, and children's-story shorts that need distinct colored scenes, a frame-zero text cover, local Qwen3 multi-role narration, synchronized subtitles, and licensed-BGM mixing, use the companion project [narrated-handdrawn-story-video](https://github.com/ToBeWin/narrated-handdrawn-story-video).\n\nOptional narration uses free Edge TTS and FFmpeg. It requires network access, but no API key, account, or paid API. Install it once with `python3 -m venv .venv && .venv/bin/pip install -r packages/audio/requirements.txt`.\n\n## Quick start\n\n```bash\nnpm install\nnpm run build\nnode scripts/check-environment.mjs\nnode scripts/handdraw.mjs validate examples/photosynthesis/project.json\nnode scripts/handdraw.mjs render examples/photosynthesis/project.json --output out/photosynthesis.mp4 --assets examples/photosynthesis/assets\n```\n\nUse the bundled [`SKILL.md`](SKILL.md) from a coding agent. The Agent writes a project DSL, validates it, renders the MP4, and inspects the result.\n\nFor OpenClaw and Hermes installation, see [agent installation](references/agent-installation.md).\n\n## DSL constraints\n\n- All times are seconds; output frames derive from `fps`.\n- SVG assets must be path/line-oriented, local files, and rendered as inline SVG.\n- Every object has an explicit timeline animation. Keep scenes at eight objects or fewer.\n- Version 1 supports `draw`, `write`, `move`, `rotate`, `scale`, `fade`, and `highlight`.\n",
+  "truncated": false,
+  "url": "https://raw.githubusercontent.com/ToBeWin/HandDraw-Skill/main/README.md"
+}

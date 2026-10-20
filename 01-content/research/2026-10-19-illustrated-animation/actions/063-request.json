@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 63,
+  "idempotency_key": "d6-63-be256e3d9eff1073",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Motion Canvas is designed for informative vector animations synchronized with voiceovers.",
+    "quote": "informative vector animations and\nsynchronize them with voice-overs."
+  }
+}

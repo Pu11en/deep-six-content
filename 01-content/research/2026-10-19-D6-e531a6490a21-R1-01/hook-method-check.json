@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-19T23:34:55.568145+00:00",
+  "writing_run_id": "D6-01096ba333e3",
+  "previous_review_id": "review-7483d7c13521",
+  "current_review_id": "review-581443877e82",
+  "format_corrected_hook_numbers": [
+    5
+  ],
+  "no_em_dashes_in_current_hooks": true,
+  "selected_hook": null,
+  "provisional_preference": 3,
+  "reviewed_video_examples": 0,
+  "prior_hook_decisions": 2,
+  "approved_narration_examples": 1,
+  "writer_model": "gpt-6-astra",
+  "active_patterns": [
+    "visible problem",
+    "honest question",
+    "surprising supported fact",
+    "source-supported misconception"
+  ],
+  "feedback": "Drew prohibits em dashes in new writing. Hook 3 is liked but not selected. Explain what an ensign wasp is in plain English, possibly in the narration. By winning hooks, Drew means openings designed to grab attention and support viral reach. Explain the methodology and actual inputs before he chooses."
+}

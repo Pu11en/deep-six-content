@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-78-c83c05e600916f4f",
+  "payload": "{\"action\":{\"caveats\":[\"First choice and backup are caller recommendations based on fit; no new rendering, installation or full audiovisual review was performed.\",\"Caller support checks establish contextual support in the retrieved text, not independent fact or model verification. Search snippets are leads only.\",\"Public-source run: three searches and thirty page attempts. Twenty-nine snapshots were saved; two generic redirects are excluded from substantive evidence, and truncated snapshots are identified.\",\"Existing approved narration remains unchanged. App files, whiteboard and diagrams were not edited. No external paid service, model call, video generation, installation or publishing occurred during this research.\"],\"evidence_ids\":[\"e1\",\"e2\",\"e3\",\"e4\",\"e5\",\"e6\",\"e7\",\"e8\",\"e9\",\"e10\",\"e11\",\"e12\",\"e13\",\"e14\",\"e15\",\"e16\",\"e17\",\"e18\",\"e19\",\"e20\"],\"tool\":\"final\"},\"expected_revision\":78}",
+  "revision": 79,
+  "outcome": "applied"
+}

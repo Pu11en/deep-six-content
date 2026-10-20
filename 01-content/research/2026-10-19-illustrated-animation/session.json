@@ -1,0 +1,45 @@
+{
+  "id": "b1e91f37-b641-4ebf-b400-4b4009bbe835",
+  "client_id": "imac-research",
+  "original_goal": "Research a practical first setup for code-created illustrated science-book-style Deep Six pest-education videos, then recommend one first trial and one backup without installing, changing application files or spending money.",
+  "revision": 1,
+  "approved_revision": null,
+  "created_at": 1792441110.5855253,
+  "updated_at": 1792441110.5855253,
+  "brief": {
+    "goal": "Choose a code animation approach that GPT-6 Astra with ultra effort can use for detailed, scientifically credible fire-ant scenes matched to the already approved 78.602449-second Tyler narration.",
+    "output": "Short plain-English recommendation, comparison, future installation checklist, primary-source evidence and explicit unknowns, saved in the project's research folder. No implementation or installations.",
+    "questions": [
+      "Which candidate has the strongest published code and examples for textured illustrated ants and underground nest scenes?",
+      "How can the first trial preserve fire-ant biology, reuse the approved narration, and produce 1080x1920 vertical scenes in Deep Six colors?",
+      "What exactly would the first option and one backup require locally, and what costs, license conditions or setup limits apply?",
+      "What remains unverified without installing or rendering, and what should a small first trial demonstrate?"
+    ],
+    "scope_constraints": [
+      "User chose option A: illustrated science book, detailed bugs, textured scenery and clear underground views for homeowners.",
+      "Keep approved narration and hook unchanged. Main lesson graphics must be drawn and animated in code. Vertical 9:16, 1080x1920; Deep Six lime, purple, cream and dark outlines.",
+      "Use earlier project animation findings as leads, not as proof. Verify actual primary repositories, source code, examples and documentation. Candidate leads include buildwithhanif/claude-animation-skill, Remotion, Motion Canvas, HyperFrames, HandDraw and other relevant leads from the user's list.",
+      "Public sources only. No installs, rendering, browser automation, cookies, login to source sites, paid services, publishing or project changes beyond research artifacts.",
+      "Crawler mode is caller-driven; no crawler model calls. Free public search and reading only. Do not treat repository claims or literal quote matching as independent quality or biology validation.",
+      "Recommend one first setup and one backup; do not build a full production system or modify the crawler."
+    ]
+  },
+  "notes": [
+    {
+      "content": "Selected A (illustrated science book), then explicitly answered yes to the displayed research plan: compare strongest animation options using the MacBook Crawler; assess look, biology, vertical output and narration timing; recommend first setup and backup with requirements/costs/limits; save findings, links and unknowns.",
+      "role": "user"
+    },
+    {
+      "content": "Preliminary public scouting found an ant-colony code example and textured illustration helpers at https://github.com/buildwithhanif/claude-animation-skill ; general engines https://github.com/remotion-dev/remotion and https://github.com/motion-canvas/motion-canvas ; HandDraw README https://github.com/ToBeWin/HandDraw-Skill focuses on whiteboard animation. These are leads, not tested recommendations. Operational ceilings chosen for this bounded free research: 30 page attempts, 4 searches, 80 actions, 900 active seconds. The API requires calls >=1, but this agent-driven run makes zero model calls.",
+      "role": "agent"
+    }
+  ],
+  "budget": {
+    "calls": 1,
+    "pages": 30,
+    "searches": 4,
+    "seconds": 900,
+    "steps": 80
+  },
+  "approved": false
+}

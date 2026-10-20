@@ -1,0 +1,13 @@
+{
+  "approved_date": "2026-10-19",
+  "approval_text": "ok yes",
+  "scope": "One reference-guided hybrid mascot image test through the Google Gemini API",
+  "model": "gemini-nano-banana-2.1",
+  "maximum_usd": 0.15,
+  "maximum_generation_requests": 1,
+  "retries_authorized": false,
+  "voice_or_video_generation_authorized": false,
+  "finished_outro_approved": false,
+  "fire_ant_assembly_condition": "Only after Drew approves the finished reusable outro",
+  "publishing_authorized": false
+}

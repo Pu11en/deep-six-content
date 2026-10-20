@@ -1,0 +1,28 @@
+{
+  "approved": true,
+  "approved_utc": "2026-10-20T03:47:27.301066+00:00",
+  "approval_context": "Drew answered the specific request to raise production budget from $2 to $3.",
+  "user_reply": "Go make the thing. Well, I mean, what is it gonna look like though? I mean, is it gonna like what are the where is the scene like what is the entire thing",
+  "total_production_cap_usd": 3.0,
+  "prior_estimated_production_spend_usd": 1.13607,
+  "initial_test_separate_usd": 0.058155,
+  "limits": {
+    "image": {
+      "max_calls": 2,
+      "max_usd_per_call": 0.15
+    },
+    "video": {
+      "max_calls": 1,
+      "max_usd_per_call": 1.25
+    },
+    "voice": {
+      "max_calls": 1,
+      "max_usd_per_call": 0.1
+    }
+  },
+  "automatic_retries": false,
+  "topups": false,
+  "publishing": false,
+  "finished_media_approved": false,
+  "fire_ant_assembly_authorized_now": false
+}

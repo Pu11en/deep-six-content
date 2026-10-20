@@ -1,0 +1,17 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 29,
+  "idempotency_key": "research-8a92111d8a9a-a30",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e5",
+      "e7",
+      "e8",
+      "e11"
+    ],
+    "reason": "General indoor inspection, transport, food, water, shelter and monitoring guidance is covered. No whole-home suppression claim is made; the UF source supplies no local guarantee."
+  }
+}

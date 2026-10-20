@@ -1,0 +1,31 @@
+{
+  "url": "https://citybugs.tamu.edu/factsheets/household/cockroaches/",
+  "checked_at": "2026-10-19T23:15:09.304562+00:00",
+  "purpose": "Extract original links from independently checked crawler-read category page",
+  "links": [
+    {
+      "url": "https://citybugs.tamu.edu/factsheets/household/cockroaches/",
+      "label": "Cockroaches"
+    },
+    {
+      "url": "https://extensionentomology.tamu.edu/wp-content/uploads/sites/3/2017/12/Cockroach-Biol-and-Mngmt_ENTO-037_2017.pdf",
+      "label": "Cockroaches: Biology and Management (ENTO-037)"
+    },
+    {
+      "url": "http://www.extension.org/pages/22045/school-ipm-action-plan-for-german-cockroaches#.U2PQgPldXh4",
+      "label": "School IPM Action Plan for German Cockroaches"
+    },
+    {
+      "url": "http://www.extension.org/pages/64431/school-ipm-action-plan-for-outdoor-cockroaches#.U2QHmfldVIE",
+      "label": "School IPM Action Plan for Outdoor cockroaches (2013)"
+    },
+    {
+      "url": "http://agrilifelearn.tamu.edu/product-p/ento-037.htm",
+      "label": "Ensign wasps: Parasites of the American cockroach"
+    },
+    {
+      "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+      "label": "The Turkestan Cockroach: An Emerging Pest in Texas"
+    }
+  ]
+}

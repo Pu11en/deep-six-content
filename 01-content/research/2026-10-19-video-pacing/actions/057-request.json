@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 57,
+  "idempotency_key": "d6-57-dd45a3a60420f111",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e15",
+    "assessment": "supported",
+    "reason": "Quote found in the prompt file; prompt wording only, not a pacing measurement."
+  }
+}

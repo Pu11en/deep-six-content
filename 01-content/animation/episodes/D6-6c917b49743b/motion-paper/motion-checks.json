@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "checks": {
+    "out_of_order_repeat_matches": true,
+    "fresh_scene_matches": true,
+    "visible_motion_exists": true,
+    "all_frames_opaque": true,
+    "header_stays_fixed": true,
+    "footer_stays_fixed": true,
+    "original_paper_source_unchanged": true
+  },
+  "first_frame_exactly_matches_approved_png": false,
+  "sample_frame_sha256": [
+    "cbd2df14894d4943ec3042a7f532f01e9e8bc5e5efd1b82c16d15757a3e37340",
+    "99595e7fdffca3a0169beab8ffa84e4b97bbca8a02a0aa778eb5458220a2384d",
+    "837be072c674db72128ad7d4d7949a79716675b1061c05eddbddf9651af85eea",
+    "6388f1f950b53bd006da0fb9c1d7fbd85d9c5e5a5ac159210233ed40bf148694",
+    "72d261ac5c3ce50928e9fb7734963e2be3725998f5c5d244623724e60f1e02aa",
+    "f9e0de0d423919fc369498b78dd59119c136bff12aa5c106f9f4c24556285d73"
+  ],
+  "sampled_times_seconds": [
+    0,
+    2.152,
+    4.304,
+    6.4559999999999995,
+    8.608,
+    10.76
+  ],
+  "total_check_milliseconds": 2657,
+  "limits": [
+    "Frame checks do not approve movement quality.",
+    "Contact sheet is visual inspection evidence, not a video playback test."
+  ],
+  "visual_inspection": "Six sampled frames viewed: original paper composition retained, worker shifts left along ledge with changing joints, larva stays with mouthparts, text unclipped. Antennae tuck below the tunnel roof. No human real-time playback assessment.",
+  "opening_frame_difference": "Paper pieces are cached separately for articulation; antenna angles are adjusted to avoid roof overlap. The approved original PNG is unchanged."
+}

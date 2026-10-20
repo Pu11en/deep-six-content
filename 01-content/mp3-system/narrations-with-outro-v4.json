@@ -1,0 +1,84 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-c5fac296a003",
+  "at": "2026-10-20T05:00:30+00:00",
+  "status": "awaiting_drew_review",
+  "selected_hook": {
+    "source_id": "SRC-0fa91dcbc971",
+    "text": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+    "fact_ids": [
+      "SRC-0fa91dcbc971-F1",
+      "SRC-0fa91dcbc971-F2"
+    ],
+    "payoff": "Explain that the ensign wasp puts an egg inside the cockroach egg case so its developing young can feed on the cockroach eggs, and introduce what an ensign wasp is in plain English."
+  },
+  "scripts": [
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA female ensign wasp places one egg inside the case. When her egg hatches, the young wasp feeds on the dozen or more cockroach eggs inside.\n\nThe adult is only about a quarter of an inch long. Its back section looks like a tiny signal flag on a thin stalk, giving the ensign wasp its name. The wasp waves that little flag up and down.\n\nIf you spot one in your home, you can leave it alone. This wasp doesn’t sting or bite people.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SRC-0fa91dcbc971-F3"
+      ]
+    }
+  ],
+  "quality": {
+    "status": "ready_for_review",
+    "changes": [
+      "Tightened the size and flag description and removed commentary about noticing the movement.",
+      "Preserved the single feeding explanation, recognition lesson, exact hook and approved outro.",
+      "Rechecked the spoken sequence and factual claims against the supplied evidence."
+    ],
+    "unresolved": [],
+    "calls": [
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narrations",
+        "at": "2026-10-20T04:57:51+00:00",
+        "prompt_version": "3eb76e79d3fc"
+      },
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narration_edit",
+        "at": "2026-10-20T04:58:15+00:00",
+        "prompt_version": "53681555e49e"
+      }
+    ],
+    "human_approved": false
+  },
+  "adaptation": {
+    "file": "01-content/mp3-system/narrations-with-outro-v4.json",
+    "review_id": "review-c5fac296a003",
+    "basis": "New focused narration in the recognition direction Drew liked in option 2.",
+    "previous_options_file": "01-content/mp3-system/narrations-with-outro-v3.json",
+    "originals_file": "01-content/mp3-system/narrations-before-outro.json"
+  },
+  "refinement": {
+    "at": "2026-10-20T05:00:30+00:00",
+    "candidate_file": "01-content/mp3-system/narrations-with-outro-v4.json",
+    "generation_receipt": "01-content/mp3-system/narration-refinement/astra-final.json",
+    "opus_probe": "01-content/mp3-system/narration-refinement/opus.json",
+    "opus_result": "subscription_limit_before_draft",
+    "comparison_winner": null,
+    "manual_text_edits": false
+  }
+}

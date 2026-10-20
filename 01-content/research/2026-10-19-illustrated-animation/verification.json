@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-19T20:31:28+00:00",
+  "job_status": "finished",
+  "result_outcome": "partial",
+  "crawler_usage": {
+    "calls": 0,
+    "pages": 30,
+    "searches": 3,
+    "steps": 79
+  },
+  "source_text_hashes_match": 29,
+  "exact_quotes_with_separate_caller_support_checks": 20,
+  "tracked_files_checked": 151,
+  "tracked_files_changed": [],
+  "approved_audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+  "approved_audio_unchanged": true,
+  "all_task_writes_within_research_folder": true,
+  "installations": 0,
+  "render_executions": 0,
+  "paid_external_calls": 0,
+  "new_screenshots": 0,
+  "notes": "Source support is caller assessment, not independent fact verification. Earlier creator contact sheet viewed; no new screenshots."
+}

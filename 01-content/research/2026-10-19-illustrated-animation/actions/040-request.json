@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 40,
+  "idempotency_key": "d6-40-c4d473c6b01f309d",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "Drawing code and surrounding body paths read. This is not verified red-imported-fire-ant anatomy."
+  }
+}

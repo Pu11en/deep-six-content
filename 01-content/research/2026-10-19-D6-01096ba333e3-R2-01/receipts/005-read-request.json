@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 4,
+  "idempotency_key": "research-488991e51202-a5",
+  "action": {
+    "tool": "read",
+    "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 49,
+  "idempotency_key": "research-359182d1022c-a50",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Original-page validator rejected no selected cards and found no reserved publication matches. Excluded duplicate PDF editions, unsupported PDF retrieval, document shells, thin pages and out-of-scope treatment material. Four accidentally followed sharing links provide no evidence; the local read dispatcher now restricts publisher domains."
+  }
+}

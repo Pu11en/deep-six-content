@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 34,
+  "idempotency_key": "research-359182d1022c-a35",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "The developing wasp larva feeds on cockroach eggs inside that case.",
+    "quote": "wasp larva matures while feeding on the dozen or more cockroach eggs"
+  }
+}

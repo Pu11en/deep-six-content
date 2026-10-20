@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 33,
+  "idempotency_key": "d6-33-9557fef7ab53d786",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The ant toolkit describes code-drawn textured 2D scenes and cross-sections.",
+    "quote": "paper grain, hatching, brush ink, watercolour that blooms"
+  }
+}

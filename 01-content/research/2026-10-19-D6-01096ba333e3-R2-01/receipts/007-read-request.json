@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 6,
+  "idempotency_key": "research-488991e51202-a7",
+  "action": {
+    "tool": "read",
+    "url": "https://academic.oup.com/ee/article/33/5/1321/355403"
+  }
+}

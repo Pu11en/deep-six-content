@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "test-astra-conditions",
+  "module": "scenes/test-astra-conditions.mjs",
+  "revision": "v1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "seed": 20261019,
+  "timing": "words.json",
+  "shot_list": "shot-list.json",
+  "approved_audio": {
+    "manifest": "../audio/D6-6c917b49743b/full-original-tyler-01/comparison.json",
+    "sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33"
+  },
+  "audio_excerpt_start_seconds": 27.2,
+  "audio_excerpt_end_seconds": 40.55,
+  "duration_seconds": 13.35,
+  "brand_profile": "brand.json",
+  "approved_style": {
+    "selection": "episodes/D6-6c917b49743b/style-options/options.json",
+    "option": "C",
+    "sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060"
+  },
+  "caption_center_y": 1420,
+  "motion_blur": {
+    "samples": 5,
+    "shutter_seconds": 0.0125
+  },
+  "output_stem": "segment",
+  "absolute_time": true
+}

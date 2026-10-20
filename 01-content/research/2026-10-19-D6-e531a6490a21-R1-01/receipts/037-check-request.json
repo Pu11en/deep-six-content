@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 36,
+  "idempotency_key": "research-359182d1022c-a37",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e2",
+    "assessment": "supported",
+    "reason": "The article explicitly says this ensign wasp does not sting or bite. This statement is not extended to other wasps. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

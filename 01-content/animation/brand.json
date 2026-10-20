@@ -1,0 +1,21 @@
+{
+  "id": "deep-six-ad",
+  "reference_image": "../brand/fun-fact-friday-spider.png",
+  "reference_sha256": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708",
+  "palette_source": "Existing brand/style-spec.md palette sampled from the reference ad; the shaded image contains variations.",
+  "user_instruction": "use the branding colors from that one ad image",
+  "palette": {
+    "cream": "#F0DDB2",
+    "paper": "#F6EFE2",
+    "ink": "#1E1B22",
+    "purple": "#3A3148",
+    "lime": "#A9D554"
+  },
+  "application": {
+    "header": "deep purple",
+    "headline": "lime with near-black edging",
+    "supporting_text": "warm white",
+    "explanation_band": "deep purple with lime accent",
+    "insects_and_environment": "natural colors remain scientifically readable"
+  }
+}

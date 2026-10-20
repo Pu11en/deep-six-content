@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 5,
+  "idempotency_key": "research-8a92111d8a9a-a6",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The earliest larval stage has pointed jaws bearing small teeth that cut through the shells of individual cockroach eggs. Later larval stages have differently shaped jaws.",
+    "quote": "cut through the tough shell"
+  }
+}

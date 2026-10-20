@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 43,
+  "idempotency_key": "d6-43-3322bfd430753d35",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "Quote found in OpusClip's TikTok blog; supports that the blog gives this advice. Vendor marketing blog; no study cited."
+  }
+}

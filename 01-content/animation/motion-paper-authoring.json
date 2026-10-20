@@ -1,0 +1,30 @@
+{
+  "status": "rendered_awaiting_motion_review",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "ultra",
+  "authentication": "Existing Codex ChatGPT subscription login; API credentials excluded.",
+  "started_at": "2026-10-19T21:30:56.418380+00:00",
+  "source_input": "scenes/fire-ant-style-options.mjs",
+  "source_input_sha256": "60e29517f2e7ea2245bd2b0af5c036a907a40706fa4a7ebab979119c83bc6312",
+  "prompt_sha256": "089441e81bd15cfb8db3c311b4c0f42bd21cb73f3ec14ad6bfd09218b5b31400",
+  "approved_style": "C",
+  "approved_image_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060",
+  "automatic_retry": false,
+  "elapsed_seconds": 580.18,
+  "usage": {
+    "input_tokens": 28054,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 24579,
+    "reasoning_output_tokens": 16056
+  },
+  "completed_item_type_counts": {
+    "agent_message": 1
+  },
+  "source": "scenes/fire-ant-paper-motion.mjs",
+  "source_sha256": "b6cb866f1c27606d65d3a8b22a78a93d27146caf2b79ea6a104f4aec5076d64a",
+  "design_summary": "A duration-scaled motion study (12 seconds by default): opening hold, four alternating-tripod walking cycles, gentle stop, and final hold. The worker advances 108 reference pixels along the existing curved ledge; planted feet stay fixed, knees articulate, and the larva remains rigidly attached. Terrain, lettering, texture, and individual paper pieces are cached once. Seeking is deterministic. The original antennae overlap the chamber roof, so their resting angles are minimally tucked for clearance\u2014the main departure from the approved opening frame. This remains stylized paper articulation; syntax and replacement anchors were reviewed without executing or rendering, as requested.",
+  "change_count": 4,
+  "video": "episodes/D6-6c917b49743b/motion-paper/renders/motion-v2.mp4",
+  "review": "episodes/D6-6c917b49743b/motion-paper/review.md"
+}

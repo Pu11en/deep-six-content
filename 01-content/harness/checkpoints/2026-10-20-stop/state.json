@@ -1,0 +1,1798 @@
+{
+  "version": 1,
+  "current": null,
+  "used_sources": [
+    {
+      "source_id": "SRC-24f90957c9a9",
+      "urls": [
+        "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|how can i tell if i have fire ants",
+      "page_digest": "973ace8586c3a3d469a03d95c3d245fc97d8de1a4f4fd20f17551e3d0e4f55a2",
+      "lesson": "A fire-ant mound can lack a visible entrance because the ants travel through underground tunnels. Look at mound structure without disturbing it.",
+      "title": "How can I tell if I have fire ants?",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-10b6f9cb2c80",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|carpenter ants around homes",
+      "page_digest": "fa8b6123a8bb1632dc76047954730e64cba9e61a073952230fe482cff836dd14",
+      "lesson": "Carpenter ants use wood and cavities for shelter rather than eating wood. Texas species generally cause less damage than their northern counterparts.",
+      "title": "Carpenter ants around homes",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-6805c0a6aed7",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|swarming insects indoors",
+      "page_digest": "debce232d58b156b168d3b33190070ac8ae540f9cb4249a397de7dd6b1e09bd6",
+      "lesson": "Wings alone cannot distinguish flying ants from termites. Compare the waist, antennae and wing proportions.",
+      "title": "Swarming Insects Indoors",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-5454bc8d3db2",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|texas leaf cutting ant",
+      "page_digest": "be07077f1aa52bbe16f0617e0ab89dfae422d9b9b12f5d416d4464d09ff4c36b",
+      "lesson": "Leaf-cutting ants carry foliage underground to grow their food. In summer, nighttime observation can help explain disappearing garden leaves.",
+      "title": "Texas Leaf Cutting Ant",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-97a7baaf455d",
+      "urls": [
+        "https://npic.orst.edu/pest/ant.html"
+      ],
+      "publication_key": "national pesticide information center, oregon state university|ants",
+      "page_digest": "cbc8454b8ba9e2926952193ac4592dc6e5095e74fca19d316f5893a11d001fd7",
+      "lesson": "Cleaning an ant trail can remove its chemical guidance signal; vacuuming also removes the ants already present.",
+      "title": "Ants",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-f231feb3699d",
+      "urls": [
+        "https://fireant.tamu.edu/manage/faq"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+      "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+      "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+      "title": "Fire Ant Frequently Asked Questions",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-1d0e24b2f14b",
+      "urls": [
+        "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf"
+      ],
+      "publication_key": "texas a&m agrilife extension service|tawny crazy ants a texas size problem",
+      "page_digest": "f896d9d998c18aeaa52d1fa497e6c95b1caa56c2ae940fd29a988294a45006d7",
+      "lesson": "Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.",
+      "title": "Tawny Crazy Ants: A Texas-Size Problem",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-be0d626096a9",
+      "urls": [
+        "https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|cleaning insect poop off trees",
+      "page_digest": "bcc8c77a8362ae19ea05aec5f651383553b96d9e2482e2e91d7be182c8924d2d",
+      "lesson": "Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.",
+      "title": "Cleaning insect poop off trees",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-093a88be2059",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|identifying household ants",
+      "page_digest": "9248696ddde24bc89bab17555c2dc0641c39afdb8c8bded49a96965fa9389991",
+      "lesson": "An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.",
+      "title": "Identifying household ants",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-6042c20d9cb3",
+      "urls": [
+        "https://fireant.tamu.edu/learn/biology"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|biology",
+      "page_digest": "3936a5a8af8b3acf4489299be9612d87d6ad485dfee6c385f975fdff46a285e0",
+      "lesson": "Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.",
+      "title": "Biology",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "urls": [
+        "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+      "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0",
+      "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+      "title": "Flag waving for Americans",
+      "checked_at": "2026-10-19T23:22:54+00:00",
+      "run_id": "D6-e531a6490a21"
+    },
+    {
+      "source_id": "SRC-9c3cbed0ebf3",
+      "urls": [
+        "https://npic.orst.edu/faq/roach.html"
+      ],
+      "publication_key": "national pesticide information center, oregon state university|why do i have roaches in my home",
+      "page_digest": "208c40b440c4b520f7ab68a9d49d1170b4d4fd278d038e88074a6569fc4a0e2b",
+      "lesson": "Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.",
+      "title": "Why do I have roaches in my home?",
+      "checked_at": "2026-10-19T23:22:54+00:00",
+      "run_id": "D6-e531a6490a21"
+    },
+    {
+      "source_id": "SRC-6c5ad958f7d8",
+      "urls": [
+        "https://npic.orst.edu/pest/roach.html"
+      ],
+      "publication_key": "national pesticide information center, oregon state university|cockroaches",
+      "page_digest": "a3a6692517ad1686998b6fdb61bd65dfdc1c6de5106e3094b75b76f59abfed27",
+      "lesson": "Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.",
+      "title": "Cockroaches",
+      "checked_at": "2026-10-19T23:22:54+00:00",
+      "run_id": "D6-e531a6490a21"
+    },
+    {
+      "source_id": "SRC-5d9457fca92d",
+      "urls": [
+        "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|the turkestan cockroach an emerging pest in texas",
+      "page_digest": "830110e0d7c8daa04149269717a49b6376e1d0ee3932565ee90cfc0a618bd86d",
+      "lesson": "Male and female Turkestan cockroaches can look like different species. Learn why the male's long wings and the female's shorter wings matter when identifying this Texas invader.",
+      "title": "The Turkestan Cockroach: An Emerging Pest in Texas",
+      "checked_at": "2026-10-19T23:22:54+00:00",
+      "run_id": "D6-e531a6490a21"
+    },
+    {
+      "source_id": "SRC-8b3afefd5921",
+      "urls": [
+        "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|bug bombs bomb",
+      "page_digest": "424ace022235d403c8eac42c279ebe087493531b5d64664a515bd295a514d150",
+      "lesson": "An apartment study found no significant drop in German cockroach numbers after fogging. Explore why filling a room with insecticide fog does not guarantee reaching roaches in protected cracks.",
+      "title": "Bug bombs bomb",
+      "checked_at": "2026-10-19T23:22:54+00:00",
+      "run_id": "D6-e531a6490a21"
+    }
+  ],
+  "queue": [],
+  "approved": [
+    {
+      "id": "D6-6c917b49743b",
+      "text": "A fire ant colony doesn’t always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one.\n\nA colony has more going on than workers walking around outside. It also has a developing generation underground: eggs, larvae and pupae. Together, those stages are called brood. Eggs hatch into larvae, larvae become pupae, and adults eventually emerge.\n\nThose young ants are part of the reason nest conditions matter. During cold, wet weather, colonies tend to occupy higher parts of the nest, where they can take advantage of sunlight and keep brood away from waterlogged soil. During hot, dry weather, cooler, moister conditions below ground become useful instead.\n\nWorkers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season.\n\nSo the nest you see above ground doesn’t show you where the developing ants are being kept. The colony’s internal activity can continue out of sight while the surface looks quiet.\n\nFor a homeowner, that changes what a missing mound means. You’re losing a visible clue about the nest, not getting a direct measurement of the colony’s condition or its developing young.",
+      "hook": "A fire ant colony doesn’t always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one.",
+      "source": {
+        "url": "https://fireant.tamu.edu/manage/faq/",
+        "title": "Fire Ant Frequently Asked Questions",
+        "publisher": "Texas A&M — Texas Imported Fire Ant Research and Management Project",
+        "date": "undated",
+        "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+        "species": "Red imported fire ant (Solenopsis invicta)",
+        "region": "Applicable to Central Texas yards where imported fire ants occur during hot, dry weather; this is statewide Extension guidance.",
+        "limits": "Use only the drought-behavior section. The page contains older treatment and distribution information that is not included here. Absence of visible activity cannot establish whether a particular yard contains ants. Supplemental biology references support this same chosen drought lesson, not new queued source choices. Explain mechanisms without invented desiccation physiology, exact nesting depths, universal temperature cutoffs, treatment prescriptions, or claims of certain survival. S4 is an Oklahoma study; S5 studied imported fire ants at Mississippi sites. Research-specific numbers must be attributed and qualified. Prefer explaining terms to adding jargon. Across the five scripts paraphrase each reference concisely; avoid repeating the same technical explanation five times.",
+        "facts": [
+          {
+            "statement": "In the drought FAQ, the source explains that heat-hardened, dry soil can stop colonies from making visible mounds.",
+            "quote": "the colonies are just not making mounds",
+            "id": "SRC-f231feb3699d-F1"
+          },
+          {
+            "statement": "During these conditions, colonies nest farther underground during daylight.",
+            "quote": "They are nesting deeper in the ground during the day",
+            "id": "SRC-f231feb3699d-F2"
+          },
+          {
+            "statement": "Workers forage during cooler portions of the day or at night.",
+            "quote": "during cooler parts of the day",
+            "id": "SRC-f231feb3699d-F3"
+          },
+          {
+            "id": "SRC-f231feb3699d-F4",
+            "statement": "Workers excavate a network of tunnels, placing excavated soil above ground. The mound can collect solar warmth and provide drier conditions; underground galleries provide cooler, moister conditions. Workers relocate developing brood within the nest to suitable conditions. During hot dry periods, brood and most colony members remain deeper underground.",
+            "quote": "moving brood to the area",
+            "reference_id": "S1",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology"
+          },
+          {
+            "id": "SRC-f231feb3699d-F5",
+            "statement": "Colonies tend to use higher parts of the nest in cold wet weather, keeping brood away from waterlogged soil and using solar heating; in hot dry weather they favor cooler, moister underground conditions. Eggs develop through larvae and pupae into adults. Young colonies may take several months to make a noticeable mound. Lawns with large visible mounds usually also contain younger colonies too small to produce visible mounds.",
+            "quote": "cool, moist conditions",
+            "reference_id": "S2",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts"
+          },
+          {
+            "id": "SRC-f231feb3699d-F6",
+            "statement": "Brood means developing eggs, larvae and pupae. Fire ant mounds normally lack a central opening; workers enter and leave through underground tunnels. Mounds can become conspicuous a few days after heavy rain. This does not establish that a particular mound is newly founded.",
+            "quote": "through underground tunnels",
+            "reference_id": "S3",
+            "evidence_url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/"
+          },
+          {
+            "id": "SRC-f231feb3699d-F7",
+            "statement": "In a southern Oklahoma field study published in 2003, researchers counted workers at food lures and compared several temperature measurements. Soil temperature at 15 cm (about 6 inches) was the best individual predictor of foraging, explaining 34 percent of variation. Air temperature measured 1 metre above ground was not a significant predictor in that study. Ground conditions are relevant to activity; do not claim soil temperature alone determines behavior or generalize Oklahoma numeric thresholds to Texas.",
+            "quote": "best individual predictor",
+            "reference_id": "S4",
+            "evidence_url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549"
+          },
+          {
+            "id": "SRC-f231feb3699d-F8",
+            "statement": "A 2008 field study at Mississippi sites used thermal imaging to measure imported-fire-ant mound surface temperatures. Near solar noon the difference between mounds and surroundings was about 2 to 10 degrees Celsius (roughly 4 to 18 degrees Fahrenheit). The study included red, black and hybrid imported fire ants. It measured surface temperatures, not a universal nest temperature or a drought survival rate. The paper reviews prior work showing nest temperature gradients and brood placement responding to temperature. Mound surface aspect and slope affected surface temperature, with the effect strongly influenced by time of day.",
+            "quote": "surface temperatures of mounds",
+            "reference_id": "S5",
+            "evidence_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/"
+          }
+        ],
+        "urls": [
+          "https://fireant.tamu.edu/manage/faq"
+        ],
+        "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+        "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+        "source_id": "SRC-f231feb3699d",
+        "checked_at": "2026-10-19T17:41:48+00:00",
+        "supporting_references": [
+          {
+            "id": "S1",
+            "title": "Fire Ant Biology",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S2",
+            "title": "Fire Ant Facts",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S3",
+            "title": "How can I tell if I have fire ants?",
+            "publisher": "Texas A&M",
+            "url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S4",
+            "title": "Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003)",
+            "publisher": "USDA ARS / Vogt and colleagues",
+            "url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S5",
+            "title": "Dynamic Thermal Structure of Imported Fire Ant Mounds (2008)",
+            "publisher": "Vogt, Wallet and Coy / Journal of Insect Science",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-text excerpt; direct open showed browser check"
+          }
+        ]
+      },
+      "supporting_sources": [],
+      "fact_ids": [
+        "SRC-f231feb3699d-F1",
+        "SRC-f231feb3699d-F4",
+        "SRC-f231feb3699d-F5",
+        "SRC-f231feb3699d-F6"
+      ],
+      "approved_at": "2026-10-19T19:20:44+00:00",
+      "model": "gpt-6-astra",
+      "prompt_version": "39c8dbcea05e"
+    },
+    {
+      "id": "D6-01096ba333e3",
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nAmerican cockroach egg cases are one of this wasp’s targets. Those roaches leave their cases in cracks and small gaps, and they favor warm, damp places. When you inspect those areas, look for egg cases as well as live roaches.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "hook": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+      "source": {
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "title": "Flag waving for Americans",
+        "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+        "date": "2015-05-05",
+        "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+        "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+        "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur",
+        "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species.",
+        "facts": [
+          {
+            "id": "SRC-0fa91dcbc971-F1",
+            "statement": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+            "quote": "slender ovipositor into the tough ootheca"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F2",
+            "statement": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case.",
+            "quote": "dozen or more cockroach eggs"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F3",
+            "statement": "The ensign wasp described in this article does not sting or bite people.",
+            "quote": "does not sting or bite"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F4",
+            "statement": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+            "quote": "unique, stalked abdomen"
+          }
+        ],
+        "urls": [
+          "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+        "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0",
+        "source_id": "SRC-0fa91dcbc971",
+        "checked_at": "2026-10-20T00:07:30+00:00"
+      },
+      "supporting_sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+          "title": "A Semantic Model for Species Description Applied to the Ensign Wasps (Hymenoptera: Evaniidae) of New Caledonia",
+          "publisher": "Systematic Biology, Oxford University Press",
+          "date": "2013",
+          "lesson": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases. This supports the distinction between the adult wasp placing an egg and its developing young doing the feeding.",
+          "species": "Ensign wasps (Evaniidae), including Evania appendigaster",
+          "region": "Taxonomic study of New Caledonia; introductory biology is family context, not Texas field measurements",
+          "limits": "The retrieved crawler text is truncated at 24,000 characters; the cited introduction is present in full. This is a taxonomy paper, not an infestation study or a local pest-control trial. Do not infer detailed development timing, pupation or emergence from this excerpt.",
+          "facts": [
+            {
+              "statement": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases.",
+              "quote": "solitary predators of cockroach (Blattodea) eggs inside oothecae",
+              "id": "SUP-a3ce9f37fdb5-F1"
+            }
+          ],
+          "urls": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881"
+          ],
+          "publication_key": "systematic biology, oxford university press|a semantic model for species description applied to the ensign wasps hymenoptera evaniidae of new caledonia",
+          "page_digest": "4d954cfc2b60cd4692bb250cfcb41a1254dcae189e7b62dc58cdfc17ef6320b5",
+          "source_id": "SUP-a3ce9f37fdb5",
+          "checked_at": "2026-10-20T00:08:43+00:00"
+        },
+        {
+          "url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/",
+          "title": "What is a beneficial parasite?",
+          "publisher": "Texas A&M AgriLife Extension Service, Insects in the City",
+          "date": "2013-08-02",
+          "lesson": "Many insect parasitoids specialize on one or a few related host species. This explains why a natural enemy relationship should not be generalized to every pest or every wasp.",
+          "species": "Insect parasitoids in general; the article includes ensign wasps as an example",
+          "region": "Texas extension education with general garden and urban-landscape context",
+          "limits": "General parasitoid biology, not an Evania-specific host-range experiment. Do not transfer the general one-host description to individual cockroach eggs: an ensign larva eats several eggs in one case. Do not use the pesticide sections or imply reliable whole-home control.",
+          "facts": [
+            {
+              "statement": "Many insect parasitoids specialize on one or a few closely related host species.",
+              "quote": "often specialized on only one or a few closely related species of prey",
+              "id": "SUP-aeefe1c118c4-F1"
+            }
+          ],
+          "urls": [
+            "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite"
+          ],
+          "publication_key": "texas a&m agrilife extension service, insects in the city|what is a beneficial parasite",
+          "page_digest": "b0ba8d04db5f01b5bded894080b783a1f5ac40a8f135b08e70b357fd64d61863",
+          "source_id": "SUP-aeefe1c118c4",
+          "checked_at": "2026-10-20T00:08:43+00:00"
+        },
+        {
+          "url": "https://ask.ifas.ufl.edu/publication/IN319",
+          "title": "A Cockroach Egg Parasitoid, Evania appendigaster (Linnaeus) (Hymenoptera: Evaniidae)",
+          "publisher": "University of Florida IFAS Extension",
+          "date": "undated",
+          "lesson": "The female has to penetrate a tough egg case; the young wasp then develops inside and the adult cuts an exit hole. These details explain what happens to one egg case.",
+          "species": "Evania appendigaster; documented hosts include American, Oriental and Australian cockroaches",
+          "region": "Florida university profile; reports this wasp is common in much of the southern United States",
+          "limits": "Older biological observations summarized by an extension profile, not a new Texas field trial. Timing is described as usual, not an invariant rule. The larva cuts individual egg shells; the mother penetrates the outer egg case. No whole-home control rate or release recommendation is supported here. Foreign historical control rates and speculation are excluded. An exit hole is not a standalone diagnostic test.",
+          "facts": [
+            {
+              "statement": "The female braces herself against a cockroach egg case, penetrates its tough covering with her egg-laying organ and lays one egg. The profile says inserting the organ usually takes 15 to 30 minutes.",
+              "quote": "15 to 30 minutes",
+              "id": "SUP-d34ca591f2c4-F1"
+            },
+            {
+              "statement": "The earliest larval stage has pointed jaws bearing small teeth that cut through the shells of individual cockroach eggs. Later larval stages have differently shaped jaws.",
+              "quote": "cut through the tough shell",
+              "id": "SUP-d34ca591f2c4-F2"
+            },
+            {
+              "statement": "The wasp pupates inside the cockroach egg case without a cocoon. The mature adult cuts a small round, jagged exit hole near the end of a long side of the case.",
+              "quote": "small round jagged hole",
+              "id": "SUP-d34ca591f2c4-F3"
+            },
+            {
+              "statement": "The profile names Oriental, American and Australian cockroaches as hosts of Evania appendigaster and describes it as common in much of the southern United States. It does not name German cockroaches as hosts.",
+              "quote": "common in much of the southern US",
+              "id": "SUP-d34ca591f2c4-F4"
+            }
+          ],
+          "urls": [
+            "https://ask.ifas.ufl.edu/publication/IN319"
+          ],
+          "publication_key": "university of florida ifas extension|a cockroach egg parasitoid evania appendigaster linnaeus hymenoptera evaniidae",
+          "page_digest": "c5fc966c704ff2cdae9b8cb5af5f86fba19e2e0834cd53122eda0ed1589f0727",
+          "source_id": "SUP-d34ca591f2c4",
+          "checked_at": "2026-10-20T00:40:21+00:00"
+        },
+        {
+          "url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+          "title": "Cockroaches",
+          "publisher": "University of Minnesota Extension",
+          "date": "Reviewed 2024",
+          "lesson": "Cockroach species differ in egg-case handling. Inspection should account for deposited egg cases, transported belongings and the food, moisture and hiding places that support activity.",
+          "species": "American and German cockroaches for egg-case facts; household cockroaches for general inspection guidance",
+          "region": "Minnesota extension publication; use species biology and general indoor inspection, not regional prevalence or cold-weather management, for Texas",
+          "limits": "Do not claim German cockroaches are hosts of this ensign wasp. Species prevalence, winter treatments and outdoor survival in Minnesota are not transferred to Texas. No pesticide or health guidance is used. Egg cases differ by species; do not present one size or shape as universal.",
+          "facts": [
+            {
+              "statement": "American cockroaches favor warm, moist places. Females deposit their egg cases in cracks or crevices.",
+              "quote": "deposited in a crack or crevice",
+              "id": "SUP-139443c3574f-F1"
+            },
+            {
+              "statement": "Female German cockroaches carry their egg cases until the eggs are ready to hatch, unlike the deposited cases described for American cockroaches.",
+              "quote": "until the eggs are ready to hatch",
+              "id": "SUP-139443c3574f-F2"
+            },
+            {
+              "statement": "Inspect bags, boxes and luggage brought indoors for cockroaches and their egg capsules. Corrugated cardboard can harbor them; removing boxes and other unnecessary clutter reduces hiding places.",
+              "quote": "Examine bags, boxes and luggage",
+              "id": "SUP-139443c3574f-F3"
+            },
+            {
+              "statement": "Indoor cockroach prevention includes restricting food and water, repairing leaks, drying damp places and sealing cracks where roaches hide. These steps reduce resources and shelter available to them.",
+              "quote": "leaky water pipes or faucets",
+              "id": "SUP-139443c3574f-F4"
+            }
+          ],
+          "urls": [
+            "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches"
+          ],
+          "publication_key": "university of minnesota extension|cockroaches",
+          "page_digest": "2831b71ed56ddcbfad922af7085fb21f7df85435936119c43a5b10bb9609e3d4",
+          "source_id": "SUP-139443c3574f",
+          "checked_at": "2026-10-20T00:40:21+00:00"
+        },
+        {
+          "url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+          "title": "What is a sticky trap?",
+          "publisher": "Texas A&M AgriLife Extension Service, Insects in the City",
+          "date": "undated",
+          "lesson": "Sticky insect traps reveal where and when crawling pests are active. Placement against edges and comparison among locations make them useful inspection tools.",
+          "species": "Cockroaches and other crawling insect pests",
+          "region": "Texas university extension guidance for buildings",
+          "limits": "Use light-duty insect monitoring cards. No rodent trapping or pesticide recommendations. Traps detect activity and changes; they are not presented as a complete control method. A wasp sighting alone does not establish an active cockroach infestation.",
+          "facts": [
+            {
+              "statement": "Most crawling pests travel in dark areas and along edges. Place sticky insect cards directly against a wall, with open ends running parallel to it so insects can enter along that route.",
+              "quote": "travel in dark areas and along edges",
+              "id": "SUP-b8f992d02be3-F1"
+            },
+            {
+              "statement": "Suggested cockroach trap sites include behind stoves and refrigerators, in cupboards and under sinks. Traps beside exterior doors or other entry points can monitor outdoor cockroaches coming in.",
+              "quote": "Behind stoves and refrigerators",
+              "id": "SUP-b8f992d02be3-F2"
+            },
+            {
+              "statement": "Sticky traps detect pests when people are absent, including at night. Comparing multiple traps can help pinpoint activity and monitoring over time shows changes in abundance. Their main role is detection and monitoring, not standalone control.",
+              "quote": "detect pests, and monitor changes",
+              "id": "SUP-b8f992d02be3-F3"
+            }
+          ],
+          "urls": [
+            "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap"
+          ],
+          "publication_key": "texas a&m agrilife extension service, insects in the city|what is a sticky trap",
+          "page_digest": "603ee88a072135cd9bf2230f199679de90103aa1979fc67a657dfd0528c2682a",
+          "source_id": "SUP-b8f992d02be3",
+          "checked_at": "2026-10-20T00:40:21+00:00"
+        }
+      ],
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3",
+        "SUP-139443c3574f-F1"
+      ],
+      "approved_at": "2026-10-20T05:40:43+00:00",
+      "crawler_research": [
+        {
+          "request_id": "research-488991e51202",
+          "run_id": "D6-01096ba333e3",
+          "stage": "support",
+          "client_id": "imac-research",
+          "file": "01-content/harness/runtime/research-requests/research-488991e51202.json",
+          "crawler_job_id": "abf092b6-c969-4e6f-b43b-120f1457268f",
+          "evidence_file": "01-content/research/2026-10-19-D6-01096ba333e3-R2-01/evidence.json",
+          "evidence_sha256": "9f6bf5130d5c3bd75e2df10e0887e13c0b8bab9588ec71a51e701d7cfed3a03b",
+          "imported_at": "2026-10-20T00:08:42+00:00"
+        },
+        {
+          "request_id": "research-8a92111d8a9a",
+          "run_id": "D6-01096ba333e3",
+          "stage": "support",
+          "client_id": "imac-research",
+          "file": "01-content/harness/runtime/research-requests/research-8a92111d8a9a.json",
+          "crawler_job_id": "77e8f770-f158-417d-9961-5d193cfce134",
+          "evidence_file": "01-content/research/2026-10-19-D6-01096ba333e3-R2-02/evidence.json",
+          "evidence_sha256": "7e50c509adb20f073acb6091c147a9c43935923d2187ee53c40edc8446b82a5f",
+          "imported_at": "2026-10-20T00:40:20+00:00"
+        }
+      ],
+      "model": "gpt-6-astra",
+      "prompt_version": "0eab4884040b",
+      "narration_quality": {
+        "status": "ready_for_review",
+        "changes": [
+          "Preserved every exact hook, the feeding-to-adult sequence inside one case, and each exact sign-off.",
+          "Version 1: Connected the name directly to the visible flag movement and retained the identification-based decision to leave it alone.",
+          "Version 2: Removed the backward step to egg laying and made the two trap locations concrete.",
+          "Version 3: Replaced the rhetorical transition and repeated inspection advice with one focused flashlight check.",
+          "Version 4: Removed the padded transition and repeated conclusion; connected egg cases directly to inspecting belongings.",
+          "Version 5: Connected harmlessness directly to leaving the wasp alone, then tied repairs to American cockroach moisture and shelter.",
+          "Rechecked spoken clarity and supplied evidence; retained species limits without implying an infestation diagnosis or complete cockroach control."
+        ],
+        "unresolved": [],
+        "calls": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "effort": "high",
+            "attempts": [
+              {
+                "provider": "codex",
+                "model": "gpt-6-astra",
+                "result": "success"
+              }
+            ],
+            "stage": "narrations",
+            "at": "2026-10-20T05:28:37+00:00",
+            "prompt_version": "ed21d6d81a44"
+          },
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "effort": "high",
+            "attempts": [
+              {
+                "provider": "codex",
+                "model": "gpt-6-astra",
+                "result": "success"
+              }
+            ],
+            "stage": "narration_edit",
+            "at": "2026-10-20T05:29:28+00:00",
+            "prompt_version": "0eab4884040b"
+          }
+        ],
+        "human_approved": true,
+        "session_edit": {
+          "at": "2026-10-20T05:34:27+00:00",
+          "editor": "session_assistant",
+          "manual_text_edits": true,
+          "generated_artifact": "01-content/mp3-system/narrations-with-outro-v6-generated.json",
+          "basis_artifact": "01-content/mp3-system/narrations-with-outro-v5.json",
+          "basis_option": 3,
+          "liked_story_preserved_exactly": true,
+          "human_approved": false,
+          "checks": [
+            "Original hook and liked life-cycle story preserved in each option.",
+            "One short customer-useful passage finishes each lesson before the exact approved outro.",
+            "No unsupported flashlight claim, exit-hole diagnosis, wasp-based infestation diagnosis or control guarantee.",
+            "Final claims checked against the supplied main and supporting sources."
+          ]
+        }
+      }
+    }
+  ],
+  "feedback": [
+    {
+      "stage": "hooks",
+      "note": "I do not like any of these five hooks. Try again.",
+      "at": "2026-10-19T17:37:54+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Make the scripts more educational. Teach the homeowner something useful beyond restating the hook: explain the link between hardened soil, deeper daytime nesting, and cooler-hour foraging. Develop those supported facts into a connected lesson with a practical observation takeaway and its limits. Reduce repeated warnings that no mound does not mean no ants. Keep the selected hook exact; do not invent biology, treatment advice, or unsupported facts.",
+      "at": "2026-10-19T18:25:48+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Longer and more scientific, still plain spoken English. Try 200–230 words each this batch, not a permanent limit. Use checked supporting facts to explain mechanisms and define terms. Vary focus: nest structure, brood relocation, foraging and soil temperature, measured mound heating, interpreting visible signs. Keep hook 4 exact. Avoid padding, repeated disclaimers and sales endings. Attribute study findings; no invented facts or treatment tips.",
+      "at": "2026-10-19T18:44:04+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Keep selected hook 4. Use the agreed evidence-first flow to find a stronger narration. Longer and scientific, but sound like a pest professional teaching one homeowner, not reading a research report. Develop one clear mechanism and a useful takeaway per option. Roughly 200–230 words is a trial, not a fixed quota. Explain terms naturally; avoid repeated disclaimers, redundant facts and sales endings. Research only real gaps; use the supporting evidence already gathered when sufficient.",
+      "at": "2026-10-19T19:06:43+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "All five were good; narration 2 was especially liked. Prefer surprising facts homeowners may not know. Keep Texas relevance clear; avoid out-of-state study framing unless its applicability is explained. Next review is narrated audio.",
+      "at": "2026-10-19T19:20:44+00:00"
+    },
+    {
+      "stage": "sources",
+      "note": "1 and 2 good and 3; lets do 1",
+      "at": "2026-10-19T23:27:32+00:00"
+    },
+    {
+      "stage": "hooks",
+      "note": "Drew prohibits em dashes in new writing. Hook 3 is liked but not selected. Explain what an ensign wasp is in plain English, possibly in the narration. By winning hooks, Drew means openings designed to grab attention and support viral reach. Explain the methodology and actual inputs before he chooses.",
+      "at": "2026-10-19T23:34:55+00:00"
+    },
+    {
+      "stage": "hooks",
+      "note": "Keep original hook 3 available, not selected: \"A cockroach egg case can hold more than developing roaches. Inside, an ensign wasp larva may be growing by eating the eggs around it.\". Write five NEW alternatives using surprise, specific curiosity, plain words and an honest payoff. Lead with the action; explain ensign wasp later. No em dashes. This round is for comparison, not rejection. Vary angles and structure.",
+      "at": "2026-10-19T23:40:32+00:00"
+    },
+    {
+      "stage": "hooks",
+      "note": "Drew is torn between round 2 hooks 3 (nursery and food) and 4 (unexpected egg) and requests variations. Six comparisons are saved in hook-3-and-4-variations.json as 3A, 3B, 3C, 4A, 4B, 4C. No hook selected; original round 1 hook 3 remains held.",
+      "at": "2026-10-19T23:48:25+00:00"
+    },
+    {
+      "stage": "hooks",
+      "note": "Drew chose variation 4C: \"Why would a wasp lay its egg inside a cockroach’s egg case?\" He called 4B the worst option. Keep the chosen opening exact. Explain what an ensign wasp is naturally after the hook. No em dashes.",
+      "at": "2026-10-19T23:56:58+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Research scope: answer the selected why-question promptly, then explain the ensign wasp in plain English. Verified details cover the egg-laying organ, larval feeding inside the case, adult flag-like abdomen and no stinging or biting people. Omit unverified deposition locations, pupation/emergence details and household monitoring procedures. Keep every opening exactly as chosen; no em dashes. This is evidence scope, not a new user style preference.",
+      "at": "2026-10-20T00:07:30+00:00"
+    },
+    {
+      "stage": "presentation",
+      "note": "Show complete narration and hook choices directly in chat with numbered labels, short paragraphs and space between options. Drew finds the side-panel Markdown display hard to read. Save files in the background; do not replace the review with a file link or automatically open Markdown Preview. This is presentation feedback only, not a script rejection.",
+      "at": "2026-10-20T00:20:00+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew wants five NEW narrations with hook 4C unchanged. The previous batch repeats obvious consequences and pads thin facts. Research new useful pest-control facts, then build one clear lesson per version. Explain what to recognize, inspect or do and why. No \"eaten eggs do not hatch,\" filler, long caveat endings or fixed length. Introduce ensign wasp plainly. Show all five in chat. Earlier research-scope omissions should be revisited with new sources; do not reuse them as permanent bans.",
+      "at": "2026-10-20T00:33:12+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "New checked sources supersede earlier limits on egg-case placement, development and monitoring. Give five distinct lessons: difficult egg-case entry; recognizing the harmless wasp; species differences in egg handling; finding roach activity with traps; the larva and adult emergence. Each version should earn its sentences. Do not force all facts or generic tips into each script. Skip obvious consequences and moral-of-the-story endings. No fixed length. Full options in chat.",
+      "at": "2026-10-20T00:40:20+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew paused narration work to create a reusable Deep Six outro in a separate session. On return, use all ten saved originals, adding a smooth transition and the chosen outro. Preserve the exact hook and core lessons. Show all ten in chat. Do not generate a replacement batch or audio before that review.",
+      "at": "2026-10-20T00:54:33+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew returned with the approved outro and now requests the top five complete narrations from the preserved ten. Use the tighter second batch, ranked 6, 7, 10, 9, 8. Each retains its full lesson and ends once with: Helping you understand pests. Deep Six Pest Control. A natural breath follows the closing thought. Use the episode narrator for the whole recording. Show full scripts in chat. No extra CTA or audio generation at this review.",
+      "at": "2026-10-20T04:27:46+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew questioned the abrupt transition and requested all five full narrations again after seeing a clearer closing sentence. Revise the final teaching thought so each lesson lands before the approved sign-off. Keep the same five, their order, hook and core teaching. No padded recap, sales bridge or extra CTA. Show all five in chat.",
+      "at": "2026-10-20T04:34:05+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew wants source names and formal citations outside spoken narration. He likes option 2's direction but wants a flowing flag explanation. Explain sticky traps plainly. For option 3, make clear that the young wasp changes into the adult inside the case, then that adult exits; remove the detached cocoon remark. Say cardboard boxes. Rewrite all five naturally, with the same hook and approved outro. No option is selected.",
+      "at": "2026-10-20T04:43:47+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew wants one carefully refined narration and fewer repeated corrections. He liked option 2's recognition direction, not its wording. Use connected, natural speech, no filler or obvious conclusions, no spoken source credits or unexplained terms, exact hook 4C and the approved outro. The narration is not approved. Compare models on the same brief before choosing a writing route.",
+      "at": "2026-10-20T05:00:30+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew asks for five more complete narration versions. Keep the chosen hook and approved outro. Make these fresh alternatives using the refined spoken-language rules. This request does not approve the last script or identify a new problem with it. Show all five in chat.",
+      "at": "2026-10-20T05:12:29+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "Drew likes version 3's story of the young wasp growing inside the cockroach egg case, but wants clearer relevance to pest-control customers and a natural transition into the approved outro. Make variations of that story, adding only enough length to connect the biology to a useful homeowner decision or action. This is a refinement request, not script approval.",
+      "at": "2026-10-20T05:27:30+00:00"
+    },
+    {
+      "stage": "narrations",
+      "note": "3",
+      "at": "2026-10-20T05:40:43+00:00"
+    }
+  ],
+  "decisions": [
+    {
+      "review_id": "review-5d6441acd2e3",
+      "stage": "hooks",
+      "action": "skip",
+      "at": "2026-10-19T17:37:54+00:00",
+      "feedback": "I do not like any of these five hooks. Try again.",
+      "hooks": [
+        "That mound has no hole in the middle. Where would the ants get in? Fire ants can use tunnels underground.",
+        "Carpenter ants in your wood? They aren't eating it. Here in Texas, they often move into spaces that are already there.",
+        "Found a winged insect inside? Before you call it a termite, look at its waist.",
+        "Those Texas leaf-cutting ants carrying off your leaves are stocking an underground fungus garden. The fungus is their food.",
+        "An ant trail across your counter has a chemical signal you can't see. Soapy water can wipe that away."
+      ]
+    },
+    {
+      "review_id": "review-1de6067a3afe",
+      "stage": "sources",
+      "action": "save_sources",
+      "at": "2026-10-19T18:08:40+00:00",
+      "feedback": "",
+      "numbers": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "first_number": 1,
+      "sources": [
+        {
+          "url": "https://fireant.tamu.edu/manage/faq/",
+          "title": "Fire Ant Frequently Asked Questions",
+          "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+          "species": "Red imported fire ant (Solenopsis invicta)",
+          "region": "Applicable to Central Texas yards where imported fire ants occur during hot, dry weather; this is statewide Extension guidance."
+        },
+        {
+          "url": "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf",
+          "title": "Tawny Crazy Ants: A Texas-Size Problem",
+          "lesson": "Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.",
+          "species": "Tawny crazy ant (Nylanderia fulva)",
+          "region": "Texas prevention guidance is relevant to Central Texas homeowners receiving landscaping materials, particularly materials originating in infested locations."
+        },
+        {
+          "url": "https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop/",
+          "title": "Cleaning insect poop off trees",
+          "lesson": "Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.",
+          "species": "Honeydew-feeding ants; aphids and scale insects",
+          "region": "Applicable to Central Texas ornamental plants where ants and honeydew-producing insects occur together; the article explains a general biological relationship."
+        },
+        {
+          "url": "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013/",
+          "title": "Identifying household ants",
+          "lesson": "An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.",
+          "species": "Common Texas household ants",
+          "region": "The guide explicitly covers common Texas ants and is relevant to identification observations in Central Texas homes."
+        },
+        {
+          "url": "https://fireant.tamu.edu/learn/biology/",
+          "title": "Biology",
+          "lesson": "Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.",
+          "species": "Red imported fire ant (Solenopsis invicta)",
+          "region": "Relevant to Central Texas properties where red imported fire ants occur. The page describes species biology rather than a local flight forecast."
+        }
+      ]
+    },
+    {
+      "review_id": "review-bf11009316f8",
+      "stage": "hooks",
+      "action": "choose",
+      "at": "2026-10-19T18:22:12+00:00",
+      "feedback": "",
+      "number": 4,
+      "saved_number": null,
+      "hooks": [
+        "Your lawn’s dried out, and you’re not seeing fire ant mounds anymore. That doesn’t mean the colonies are gone.",
+        "Where do fire ants go when the yard gets hot and dry? During the day, they can be farther underground than you’d think.",
+        "You’re looking for fire ants in the afternoon. They may be out looking for food after dark.",
+        "A fire ant colony doesn’t always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one.",
+        "Before you give the drought credit for getting rid of your fire ants, there are two changes you might be missing: where they nest and when they come out."
+      ]
+    },
+    {
+      "review_id": "review-3c51de431bb7",
+      "stage": "narrations",
+      "action": "skip",
+      "at": "2026-10-19T18:25:48+00:00",
+      "feedback": "Make the scripts more educational. Teach the homeowner something useful beyond restating the hook: explain the link between hardened soil, deeper daytime nesting, and cooler-hour foraging. Develop those supported facts into a connected lesson with a practical observation takeaway and its limits. Reduce repeated warnings that no mound does not mean no ants. Keep the selected hook exact; do not invent biology, treatment advice, or unsupported facts."
+    },
+    {
+      "review_id": "review-4c5ddf05dc3d",
+      "stage": "narrations",
+      "action": "skip",
+      "at": "2026-10-19T18:44:04+00:00",
+      "feedback": "Longer and more scientific, still plain spoken English. Try 200–230 words each this batch, not a permanent limit. Use checked supporting facts to explain mechanisms and define terms. Vary focus: nest structure, brood relocation, foraging and soil temperature, measured mound heating, interpreting visible signs. Keep hook 4 exact. Avoid padding, repeated disclaimers and sales endings. Attribute study findings; no invented facts or treatment tips."
+    },
+    {
+      "review_id": "review-ac4064e98bf8",
+      "stage": "narrations",
+      "action": "skip",
+      "at": "2026-10-19T19:06:43+00:00",
+      "feedback": "Keep selected hook 4. Use the agreed evidence-first flow to find a stronger narration. Longer and scientific, but sound like a pest professional teaching one homeowner, not reading a research report. Develop one clear mechanism and a useful takeaway per option. Roughly 200–230 words is a trial, not a fixed quota. Explain terms naturally; avoid repeated disclaimers, redundant facts and sales endings. Research only real gaps; use the supporting evidence already gathered when sufficient."
+    },
+    {
+      "review_id": "review-a51b84862262",
+      "stage": "narrations",
+      "action": "choose",
+      "at": "2026-10-19T19:20:44+00:00",
+      "feedback": "All five were good; narration 2 was especially liked. Prefer surprising facts homeowners may not know. Keep Texas relevance clear; avoid out-of-state study framing unless its applicability is explained. Next review is narrated audio.",
+      "number": 2,
+      "saved_number": null
+    },
+    {
+      "review_id": "review-bd3cfdc8d391",
+      "stage": "sources",
+      "action": "save_sources",
+      "at": "2026-10-19T23:27:32+00:00",
+      "feedback": "1 and 2 good and 3; lets do 1",
+      "numbers": [
+        1,
+        2,
+        3
+      ],
+      "first_number": null,
+      "sources": [
+        {
+          "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+          "title": "Flag waving for Americans",
+          "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+          "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+          "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur"
+        },
+        {
+          "url": "https://npic.orst.edu/faq/roach.html",
+          "title": "Why do I have roaches in my home?",
+          "lesson": "Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.",
+          "species": "Household cockroaches; the article does not assign every entry route to one species",
+          "region": "General United States homeowner guidance; applicable entry routes are not a Central Texas prevalence estimate"
+        },
+        {
+          "url": "https://npic.orst.edu/pest/roach.html",
+          "title": "Cockroaches",
+          "lesson": "Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.",
+          "species": "Household cockroaches; German and American cockroaches are discussed separately where their needs differ",
+          "region": "General United States guidance; no local infestation rates or Texas-specific measurements"
+        },
+        {
+          "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+          "title": "The Turkestan Cockroach: An Emerging Pest in Texas",
+          "lesson": "Male and female Turkestan cockroaches can look like different species. Learn why the male's long wings and the female's shorter wings matter when identifying this Texas invader.",
+          "species": "Turkestan cockroach (Blatta lateralis); American and Oriental cockroaches appear as identification comparisons",
+          "region": "Texas reports include El Paso and North Texas; no claim of confirmed New Braunfels prevalence"
+        },
+        {
+          "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+          "title": "Bug bombs bomb",
+          "lesson": "An apartment study found no significant drop in German cockroach numbers after fogging. Explore why filling a room with insecticide fog does not guarantee reaching roaches in protected cracks.",
+          "species": "German cockroach (Blattella germanica)",
+          "region": "United States study summarized by Texas extension; researchers were at North Carolina State University, but this article does not specify the apartment locations"
+        }
+      ]
+    },
+    {
+      "review_id": "review-581443877e82",
+      "stage": "hooks",
+      "action": "revise",
+      "target": "hooks",
+      "feedback": "Keep original hook 3 available, not selected: \"A cockroach egg case can hold more than developing roaches. Inside, an ensign wasp larva may be growing by eating the eggs around it.\". Write five NEW alternatives using surprise, specific curiosity, plain words and an honest payoff. Lead with the action; explain ensign wasp later. No em dashes. This round is for comparison, not rejection. Vary angles and structure.",
+      "at": "2026-10-19T23:40:32+00:00"
+    },
+    {
+      "review_id": "review-b5413ec2a6fb",
+      "stage": "hooks",
+      "action": "choose",
+      "at": "2026-10-19T23:56:58+00:00",
+      "feedback": "Drew chose variation 4C: \"Why would a wasp lay its egg inside a cockroach’s egg case?\" He called 4B the worst option. Keep the chosen opening exact. Explain what an ensign wasp is naturally after the hook. No em dashes.",
+      "number": 4,
+      "saved_number": null,
+      "hooks": [
+        "A wasp slips one egg inside a cockroach’s egg case. What happens next turns the roach eggs into food.",
+        "A dozen cockroach eggs can feed one baby wasp. How does it get inside their egg case?",
+        "A cockroach’s egg case can become another insect’s nursery. And the cockroach eggs are on the menu.",
+        "Why would a wasp lay its egg inside a cockroach’s egg case?",
+        "This wasp doesn’t sting people. But its babies eat cockroach eggs. How do they get inside?"
+      ]
+    },
+    {
+      "review_id": "review-5c13e5e1635f",
+      "stage": "narrations",
+      "action": "revise",
+      "target": "narrations",
+      "feedback": "Drew wants five NEW narrations with hook 4C unchanged. The previous batch repeats obvious consequences and pads thin facts. Research new useful pest-control facts, then build one clear lesson per version. Explain what to recognize, inspect or do and why. No \"eaten eggs do not hatch,\" filler, long caveat endings or fixed length. Introduce ensign wasp plainly. Show all five in chat. Earlier research-scope omissions should be revisited with new sources; do not reuse them as permanent bans.",
+      "at": "2026-10-20T00:33:12+00:00"
+    },
+    {
+      "stage": "narrations",
+      "action": "editorial_revision",
+      "run_id": "D6-01096ba333e3",
+      "previous_review_id": "review-885cb164f2fa",
+      "review_id": "review-35acddaa7f3e",
+      "note": "Removed repeated explanations, filler and detached caveat endings from the new writer batch. Kept five separate supported lessons and exact hook 4C. No narration selected.",
+      "at": "2026-10-20T00:44:22+00:00"
+    },
+    {
+      "review_id": "review-35acddaa7f3e",
+      "stage": "narrations",
+      "action": "outro_adaptation",
+      "at": "2026-10-20T04:27:46+00:00",
+      "feedback": "Drew returned with the approved outro and now requests the top five complete narrations from the preserved ten. Use the tighter second batch, ranked 6, 7, 10, 9, 8. Each retains its full lesson and ends once with: Helping you understand pests. Deep Six Pest Control. A natural breath follows the closing thought. Use the episode narrator for the whole recording. Show full scripts in chat. No extra CTA or audio generation at this review.",
+      "new_review_id": "review-391750930713",
+      "original_numbers": [
+        6,
+        7,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "review_id": "review-391750930713",
+      "stage": "narrations",
+      "action": "closing_revision",
+      "at": "2026-10-20T04:34:05+00:00",
+      "feedback": "Drew questioned the abrupt transition and requested all five full narrations again after seeing a clearer closing sentence. Revise the final teaching thought so each lesson lands before the approved sign-off. Keep the same five, their order, hook and core teaching. No padded recap, sales bridge or extra CTA. Show all five in chat.",
+      "new_review_id": "review-17d3b5e23088"
+    },
+    {
+      "review_id": "review-17d3b5e23088",
+      "stage": "narrations",
+      "action": "plain_language_revision",
+      "at": "2026-10-20T04:43:47+00:00",
+      "feedback": "Drew wants source names and formal citations outside spoken narration. He likes option 2's direction but wants a flowing flag explanation. Explain sticky traps plainly. For option 3, make clear that the young wasp changes into the adult inside the case, then that adult exits; remove the detached cocoon remark. Say cardboard boxes. Rewrite all five naturally, with the same hook and approved outro. No option is selected.",
+      "new_review_id": "review-c97fdabb9436"
+    },
+    {
+      "review_id": "review-c97fdabb9436",
+      "stage": "narrations",
+      "action": "refine_one",
+      "at": "2026-10-20T05:00:30+00:00",
+      "feedback": "Drew wants one carefully refined narration and fewer repeated corrections. He liked option 2's recognition direction, not its wording. Use connected, natural speech, no filler or obvious conclusions, no spoken source credits or unexplained terms, exact hook 4C and the approved outro. The narration is not approved. Compare models on the same brief before choosing a writing route.",
+      "new_review_id": "review-c5fac296a003",
+      "artifact": "01-content/mp3-system/narrations-with-outro-v4.json"
+    },
+    {
+      "review_id": "review-c5fac296a003",
+      "stage": "narrations",
+      "action": "revise",
+      "target": "narrations",
+      "feedback": "Drew asks for five more complete narration versions. Keep the chosen hook and approved outro. Make these fresh alternatives using the refined spoken-language rules. This request does not approve the last script or identify a new problem with it. Show all five in chat.",
+      "at": "2026-10-20T05:12:29+00:00"
+    },
+    {
+      "review_id": "review-630b450755e5",
+      "stage": "narrations",
+      "action": "copyedit_before_presentation",
+      "at": "2026-10-20T05:18:57+00:00",
+      "feedback": "",
+      "new_review_id": "review-895bed57995b",
+      "reason": "Session assistant simplified vague anatomy wording, cut redundant measurements and host examples, clarified emergence, and tightened practical steps."
+    },
+    {
+      "review_id": "review-895bed57995b",
+      "stage": "narrations",
+      "action": "revise",
+      "target": "narrations",
+      "feedback": "Drew likes version 3's story of the young wasp growing inside the cockroach egg case, but wants clearer relevance to pest-control customers and a natural transition into the approved outro. Make variations of that story, adding only enough length to connect the biology to a useful homeowner decision or action. This is a refinement request, not script approval.",
+      "at": "2026-10-20T05:27:30+00:00"
+    },
+    {
+      "review_id": "review-2f065ea7b83a",
+      "stage": "narrations",
+      "action": "preserve_liked_story_and_edit_closings",
+      "at": "2026-10-20T05:34:27+00:00",
+      "feedback": "",
+      "new_review_id": "review-e8af59c5fb1e",
+      "reason": "Retained the exact story Drew liked, removed added egg-laying detail and repetition, and focused the variations on practical homeowner endings."
+    },
+    {
+      "review_id": "review-e8af59c5fb1e",
+      "stage": "narrations",
+      "action": "choose",
+      "at": "2026-10-20T05:40:43+00:00",
+      "feedback": "3",
+      "number": 3,
+      "saved_number": null
+    }
+  ],
+  "runs": [
+    {
+      "id": "D6-2d2a1eb6b091",
+      "calls": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "research",
+          "at": "2026-10-19T17:25:35+00:00"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "hooks",
+          "at": "2026-10-19T17:25:54+00:00"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "research",
+          "at": "2026-10-19T17:39:02+00:00",
+          "prompt_version": "ce6d7a1057cd"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "research",
+          "at": "2026-10-19T17:40:18+00:00",
+          "prompt_version": "ce6d7a1057cd"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "research",
+          "at": "2026-10-19T17:41:47+00:00",
+          "prompt_version": "749aad5442f5"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "hooks",
+          "at": "2026-10-19T17:42:05+00:00",
+          "prompt_version": "3f104a9a6e1f"
+        }
+      ],
+      "result": "sources_saved"
+    },
+    {
+      "id": "D6-6c917b49743b",
+      "calls": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-19T18:14:52+00:00",
+          "prompt_version": "2ec1a0e7d8ea"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "hooks",
+          "at": "2026-10-19T18:20:47+00:00",
+          "prompt_version": "e6f73b766356"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-19T18:22:37+00:00",
+          "prompt_version": "546286d5c3f7"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-19T18:26:21+00:00",
+          "prompt_version": "2d6e4b064d3f"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-19T18:44:53+00:00",
+          "prompt_version": "dc6889b8bb4d"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "evidence_plan",
+          "at": "2026-10-19T19:06:56+00:00",
+          "prompt_version": "c74f9261a718"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-19T19:07:48+00:00",
+          "prompt_version": "39c8dbcea05e"
+        }
+      ],
+      "result": "approved"
+    },
+    {
+      "id": "D6-e531a6490a21",
+      "calls": [],
+      "result": "sources_saved"
+    },
+    {
+      "id": "D6-01096ba333e3",
+      "calls": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "depth_check",
+          "at": "2026-10-19T23:27:43+00:00",
+          "prompt_version": "481eea264568"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "hooks",
+          "at": "2026-10-19T23:28:00+00:00",
+          "prompt_version": "18fe39393341"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "hooks",
+          "at": "2026-10-19T23:40:50+00:00",
+          "prompt_version": "10c047cd8702"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "evidence_plan",
+          "at": "2026-10-19T23:57:11+00:00",
+          "prompt_version": "076736e99ded"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-20T00:09:31+00:00",
+          "prompt_version": "b9f5b8a91b98"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "evidence_plan",
+          "at": "2026-10-20T00:33:28+00:00",
+          "prompt_version": "19dc5bd89fc2"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-20T00:41:06+00:00",
+          "prompt_version": "5a6bcf5064ca"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-20T04:57:51+00:00",
+          "prompt_version": "3eb76e79d3fc"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narration_edit",
+          "at": "2026-10-20T04:58:15+00:00",
+          "prompt_version": "53681555e49e"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "medium",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "evidence_plan",
+          "at": "2026-10-20T05:12:37+00:00",
+          "prompt_version": "27107dd71dc9"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-20T05:13:28+00:00",
+          "prompt_version": "bd85fece174d"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narration_edit",
+          "at": "2026-10-20T05:15:14+00:00",
+          "prompt_version": "989ff421f52f"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "medium",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "evidence_plan",
+          "at": "2026-10-20T05:27:39+00:00",
+          "prompt_version": "4fb3bbfa15a0"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narrations",
+          "at": "2026-10-20T05:28:37+00:00",
+          "prompt_version": "ed21d6d81a44"
+        },
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "attempts": [
+            {
+              "provider": "codex",
+              "model": "gpt-6-astra",
+              "result": "success"
+            }
+          ],
+          "stage": "narration_edit",
+          "at": "2026-10-20T05:29:28+00:00",
+          "prompt_version": "0eab4884040b"
+        }
+      ],
+      "result": "approved"
+    }
+  ],
+  "source_queue": [
+    {
+      "id": "SRC-f231feb3699d",
+      "source": {
+        "url": "https://fireant.tamu.edu/manage/faq/",
+        "title": "Fire Ant Frequently Asked Questions",
+        "publisher": "Texas A&M — Texas Imported Fire Ant Research and Management Project",
+        "date": "undated",
+        "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+        "species": "Red imported fire ant (Solenopsis invicta)",
+        "region": "Applicable to Central Texas yards where imported fire ants occur during hot, dry weather; this is statewide Extension guidance.",
+        "limits": "Use only the drought-behavior section. The page contains older treatment and distribution information that is not included here. Absence of visible activity cannot establish whether a particular yard contains ants. Supplemental biology references support this same chosen drought lesson, not new queued source choices. Explain mechanisms without invented desiccation physiology, exact nesting depths, universal temperature cutoffs, treatment prescriptions, or claims of certain survival. S4 is an Oklahoma study; S5 studied imported fire ants at Mississippi sites. Research-specific numbers must be attributed and qualified. Prefer explaining terms to adding jargon. Across the five scripts paraphrase each reference concisely; avoid repeating the same technical explanation five times.",
+        "facts": [
+          {
+            "statement": "In the drought FAQ, the source explains that heat-hardened, dry soil can stop colonies from making visible mounds.",
+            "quote": "the colonies are just not making mounds",
+            "id": "SRC-f231feb3699d-F1"
+          },
+          {
+            "statement": "During these conditions, colonies nest farther underground during daylight.",
+            "quote": "They are nesting deeper in the ground during the day",
+            "id": "SRC-f231feb3699d-F2"
+          },
+          {
+            "statement": "Workers forage during cooler portions of the day or at night.",
+            "quote": "during cooler parts of the day",
+            "id": "SRC-f231feb3699d-F3"
+          },
+          {
+            "id": "SRC-f231feb3699d-F4",
+            "statement": "Workers excavate a network of tunnels, placing excavated soil above ground. The mound can collect solar warmth and provide drier conditions; underground galleries provide cooler, moister conditions. Workers relocate developing brood within the nest to suitable conditions. During hot dry periods, brood and most colony members remain deeper underground.",
+            "quote": "moving brood to the area",
+            "reference_id": "S1",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology"
+          },
+          {
+            "id": "SRC-f231feb3699d-F5",
+            "statement": "Colonies tend to use higher parts of the nest in cold wet weather, keeping brood away from waterlogged soil and using solar heating; in hot dry weather they favor cooler, moister underground conditions. Eggs develop through larvae and pupae into adults. Young colonies may take several months to make a noticeable mound. Lawns with large visible mounds usually also contain younger colonies too small to produce visible mounds.",
+            "quote": "cool, moist conditions",
+            "reference_id": "S2",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts"
+          },
+          {
+            "id": "SRC-f231feb3699d-F6",
+            "statement": "Brood means developing eggs, larvae and pupae. Fire ant mounds normally lack a central opening; workers enter and leave through underground tunnels. Mounds can become conspicuous a few days after heavy rain. This does not establish that a particular mound is newly founded.",
+            "quote": "through underground tunnels",
+            "reference_id": "S3",
+            "evidence_url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/"
+          },
+          {
+            "id": "SRC-f231feb3699d-F7",
+            "statement": "In a southern Oklahoma field study published in 2003, researchers counted workers at food lures and compared several temperature measurements. Soil temperature at 15 cm (about 6 inches) was the best individual predictor of foraging, explaining 34 percent of variation. Air temperature measured 1 metre above ground was not a significant predictor in that study. Ground conditions are relevant to activity; do not claim soil temperature alone determines behavior or generalize Oklahoma numeric thresholds to Texas.",
+            "quote": "best individual predictor",
+            "reference_id": "S4",
+            "evidence_url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549"
+          },
+          {
+            "id": "SRC-f231feb3699d-F8",
+            "statement": "A 2008 field study at Mississippi sites used thermal imaging to measure imported-fire-ant mound surface temperatures. Near solar noon the difference between mounds and surroundings was about 2 to 10 degrees Celsius (roughly 4 to 18 degrees Fahrenheit). The study included red, black and hybrid imported fire ants. It measured surface temperatures, not a universal nest temperature or a drought survival rate. The paper reviews prior work showing nest temperature gradients and brood placement responding to temperature. Mound surface aspect and slope affected surface temperature, with the effect strongly influenced by time of day.",
+            "quote": "surface temperatures of mounds",
+            "reference_id": "S5",
+            "evidence_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/"
+          }
+        ],
+        "urls": [
+          "https://fireant.tamu.edu/manage/faq"
+        ],
+        "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+        "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+        "source_id": "SRC-f231feb3699d",
+        "checked_at": "2026-10-19T17:41:48+00:00",
+        "supporting_references": [
+          {
+            "id": "S1",
+            "title": "Fire Ant Biology",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S2",
+            "title": "Fire Ant Facts",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S3",
+            "title": "How can I tell if I have fire ants?",
+            "publisher": "Texas A&M",
+            "url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S4",
+            "title": "Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003)",
+            "publisher": "USDA ARS / Vogt and colleagues",
+            "url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S5",
+            "title": "Dynamic Thermal Structure of Imported Fire Ant Mounds (2008)",
+            "publisher": "Vogt, Wallet and Coy / Journal of Insect Science",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-text excerpt; direct open showed browser check"
+          }
+        ]
+      },
+      "pest": "ants",
+      "status": "awaiting_video",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-1d0e24b2f14b",
+      "source": {
+        "url": "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf",
+        "title": "Tawny Crazy Ants: A Texas-Size Problem",
+        "publisher": "Texas A&M AgriLife Extension Service",
+        "date": "2016-09",
+        "lesson": "Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.",
+        "species": "Tawny crazy ant (Nylanderia fulva)",
+        "region": "Texas prevention guidance is relevant to Central Texas homeowners receiving landscaping materials, particularly materials originating in infested locations.",
+        "limits": "Publication ENTO-060, distinct from the excluded Build a Bigger Buffer publication. Its county map and county count describe 2016, not current distribution. Inspection reduces introduction risk but does not guarantee materials are ant-free.",
+        "facts": [
+          {
+            "statement": "Page 2 attributes part of the ant's Texas spread to people transporting infested plants, building materials, mulch, yard debris and hay.",
+            "quote": "assisted by humans moving infested materials",
+            "id": "SRC-1d0e24b2f14b-F1"
+          },
+          {
+            "statement": "Page 1 recommends inspecting landscaping and building materials before transporting them to an uninfested location.",
+            "quote": "Inspect all landscaping and building materials before transporting them to any non-infested site.",
+            "id": "SRC-1d0e24b2f14b-F2"
+          }
+        ],
+        "urls": [
+          "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf"
+        ],
+        "publication_key": "texas a&m agrilife extension service|tawny crazy ants a texas size problem",
+        "page_digest": "f896d9d998c18aeaa52d1fa497e6c95b1caa56c2ae940fd29a988294a45006d7",
+        "source_id": "SRC-1d0e24b2f14b",
+        "checked_at": "2026-10-19T17:41:48+00:00"
+      },
+      "pest": "ants",
+      "status": "queued",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-093a88be2059",
+      "source": {
+        "url": "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013/",
+        "title": "Identifying household ants",
+        "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+        "date": "undated",
+        "lesson": "An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.",
+        "species": "Common Texas household ants",
+        "region": "The guide explicitly covers common Texas ants and is relevant to identification observations in Central Texas homes.",
+        "limits": "These observations provide clues, not a definitive identification. The page notes that equipment and experience may be needed. Exclude its collection instructions and previously used carpenter-ant, mound-entrance and ant-versus-termite lessons.",
+        "facts": [
+          {
+            "statement": "The Worker size section distinguishes species with uniformly sized workers from species whose workers vary in size.",
+            "quote": "all equal in size (monomorphic) or variable in size (polymorphic)",
+            "id": "SRC-093a88be2059-F1"
+          },
+          {
+            "statement": "The identification introduction recommends noting whether ants are active during daylight or at night.",
+            "quote": "take note of when the ants are active",
+            "id": "SRC-093a88be2059-F2"
+          },
+          {
+            "statement": "The Ant behavior section identifies running speed as another observational clue.",
+            "quote": "Notice how fast they run",
+            "id": "SRC-093a88be2059-F3"
+          }
+        ],
+        "urls": [
+          "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|identifying household ants",
+        "page_digest": "9248696ddde24bc89bab17555c2dc0641c39afdb8c8bded49a96965fa9389991",
+        "source_id": "SRC-093a88be2059",
+        "checked_at": "2026-10-19T17:41:48+00:00"
+      },
+      "pest": "ants",
+      "status": "queued",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-6042c20d9cb3",
+      "source": {
+        "url": "https://fireant.tamu.edu/learn/biology/",
+        "title": "Biology",
+        "publisher": "Texas A&M — Texas Imported Fire Ant Research and Management Project",
+        "date": "undated",
+        "lesson": "Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.",
+        "species": "Red imported fire ant (Solenopsis invicta)",
+        "region": "Relevant to Central Texas properties where red imported fire ants occur. The page describes species biology rather than a local flight forecast.",
+        "limits": "Flight timing is typical, not guaranteed. This lesson concerns reproduction, not identifying ants versus termites. Do not infer that every flying insect or newly seen mound came from a particular flight.",
+        "facts": [
+          {
+            "statement": "The mating-flight paragraph says flights usually happen in the afternoon following a rainy period.",
+            "quote": "usually occurs in the afternoon soon after a rainy period",
+            "id": "SRC-6042c20d9cb3-F1"
+          },
+          {
+            "statement": "Spring and fall are the most common seasons for these flights.",
+            "quote": "Mating flights are most common in spring and fall.",
+            "id": "SRC-6042c20d9cb3-F2"
+          },
+          {
+            "statement": "After mating and landing, a fertilized queen sheds her wings and digs a chamber to establish a colony.",
+            "quote": "sheds her wings",
+            "id": "SRC-6042c20d9cb3-F3"
+          }
+        ],
+        "urls": [
+          "https://fireant.tamu.edu/learn/biology"
+        ],
+        "publication_key": "texas a&m — texas imported fire ant research and management project|biology",
+        "page_digest": "3936a5a8af8b3acf4489299be9612d87d6ad485dfee6c385f975fdff46a285e0",
+        "source_id": "SRC-6042c20d9cb3",
+        "checked_at": "2026-10-19T17:41:48+00:00"
+      },
+      "pest": "ants",
+      "status": "queued",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-0fa91dcbc971",
+      "source": {
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "title": "Flag waving for Americans",
+        "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+        "date": "2015-05-05",
+        "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+        "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+        "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur",
+        "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species.",
+        "facts": [
+          {
+            "id": "SRC-0fa91dcbc971-F1",
+            "statement": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+            "quote": "slender ovipositor into the tough ootheca"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F2",
+            "statement": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case.",
+            "quote": "dozen or more cockroach eggs"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F3",
+            "statement": "The ensign wasp described in this article does not sting or bite people.",
+            "quote": "does not sting or bite"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F4",
+            "statement": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+            "quote": "unique, stalked abdomen"
+          }
+        ],
+        "urls": [
+          "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+        "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0",
+        "source_id": "SRC-0fa91dcbc971",
+        "checked_at": "2026-10-20T00:07:30+00:00"
+      },
+      "pest": "cockroaches",
+      "status": "awaiting_video",
+      "saved_at": "2026-10-19T23:27:32+00:00",
+      "review_id": "review-bd3cfdc8d391"
+    },
+    {
+      "id": "SRC-9c3cbed0ebf3",
+      "source": {
+        "url": "https://npic.orst.edu/faq/roach.html",
+        "title": "Why do I have roaches in my home?",
+        "publisher": "National Pesticide Information Center, Oregon State University",
+        "date": "undated",
+        "lesson": "Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.",
+        "species": "Household cockroaches; the article does not assign every entry route to one species",
+        "region": "General United States homeowner guidance; applicable entry routes are not a Central Texas prevalence estimate",
+        "limits": "This does not mean sanitation is unimportant or that a particular home's infestation came from a bag. Identify the species and inspect actual conditions before deciding the source. Exclude medical and pesticide-use sections from narration.",
+        "facts": [
+          {
+            "statement": "Finding cockroaches alone does not establish that a home is dirty.",
+            "quote": "Finding roaches is not a sign that your house is dirty.",
+            "id": "SRC-9c3cbed0ebf3-F1"
+          },
+          {
+            "statement": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+            "quote": "Hitching a ride on bags, backpacks, suitcases and other containers.",
+            "id": "SRC-9c3cbed0ebf3-F2"
+          }
+        ],
+        "urls": [
+          "https://npic.orst.edu/faq/roach.html"
+        ],
+        "publication_key": "national pesticide information center, oregon state university|why do i have roaches in my home",
+        "page_digest": "208c40b440c4b520f7ab68a9d49d1170b4d4fd278d038e88074a6569fc4a0e2b",
+        "source_id": "SRC-9c3cbed0ebf3",
+        "checked_at": "2026-10-19T23:22:54+00:00"
+      },
+      "pest": "cockroaches",
+      "status": "queued",
+      "saved_at": "2026-10-19T23:27:32+00:00",
+      "review_id": "review-bd3cfdc8d391"
+    },
+    {
+      "id": "SRC-6c5ad958f7d8",
+      "source": {
+        "url": "https://npic.orst.edu/pest/roach.html",
+        "title": "Cockroaches",
+        "publisher": "National Pesticide Information Center, Oregon State University",
+        "date": "undated",
+        "lesson": "Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.",
+        "species": "Household cockroaches; German and American cockroaches are discussed separately where their needs differ",
+        "region": "General United States guidance; no local infestation rates or Texas-specific measurements",
+        "limits": "The page states attraction to debris but does not explain the chemical mechanism or quantify the effect. Supporting science is needed for that depth. Traps monitor activity; this source does not establish that trapping or cleaning alone eliminates an infestation. Exclude medical and product-specific advice.",
+        "facts": [
+          {
+            "statement": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+            "quote": "Cockroaches are attracted to their own debris.",
+            "id": "SRC-6c5ad958f7d8-F1"
+          },
+          {
+            "statement": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+            "quote": "Monitor and assess cockroach activity using sticky traps or glue boards.",
+            "id": "SRC-6c5ad958f7d8-F2"
+          }
+        ],
+        "urls": [
+          "https://npic.orst.edu/pest/roach.html"
+        ],
+        "publication_key": "national pesticide information center, oregon state university|cockroaches",
+        "page_digest": "a3a6692517ad1686998b6fdb61bd65dfdc1c6de5106e3094b75b76f59abfed27",
+        "source_id": "SRC-6c5ad958f7d8",
+        "checked_at": "2026-10-19T23:22:54+00:00"
+      },
+      "pest": "cockroaches",
+      "status": "queued",
+      "saved_at": "2026-10-19T23:27:32+00:00",
+      "review_id": "review-bd3cfdc8d391"
+    }
+  ],
+  "next_source_id": "SRC-1d0e24b2f14b",
+  "research_pest": "termites"
+}

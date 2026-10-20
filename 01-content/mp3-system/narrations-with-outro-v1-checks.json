@@ -1,0 +1,31 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-391750930713",
+  "count": 5,
+  "ranked_original_numbers": [
+    6,
+    7,
+    10,
+    9,
+    8
+  ],
+  "original_archive_sha256": "e8f48019c11a554f74726ccdb1f9d5a71a0dd75c923bc4f80fd4cd52bf923f3d",
+  "all_ten_originals_unchanged": true,
+  "selected_bodies_unchanged": true,
+  "exact_hook_in_all": true,
+  "approved_signoff_exactly_once_in_all": true,
+  "em_dashes": 0,
+  "fact_references_valid": true,
+  "editing_cues_outside_spoken_copy": true,
+  "same_narrator_required": true,
+  "source_queue_approved_items_and_board_unchanged": true,
+  "words": [
+    115,
+    121,
+    102,
+    137,
+    90
+  ],
+  "no_script_selected": true,
+  "no_audio_generated": true
+}

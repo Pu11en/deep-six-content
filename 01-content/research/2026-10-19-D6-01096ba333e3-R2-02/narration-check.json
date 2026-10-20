@@ -1,0 +1,33 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-35acddaa7f3e",
+  "status": "waiting_narrations",
+  "choices": 5,
+  "exact_hook_in_all": true,
+  "em_dashes": 0,
+  "fact_references_valid": true,
+  "new_sources_accepted": 3,
+  "new_supported_facts": 11,
+  "word_counts": [
+    107,
+    113,
+    82,
+    129,
+    94
+  ],
+  "titles": [
+    "Getting through the egg case",
+    "Recognizing the wasp",
+    "Checking for roaches and their eggs",
+    "Finding where roaches are active",
+    "From egg to adult, inside the case"
+  ],
+  "approved_audio_and_other_queue_entries_unchanged": true,
+  "board_unchanged": true,
+  "editorial_check": "Every paragraph supplies mechanism, recognition, inspection or monitoring detail. No repeated no-hatch conclusion or generic useful-takeaway ending. Options are intentionally shorter than the previous padded batch.",
+  "limits": [
+    "Under-sink inspection is an application of warm, moist habitat plus extension inspection sites, not a wasp-sighting diagnosis.",
+    "Option 3 compares egg handling; it does not identify German cockroaches as this wasp's hosts.",
+    "Option 5 teaches natural-enemy biology and makes no whole-home treatment claim."
+  ]
+}

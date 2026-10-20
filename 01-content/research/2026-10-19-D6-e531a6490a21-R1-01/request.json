@@ -1,0 +1,275 @@
+{
+  "request_id": "research-359182d1022c",
+  "run_id": "D6-e531a6490a21",
+  "stage": "sources",
+  "client_id": "imac-research",
+  "pest": "cockroaches",
+  "task": "Research candidate factual publications for five DISTINCT homeowner lessons. Use live web search and OPEN each actual page. Return up to 10 candidates, best first. Use only these domains: citybugs.tamu.edu, fireant.tamu.edu, extensionentomology.tamu.edu, agrilifeextension.tamu.edu, npic.orst.edu, epa.gov. Topic: Useful homeowner lessons about cockroaches in Central Texas. Do not use the same publication twice (including mirrors). Use only identification, behavior or practical nonchemical prevention; no medical, dosing, mixing or product-specific directions. Explain Central Texas applicability and limits. Each card needs 1-4 supported facts with short EXACT quotes, at most 25 quoted words total per publication. Quotes will be checked by fetching the page independently. Use 'undated' if no date is available. Do not use search snippets as page evidence. The lesson field is Drew's source preview: one or two short plain-English sentences about what the source teaches and what the video could explain, at most four sentences and 600 characters. No hooks, jargon, headings or line breaks. Prefer detailed biology and original research over shallow FAQs. Before offering a source, assess whether it can support a longer educational explanation: a mechanism, useful observation and clear limits, or credible primary research that could supply the depth. Describe its educational depth naturally in the short lesson preview. A hook must be supportable by the main source itself. If fewer sources exist, return fewer; do not invent. Avoid these previously used publications and lessons:\n[{\"source_id\": \"SRC-24f90957c9a9\", \"urls\": [\"https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants\"], \"publication_key\": \"texas a&m — texas imported fire ant research and management project|how can i tell if i have fire ants\", \"page_digest\": \"973ace8586c3a3d469a03d95c3d245fc97d8de1a4f4fd20f17551e3d0e4f55a2\", \"lesson\": \"A fire-ant mound can lack a visible entrance because the ants travel through underground tunnels. Look at mound structure without disturbing it.\", \"title\": \"How can I tell if I have fire ants?\", \"checked_at\": \"2026-10-19T17:25:36+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-10b6f9cb2c80\", \"urls\": [\"https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001\"], \"publication_key\": \"texas a&m agrilife extension service — insects in the city|carpenter ants around homes\", \"page_digest\": \"fa8b6123a8bb1632dc76047954730e64cba9e61a073952230fe482cff836dd14\", \"lesson\": \"Carpenter ants use wood and cavities for shelter rather than eating wood. Texas species generally cause less damage than their northern counterparts.\", \"title\": \"Carpenter ants around homes\", \"checked_at\": \"2026-10-19T17:25:36+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-6805c0a6aed7\", \"urls\": [\"https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012\"], \"publication_key\": \"texas a&m agrilife extension service — insects in the city|swarming insects indoors\", \"page_digest\": \"debce232d58b156b168d3b33190070ac8ae540f9cb4249a397de7dd6b1e09bd6\", \"lesson\": \"Wings alone cannot distinguish flying ants from termites. Compare the waist, antennae and wing proportions.\", \"title\": \"Swarming Insects Indoors\", \"checked_at\": \"2026-10-19T17:25:36+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-5454bc8d3db2\", \"urls\": [\"https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002\"], \"publication_key\": \"texas a&m agrilife extension service — insects in the city|texas leaf cutting ant\", \"page_digest\": \"be07077f1aa52bbe16f0617e0ab89dfae422d9b9b12f5d416d4464d09ff4c36b\", \"lesson\": \"Leaf-cutting ants carry foliage underground to grow their food. In summer, nighttime observation can help explain disappearing garden leaves.\", \"title\": \"Texas Leaf Cutting Ant\", \"checked_at\": \"2026-10-19T17:25:36+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-97a7baaf455d\", \"urls\": [\"https://npic.orst.edu/pest/ant.html\"], \"publication_key\": \"national pesticide information center, oregon state university|ants\", \"page_digest\": \"cbc8454b8ba9e2926952193ac4592dc6e5095e74fca19d316f5893a11d001fd7\", \"lesson\": \"Cleaning an ant trail can remove its chemical guidance signal; vacuuming also removes the ants already present.\", \"title\": \"Ants\", \"checked_at\": \"2026-10-19T17:25:36+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-f231feb3699d\", \"urls\": [\"https://fireant.tamu.edu/manage/faq\"], \"publication_key\": \"texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions\", \"page_digest\": \"174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507\", \"lesson\": \"A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.\", \"title\": \"Fire Ant Frequently Asked Questions\", \"checked_at\": \"2026-10-19T17:41:48+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-1d0e24b2f14b\", \"urls\": [\"https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf\"], \"publication_key\": \"texas a&m agrilife extension service|tawny crazy ants a texas size problem\", \"page_digest\": \"f896d9d998c18aeaa52d1fa497e6c95b1caa56c2ae940fd29a988294a45006d7\", \"lesson\": \"Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.\", \"title\": \"Tawny Crazy Ants: A Texas-Size Problem\", \"checked_at\": \"2026-10-19T17:41:48+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-be0d626096a9\", \"urls\": [\"https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop\"], \"publication_key\": \"texas a&m agrilife extension service — insects in the city|cleaning insect poop off trees\", \"page_digest\": \"bcc8c77a8362ae19ea05aec5f651383553b96d9e2482e2e91d7be182c8924d2d\", \"lesson\": \"Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.\", \"title\": \"Cleaning insect poop off trees\", \"checked_at\": \"2026-10-19T17:41:48+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-093a88be2059\", \"urls\": [\"https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013\"], \"publication_key\": \"texas a&m agrilife extension service — insects in the city|identifying household ants\", \"page_digest\": \"9248696ddde24bc89bab17555c2dc0641c39afdb8c8bded49a96965fa9389991\", \"lesson\": \"An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.\", \"title\": \"Identifying household ants\", \"checked_at\": \"2026-10-19T17:41:48+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-6042c20d9cb3\", \"urls\": [\"https://fireant.tamu.edu/learn/biology\"], \"publication_key\": \"texas a&m — texas imported fire ant research and management project|biology\", \"page_digest\": \"3936a5a8af8b3acf4489299be9612d87d6ad485dfee6c385f975fdff46a285e0\", \"lesson\": \"Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.\", \"title\": \"Biology\", \"checked_at\": \"2026-10-19T17:41:48+00:00\", \"run_id\": \"D6-2d2a1eb6b091\"}, {\"source_id\": \"SRC-f231feb3699d\", \"urls\": [\"https://fireant.tamu.edu/manage/faq\"], \"publication_key\": \"texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions\", \"page_digest\": \"174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507\", \"lesson\": \"A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.\", \"title\": \"Fire Ant Frequently Asked Questions\"}, {\"source_id\": \"S1\", \"urls\": [\"https://extension.msstate.edu/insects/fire-ants/fire-ant-biology\"], \"publication_key\": \"mississippi state university extension|fire ant biology\", \"page_digest\": null, \"lesson\": \"\", \"title\": \"Fire Ant Biology\"}, {\"source_id\": \"S2\", \"urls\": [\"https://extension.msstate.edu/insects/fire-ants/fire-ant-facts\"], \"publication_key\": \"mississippi state university extension|fire ant facts\", \"page_digest\": null, \"lesson\": \"\", \"title\": \"Fire Ant Facts\"}, {\"source_id\": \"S3\", \"urls\": [\"https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants\"], \"publication_key\": \"texas a&m|how can i tell if i have fire ants\", \"page_digest\": null, \"lesson\": \"\", \"title\": \"How can I tell if I have fire ants?\"}, {\"source_id\": \"S4\", \"urls\": [\"https://www.ars.usda.gov/research/publications/publication?seqNo115=139549\"], \"publication_key\": \"usda ars / vogt and colleagues|effects of temperature and season on foraging activity of red imported fire ants in oklahoma 2003\", \"page_digest\": null, \"lesson\": \"\", \"title\": \"Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003)\"}, {\"source_id\": \"S5\", \"urls\": [\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603\"], \"publication_key\": \"vogt, wallet and coy / journal of insect science|dynamic thermal structure of imported fire ant mounds 2008\", \"page_digest\": null, \"lesson\": \"\", \"title\": \"Dynamic Thermal Structure of Imported Fire Ant Mounds (2008)\"}]\n# Deep Six content source log\n\n**Check this log before drafting every new episode.** Drew wants unique videos and no repeated content sources.\n\n## Rules\n\n- Log every article, video, or other source actually used for narration or factual content, including fact-check sources, as soon as a draft uses it.\n- A logged content source is unavailable for another episode unless Drew explicitly approves reuse. Revisions of the same episode may keep using it.\n- Record the topic and lesson too. A different URL does not make a repeated script or angle unique. Alternate URLs for the same publication count as the same source.\n- Research candidates that have not supplied content remain available. Never present a drafted episode as published.\n- Keep visual/style references separate. Drew selected the Photon format for reuse; that does not authorize repeating its script or another episode’s educational content.\n\n## Used content sources\n\n| Source ID | Source | Episode | Status / first use | Topic already covered |\n|---|---|---|---|---|\n| ANT-S001 | [Managing Household Ant Pests — Texas A&M, B-6183, December 2005](https://extensionentomology.tamu.edu/wp-content/uploads/sites/6/2021/03/managing-household-ants.pdf) | D6-ANT-001 — [source findings](experiments/2026-10-16-ant-return-narration/source-check.md) | First used 2026-10-16; narration scrapped 2026-10-19 · source remains logged against this episode | Scrapped draft angle: vegetation touching the house as an ant bridge; inspect trails, trim contact, seal entry gaps; an indoor nest may still need attention. Earlier draft: recurring indoor ants, visible workers versus hidden nest, food, water, identification, and professional nest access. |\n\nAlternate copy of ANT-S001: `https://extensionentomology.tamu.edu/wp-content/uploads/sites/3/2018/05/Household-ants-B6183.pdf`. Treat as the same publication.\n\nD6-ANT-001 was a narration experiment, never published. Drew scrapped the script, then explicitly requested no narration archives on October 19. All saved narration versions and board copies have been deleted from the working project. The source-use record and brief feedback remain; ANT-S001 is still logged against that experiment. See the [current workflow](video-workflow.md).\n\n[First hook round](experiments/2026-10-16-ant-return-narration/hooks.md) and [second hook round, options 9–18](experiments/2026-10-16-ant-return-narration/hooks-round-2.md) are revisions within this episode and use the same source. No additional factual source used.\n\n\n\n## Writing-flow source use\n\nReserved when presented for review (older records were reserved at hook drafting). These are review/draft records, not publication records.\n\n- SRC-24f90957c9a9 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00\n  How can I tell if I have fire ants? — https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants\n  Lesson: A fire-ant mound can lack a visible entrance because the ants travel through underground tunnels. Look at mound structure without disturbing it.\n\n- SRC-10b6f9cb2c80 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00\n  Carpenter ants around homes — https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001\n  Lesson: Carpenter ants use wood and cavities for shelter rather than eating wood. Texas species generally cause less damage than their northern counterparts.\n\n- SRC-6805c0a6aed7 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00\n  Swarming Insects Indoors — https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012\n  Lesson: Wings alone cannot distinguish flying ants from termites. Compare the waist, antennae and wing proportions.\n\n- SRC-5454bc8d3db2 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00\n  Texas Leaf Cutting Ant — https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002\n  Lesson: Leaf-cutting ants carry foliage underground to grow their food. In summer, nighttime observation can help explain disappearing garden leaves.\n\n- SRC-97a7baaf455d · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00\n  Ants — https://npic.orst.edu/pest/ant.html\n  Lesson: Cleaning an ant trail can remove its chemical guidance signal; vacuuming also removes the ants already present.\n\n- SRC-f231feb3699d · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00\n  Fire Ant Frequently Asked Questions — https://fireant.tamu.edu/manage/faq\n  Lesson: A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.\n\n- SRC-1d0e24b2f14b · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00\n  Tawny Crazy Ants: A Texas-Size Problem — https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf\n  Lesson: Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.\n\n- SRC-be0d626096a9 · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00\n  Cleaning insect poop off trees — https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop\n  Lesson: Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.\n\n- SRC-093a88be2059 · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00\n  Identifying household ants — https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013\n  Lesson: An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.\n\n- SRC-6042c20d9cb3 · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00\n  Biology — https://fireant.tamu.edu/learn/biology\n  Lesson: Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.\n\nRESEARCH BRIEF:\n# Research brief: useful pest education for customers\n\n**Find practical lessons a pest professional could explain to a homeowner. Show five short source previews; save every source Drew likes and research the next pest once the current queue has at least three. Writing is active: choose the source, then the hook, then a full narration.**\n\n**Start rule:** making an episode and stocking the source queue are separate tasks. Use an already approved queued source for an episode when available; do not repeat discovery automatically. For new choices, send [this explicit request and apply these source criteria](../mp3-system/source-research.md). A source-research schedule is not yet chosen.\n\n## Teaching target\n\nDrew's example is a dog trainer teaching owners while working with their dog. Deep Six's equivalent is understandable pest education: what the homeowner notices, what it means, why it happens and what a sensible next step looks like. The finished content will use AI visuals and original explanations, rather than pretending Deep Six filmed another professional's visit.\n\nPrefer one useful, visual lesson over a list of trivia or a sales pitch. A real pest professional's demonstration can provide a lesson, not merely a hook template. Keep the original source attached and distinguish what the creator actually demonstrates from your interpretation. Explain it in original words; do not assume permission to reuse their footage or script.\n\n## Whiteboard flow\n\n**Cron or on demand → choose pest needing sources → research through crawler when ready → check content and evidence → show five source summaries → Drew likes or skips → save liked sources → update pest rotation.**\n\nOn-demand research exists. Cron is planned, not activated. Drew has confirmed the crawler is ready. Use [the repeatable crawler procedure](../mp3-system/crawler-flow.md) for source discovery and later supporting science. Its authenticated API is reachable; the runner now emits crawler requests and imports checked results. The session agent operates the crawler. Do not claim a platform was accessed when it was not.\n\n## Where lessons can come from\n\n| Source type | Useful material | Current status |\n|---|---|---|\n| Web articles and blogs | Clear explanations, photographs, identification and practical prevention | Trusted public pages/PDFs work now. The automatic validator still uses its configured publisher allowlist; arbitrary blogs are not yet enabled. |\n| Educational pest-control accounts and channels | Professional demonstrations and customer explanations | A desired creator/source category across platforms. Verify expertise, actual content and limits; not connected automatically yet. |\n| Reddit | Real homeowner questions, recurring confusion, and useful expert responses | Planned. Drew reports supplying cookies to the crawler agent; this content runner's access and quality are unverified. An anecdote or vote count alone is not factual validation. |\n| Facebook | Possible professional teaching posts or videos | Pending crawler access and a trial of content quality. Drew reports cookies supplied to that agent. |\n| X / Twitter | Possible professional explanations and demonstrations | Pending access and a trial of content quality. Drew plans to provide cookies to the crawler agent. |\n| YouTube videos and Shorts | In-depth lessons, visual demonstrations and short explanations | Pending YouTube research tools/transcript ingestion. Do not claim to watch video from its title or description. |\n\nCookies and other credentials stay with the crawler owner. This project stores access status only, never credential values. Do not inspect or copy them.\n\n## Selection and evidence\n\n- Stay on the requested pest. Prior liked ant sources should help identify useful teaching approaches, not force later searches back to ants.\n- Prefer original sources, identifiable expertise and a concrete homeowner question. Check the actual relevant passage or demonstration, species and Central Texas applicability. Mark dates and limitations honestly.\n- Keep the useful explanation and its factual support separate from popularity. A compelling creator is not automatically right; a social question can inspire a lesson that is then checked against reliable pest evidence.\n- Record the original URL, creator/publisher, platform, pest group and species, useful lesson, checked date, evidence passages or video timestamps, what was actually read/watched, limits and prior-use status. Future platform adapters must preserve this evidence; the current runner handles article/PDF cards.\n- Show five numbered source links with normally one or two sentences each, maximum four, explaining what the content would teach. No hook writing in this review.\n\n## Queue, feedback and rotation\n\nSave every explicitly liked source, not just the first one. The decision's `numbers` are all positive selections; `first_number` says which to use first. A single chosen `number` is also positive. Unmentioned choices are neutral. Do not invent a reason for a skip. Source feedback guides research; hook feedback stays separate.\n\nThe working grouping is broad pests: all ant types count under **ants**, with the actual species preserved on each card. This is a stated default, awaiting any correction from Drew. Working order: **ants → cockroaches → termites → mosquitoes → rodents → spiders → scorpions → bed bugs → fleas and ticks → stinging insects → wildlife**, then back around. The order is an implementation default, not a priority ranking supplied by Drew.\n\nCount distinct liked sources that are queued or currently in use. Once a group has three or more, move to the next group needing sources. Do not discard a fourth source liked in the same batch. Merely finding or displaying sources does not meet the target. Finished sources stay in history but stop counting toward ready inventory, so a later rotation can replenish that pest. If every group is stocked, stop new research until a group needs more.\n\nThe decision was sources **1, 2, 4 and 5 liked, source 1 first**. Source 3 was not selected; that is not a rejection. Source 1 has an approved script and MP3 and remains reserved pending a finished MP4. Only final MP4 completion marks it used. Three other ant sources remain queued; next research is cockroaches. [Current start-to-MP3 flow](../mp3-system/README.md).\n\nNarration preference update: prioritize useful, less-obvious facts homeowners are unlikely to know. Favor Texas-relevant evidence. Findings from elsewhere can support shared biology when applicability is explained, but do not present a state-specific measurement as a Texas result or describe imported fire ants as native. Drew expressed uncertainty about out-of-state framing, not an absolute ban.\n\nUse Drew's source preferences to guide what you research and recommend. A source choice is a positive signal; unchosen options are not automatically disliked. A skipped batch is a weak signal with no known reason unless Drew stated one. Follow explicit comments most closely, with later corrections taking precedence. Keep a varied shortlist and preserve evidence standards. Hook/narration rejections are not source rejections. Prior summaries are taste context, not evidence for new facts.\n{\"source_preferences\": [{\"review_id\": \"review-1de6067a3afe\", \"stage\": \"sources\", \"action\": \"save_sources\", \"at\": \"2026-10-19T18:08:40+00:00\", \"feedback\": \"\", \"numbers\": [1, 2, 4, 5], \"first_number\": 1, \"sources\": [{\"url\": \"https://fireant.tamu.edu/manage/faq/\", \"title\": \"Fire Ant Frequently Asked Questions\", \"lesson\": \"A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.\", \"species\": \"Red imported fire ant (Solenopsis invicta)\", \"region\": \"Applicable to Central Texas yards where imported fire ants occur during hot, dry weather; this is statewide Extension guidance.\"}, {\"url\": \"https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf\", \"title\": \"Tawny Crazy Ants: A Texas-Size Problem\", \"lesson\": \"Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.\", \"species\": \"Tawny crazy ant (Nylanderia fulva)\", \"region\": \"Texas prevention guidance is relevant to Central Texas homeowners receiving landscaping materials, particularly materials originating in infested locations.\"}, {\"url\": \"https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop/\", \"title\": \"Cleaning insect poop off trees\", \"lesson\": \"Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.\", \"species\": \"Honeydew-feeding ants; aphids and scale insects\", \"region\": \"Applicable to Central Texas ornamental plants where ants and honeydew-producing insects occur together; the article explains a general biological relationship.\"}, {\"url\": \"https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013/\", \"title\": \"Identifying household ants\", \"lesson\": \"An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.\", \"species\": \"Common Texas household ants\", \"region\": \"The guide explicitly covers common Texas ants and is relevant to identification observations in Central Texas homes.\"}, {\"url\": \"https://fireant.tamu.edu/learn/biology/\", \"title\": \"Biology\", \"lesson\": \"Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.\", \"species\": \"Red imported fire ant (Solenopsis invicta)\", \"region\": \"Relevant to Central Texas properties where red imported fire ants occur. The page describes species biology rather than a local flight forecast.\"}]}], \"source_feedback\": []}",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "cards": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "publisher": {
+              "type": "string"
+            },
+            "date": {
+              "type": "string"
+            },
+            "lesson": {
+              "type": "string"
+            },
+            "species": {
+              "type": "string"
+            },
+            "region": {
+              "type": "string"
+            },
+            "limits": {
+              "type": "string"
+            },
+            "facts": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "statement": {
+                    "type": "string"
+                  },
+                  "quote": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "statement",
+                  "quote"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 1,
+              "maxItems": 4
+            }
+          },
+          "required": [
+            "url",
+            "title",
+            "publisher",
+            "date",
+            "lesson",
+            "species",
+            "region",
+            "limits",
+            "facts"
+          ],
+          "additionalProperties": false
+        },
+        "minItems": 0,
+        "maxItems": 10
+      }
+    },
+    "required": [
+      "cards"
+    ],
+    "additionalProperties": false
+  },
+  "reserved_publications": [
+    {
+      "source_id": "SRC-24f90957c9a9",
+      "urls": [
+        "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|how can i tell if i have fire ants",
+      "page_digest": "973ace8586c3a3d469a03d95c3d245fc97d8de1a4f4fd20f17551e3d0e4f55a2",
+      "lesson": "A fire-ant mound can lack a visible entrance because the ants travel through underground tunnels. Look at mound structure without disturbing it.",
+      "title": "How can I tell if I have fire ants?",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-10b6f9cb2c80",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|carpenter ants around homes",
+      "page_digest": "fa8b6123a8bb1632dc76047954730e64cba9e61a073952230fe482cff836dd14",
+      "lesson": "Carpenter ants use wood and cavities for shelter rather than eating wood. Texas species generally cause less damage than their northern counterparts.",
+      "title": "Carpenter ants around homes",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-6805c0a6aed7",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|swarming insects indoors",
+      "page_digest": "debce232d58b156b168d3b33190070ac8ae540f9cb4249a397de7dd6b1e09bd6",
+      "lesson": "Wings alone cannot distinguish flying ants from termites. Compare the waist, antennae and wing proportions.",
+      "title": "Swarming Insects Indoors",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-5454bc8d3db2",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|texas leaf cutting ant",
+      "page_digest": "be07077f1aa52bbe16f0617e0ab89dfae422d9b9b12f5d416d4464d09ff4c36b",
+      "lesson": "Leaf-cutting ants carry foliage underground to grow their food. In summer, nighttime observation can help explain disappearing garden leaves.",
+      "title": "Texas Leaf Cutting Ant",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-97a7baaf455d",
+      "urls": [
+        "https://npic.orst.edu/pest/ant.html"
+      ],
+      "publication_key": "national pesticide information center, oregon state university|ants",
+      "page_digest": "cbc8454b8ba9e2926952193ac4592dc6e5095e74fca19d316f5893a11d001fd7",
+      "lesson": "Cleaning an ant trail can remove its chemical guidance signal; vacuuming also removes the ants already present.",
+      "title": "Ants",
+      "checked_at": "2026-10-19T17:25:36+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-f231feb3699d",
+      "urls": [
+        "https://fireant.tamu.edu/manage/faq"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+      "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+      "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+      "title": "Fire Ant Frequently Asked Questions",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-1d0e24b2f14b",
+      "urls": [
+        "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf"
+      ],
+      "publication_key": "texas a&m agrilife extension service|tawny crazy ants a texas size problem",
+      "page_digest": "f896d9d998c18aeaa52d1fa497e6c95b1caa56c2ae940fd29a988294a45006d7",
+      "lesson": "Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.",
+      "title": "Tawny Crazy Ants: A Texas-Size Problem",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-be0d626096a9",
+      "urls": [
+        "https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|cleaning insect poop off trees",
+      "page_digest": "bcc8c77a8362ae19ea05aec5f651383553b96d9e2482e2e91d7be182c8924d2d",
+      "lesson": "Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.",
+      "title": "Cleaning insect poop off trees",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-093a88be2059",
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|identifying household ants",
+      "page_digest": "9248696ddde24bc89bab17555c2dc0641c39afdb8c8bded49a96965fa9389991",
+      "lesson": "An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.",
+      "title": "Identifying household ants",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-6042c20d9cb3",
+      "urls": [
+        "https://fireant.tamu.edu/learn/biology"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|biology",
+      "page_digest": "3936a5a8af8b3acf4489299be9612d87d6ad485dfee6c385f975fdff46a285e0",
+      "lesson": "Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.",
+      "title": "Biology",
+      "checked_at": "2026-10-19T17:41:48+00:00",
+      "run_id": "D6-2d2a1eb6b091"
+    },
+    {
+      "source_id": "SRC-f231feb3699d",
+      "urls": [
+        "https://fireant.tamu.edu/manage/faq"
+      ],
+      "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+      "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+      "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+      "title": "Fire Ant Frequently Asked Questions"
+    },
+    {
+      "source_id": "S1",
+      "urls": [
+        "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology"
+      ],
+      "publication_key": "mississippi state university extension|fire ant biology",
+      "page_digest": null,
+      "lesson": "",
+      "title": "Fire Ant Biology"
+    },
+    {
+      "source_id": "S2",
+      "urls": [
+        "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts"
+      ],
+      "publication_key": "mississippi state university extension|fire ant facts",
+      "page_digest": null,
+      "lesson": "",
+      "title": "Fire Ant Facts"
+    },
+    {
+      "source_id": "S3",
+      "urls": [
+        "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants"
+      ],
+      "publication_key": "texas a&m|how can i tell if i have fire ants",
+      "page_digest": null,
+      "lesson": "",
+      "title": "How can I tell if I have fire ants?"
+    },
+    {
+      "source_id": "S4",
+      "urls": [
+        "https://www.ars.usda.gov/research/publications/publication?seqNo115=139549"
+      ],
+      "publication_key": "usda ars / vogt and colleagues|effects of temperature and season on foraging activity of red imported fire ants in oklahoma 2003",
+      "page_digest": null,
+      "lesson": "",
+      "title": "Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003)"
+    },
+    {
+      "source_id": "S5",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603"
+      ],
+      "publication_key": "vogt, wallet and coy / journal of insect science|dynamic thermal structure of imported fire ant mounds 2008",
+      "page_digest": null,
+      "lesson": "",
+      "title": "Dynamic Thermal Structure of Imported Fire Ant Mounds (2008)"
+    }
+  ],
+  "limits": {
+    "searches": 4,
+    "pages": 20,
+    "seconds": 300,
+    "steps": 70,
+    "paid_fallback": false
+  },
+  "procedure": "01-content/mp3-system/crawler-flow.md",
+  "created_at": "2026-10-19T23:12:00+00:00"
+}

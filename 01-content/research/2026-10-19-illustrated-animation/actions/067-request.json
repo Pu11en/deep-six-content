@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 67,
+  "idempotency_key": "d6-67-f8cee93f27f8faab",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "HandDraw describes its core as whiteboard-animation rendering.",
+    "quote": "Agent-native, deterministic whiteboard-animation rendering."
+  }
+}

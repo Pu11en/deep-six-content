@@ -1,0 +1,24 @@
+{
+  "approved": true,
+  "approved_utc_recorded": "2026-10-20T02:40:53.248527+00:00",
+  "user_reply": "yes",
+  "approval_question": "May I spend up to $2 additional for the image corrections, animation and voice?",
+  "maximum_additional_usd": 2.0,
+  "initial_image_test_separate": true,
+  "scope": "Option 2 reusable outro draft for review; no publishing or fire-ant integration before finished-outro approval",
+  "limits": {
+    "image": {
+      "max_calls": 3,
+      "max_usd_per_call": 0.15
+    },
+    "video": {
+      "max_calls": 1,
+      "max_usd_per_call": 1.25
+    },
+    "voice": {
+      "max_calls": 2,
+      "max_usd_per_call": 0.05
+    }
+  },
+  "automatic_retries": false
+}

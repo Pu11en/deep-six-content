@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 45,
+  "idempotency_key": "research-359182d1022c-a46",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e11",
+    "assessment": "supported",
+    "reason": "The paragraph describes the wasp larva developing inside the cockroach egg case while consuming its eggs. The exact original nonbreaking space was preserved for literal anchoring. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

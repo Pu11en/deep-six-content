@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 51,
+  "idempotency_key": "d6-51-893b2ffb5eedbf2b",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e9",
+    "assessment": "supported",
+    "reason": "Quote found; supports the rule as stated. The same guide's scene lengths (3-8 s) are slower than the fast shorts measured locally."
+  }
+}

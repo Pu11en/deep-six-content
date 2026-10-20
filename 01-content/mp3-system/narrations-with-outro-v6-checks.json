@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-10-20T05:34:27+00:00",
+  "review_id": "review-e8af59c5fb1e",
+  "script_count": 5,
+  "liked_story_preserved_exactly": true,
+  "exact_hook_every_script": true,
+  "exact_outro_once_every_script": true,
+  "known_fact_ids_only": true,
+  "no_em_dashes": true,
+  "no_spoken_source_credits": true,
+  "human_approved": false,
+  "word_counts": [
+    143,
+    143,
+    138,
+    135,
+    136
+  ],
+  "script_sha256": [
+    "13a69bead26f7fb48209787f206cecb15b16a5bd96229a7e5eb2e05bba8a9052",
+    "539abb0cba8daade6d3d01d67b6246e78ed9f66c21cc6342e63c7e30fd9075be",
+    "82cccb251487b7aaafb35865ef010593f05d091e8255cb15290e091fd1e09844",
+    "0385fea686bdac683cf0f725f7183884c85dc166b1f69a2cdb293996a0563321",
+    "cdc419ceeeb9dbb1a52ff8181a1d77b1b3ae2b0cce29739d1efec9d025377230"
+  ],
+  "previous_archive_hashes_preserved": {
+    "BOARD.md": true,
+    "01-content/mp3-system/narrations-before-outro.json": true,
+    "01-content/mp3-system/narrations-with-outro-v4.json": true,
+    "01-content/mp3-system/narrations-with-outro-v5.json": true
+  },
+  "relevance_and_evidence": [
+    {
+      "option": 1,
+      "customer_use": "Recognize the adult and decide to leave this non-stinging, non-biting wasp alone.",
+      "facts": [
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4"
+      ],
+      "limit": "Quarter inch is approximately 6.35 mm, within the checked adult size range."
+    },
+    {
+      "option": 2,
+      "customer_use": "Check for cockroach activity and locate areas for closer inspection.",
+      "facts": [
+        "SUP-b8f992d02be3-F1",
+        "SUP-b8f992d02be3-F2",
+        "SUP-b8f992d02be3-F3"
+      ],
+      "limit": "Sighting is not presented as a diagnosis. Sticky traps monitor activity, not complete control. The original archived source explicitly defines the glue surface."
+    },
+    {
+      "option": 3,
+      "customer_use": "Include egg cases in an inspection of warm damp cracks and gaps.",
+      "facts": [
+        "SUP-139443c3574f-F1"
+      ],
+      "limit": "American cockroach biology stays species-specific. No claim that an exit hole diagnoses an infestation."
+    },
+    {
+      "option": 4,
+      "customer_use": "Check incoming belongings for roaches and egg cases and remove unneeded cardboard hiding places.",
+      "facts": [
+        "SUP-139443c3574f-F3"
+      ],
+      "limit": "No claim that this wasp commonly travels in luggage or that every egg case contains a wasp."
+    },
+    {
+      "option": 5,
+      "customer_use": "Leave the harmless wasp alone while addressing moisture and shelter available to roaches.",
+      "facts": [
+        "SRC-0fa91dcbc971-F3",
+        "SUP-139443c3574f-F4"
+      ],
+      "limit": "General indoor prevention guidance. No promise that wasps or repairs alone eliminate an infestation."
+    }
+  ],
+  "provenance": "Astra draft/edit calls followed by recorded session-assistant editing that preserved the exact liked story."
+}

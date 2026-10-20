@@ -1,0 +1,529 @@
+{
+  "current_cards": [
+    {
+      "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+      "title": "Flag waving for Americans",
+      "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+      "date": "2015-05-05",
+      "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+      "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+      "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur",
+      "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species. The accepted supporting evidence does not establish exact deposition locations, detailed pupation or emergence, or a household monitoring procedure. Keep those details out of this narration.",
+      "facts": [
+        {
+          "id": "SRC-0fa91dcbc971-F1",
+          "statement": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+          "quote": "slender ovipositor into the tough ootheca"
+        },
+        {
+          "id": "SRC-0fa91dcbc971-F2",
+          "statement": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case. An egg case successfully consumed in this way will not produce cockroaches.",
+          "quote": "dozen or more cockroach eggs"
+        },
+        {
+          "id": "SRC-0fa91dcbc971-F3",
+          "statement": "The ensign wasp described in this article does not sting or bite people.",
+          "quote": "does not sting or bite"
+        },
+        {
+          "id": "SRC-0fa91dcbc971-F4",
+          "statement": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+          "quote": "unique, stalked abdomen"
+        }
+      ],
+      "urls": [
+        "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+      "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0",
+      "source_id": "SRC-0fa91dcbc971",
+      "checked_at": "2026-10-20T00:07:30+00:00"
+    }
+  ],
+  "source_queue": [
+    {
+      "id": "SRC-f231feb3699d",
+      "source": {
+        "url": "https://fireant.tamu.edu/manage/faq/",
+        "title": "Fire Ant Frequently Asked Questions",
+        "publisher": "Texas A&M — Texas Imported Fire Ant Research and Management Project",
+        "date": "undated",
+        "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+        "species": "Red imported fire ant (Solenopsis invicta)",
+        "region": "Applicable to Central Texas yards where imported fire ants occur during hot, dry weather; this is statewide Extension guidance.",
+        "limits": "Use only the drought-behavior section. The page contains older treatment and distribution information that is not included here. Absence of visible activity cannot establish whether a particular yard contains ants. Supplemental biology references support this same chosen drought lesson, not new queued source choices. Explain mechanisms without invented desiccation physiology, exact nesting depths, universal temperature cutoffs, treatment prescriptions, or claims of certain survival. S4 is an Oklahoma study; S5 studied imported fire ants at Mississippi sites. Research-specific numbers must be attributed and qualified. Prefer explaining terms to adding jargon. Across the five scripts paraphrase each reference concisely; avoid repeating the same technical explanation five times.",
+        "facts": [
+          {
+            "statement": "In the drought FAQ, the source explains that heat-hardened, dry soil can stop colonies from making visible mounds.",
+            "quote": "the colonies are just not making mounds",
+            "id": "SRC-f231feb3699d-F1"
+          },
+          {
+            "statement": "During these conditions, colonies nest farther underground during daylight.",
+            "quote": "They are nesting deeper in the ground during the day",
+            "id": "SRC-f231feb3699d-F2"
+          },
+          {
+            "statement": "Workers forage during cooler portions of the day or at night.",
+            "quote": "during cooler parts of the day",
+            "id": "SRC-f231feb3699d-F3"
+          },
+          {
+            "id": "SRC-f231feb3699d-F4",
+            "statement": "Workers excavate a network of tunnels, placing excavated soil above ground. The mound can collect solar warmth and provide drier conditions; underground galleries provide cooler, moister conditions. Workers relocate developing brood within the nest to suitable conditions. During hot dry periods, brood and most colony members remain deeper underground.",
+            "quote": "moving brood to the area",
+            "reference_id": "S1",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology"
+          },
+          {
+            "id": "SRC-f231feb3699d-F5",
+            "statement": "Colonies tend to use higher parts of the nest in cold wet weather, keeping brood away from waterlogged soil and using solar heating; in hot dry weather they favor cooler, moister underground conditions. Eggs develop through larvae and pupae into adults. Young colonies may take several months to make a noticeable mound. Lawns with large visible mounds usually also contain younger colonies too small to produce visible mounds.",
+            "quote": "cool, moist conditions",
+            "reference_id": "S2",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts"
+          },
+          {
+            "id": "SRC-f231feb3699d-F6",
+            "statement": "Brood means developing eggs, larvae and pupae. Fire ant mounds normally lack a central opening; workers enter and leave through underground tunnels. Mounds can become conspicuous a few days after heavy rain. This does not establish that a particular mound is newly founded.",
+            "quote": "through underground tunnels",
+            "reference_id": "S3",
+            "evidence_url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/"
+          },
+          {
+            "id": "SRC-f231feb3699d-F7",
+            "statement": "In a southern Oklahoma field study published in 2003, researchers counted workers at food lures and compared several temperature measurements. Soil temperature at 15 cm (about 6 inches) was the best individual predictor of foraging, explaining 34 percent of variation. Air temperature measured 1 metre above ground was not a significant predictor in that study. Ground conditions are relevant to activity; do not claim soil temperature alone determines behavior or generalize Oklahoma numeric thresholds to Texas.",
+            "quote": "best individual predictor",
+            "reference_id": "S4",
+            "evidence_url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549"
+          },
+          {
+            "id": "SRC-f231feb3699d-F8",
+            "statement": "A 2008 field study at Mississippi sites used thermal imaging to measure imported-fire-ant mound surface temperatures. Near solar noon the difference between mounds and surroundings was about 2 to 10 degrees Celsius (roughly 4 to 18 degrees Fahrenheit). The study included red, black and hybrid imported fire ants. It measured surface temperatures, not a universal nest temperature or a drought survival rate. The paper reviews prior work showing nest temperature gradients and brood placement responding to temperature. Mound surface aspect and slope affected surface temperature, with the effect strongly influenced by time of day.",
+            "quote": "surface temperatures of mounds",
+            "reference_id": "S5",
+            "evidence_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/"
+          }
+        ],
+        "urls": [
+          "https://fireant.tamu.edu/manage/faq"
+        ],
+        "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+        "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+        "source_id": "SRC-f231feb3699d",
+        "checked_at": "2026-10-19T17:41:48+00:00",
+        "supporting_references": [
+          {
+            "id": "S1",
+            "title": "Fire Ant Biology",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S2",
+            "title": "Fire Ant Facts",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S3",
+            "title": "How can I tell if I have fire ants?",
+            "publisher": "Texas A&M",
+            "url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S4",
+            "title": "Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003)",
+            "publisher": "USDA ARS / Vogt and colleagues",
+            "url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S5",
+            "title": "Dynamic Thermal Structure of Imported Fire Ant Mounds (2008)",
+            "publisher": "Vogt, Wallet and Coy / Journal of Insect Science",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-text excerpt; direct open showed browser check"
+          }
+        ]
+      },
+      "pest": "ants",
+      "status": "awaiting_video",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-1d0e24b2f14b",
+      "source": {
+        "url": "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf",
+        "title": "Tawny Crazy Ants: A Texas-Size Problem",
+        "publisher": "Texas A&M AgriLife Extension Service",
+        "date": "2016-09",
+        "lesson": "Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.",
+        "species": "Tawny crazy ant (Nylanderia fulva)",
+        "region": "Texas prevention guidance is relevant to Central Texas homeowners receiving landscaping materials, particularly materials originating in infested locations.",
+        "limits": "Publication ENTO-060, distinct from the excluded Build a Bigger Buffer publication. Its county map and county count describe 2016, not current distribution. Inspection reduces introduction risk but does not guarantee materials are ant-free.",
+        "facts": [
+          {
+            "statement": "Page 2 attributes part of the ant's Texas spread to people transporting infested plants, building materials, mulch, yard debris and hay.",
+            "quote": "assisted by humans moving infested materials",
+            "id": "SRC-1d0e24b2f14b-F1"
+          },
+          {
+            "statement": "Page 1 recommends inspecting landscaping and building materials before transporting them to an uninfested location.",
+            "quote": "Inspect all landscaping and building materials before transporting them to any non-infested site.",
+            "id": "SRC-1d0e24b2f14b-F2"
+          }
+        ],
+        "urls": [
+          "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf"
+        ],
+        "publication_key": "texas a&m agrilife extension service|tawny crazy ants a texas size problem",
+        "page_digest": "f896d9d998c18aeaa52d1fa497e6c95b1caa56c2ae940fd29a988294a45006d7",
+        "source_id": "SRC-1d0e24b2f14b",
+        "checked_at": "2026-10-19T17:41:48+00:00"
+      },
+      "pest": "ants",
+      "status": "queued",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-093a88be2059",
+      "source": {
+        "url": "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013/",
+        "title": "Identifying household ants",
+        "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+        "date": "undated",
+        "lesson": "An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.",
+        "species": "Common Texas household ants",
+        "region": "The guide explicitly covers common Texas ants and is relevant to identification observations in Central Texas homes.",
+        "limits": "These observations provide clues, not a definitive identification. The page notes that equipment and experience may be needed. Exclude its collection instructions and previously used carpenter-ant, mound-entrance and ant-versus-termite lessons.",
+        "facts": [
+          {
+            "statement": "The Worker size section distinguishes species with uniformly sized workers from species whose workers vary in size.",
+            "quote": "all equal in size (monomorphic) or variable in size (polymorphic)",
+            "id": "SRC-093a88be2059-F1"
+          },
+          {
+            "statement": "The identification introduction recommends noting whether ants are active during daylight or at night.",
+            "quote": "take note of when the ants are active",
+            "id": "SRC-093a88be2059-F2"
+          },
+          {
+            "statement": "The Ant behavior section identifies running speed as another observational clue.",
+            "quote": "Notice how fast they run",
+            "id": "SRC-093a88be2059-F3"
+          }
+        ],
+        "urls": [
+          "https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|identifying household ants",
+        "page_digest": "9248696ddde24bc89bab17555c2dc0641c39afdb8c8bded49a96965fa9389991",
+        "source_id": "SRC-093a88be2059",
+        "checked_at": "2026-10-19T17:41:48+00:00"
+      },
+      "pest": "ants",
+      "status": "queued",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-6042c20d9cb3",
+      "source": {
+        "url": "https://fireant.tamu.edu/learn/biology/",
+        "title": "Biology",
+        "publisher": "Texas A&M — Texas Imported Fire Ant Research and Management Project",
+        "date": "undated",
+        "lesson": "Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.",
+        "species": "Red imported fire ant (Solenopsis invicta)",
+        "region": "Relevant to Central Texas properties where red imported fire ants occur. The page describes species biology rather than a local flight forecast.",
+        "limits": "Flight timing is typical, not guaranteed. This lesson concerns reproduction, not identifying ants versus termites. Do not infer that every flying insect or newly seen mound came from a particular flight.",
+        "facts": [
+          {
+            "statement": "The mating-flight paragraph says flights usually happen in the afternoon following a rainy period.",
+            "quote": "usually occurs in the afternoon soon after a rainy period",
+            "id": "SRC-6042c20d9cb3-F1"
+          },
+          {
+            "statement": "Spring and fall are the most common seasons for these flights.",
+            "quote": "Mating flights are most common in spring and fall.",
+            "id": "SRC-6042c20d9cb3-F2"
+          },
+          {
+            "statement": "After mating and landing, a fertilized queen sheds her wings and digs a chamber to establish a colony.",
+            "quote": "sheds her wings",
+            "id": "SRC-6042c20d9cb3-F3"
+          }
+        ],
+        "urls": [
+          "https://fireant.tamu.edu/learn/biology"
+        ],
+        "publication_key": "texas a&m — texas imported fire ant research and management project|biology",
+        "page_digest": "3936a5a8af8b3acf4489299be9612d87d6ad485dfee6c385f975fdff46a285e0",
+        "source_id": "SRC-6042c20d9cb3",
+        "checked_at": "2026-10-19T17:41:48+00:00"
+      },
+      "pest": "ants",
+      "status": "queued",
+      "saved_at": "2026-10-19T18:08:40+00:00",
+      "review_id": "review-1de6067a3afe"
+    },
+    {
+      "id": "SRC-0fa91dcbc971",
+      "source": {
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "title": "Flag waving for Americans",
+        "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+        "date": "2015-05-05",
+        "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+        "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+        "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur",
+        "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species. The accepted supporting evidence does not establish exact deposition locations, detailed pupation or emergence, or a household monitoring procedure. Keep those details out of this narration.",
+        "facts": [
+          {
+            "id": "SRC-0fa91dcbc971-F1",
+            "statement": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+            "quote": "slender ovipositor into the tough ootheca"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F2",
+            "statement": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case. An egg case successfully consumed in this way will not produce cockroaches.",
+            "quote": "dozen or more cockroach eggs"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F3",
+            "statement": "The ensign wasp described in this article does not sting or bite people.",
+            "quote": "does not sting or bite"
+          },
+          {
+            "id": "SRC-0fa91dcbc971-F4",
+            "statement": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+            "quote": "unique, stalked abdomen"
+          }
+        ],
+        "urls": [
+          "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+        "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0",
+        "source_id": "SRC-0fa91dcbc971",
+        "checked_at": "2026-10-20T00:07:30+00:00"
+      },
+      "pest": "cockroaches",
+      "status": "in_use",
+      "saved_at": "2026-10-19T23:27:32+00:00",
+      "review_id": "review-bd3cfdc8d391"
+    },
+    {
+      "id": "SRC-9c3cbed0ebf3",
+      "source": {
+        "url": "https://npic.orst.edu/faq/roach.html",
+        "title": "Why do I have roaches in my home?",
+        "publisher": "National Pesticide Information Center, Oregon State University",
+        "date": "undated",
+        "lesson": "Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.",
+        "species": "Household cockroaches; the article does not assign every entry route to one species",
+        "region": "General United States homeowner guidance; applicable entry routes are not a Central Texas prevalence estimate",
+        "limits": "This does not mean sanitation is unimportant or that a particular home's infestation came from a bag. Identify the species and inspect actual conditions before deciding the source. Exclude medical and pesticide-use sections from narration.",
+        "facts": [
+          {
+            "statement": "Finding cockroaches alone does not establish that a home is dirty.",
+            "quote": "Finding roaches is not a sign that your house is dirty.",
+            "id": "SRC-9c3cbed0ebf3-F1"
+          },
+          {
+            "statement": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+            "quote": "Hitching a ride on bags, backpacks, suitcases and other containers.",
+            "id": "SRC-9c3cbed0ebf3-F2"
+          }
+        ],
+        "urls": [
+          "https://npic.orst.edu/faq/roach.html"
+        ],
+        "publication_key": "national pesticide information center, oregon state university|why do i have roaches in my home",
+        "page_digest": "208c40b440c4b520f7ab68a9d49d1170b4d4fd278d038e88074a6569fc4a0e2b",
+        "source_id": "SRC-9c3cbed0ebf3",
+        "checked_at": "2026-10-19T23:22:54+00:00"
+      },
+      "pest": "cockroaches",
+      "status": "queued",
+      "saved_at": "2026-10-19T23:27:32+00:00",
+      "review_id": "review-bd3cfdc8d391"
+    },
+    {
+      "id": "SRC-6c5ad958f7d8",
+      "source": {
+        "url": "https://npic.orst.edu/pest/roach.html",
+        "title": "Cockroaches",
+        "publisher": "National Pesticide Information Center, Oregon State University",
+        "date": "undated",
+        "lesson": "Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.",
+        "species": "Household cockroaches; German and American cockroaches are discussed separately where their needs differ",
+        "region": "General United States guidance; no local infestation rates or Texas-specific measurements",
+        "limits": "The page states attraction to debris but does not explain the chemical mechanism or quantify the effect. Supporting science is needed for that depth. Traps monitor activity; this source does not establish that trapping or cleaning alone eliminates an infestation. Exclude medical and product-specific advice.",
+        "facts": [
+          {
+            "statement": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+            "quote": "Cockroaches are attracted to their own debris.",
+            "id": "SRC-6c5ad958f7d8-F1"
+          },
+          {
+            "statement": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+            "quote": "Monitor and assess cockroach activity using sticky traps or glue boards.",
+            "id": "SRC-6c5ad958f7d8-F2"
+          }
+        ],
+        "urls": [
+          "https://npic.orst.edu/pest/roach.html"
+        ],
+        "publication_key": "national pesticide information center, oregon state university|cockroaches",
+        "page_digest": "a3a6692517ad1686998b6fdb61bd65dfdc1c6de5106e3094b75b76f59abfed27",
+        "source_id": "SRC-6c5ad958f7d8",
+        "checked_at": "2026-10-19T23:22:54+00:00"
+      },
+      "pest": "cockroaches",
+      "status": "queued",
+      "saved_at": "2026-10-19T23:27:32+00:00",
+      "review_id": "review-bd3cfdc8d391"
+    }
+  ],
+  "approved": [
+    {
+      "id": "D6-6c917b49743b",
+      "text": "A fire ant colony doesn’t always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one.\n\nA colony has more going on than workers walking around outside. It also has a developing generation underground: eggs, larvae and pupae. Together, those stages are called brood. Eggs hatch into larvae, larvae become pupae, and adults eventually emerge.\n\nThose young ants are part of the reason nest conditions matter. During cold, wet weather, colonies tend to occupy higher parts of the nest, where they can take advantage of sunlight and keep brood away from waterlogged soil. During hot, dry weather, cooler, moister conditions below ground become useful instead.\n\nWorkers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season.\n\nSo the nest you see above ground doesn’t show you where the developing ants are being kept. The colony’s internal activity can continue out of sight while the surface looks quiet.\n\nFor a homeowner, that changes what a missing mound means. You’re losing a visible clue about the nest, not getting a direct measurement of the colony’s condition or its developing young.",
+      "hook": "A fire ant colony doesn’t always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one.",
+      "source": {
+        "url": "https://fireant.tamu.edu/manage/faq/",
+        "title": "Fire Ant Frequently Asked Questions",
+        "publisher": "Texas A&M — Texas Imported Fire Ant Research and Management Project",
+        "date": "undated",
+        "lesson": "A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.",
+        "species": "Red imported fire ant (Solenopsis invicta)",
+        "region": "Applicable to Central Texas yards where imported fire ants occur during hot, dry weather; this is statewide Extension guidance.",
+        "limits": "Use only the drought-behavior section. The page contains older treatment and distribution information that is not included here. Absence of visible activity cannot establish whether a particular yard contains ants. Supplemental biology references support this same chosen drought lesson, not new queued source choices. Explain mechanisms without invented desiccation physiology, exact nesting depths, universal temperature cutoffs, treatment prescriptions, or claims of certain survival. S4 is an Oklahoma study; S5 studied imported fire ants at Mississippi sites. Research-specific numbers must be attributed and qualified. Prefer explaining terms to adding jargon. Across the five scripts paraphrase each reference concisely; avoid repeating the same technical explanation five times.",
+        "facts": [
+          {
+            "statement": "In the drought FAQ, the source explains that heat-hardened, dry soil can stop colonies from making visible mounds.",
+            "quote": "the colonies are just not making mounds",
+            "id": "SRC-f231feb3699d-F1"
+          },
+          {
+            "statement": "During these conditions, colonies nest farther underground during daylight.",
+            "quote": "They are nesting deeper in the ground during the day",
+            "id": "SRC-f231feb3699d-F2"
+          },
+          {
+            "statement": "Workers forage during cooler portions of the day or at night.",
+            "quote": "during cooler parts of the day",
+            "id": "SRC-f231feb3699d-F3"
+          },
+          {
+            "id": "SRC-f231feb3699d-F4",
+            "statement": "Workers excavate a network of tunnels, placing excavated soil above ground. The mound can collect solar warmth and provide drier conditions; underground galleries provide cooler, moister conditions. Workers relocate developing brood within the nest to suitable conditions. During hot dry periods, brood and most colony members remain deeper underground.",
+            "quote": "moving brood to the area",
+            "reference_id": "S1",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology"
+          },
+          {
+            "id": "SRC-f231feb3699d-F5",
+            "statement": "Colonies tend to use higher parts of the nest in cold wet weather, keeping brood away from waterlogged soil and using solar heating; in hot dry weather they favor cooler, moister underground conditions. Eggs develop through larvae and pupae into adults. Young colonies may take several months to make a noticeable mound. Lawns with large visible mounds usually also contain younger colonies too small to produce visible mounds.",
+            "quote": "cool, moist conditions",
+            "reference_id": "S2",
+            "evidence_url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts"
+          },
+          {
+            "id": "SRC-f231feb3699d-F6",
+            "statement": "Brood means developing eggs, larvae and pupae. Fire ant mounds normally lack a central opening; workers enter and leave through underground tunnels. Mounds can become conspicuous a few days after heavy rain. This does not establish that a particular mound is newly founded.",
+            "quote": "through underground tunnels",
+            "reference_id": "S3",
+            "evidence_url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/"
+          },
+          {
+            "id": "SRC-f231feb3699d-F7",
+            "statement": "In a southern Oklahoma field study published in 2003, researchers counted workers at food lures and compared several temperature measurements. Soil temperature at 15 cm (about 6 inches) was the best individual predictor of foraging, explaining 34 percent of variation. Air temperature measured 1 metre above ground was not a significant predictor in that study. Ground conditions are relevant to activity; do not claim soil temperature alone determines behavior or generalize Oklahoma numeric thresholds to Texas.",
+            "quote": "best individual predictor",
+            "reference_id": "S4",
+            "evidence_url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549"
+          },
+          {
+            "id": "SRC-f231feb3699d-F8",
+            "statement": "A 2008 field study at Mississippi sites used thermal imaging to measure imported-fire-ant mound surface temperatures. Near solar noon the difference between mounds and surroundings was about 2 to 10 degrees Celsius (roughly 4 to 18 degrees Fahrenheit). The study included red, black and hybrid imported fire ants. It measured surface temperatures, not a universal nest temperature or a drought survival rate. The paper reviews prior work showing nest temperature gradients and brood placement responding to temperature. Mound surface aspect and slope affected surface temperature, with the effect strongly influenced by time of day.",
+            "quote": "surface temperatures of mounds",
+            "reference_id": "S5",
+            "evidence_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/"
+          }
+        ],
+        "urls": [
+          "https://fireant.tamu.edu/manage/faq"
+        ],
+        "publication_key": "texas a&m — texas imported fire ant research and management project|fire ant frequently asked questions",
+        "page_digest": "174edd3fe3a5910bba42aeeadc3331569440362c92bc7862c3b1e10910a1d507",
+        "source_id": "SRC-f231feb3699d",
+        "checked_at": "2026-10-19T17:41:48+00:00",
+        "supporting_references": [
+          {
+            "id": "S1",
+            "title": "Fire Ant Biology",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-biology",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S2",
+            "title": "Fire Ant Facts",
+            "publisher": "Mississippi State University Extension",
+            "url": "https://extension.msstate.edu/insects/fire-ants/fire-ant-facts",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-page excerpt; direct fetch unavailable"
+          },
+          {
+            "id": "S3",
+            "title": "How can I tell if I have fire ants?",
+            "publisher": "Texas A&M",
+            "url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S4",
+            "title": "Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003)",
+            "publisher": "USDA ARS / Vogt and colleagues",
+            "url": "https://www.ars.usda.gov/research/publications/publication/?seqNo115=139549",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web page opened"
+          },
+          {
+            "id": "S5",
+            "title": "Dynamic Thermal Structure of Imported Fire Ant Mounds (2008)",
+            "publisher": "Vogt, Wallet and Coy / Journal of Insect Science",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603/",
+            "checked_at": "2026-10-19T18:43:58+00:00",
+            "evidence_method": "web search full-text excerpt; direct open showed browser check"
+          }
+        ]
+      },
+      "supporting_sources": [],
+      "fact_ids": [
+        "SRC-f231feb3699d-F1",
+        "SRC-f231feb3699d-F4",
+        "SRC-f231feb3699d-F5",
+        "SRC-f231feb3699d-F6"
+      ],
+      "approved_at": "2026-10-19T19:20:44+00:00",
+      "model": "gpt-6-astra",
+      "prompt_version": "39c8dbcea05e"
+    }
+  ],
+  "next_source_id": "SRC-1d0e24b2f14b",
+  "board_sha256": "bbf8c0b1bb2d235b0c87a94620e90247fc5fbc0dcd36483eff1c678c96af116d"
+}

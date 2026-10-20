@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-10-9d311888f8673c24",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/LICENSE\"},\"expected_revision\":10}",
+  "revision": 11,
+  "outcome": "applied"
+}

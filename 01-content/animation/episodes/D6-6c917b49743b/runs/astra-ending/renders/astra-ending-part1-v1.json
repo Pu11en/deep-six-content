@@ -1,0 +1,39 @@
+{
+  "candidate": "astra-ending-part1-v1.mp4",
+  "revision": "v1",
+  "video_sha256": "db3a13314ecdf9f3823659dea21d3d879037a06c1e1bdfef5c44195d187b2c6c",
+  "approval_file": "astra-ending-part1-v1.review.json",
+  "created_with": {
+    "scene": "scenes/astra-ending-full.mjs",
+    "kit": "scenes/paper-kit.mjs",
+    "renderer": "render-shots.mjs",
+    "node": "v22.22.0"
+  },
+  "inputs": {
+    "config_sha256": "bfbf2564c4892f4fcc92ede68d8a429915ac2ff91158de98b07fa800fb992ab7",
+    "scene_sha256": "df1b928ea38a2ef68c8b4569cd2b1802fc9332d1bfd3f3e053b79ef26e4d1da2",
+    "kit_sha256": "b31ab29c5436b40bedccc877d5d8082dfcafa26888832a38018d3c4b60db6eed",
+    "timing_sha256": "990aa848e21ac694f2ef4c2683069df4be58f7ad545f3370ba561aa9f3a35742",
+    "shot_list_sha256": "9791d5a2f62c0250fab71de82763830aee18bcdfafdb9040db6c6a7e518279fc",
+    "approved_audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+    "approved_style_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060"
+  },
+  "checks": {
+    "width": 1080,
+    "height": 1920,
+    "aspect": "1080:1920",
+    "fps": "30/1",
+    "frames": 306,
+    "video_seconds": 10.2,
+    "audio_seconds": 10.2,
+    "container_seconds": 10.2,
+    "longest_still_seconds": 0,
+    "mean_motion": 3.327,
+    "picture_change_half_second_median": 0.191,
+    "render_seconds": 135.3
+  },
+  "contact_sheets": [
+    "astra-ending-part1-v1-beats-1.png",
+    "astra-ending-part1-v1-beats-2.png"
+  ]
+}

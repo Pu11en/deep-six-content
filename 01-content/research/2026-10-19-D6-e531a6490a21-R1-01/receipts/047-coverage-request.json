@@ -1,0 +1,24 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 46,
+  "idempotency_key": "research-359182d1022c-a47",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Five distinct eligible publications passed original-page checks: egg-case parasitism, entry into clean homes, debris attraction and monitoring, Turkestan sex differences, and protected hiding in an apartment fogger study."
+  }
+}

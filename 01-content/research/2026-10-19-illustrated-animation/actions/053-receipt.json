@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-53-873ed58a9bbe4e53",
+  "payload": "{\"action\":{\"claim\":\"Anidoodle lists esbuild, Playwright Core and TypeScript, with Remotion/React packages in optional dependencies.\",\"quote\":\"\\\"optionalDependencies\\\": {\",\"source_id\":\"s18\",\"tool\":\"evidence\"},\"expected_revision\":53}",
+  "revision": 54,
+  "outcome": "applied"
+}

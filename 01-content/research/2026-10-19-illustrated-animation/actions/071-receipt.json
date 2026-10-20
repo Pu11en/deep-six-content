@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-71-6e753e68e84982de",
+  "payload": "{\"action\":{\"claim\":\"The ant demo expects fonts under a Claude-specific folder and a macOS system-font path.\",\"quote\":\"const FD = process.env.FONT_DIR || path.join(process.env.HOME, \\\".claude/skills/tesseract-edit/assets/fonts\\\");\",\"source_id\":\"s9\",\"tool\":\"evidence\"},\"expected_revision\":71}",
+  "revision": 72,
+  "outcome": "applied"
+}

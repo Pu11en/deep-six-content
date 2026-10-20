@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 2,
+  "idempotency_key": "d6-2-9609636d233632e3",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/ToBeWin/HandDraw-Skill/main/README.md"
+  }
+}

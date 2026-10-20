@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 5,
+  "idempotency_key": "research-359182d1022c-a6",
+  "action": {
+    "tool": "search",
+    "query": "site:citybugs.tamu.edu cockroach Asian"
+  }
+}

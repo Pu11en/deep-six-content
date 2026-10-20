@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 25,
+  "idempotency_key": "d6-25-4fe3347de310c799",
+  "action": {
+    "tool": "read",
+    "url": "https://www.youtube.com/@kurzgesagt/shorts"
+  }
+}

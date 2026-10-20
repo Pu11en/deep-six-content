@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 3,
+  "idempotency_key": "research-359182d1022c-a4",
+  "action": {
+    "tool": "read",
+    "url": "https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/cockroach-biology-and-management-compressed.pdf"
+  }
+}

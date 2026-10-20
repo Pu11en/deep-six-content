@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 55,
+  "idempotency_key": "d6-55-77e4e35b723f8816",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e13",
+    "assessment": "supported",
+    "reason": "Quote found; supports what the list contains. The crawler snapshot was truncated before the Explainers section."
+  }
+}

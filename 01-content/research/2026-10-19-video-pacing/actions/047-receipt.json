@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-47-5104933a41ab9ac1",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e5\",\"reason\":\"Quote found; supports ByteCap's recommendation. Vendor blog; no dataset shown for the interval.\",\"tool\":\"check\"},\"expected_revision\":47}",
+  "revision": 48,
+  "outcome": "applied"
+}

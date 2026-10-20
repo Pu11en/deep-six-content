@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-55-77e4e35b723f8816",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e13\",\"reason\":\"Quote found; supports what the list contains. The crawler snapshot was truncated before the Explainers section.\",\"tool\":\"check\"},\"expected_revision\":55}",
+  "revision": 56,
+  "outcome": "applied"
+}

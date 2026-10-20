@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 26,
+  "idempotency_key": "research-359182d1022c-a27",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s6",
+    "claim": "Finding cockroaches alone does not establish that a home is dirty.",
+    "quote": "Finding roaches is not a sign that your house is dirty."
+  }
+}

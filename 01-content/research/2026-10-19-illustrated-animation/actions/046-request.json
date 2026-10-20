@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 46,
+  "idempotency_key": "d6-46-be0752a8e163f10f",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e7",
+    "assessment": "supported",
+    "reason": "The next sentence describes the underground entry tunnels. Do not reuse a different-ant demo central mound entrance."
+  }
+}

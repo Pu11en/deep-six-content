@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-21-17be2664a6b9c997",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://api.github.com/repos/alexgreensh/anidoodle/commits/main\"},\"expected_revision\":21}",
+  "revision": 22,
+  "outcome": "applied"
+}

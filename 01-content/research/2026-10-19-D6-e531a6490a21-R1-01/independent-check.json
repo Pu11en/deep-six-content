@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-19T23:21:03.944304+00:00",
+  "method": "Independent live original-page retrieval through d6_sources.validate_cards",
+  "accepted": 5,
+  "failures": [],
+  "sources": [
+    {
+      "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+      "final_urls": [
+        "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+      ],
+      "publication_key": "texas a&m agrilife extension service \u2014 insects in the city|flag waving for americans",
+      "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0"
+    },
+    {
+      "url": "https://npic.orst.edu/faq/roach.html",
+      "final_urls": [
+        "https://npic.orst.edu/faq/roach.html"
+      ],
+      "publication_key": "national pesticide information center, oregon state university|why do i have roaches in my home",
+      "page_digest": "208c40b440c4b520f7ab68a9d49d1170b4d4fd278d038e88074a6569fc4a0e2b"
+    },
+    {
+      "url": "https://npic.orst.edu/pest/roach.html",
+      "final_urls": [
+        "https://npic.orst.edu/pest/roach.html"
+      ],
+      "publication_key": "national pesticide information center, oregon state university|cockroaches",
+      "page_digest": "a3a6692517ad1686998b6fdb61bd65dfdc1c6de5106e3094b75b76f59abfed27"
+    },
+    {
+      "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+      "final_urls": [
+        "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas"
+      ],
+      "publication_key": "texas a&m agrilife extension service \u2014 insects in the city|the turkestan cockroach an emerging pest in texas",
+      "page_digest": "830110e0d7c8daa04149269717a49b6376e1d0ee3932565ee90cfc0a618bd86d"
+    },
+    {
+      "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+      "final_urls": [
+        "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb"
+      ],
+      "publication_key": "texas a&m agrilife extension service \u2014 insects in the city|bug bombs bomb",
+      "page_digest": "424ace022235d403c8eac42c279ebe087493531b5d64664a515bd295a514d150"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 22,
+  "idempotency_key": "research-488991e51202-a23",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "unanswered",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e5"
+    ],
+    "reason": "Egg placement with the ovipositor and larval feeding are verified. Pupation and the exact emergence route or timing were not verified in accepted evidence and will be omitted. The core why-question is answered by the larva gaining food inside the case."
+  }
+}

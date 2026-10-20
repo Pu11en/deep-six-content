@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 41,
+  "idempotency_key": "d6-41-81712e6fc2484efe",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "The colony module supplies cocoon artwork.",
+    "quote": "export function cocoon(ctx, s = 1)"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 68,
+  "idempotency_key": "d6-68-b07fe3059d8277e2",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e18",
+    "assessment": "supported",
+    "reason": "Complete short README read, including limited animation vocabulary and separate companion for colorful stories."
+  }
+}

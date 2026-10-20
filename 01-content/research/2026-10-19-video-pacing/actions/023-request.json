@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 23,
+  "idempotency_key": "d6-23-0b4617bf99749304",
+  "action": {
+    "tool": "read",
+    "url": "https://www.youtube.com/@zackdfilms/shorts"
+  }
+}

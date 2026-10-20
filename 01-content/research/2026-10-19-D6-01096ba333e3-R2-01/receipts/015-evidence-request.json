@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 14,
+  "idempotency_key": "research-488991e51202-a15",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Many insect parasitoids specialize on one or a few closely related host species.",
+    "quote": "often specialized on only one or a few closely related species of prey"
+  }
+}

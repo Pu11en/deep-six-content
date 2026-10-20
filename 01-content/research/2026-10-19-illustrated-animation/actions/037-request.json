@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 37,
+  "idempotency_key": "d6-37-910e7bb3b371259c",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s8",
+    "claim": "The ant renderer takes width, height, frame rate and duration from the film specification.",
+    "quote": "const W = F.W, H = F.H, fps = F.fps || 24, N = Math.round(F.dur * fps)"
+  }
+}

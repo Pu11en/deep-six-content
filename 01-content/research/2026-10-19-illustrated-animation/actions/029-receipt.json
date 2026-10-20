@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-29-abe270019f2783fe",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/example/README.md\"},\"expected_revision\":29}",
+  "revision": 30,
+  "outcome": "applied"
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e2",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e3",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e6",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e7",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e8",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e9",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e10",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e11",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4"
+    ],
+    "reason": "The UF profile describes egg insertion, larval jaws, pupation, exit and named hosts. Historical foreign control rates are excluded."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "addressed",
+    "evidence_ids": [
+      "e5",
+      "e6"
+    ],
+    "reason": "The species sections distinguish American egg-case deposition from German egg-case carrying. No host-access mechanism is inferred from this comparison."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Texas extension explains edge placement, suggested trap sites and monitoring purpose."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e5",
+      "e7",
+      "e8",
+      "e11"
+    ],
+    "reason": "General indoor inspection, transport, food, water, shelter and monitoring guidance is covered. No whole-home suppression claim is made; the UF source supplies no local guarantee."
+  },
+  {
+    "tool": "final",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "caveats": [
+      "The UC page failed with redirect_limit and contributes no imported evidence.",
+      "Minnesota species prevalence and winter management are excluded; only species biology and general indoor guidance are used.",
+      "No local whole-home suppression rate, release recommendation, infestation diagnosis from a wasp sighting, or German cockroach host claim is supported."
+    ]
+  }
+]

@@ -14,7 +14,7 @@ Flow: content -> social (YT/FB/IG/Reddit) -> geo-fenced ads near new subdivision
 
 ## Status
 
-- Step 1: researching useful homeowner lessons and cartoons animated with JavaScript/TypeScript. All Deep Six videos must be 9:16 with brand colors. Narration drafts deleted October 19. Designing two research feeds, five hook choices, five narration choices, and production; no cron or final animation tool configured. [Workflow, narration method, and step history](01-content/video-workflow.md).
+- Current task: establish [the complete start-to-approved-MP3 flow](01-content/mp3-system/README.md), including stage instructions and retry paths. Source, hook, original script and Tyler audio are approved. C’s illustration style remains selected; the motion preview was rejected. Video and the Deep Six outro are separate later sessions. Scheduling remains off.
 - Steps 2-4: waiting on step 1.
 - 16 Oct: workspace set up (live board, project CLAUDE.md, style spec, image script). First on-brand AI image made: scorpion Fun Fact Friday, $0.03, looks on-brand.
 - 16 Oct: AI video test ($0.48) made no sense to Drew; that direction dropped. Test videos, storyboards, video-prompting skill and AI video rules deleted on Drew's OK. Kept: brand image, style spec, code-drawn reaper, scorpion image, research notes, board + image tools. Video work continues in a separate session (Opus code video). No spending for now.

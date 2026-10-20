@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 56,
+  "idempotency_key": "d6-56-4f22e1183c4ca7a8",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e14",
+    "assessment": "supported",
+    "reason": "Quote found in the prompt file; supports the prompt wording only. It does not say how fast the finished video actually is."
+  }
+}

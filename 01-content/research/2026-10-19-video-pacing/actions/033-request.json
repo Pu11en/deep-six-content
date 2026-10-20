@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 33,
+  "idempotency_key": "d6-33-1d25fb5325d1c387",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "The same skill says each shot explains only one knowledge beat.",
+    "quote": "Each shot explains only one knowledge beat"
+  }
+}

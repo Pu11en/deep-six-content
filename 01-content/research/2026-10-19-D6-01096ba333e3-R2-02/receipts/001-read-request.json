@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 0,
+  "idempotency_key": "research-8a92111d8a9a-a1",
+  "action": {
+    "tool": "read",
+    "url": "https://ask.ifas.ufl.edu/publication/IN319"
+  }
+}

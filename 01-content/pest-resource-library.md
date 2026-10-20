@@ -1,6 +1,8 @@
 # Pest education resources
 
-**These supply the facts for homeowner lessons. Social videos supply opening and storytelling examples.** Checked October 19, 2026; reading a source here does not mean a new video has used it.
+**Find lessons a pest professional could explain to a customer.** Articles, blogs and educational creator videos may supply lessons when their actual content and evidence can be checked. Social posts can also reveal homeowner questions; popularity alone does not establish facts. Current automatic intake supports trusted public pages/PDFs. Other platforms await crawler access and quality checks; see the [research brief](research/research-brief.md).
+
+Liked sources are saved in the [source queue](source-queue.md). Original choices 1, 2, 4 and 5 are saved, with 1 first. Four ant sources meet the three-source inventory target; next research is cockroaches under the working rotation. Hooks and whiteboard updates are on hold.
 
 ## Start with ants
 

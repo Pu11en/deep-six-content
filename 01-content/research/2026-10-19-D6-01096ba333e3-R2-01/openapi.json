@@ -1,0 +1,1165 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Ultimate Crawler authenticated agent research",
+    "version": "0.1.0"
+  },
+  "paths": {
+    "/planning/sessions": {
+      "post": {
+        "summary": "Create Session",
+        "operationId": "create_session_planning_sessions_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateSession"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/planning/sessions/{session_id}": {
+      "get": {
+        "summary": "Get Session",
+        "operationId": "get_session_planning_sessions__session_id__get",
+        "parameters": [
+          {
+            "name": "session_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Session Id"
+            }
+          },
+          {
+            "name": "client_id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Client Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "patch": {
+        "summary": "Edit Session",
+        "operationId": "edit_session_planning_sessions__session_id__patch",
+        "parameters": [
+          {
+            "name": "session_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Session Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditSession"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/planning/sessions/{session_id}/approve": {
+      "post": {
+        "summary": "Approve Session",
+        "operationId": "approve_session_planning_sessions__session_id__approve_post",
+        "parameters": [
+          {
+            "name": "session_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Session Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ApproveSession"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/planning/sessions/{session_id}/guidance": {
+      "get": {
+        "summary": "Guidance",
+        "operationId": "guidance_planning_sessions__session_id__guidance_get",
+        "parameters": [
+          {
+            "name": "session_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Session Id"
+            }
+          },
+          {
+            "name": "client_id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Client Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/planning/sessions/{session_id}/start": {
+      "post": {
+        "summary": "Start Research",
+        "operationId": "start_research_planning_sessions__session_id__start_post",
+        "parameters": [
+          {
+            "name": "session_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Session Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/StartResearch"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/research/requests/{request_id}": {
+      "get": {
+        "summary": "Get Request",
+        "operationId": "get_request_research_requests__request_id__get",
+        "parameters": [
+          {
+            "name": "request_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Request Id"
+            }
+          },
+          {
+            "name": "client_id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Client Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/research/agent/capabilities": {
+      "get": {
+        "summary": "Capabilities",
+        "operationId": "capabilities_research_agent_capabilities_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/research/agent/requests/{request_id}": {
+      "post": {
+        "summary": "Open Job",
+        "operationId": "open_job_research_agent_requests__request_id__post",
+        "parameters": [
+          {
+            "name": "request_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Request Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OpenJob"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/research/agent/jobs/{job_id}": {
+      "get": {
+        "summary": "Get Job",
+        "operationId": "get_job_research_agent_jobs__job_id__get",
+        "parameters": [
+          {
+            "name": "job_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Job Id"
+            }
+          },
+          {
+            "name": "client_id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Client Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/research/agent/jobs/{job_id}/actions": {
+      "post": {
+        "summary": "Submit",
+        "operationId": "submit_research_agent_jobs__job_id__actions_post",
+        "parameters": [
+          {
+            "name": "job_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Job Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Submit"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "summary": "Health",
+        "operationId": "health_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ApproveSession": {
+        "properties": {
+          "client_id": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Client Id"
+          },
+          "expected_revision": {
+            "type": "integer",
+            "minimum": 1.0,
+            "title": "Expected Revision"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "client_id",
+          "expected_revision"
+        ],
+        "title": "ApproveSession"
+      },
+      "Brief": {
+        "properties": {
+          "goal": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 8000,
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Goal"
+          },
+          "questions": {
+            "items": {
+              "type": "string",
+              "maxLength": 2000,
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "type": "array",
+            "maxItems": 50,
+            "title": "Questions"
+          },
+          "output": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 2000,
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Output"
+          },
+          "scope_constraints": {
+            "items": {
+              "type": "string",
+              "maxLength": 2000,
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "type": "array",
+            "maxItems": 50,
+            "title": "Scope Constraints"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "title": "Brief"
+      },
+      "Check": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "check",
+            "title": "Tool"
+          },
+          "evidence_id": {
+            "type": "string",
+            "maxLength": 64,
+            "minLength": 1,
+            "title": "Evidence Id"
+          },
+          "assessment": {
+            "type": "string",
+            "enum": [
+              "supported",
+              "contradicted",
+              "insufficient"
+            ],
+            "title": "Assessment"
+          },
+          "reason": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Reason"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "evidence_id",
+          "assessment",
+          "reason"
+        ],
+        "title": "Check"
+      },
+      "Coverage": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "coverage",
+            "title": "Tool"
+          },
+          "question_id": {
+            "type": "string",
+            "maxLength": 32,
+            "minLength": 1,
+            "title": "Question Id"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "addressed",
+              "unanswered",
+              "blocked"
+            ],
+            "title": "Status"
+          },
+          "evidence_ids": {
+            "items": {
+              "type": "string",
+              "maxLength": 64,
+              "minLength": 1
+            },
+            "type": "array",
+            "maxItems": 50,
+            "title": "Evidence Ids"
+          },
+          "reason": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Reason"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "question_id",
+          "status",
+          "reason"
+        ],
+        "title": "Coverage"
+      },
+      "CreateSession": {
+        "properties": {
+          "budget": {
+            "$ref": "#/components/schemas/ExecutionBudget"
+          },
+          "client_id": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Client Id"
+          },
+          "original_goal": {
+            "type": "string",
+            "maxLength": 8000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "title": "Original Goal"
+          },
+          "brief": {
+            "$ref": "#/components/schemas/Brief"
+          },
+          "notes": {
+            "items": {
+              "$ref": "#/components/schemas/crawler__planning__Note"
+            },
+            "type": "array",
+            "maxItems": 200,
+            "title": "Notes"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "client_id",
+          "original_goal"
+        ],
+        "title": "CreateSession"
+      },
+      "EditSession": {
+        "properties": {
+          "budget": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ExecutionBudget"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "client_id": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Client Id"
+          },
+          "expected_revision": {
+            "type": "integer",
+            "minimum": 1.0,
+            "title": "Expected Revision"
+          },
+          "brief": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Brief"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "note": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/crawler__planning__Note"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "client_id",
+          "expected_revision"
+        ],
+        "title": "EditSession"
+      },
+      "Evidence": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "evidence",
+            "title": "Tool"
+          },
+          "source_id": {
+            "type": "string",
+            "maxLength": 64,
+            "minLength": 1,
+            "title": "Source Id"
+          },
+          "claim": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Claim"
+          },
+          "quote": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Quote"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "source_id",
+          "claim",
+          "quote"
+        ],
+        "title": "Evidence"
+      },
+      "ExecutionBudget": {
+        "properties": {
+          "calls": {
+            "type": "integer",
+            "maximum": 30.0,
+            "minimum": 1.0,
+            "title": "Calls",
+            "default": 8
+          },
+          "pages": {
+            "type": "integer",
+            "maximum": 30.0,
+            "minimum": 1.0,
+            "title": "Pages",
+            "default": 6
+          },
+          "searches": {
+            "type": "integer",
+            "maximum": 20.0,
+            "minimum": 0.0,
+            "title": "Searches",
+            "default": 4
+          },
+          "seconds": {
+            "type": "integer",
+            "maximum": 900.0,
+            "minimum": 1.0,
+            "title": "Seconds",
+            "default": 180
+          },
+          "steps": {
+            "type": "integer",
+            "maximum": 80.0,
+            "minimum": 1.0,
+            "title": "Steps",
+            "default": 20
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "title": "ExecutionBudget"
+      },
+      "Final": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "final",
+            "title": "Tool"
+          },
+          "evidence_ids": {
+            "items": {
+              "type": "string",
+              "maxLength": 64,
+              "minLength": 1
+            },
+            "type": "array",
+            "maxItems": 50,
+            "title": "Evidence Ids"
+          },
+          "caveats": {
+            "items": {
+              "type": "string",
+              "maxLength": 4000,
+              "minLength": 1
+            },
+            "type": "array",
+            "maxItems": 20,
+            "title": "Caveats"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "evidence_ids"
+        ],
+        "title": "Final"
+      },
+      "Gap": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "gap",
+            "title": "Tool"
+          },
+          "questions": {
+            "items": {
+              "type": "string",
+              "maxLength": 4000,
+              "minLength": 1
+            },
+            "type": "array",
+            "maxItems": 20,
+            "title": "Questions"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "questions"
+        ],
+        "title": "Gap"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "OpenJob": {
+        "properties": {
+          "client_id": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Client Id"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "client_id"
+        ],
+        "title": "OpenJob"
+      },
+      "Read": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "read",
+            "title": "Tool"
+          },
+          "url": {
+            "type": "string",
+            "maxLength": 4096,
+            "minLength": 1,
+            "title": "Url"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "url"
+        ],
+        "title": "Read"
+      },
+      "Search": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "search",
+            "title": "Tool"
+          },
+          "query": {
+            "type": "string",
+            "maxLength": 300,
+            "minLength": 1,
+            "title": "Query"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "query"
+        ],
+        "title": "Search"
+      },
+      "StartResearch": {
+        "properties": {
+          "client_id": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Client Id"
+          },
+          "expected_revision": {
+            "type": "integer",
+            "minimum": 1.0,
+            "title": "Expected Revision"
+          },
+          "idempotency_key": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Idempotency Key"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "client_id",
+          "expected_revision",
+          "idempotency_key"
+        ],
+        "title": "StartResearch"
+      },
+      "Submit": {
+        "properties": {
+          "client_id": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Client Id"
+          },
+          "idempotency_key": {
+            "type": "string",
+            "maxLength": 128,
+            "minLength": 1,
+            "pattern": "^[A-Za-z0-9_.:-]+$",
+            "title": "Idempotency Key"
+          },
+          "expected_revision": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Expected Revision"
+          },
+          "action": {
+            "oneOf": [
+              {
+                "$ref": "#/components/schemas/Search"
+              },
+              {
+                "$ref": "#/components/schemas/Read"
+              },
+              {
+                "$ref": "#/components/schemas/crawler__research__Note"
+              },
+              {
+                "$ref": "#/components/schemas/Gap"
+              },
+              {
+                "$ref": "#/components/schemas/Evidence"
+              },
+              {
+                "$ref": "#/components/schemas/Check"
+              },
+              {
+                "$ref": "#/components/schemas/Coverage"
+              },
+              {
+                "$ref": "#/components/schemas/Final"
+              }
+            ],
+            "title": "Action",
+            "discriminator": {
+              "propertyName": "tool",
+              "mapping": {
+                "check": "#/components/schemas/Check",
+                "coverage": "#/components/schemas/Coverage",
+                "evidence": "#/components/schemas/Evidence",
+                "final": "#/components/schemas/Final",
+                "gap": "#/components/schemas/Gap",
+                "note": "#/components/schemas/crawler__research__Note",
+                "read": "#/components/schemas/Read",
+                "search": "#/components/schemas/Search"
+              }
+            }
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "client_id",
+          "idempotency_key",
+          "expected_revision",
+          "action"
+        ],
+        "title": "Submit"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      },
+      "crawler__planning__Note": {
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": [
+              "user",
+              "agent"
+            ],
+            "title": "Role"
+          },
+          "content": {
+            "type": "string",
+            "maxLength": 8000,
+            "minLength": 1,
+            "pattern": "\\S",
+            "title": "Content"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "role",
+          "content"
+        ],
+        "title": "Note"
+      },
+      "crawler__research__Note": {
+        "properties": {
+          "tool": {
+            "type": "string",
+            "const": "note",
+            "title": "Tool"
+          },
+          "text": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Text"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "tool",
+          "text"
+        ],
+        "title": "Note"
+      }
+    }
+  }
+}

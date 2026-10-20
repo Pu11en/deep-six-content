@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 42,
+  "idempotency_key": "research-359182d1022c-a43",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e8",
+    "assessment": "supported",
+    "reason": "The immediately preceding sentences identify adult female Turkestan cockroaches; the quoted comparison refers to them, not nymphs. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

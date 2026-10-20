@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-35-e53432b02cc6415c",
+  "payload": "{\"action\":{\"claim\":\"The iart-ai explainer skill derives scene length from the voice-over line (words divided by 2.3 words per second, plus breathing room).\",\"quote\":\"seconds = words / 2.3\",\"source_id\":\"s7\",\"tool\":\"evidence\"},\"expected_revision\":35}",
+  "revision": 36,
+  "outcome": "applied"
+}

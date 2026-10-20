@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+    "final_url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+    "readable": true,
+    "quotes_found": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "characters": 9534
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+    "readable": true,
+    "quotes_found": [
+      true
+    ],
+    "characters": 93998
+  },
+  {
+    "url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/",
+    "final_url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/",
+    "readable": true,
+    "quotes_found": [
+      true
+    ],
+    "characters": 12605
+  }
+]

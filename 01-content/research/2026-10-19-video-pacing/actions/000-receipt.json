@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-0-357c4f519ef5a5e2",
+  "payload": "{\"action\":{\"query\":\"fast-paced animated science explainer YouTube Shorts where the visual changes with every narrated phrase (Zack D. Films, Kurzgesagt Shorts, TED-Ed, MinuteEarth, SciShow Shorts)\",\"tool\":\"search\"},\"expected_revision\":0}",
+  "revision": 1,
+  "outcome": "applied"
+}

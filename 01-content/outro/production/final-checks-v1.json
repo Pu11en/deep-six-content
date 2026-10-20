@@ -1,0 +1,179 @@
+{
+  "checked_utc": "2026-10-20T02:50:09.958944+00:00",
+  "originals": {
+    "01-content/brand/fun-fact-friday-spider.png": {
+      "sha256": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708",
+      "bytes": 1690697,
+      "matches_initial_baseline": true
+    },
+    "01-content/brand/style-spec.md": {
+      "sha256": "ff07cf364b0bf50bc33d25f5eddba8fb6475bb13c4bfb41b912cd0fe63310900",
+      "bytes": 1939,
+      "matches_initial_baseline": true
+    },
+    "01-content/brand/code-mascot/reaper.svg": {
+      "sha256": "89ef8fe43530313efaeb4bb591461e3022d49c0787ba303fa5b98d1b3ebd1714",
+      "bytes": 6615,
+      "matches_initial_baseline": true
+    },
+    "01-content/brand/code-mascot/compare.png": {
+      "sha256": "910b84cab0a9a46e63b02bd463aa85f8e4d3f9104106ff54900b40fa2763ec34",
+      "bytes": 800545,
+      "matches_initial_baseline": true
+    },
+    "01-content/animation/brand.json": {
+      "sha256": "9630b58d2a2a34c36121cf7e3c5e1c4d37ac5451723c36de73edb968e203e32b",
+      "bytes": 786,
+      "matches_initial_baseline": true
+    },
+    "01-content/animation/NEXT-SESSION.md": {
+      "sha256": "b0f2bcd6eaf0a9ae2c8d2fae03b9cdacb418de5ee8fc63d7da289381bf50c5e8",
+      "bytes": 3182,
+      "matches_initial_baseline": false,
+      "observation": "Changed externally earlier in the session. This outro session did not edit it."
+    },
+    "01-content/mp3-system/OUTRO-PAUSE.md": {
+      "sha256": "d9b9cd49de08d8d2d8941398534345d8e1e28b95c9752c3c4da453f9628891c7",
+      "bytes": 1739,
+      "matches_initial_baseline": true
+    },
+    "01-content/mp3-system/narrations-before-outro.json": {
+      "sha256": "e8f48019c11a554f74726ccdb1f9d5a71a0dd75c923bc4f80fd4cd52bf923f3d",
+      "bytes": 15326,
+      "matches_initial_baseline": true
+    },
+    "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4": {
+      "sha256": "c7ff2561764537bf68eef8b57a62ac3c5399e382f90baeec183e4620c825aa06",
+      "bytes": 67496747,
+      "matches_initial_baseline": true
+    },
+    "01-content/outro/START-SESSION.md": {
+      "sha256": "fc9c08d6d55908e9df1c8125d499e68c1538744afc8aee2b2c462602ea0aebac",
+      "bytes": 3042,
+      "matches_initial_baseline": true
+    },
+    "01-content/outro/session-launch.json": {
+      "sha256": "b6df4feed2e1cd0b5c469d9ab21132fb6952336d47373dd2f3e0d944462f8b44",
+      "bytes": 494,
+      "matches_initial_baseline": true
+    }
+  },
+  "media": {
+    "outro-master-v1.mp4": {
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "30/1",
+            "duration": "4.500000",
+            "nb_frames": "135"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "r_frame_rate": "0/0",
+            "duration": "4.500000",
+            "nb_frames": "212"
+          }
+        ],
+        "format": {
+          "duration": "4.500000",
+          "size": "684135"
+        }
+      },
+      "sha256": "6da304ed889dc6433356da19c565cd440771d03118219dcfacef06935eaf2582",
+      "verified_expected_duration_and_frames": true
+    },
+    "outro-review-v1.mp4": {
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "30/1",
+            "duration": "5.000000",
+            "nb_frames": "150"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "r_frame_rate": "0/0",
+            "duration": "5.000000",
+            "nb_frames": "236"
+          }
+        ],
+        "format": {
+          "duration": "5.000000",
+          "size": "681698"
+        }
+      },
+      "sha256": "0a01da4965a236ea9243f17bff9c3855950f0c8b28329968ea115aa645d16eab",
+      "verified_expected_duration_and_frames": true
+    }
+  },
+  "wav": {
+    "sample_rate": 48000,
+    "duration": 4.5,
+    "clipped_samples": 0,
+    "peak_dbfs": -2.2410969591441794,
+    "sha256": "952c80b6804dda6b917cafec7642c75e0a2714cd4da5e2901e05d6d76523d84e"
+  },
+  "additional_budget_usd": 2,
+  "additional_estimated_usd": 1.13607,
+  "prior_test_estimated_usd": 0.058155,
+  "total_estimated_usd": 1.194225,
+  "not_invoice_confirmed": true,
+  "generation_calls_this_phase": {
+    "image": 2,
+    "video": 1,
+    "voice": 1
+  },
+  "finished_outro_approved": false,
+  "fire_ant_join_started": false,
+  "visual_review": {
+    "identity": "Real source-ad mascot is recognizable; original black eyes, triangular nose, correct props and badge orientation retained in used frames.",
+    "source_rejected_frames": "Frames after 31 excluded. Full raw clip adds blinking and white pupils.",
+    "finished_motion": "Very subtle acknowledgement assembled from clean AI footage and its reverse. No large nod or mouth animation.",
+    "frame_contact_sheet": "01-content/outro/production/finished-motion-check-v1.png",
+    "first_frame": "01-content/outro/production/final-first-frame-v1.png",
+    "logo": "Original website logo overlaid unchanged; low-resolution 172x100 source enlarged locally.",
+    "all_words_visible": true,
+    "master_final_hold_is_static": true
+  },
+  "audio_review": {
+    "method": "Two independent offline recognizers plus waveform/silence and loudness checks. Not a human listening approval.",
+    "transcripts": [
+      "Helping you understand pests, Deep6 Pest Control.",
+      "Helping you understand pests? Deep6 Pest Control."
+    ],
+    "normalization_note": "Both recognize Deep Six as Deep6. Punctuation is inferred by recognizers; no extra or missing spoken words detected.",
+    "natural_recording_speed_preserved": true,
+    "review_audible_start_seconds_approx": 0.5524,
+    "review_first_sentence_end_seconds_approx": 2.1821,
+    "review_second_sentence_start_seconds_approx": 2.615,
+    "review_audible_end_seconds_approx": 3.9035,
+    "final_quiet_hold_seconds_approx": 1.0965,
+    "review_integrated_lufs": -17.7,
+    "review_true_peak_dbfs": -2.3,
+    "decode_errors": 0
+  },
+  "desktop_review_copy": {
+    "path": "/mnt/c/Users/drewp/Desktop/Deep Six - Reusable Outro v1.mp4",
+    "sha256": "0a01da4965a236ea9243f17bff9c3855950f0c8b28329968ea115aa645d16eab",
+    "matches_project_review": true,
+    "opened": false
+  }
+}

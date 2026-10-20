@@ -1,0 +1,144 @@
+[
+  {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "The surrounding paragraph identifies the female ensign wasp, insertion into the cockroach ootheca, and laying a single egg. Scope remains the named host relationship. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e2",
+    "assessment": "supported",
+    "reason": "The article explicitly says this ensign wasp does not sting or bite. This statement is not extended to other wasps. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e3",
+    "assessment": "supported",
+    "reason": "The FAQ directly rejects cleanliness as a conclusion from finding roaches. Later prevention advice preserves the value of sanitation. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "This is one explicitly listed route into homes, not a diagnosis of how a particular infestation began. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "The control tips immediately pair dead cockroaches, eggs and feces with attraction to their debris. Chemical mechanisms and effect sizes remain unestablished here. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e6",
+    "assessment": "supported",
+    "reason": "The following sentence says these monitors can identify problem areas. The claim is monitoring, not proven complete control. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e7",
+    "assessment": "supported",
+    "reason": "The paragraph explicitly identifies adult males before the quoted color, shape and wing description. No current Central Texas distribution is inferred. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e8",
+    "assessment": "supported",
+    "reason": "The immediately preceding sentences identify adult female Turkestan cockroaches; the quoted comparison refers to them, not nymphs. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e9",
+    "assessment": "supported",
+    "reason": "The full paragraph specifies fogger-treated apartments, free-roaming cockroach counts and two-to-four-week follow-up; the study population is German cockroaches. No universal treatment claim is made. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e10",
+    "assessment": "supported",
+    "reason": "The sentence explicitly describes retreat into protected cracks in response to irritating insecticide. The article separately discusses resistance, so hiding is not asserted as the sole experimental cause. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e11",
+    "assessment": "supported",
+    "reason": "The paragraph describes the wasp larva developing inside the cockroach egg case while consuming its eggs. The exact original nonbreaking space was preserved for literal anchoring. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Five distinct eligible publications passed original-page checks: egg-case parasitism, entry into clean homes, debris attraction and monitoring, Turkestan sex differences, and protected hiding in an apartment fogger study."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Each result card describes a separate homeowner lesson supported by its main article. Supporting science follows human source and hook choices; no hooks or scripts have been generated."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Eleven anchored facts use 18 to 22 quoted words per publication. Cards retain species, dates or undated status, geography, study limits and unresolved mechanisms. No selected crawler snapshot is truncated."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Original-page validator rejected no selected cards and found no reserved publication matches. Excluded duplicate PDF editions, unsupported PDF retrieval, document shells, thin pages and out-of-scope treatment material. Four accidentally followed sharing links provide no evidence; the local read dispatcher now restricts publisher domains."
+  }
+]

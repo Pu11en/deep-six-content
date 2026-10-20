@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 69,
+  "idempotency_key": "d6-69-3744c7461bcf3e32",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s23",
+    "claim": "Anidoodle publishes a renderer that opens a Playwright adapter and encodes frames with FFmpeg.",
+    "quote": "const t0 = Date.now(), session = await playwright.open(env, page.out, { scale, workers })"
+  }
+}

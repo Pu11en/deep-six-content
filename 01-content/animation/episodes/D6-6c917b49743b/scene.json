@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "fire-ant-brood",
+  "revision": "v2",
+  "width": 1080,
+  "height": 1920,
+  "seed": 20261019,
+  "frame_time_seconds": 4.5,
+  "labels": {
+    "eyebrow": "DEEP SIX  /  FIRE ANT FIELD NOTES",
+    "title": "The nursery moves.",
+    "footer": "Workers carry their young as nest conditions change.",
+    "illustrationNote": "Illustrative cutaway \u00b7 not to scale"
+  },
+  "approved_audio": {
+    "manifest": "../audio/D6-6c917b49743b/full-original-tyler-01/comparison.json",
+    "sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33"
+  },
+  "narration_excerpt": "Workers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season.",
+  "audio_excerpt_start_seconds": null,
+  "audio_excerpt_end_seconds": null,
+  "brand_profile": "brand.json"
+}

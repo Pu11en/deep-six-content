@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-48-2f9e1287827838cb",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e8\",\"reason\":\"Declaration directly read. Snapshot is truncated; the complete film was not audited. New vertical layout and narration timing are needed.\",\"tool\":\"check\"},\"expected_revision\":48}",
+  "revision": 49,
+  "outcome": "applied"
+}

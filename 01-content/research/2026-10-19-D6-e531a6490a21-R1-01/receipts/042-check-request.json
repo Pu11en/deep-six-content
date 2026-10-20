@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 41,
+  "idempotency_key": "research-359182d1022c-a42",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e7",
+    "assessment": "supported",
+    "reason": "The paragraph explicitly identifies adult males before the quoted color, shape and wing description. No current Central Texas distribution is inferred. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

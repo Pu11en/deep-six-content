@@ -1,0 +1,68 @@
+{
+  "id": "96cf266f-dae0-4e55-978d-81f84ea907aa",
+  "client_id": "imac-research",
+  "original_goal": "Explain the biology behind the selected ensign wasp hook for Deep Six run D6-01096ba333e3",
+  "revision": 1,
+  "approved_revision": null,
+  "created_at": 1792454358.778667,
+  "updated_at": 1792454358.778667,
+  "brief": {
+    "goal": "Find up to four checked supporting publications for the exact chosen hook: Why would a wasp lay its egg inside a cockroach’s egg case?",
+    "output": "Checked supporting source cards with title, publisher, date, lesson, species, region, limits and 1-4 facts per card, each with a short exact quote. Maximum 25 quoted words total per publication. Identify unresolved necessary gaps. No scripts or replacement hooks.",
+    "questions": [
+      "What is a cockroach egg case, what does it enclose, and where do American cockroaches deposit it around buildings? Establish the setting without generalizing to every cockroach species.",
+      "How does Evania appendigaster place its egg inside the case, and what documented sequence follows through larval feeding, pupation and adult emergence? Clarify the fate of the cockroach eggs without assuming every attack succeeds.",
+      "Which visible features help explain what an ensign wasp is and distinguish the adult from its developing larva? Verify the characteristic body shape and movements before describing them.",
+      "Which cockroach species are documented hosts, and what evidence establishes relevance to Texas homes? Keep general biology separate from any location-specific measurements.",
+      "What can a homeowner reasonably infer from finding an adult ensign wasp indoors, and what observations would help assess cockroach activity? Establish why a sighting alone cannot locate an egg case, confirm an active infestation or demonstrate complete control."
+    ],
+    "scope_constraints": [
+      "Use primary research or university extension pages on these domains: citybugs.tamu.edu, fireant.tamu.edu, extensionentomology.tamu.edu, agrilifeextension.tamu.edu, npic.orst.edu, epa.gov, ars.usda.gov, extension.msstate.edu, pmc.ncbi.nlm.nih.gov, academic.oup.com, extension.okstate.edu, fireants.tennessee.edu",
+      "Use public search and original readable pages; no snippets as evidence, paid fallback, model calls, cookies, new logins or browser.",
+      "Keep the exact selected hook and one coherent lesson. Explain species names in plain speech. No em dashes in authored prose.",
+      "Limit conclusions to documented species and evidence. Do not infer active infestation, location of an egg case or complete pest control from one adult wasp sighting.",
+      "No pesticide prescriptions, dosing, medical advice or invented behavior.",
+      "Main publication already checked: https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/ . Read for context; do not return it as new supporting evidence.",
+      "Research only relevant gaps. State limits where no local measurement exists. Stop after enough evidence for the lesson.",
+      "Reserved publication: How can I tell if I have fire ants? | ['https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants']",
+      "Reserved publication: Carpenter ants around homes | ['https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001']",
+      "Reserved publication: Swarming Insects Indoors | ['https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012']",
+      "Reserved publication: Texas Leaf Cutting Ant | ['https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002']",
+      "Reserved publication: Ants | ['https://npic.orst.edu/pest/ant.html']",
+      "Reserved publication: Fire Ant Frequently Asked Questions | ['https://fireant.tamu.edu/manage/faq']",
+      "Reserved publication: Tawny Crazy Ants: A Texas-Size Problem | ['https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf']",
+      "Reserved publication: Cleaning insect poop off trees | ['https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop']",
+      "Reserved publication: Identifying household ants | ['https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013']",
+      "Reserved publication: Biology | ['https://fireant.tamu.edu/learn/biology']",
+      "Reserved publication: Flag waving for Americans | ['https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans']",
+      "Reserved publication: Why do I have roaches in my home? | ['https://npic.orst.edu/faq/roach.html']",
+      "Reserved publication: Cockroaches | ['https://npic.orst.edu/pest/roach.html']",
+      "Reserved publication: The Turkestan Cockroach: An Emerging Pest in Texas | ['https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas']",
+      "Reserved publication: Bug bombs bomb | ['https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb']",
+      "Reserved publication: Fire Ant Frequently Asked Questions | ['https://fireant.tamu.edu/manage/faq']",
+      "Reserved publication: Fire Ant Biology | ['https://extension.msstate.edu/insects/fire-ants/fire-ant-biology']",
+      "Reserved publication: Fire Ant Facts | ['https://extension.msstate.edu/insects/fire-ants/fire-ant-facts']",
+      "Reserved publication: How can I tell if I have fire ants? | ['https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants']",
+      "Reserved publication: Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003) | ['https://www.ars.usda.gov/research/publications/publication?seqNo115=139549']",
+      "Reserved publication: Dynamic Thermal Structure of Imported Fire Ant Mounds (2008) | ['https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603']"
+    ]
+  },
+  "notes": [
+    {
+      "content": "4b is the worst one imo; i think we should do 4c",
+      "role": "user"
+    },
+    {
+      "content": "The user selected the hook within the accepted guided trial. Free R2 supporting research is authorized before five narration choices. No narration or audio is approved.",
+      "role": "agent"
+    }
+  ],
+  "budget": {
+    "calls": 1,
+    "pages": 20,
+    "searches": 4,
+    "seconds": 300,
+    "steps": 70
+  },
+  "approved": false
+}

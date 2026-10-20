@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 30,
+  "idempotency_key": "d6-30-e91fefd24e597c6d",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "ByteCap's retention analysis recommends a visual shift every 3 to 5 seconds.",
+    "quote": "introduce a visual shift every 3 to 5 seconds"
+  }
+}

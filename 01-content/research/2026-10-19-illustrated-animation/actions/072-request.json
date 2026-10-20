@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 72,
+  "idempotency_key": "d6-72-0ce17c1ecf7f291e",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e20",
+    "assessment": "supported",
+    "reason": "Adjacent registrations use Inter files and /System/Library/Fonts/Menlo.ttc. A Linux adaptation should select explicit available fonts."
+  }
+}

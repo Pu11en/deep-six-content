@@ -1,0 +1,8 @@
+{
+  "cropped_audio_duration_seconds": 10.76,
+  "recognized_text": "Workers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season.",
+  "all_excerpt_words_match": true,
+  "first_word": " Workers",
+  "last_word": " season.",
+  "method": "Second offline transcription of the actual trimmed excerpt, checked against approved wording."
+}

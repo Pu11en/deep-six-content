@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-18-bc8ec3073e7f6aec",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/remotion-dev/remotion/main/LICENSE.md\"},\"expected_revision\":18}",
+  "revision": 19,
+  "outcome": "applied"
+}

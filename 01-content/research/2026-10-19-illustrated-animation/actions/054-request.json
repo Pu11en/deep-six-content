@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 54,
+  "idempotency_key": "d6-54-5d0dfad252256462",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e11",
+    "assessment": "supported",
+    "reason": "Complete manifest read: Remotion/React appear in this block; esbuild and Playwright/TypeScript are separate. Install behavior remains untested."
+  }
+}

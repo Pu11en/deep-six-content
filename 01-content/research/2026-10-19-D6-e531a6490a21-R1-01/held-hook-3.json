@@ -1,0 +1,18 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "original_review_id": "review-581443877e82",
+  "original_number": 3,
+  "status": "held_for_comparison",
+  "selected": false,
+  "hook": {
+    "source_id": "SRC-0fa91dcbc971",
+    "text": "A cockroach egg case can hold more than developing roaches. Inside, an ensign wasp larva may be growing by eating the eggs around it.",
+    "fact_ids": [
+      "SRC-0fa91dcbc971-F1",
+      "SRC-0fa91dcbc971-F2"
+    ],
+    "payoff": "Reveal what can happen inside a cockroach egg case after a female ensign wasp deposits an egg there."
+  },
+  "saved_at": "2026-10-19T23:40:29.226641+00:00",
+  "instruction": "Keep original hook 3 available while comparing five new alternatives. No hook chosen yet."
+}

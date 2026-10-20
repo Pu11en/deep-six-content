@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-19T22:17:57.133435+00:00",
+  "client_id": "imac-research",
+  "credential_origin": "Existing imac-research entry on MacBook: /Users/drewp/ultimate-crawler-agent/config/clients.json; token in process memory only",
+  "host": "drewp@100.80.131.62",
+  "remote_api": "127.0.0.1:8766",
+  "authenticated_capabilities": "HTTP 200",
+  "requests": [
+    "GET capabilities",
+    "GET openapi.json"
+  ],
+  "research_started": false,
+  "legacy_port_used": false
+}

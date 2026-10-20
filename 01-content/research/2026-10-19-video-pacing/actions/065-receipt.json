@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-65-17d394aa2a6e06ae",
+  "payload": "{\"action\":{\"questions\":[\"The crawler cannot watch video and could not read YouTube pages: four read attempts on YouTube watch and channel pages returned document_too_large, and one github.com page returned an access page. All cut-rate, motion and picture-to-narration observations come from local yt-dlp downloads (first 30 seconds, 360p) measured with ffmpeg. Those videos are labelled 'yt-dlp YouTube search' where they did not come from crawler results.\",\"The awesome-opus5-5-videos README snapshot was cut at 24,000 characters, before its Explainers section. The 16 Explainers entries were listed from a local copy of the README. The crawler itself read only two Explainers prompt files (Mollick, Deedy) and the Skillry gallery page.\",\"Shot-length guidance (pattern interrupt every 3-5 s, one cut per 2-4 s) comes from vendor blogs that cite no dataset. The Just TV average-shot-length tag page held no usable figure. Treat these as rules of thumb, not measured evidence.\",\"The API caps the steps budget at 80, although 90 was planned. The job ran under the 80-step maximum.\"],\"tool\":\"gap\"},\"expected_revision\":65}",
+  "revision": 66,
+  "outcome": "applied"
+}

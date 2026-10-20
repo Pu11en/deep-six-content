@@ -1,0 +1,1397 @@
+{
+  "method": "Offline faster-whisper small.en, CPU int8, word timestamps; machine alignment, not a human listening check.",
+  "audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+  "model_snapshot": "/home/drewp/.cache/huggingface/hub/models--Systran--faster-whisper-small.en/snapshots/d1d751a5f8271d482d14ca55d9e2deeebbae577f",
+  "duration_seconds": 78.56,
+  "elapsed_seconds": 31.44,
+  "language_probability": 1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": " A fire ant colony doesn't always have a mound you can see.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 4.12,
+      "end": 8.46,
+      "text": " In a drought, the ground itself can be too hard and dry for them to build one.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 8.98,
+      "end": 12.3,
+      "text": " A colony has more going on than workers walking around outside.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 12.92,
+      "end": 15.72,
+      "text": " It also has a developing generation underground.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 16.64,
+      "end": 18.06,
+      "text": " Eggs, larvae, and pupae.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 18.64,
+      "end": 20.98,
+      "text": " Together, those stages are called brood.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 21.8,
+      "end": 26.52,
+      "text": " Eggs hatch into larvae, larvae become pupae, and adults eventually emerge.",
+      "avg_logprob": -0.0980025938898325
+    },
+    {
+      "start": 27.24,
+      "end": 30.5,
+      "text": " Those young ants are part of the reason nest conditions matter.",
+      "avg_logprob": -0.10154620642514572
+    },
+    {
+      "start": 31.34,
+      "end": 35.54,
+      "text": " During cold, wet weather, colonies tend to occupy higher parts of the nest,",
+      "avg_logprob": -0.10154620642514572
+    },
+    {
+      "start": 35.76,
+      "end": 39.88,
+      "text": " where they can take advantage of sunlight and keep brood away from waterlogged soil.",
+      "avg_logprob": -0.10154620642514572
+    },
+    {
+      "start": 40.64,
+      "end": 45.82,
+      "text": " During hot, dry weather, cooler, moisture conditions below ground become useful instead.",
+      "avg_logprob": -0.10154620642514572
+    },
+    {
+      "start": 46.56,
+      "end": 49.6,
+      "text": " Workers move the brood within the nest as conditions change.",
+      "avg_logprob": -0.10154620642514572
+    },
+    {
+      "start": 50.3,
+      "end": 53.32,
+      "text": " Picture the nursery shifting between different parts of the structure,",
+      "avg_logprob": -0.10154620642514572
+    },
+    {
+      "start": 53.32,
+      "end": 56.92,
+      "text": " rather than every ant staying in one fixed room all season.",
+      "avg_logprob": -0.07982436897828407
+    },
+    {
+      "start": 57.66,
+      "end": 62.18,
+      "text": " So the nest you see above ground doesn't show you where the developing ants are being kept.",
+      "avg_logprob": -0.07982436897828407
+    },
+    {
+      "start": 62.6,
+      "end": 67.4,
+      "text": " The colony's internal activity can continue out of sight while the surface looks quiet.",
+      "avg_logprob": -0.07982436897828407
+    },
+    {
+      "start": 68.02,
+      "end": 71.08,
+      "text": " For a homeowner, that changes what a missing mound means.",
+      "avg_logprob": -0.07982436897828407
+    },
+    {
+      "start": 71.58,
+      "end": 73.9,
+      "text": " You're losing a visible clue about the nest,",
+      "avg_logprob": -0.07982436897828407
+    },
+    {
+      "start": 74.16,
+      "end": 78.22,
+      "text": " not getting a direct measurement of the colony's condition or its developing young.",
+      "avg_logprob": -0.07982436897828407
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "word": " A",
+      "probability": 0.6778628826141357
+    },
+    {
+      "start": 0.2,
+      "end": 0.5,
+      "word": " fire",
+      "probability": 0.967898428440094
+    },
+    {
+      "start": 0.5,
+      "end": 0.7,
+      "word": " ant",
+      "probability": 0.9888583421707153
+    },
+    {
+      "start": 0.7,
+      "end": 1.16,
+      "word": " colony",
+      "probability": 0.9984620809555054
+    },
+    {
+      "start": 1.16,
+      "end": 1.7,
+      "word": " doesn't",
+      "probability": 0.9838871657848358
+    },
+    {
+      "start": 1.7,
+      "end": 2.14,
+      "word": " always",
+      "probability": 0.9941294193267822
+    },
+    {
+      "start": 2.14,
+      "end": 2.38,
+      "word": " have",
+      "probability": 0.9965384006500244
+    },
+    {
+      "start": 2.38,
+      "end": 2.58,
+      "word": " a",
+      "probability": 0.9957180619239807
+    },
+    {
+      "start": 2.58,
+      "end": 2.78,
+      "word": " mound",
+      "probability": 0.9983345866203308
+    },
+    {
+      "start": 2.78,
+      "end": 2.98,
+      "word": " you",
+      "probability": 0.971950888633728
+    },
+    {
+      "start": 2.98,
+      "end": 3.12,
+      "word": " can",
+      "probability": 0.9940324425697327
+    },
+    {
+      "start": 3.12,
+      "end": 3.52,
+      "word": " see.",
+      "probability": 0.9965246319770813
+    },
+    {
+      "start": 4.12,
+      "end": 4.28,
+      "word": " In",
+      "probability": 0.987055778503418
+    },
+    {
+      "start": 4.28,
+      "end": 4.44,
+      "word": " a",
+      "probability": 0.9977462887763977
+    },
+    {
+      "start": 4.44,
+      "end": 4.72,
+      "word": " drought,",
+      "probability": 0.9909923076629639
+    },
+    {
+      "start": 5.04,
+      "end": 5.12,
+      "word": " the",
+      "probability": 0.995875895023346
+    },
+    {
+      "start": 5.12,
+      "end": 5.42,
+      "word": " ground",
+      "probability": 0.9973636269569397
+    },
+    {
+      "start": 5.42,
+      "end": 5.86,
+      "word": " itself",
+      "probability": 0.9922123551368713
+    },
+    {
+      "start": 5.86,
+      "end": 6.18,
+      "word": " can",
+      "probability": 0.9942895174026489
+    },
+    {
+      "start": 6.18,
+      "end": 6.34,
+      "word": " be",
+      "probability": 0.9951413869857788
+    },
+    {
+      "start": 6.34,
+      "end": 6.62,
+      "word": " too",
+      "probability": 0.9899513125419617
+    },
+    {
+      "start": 6.62,
+      "end": 7.0,
+      "word": " hard",
+      "probability": 0.9956470131874084
+    },
+    {
+      "start": 7.0,
+      "end": 7.18,
+      "word": " and",
+      "probability": 0.9914121627807617
+    },
+    {
+      "start": 7.18,
+      "end": 7.48,
+      "word": " dry",
+      "probability": 0.9983609318733215
+    },
+    {
+      "start": 7.48,
+      "end": 7.7,
+      "word": " for",
+      "probability": 0.9910255074501038
+    },
+    {
+      "start": 7.7,
+      "end": 7.82,
+      "word": " them",
+      "probability": 0.9979555606842041
+    },
+    {
+      "start": 7.82,
+      "end": 7.98,
+      "word": " to",
+      "probability": 0.997808039188385
+    },
+    {
+      "start": 7.98,
+      "end": 8.18,
+      "word": " build",
+      "probability": 0.9972854852676392
+    },
+    {
+      "start": 8.18,
+      "end": 8.46,
+      "word": " one.",
+      "probability": 0.9936368465423584
+    },
+    {
+      "start": 8.98,
+      "end": 9.12,
+      "word": " A",
+      "probability": 0.9839958548545837
+    },
+    {
+      "start": 9.12,
+      "end": 9.4,
+      "word": " colony",
+      "probability": 0.9992358684539795
+    },
+    {
+      "start": 9.4,
+      "end": 9.68,
+      "word": " has",
+      "probability": 0.9968104958534241
+    },
+    {
+      "start": 9.68,
+      "end": 9.94,
+      "word": " more",
+      "probability": 0.9979769587516785
+    },
+    {
+      "start": 9.94,
+      "end": 10.24,
+      "word": " going",
+      "probability": 0.9956348538398743
+    },
+    {
+      "start": 10.24,
+      "end": 10.52,
+      "word": " on",
+      "probability": 0.9930593967437744
+    },
+    {
+      "start": 10.52,
+      "end": 10.7,
+      "word": " than",
+      "probability": 0.9591724872589111
+    },
+    {
+      "start": 10.7,
+      "end": 11.06,
+      "word": " workers",
+      "probability": 0.9851061105728149
+    },
+    {
+      "start": 11.06,
+      "end": 11.48,
+      "word": " walking",
+      "probability": 0.9957559704780579
+    },
+    {
+      "start": 11.48,
+      "end": 11.82,
+      "word": " around",
+      "probability": 0.9844112396240234
+    },
+    {
+      "start": 11.82,
+      "end": 12.3,
+      "word": " outside.",
+      "probability": 0.9962520003318787
+    },
+    {
+      "start": 12.92,
+      "end": 13.08,
+      "word": " It",
+      "probability": 0.9929937720298767
+    },
+    {
+      "start": 13.08,
+      "end": 13.4,
+      "word": " also",
+      "probability": 0.9962137341499329
+    },
+    {
+      "start": 13.4,
+      "end": 13.74,
+      "word": " has",
+      "probability": 0.9981346130371094
+    },
+    {
+      "start": 13.74,
+      "end": 13.98,
+      "word": " a",
+      "probability": 0.9947454929351807
+    },
+    {
+      "start": 13.98,
+      "end": 14.4,
+      "word": " developing",
+      "probability": 0.993653416633606
+    },
+    {
+      "start": 14.4,
+      "end": 14.98,
+      "word": " generation",
+      "probability": 0.997624933719635
+    },
+    {
+      "start": 14.98,
+      "end": 15.72,
+      "word": " underground.",
+      "probability": 0.9794824719429016
+    },
+    {
+      "start": 16.64,
+      "end": 16.64,
+      "word": " Eggs,",
+      "probability": 0.9281814694404602
+    },
+    {
+      "start": 17.14,
+      "end": 17.22,
+      "word": " larvae,",
+      "probability": 0.9931386113166809
+    },
+    {
+      "start": 17.58,
+      "end": 17.76,
+      "word": " and",
+      "probability": 0.998414158821106
+    },
+    {
+      "start": 17.76,
+      "end": 18.06,
+      "word": " pupae.",
+      "probability": 0.990856409072876
+    },
+    {
+      "start": 18.64,
+      "end": 19.0,
+      "word": " Together,",
+      "probability": 0.9939618706703186
+    },
+    {
+      "start": 19.18,
+      "end": 19.5,
+      "word": " those",
+      "probability": 0.9944940209388733
+    },
+    {
+      "start": 19.5,
+      "end": 19.8,
+      "word": " stages",
+      "probability": 0.9968271851539612
+    },
+    {
+      "start": 19.8,
+      "end": 20.16,
+      "word": " are",
+      "probability": 0.9986575841903687
+    },
+    {
+      "start": 20.16,
+      "end": 20.5,
+      "word": " called",
+      "probability": 0.9991600513458252
+    },
+    {
+      "start": 20.5,
+      "end": 20.98,
+      "word": " brood.",
+      "probability": 0.5654151439666748
+    },
+    {
+      "start": 21.8,
+      "end": 22.02,
+      "word": " Eggs",
+      "probability": 0.984204113483429
+    },
+    {
+      "start": 22.02,
+      "end": 22.34,
+      "word": " hatch",
+      "probability": 0.9976832866668701
+    },
+    {
+      "start": 22.34,
+      "end": 22.68,
+      "word": " into",
+      "probability": 0.9974514842033386
+    },
+    {
+      "start": 22.68,
+      "end": 23.02,
+      "word": " larvae,",
+      "probability": 0.9982663989067078
+    },
+    {
+      "start": 23.52,
+      "end": 23.8,
+      "word": " larvae",
+      "probability": 0.9986664056777954
+    },
+    {
+      "start": 23.8,
+      "end": 24.14,
+      "word": " become",
+      "probability": 0.9955959916114807
+    },
+    {
+      "start": 24.14,
+      "end": 24.66,
+      "word": " pupae,",
+      "probability": 0.9988644421100616
+    },
+    {
+      "start": 24.98,
+      "end": 25.1,
+      "word": " and",
+      "probability": 0.9975367784500122
+    },
+    {
+      "start": 25.1,
+      "end": 25.52,
+      "word": " adults",
+      "probability": 0.9935575127601624
+    },
+    {
+      "start": 25.52,
+      "end": 26.14,
+      "word": " eventually",
+      "probability": 0.9950981736183167
+    },
+    {
+      "start": 26.14,
+      "end": 26.52,
+      "word": " emerge.",
+      "probability": 0.9982197880744934
+    },
+    {
+      "start": 27.18,
+      "end": 27.5,
+      "word": " Those",
+      "probability": 0.3133431375026703
+    },
+    {
+      "start": 27.5,
+      "end": 27.88,
+      "word": " young",
+      "probability": 0.9977095127105713
+    },
+    {
+      "start": 27.88,
+      "end": 28.22,
+      "word": " ants",
+      "probability": 0.992886483669281
+    },
+    {
+      "start": 28.22,
+      "end": 28.48,
+      "word": " are",
+      "probability": 0.9961263537406921
+    },
+    {
+      "start": 28.48,
+      "end": 28.74,
+      "word": " part",
+      "probability": 0.9824245572090149
+    },
+    {
+      "start": 28.74,
+      "end": 28.88,
+      "word": " of",
+      "probability": 0.9983843564987183
+    },
+    {
+      "start": 28.88,
+      "end": 28.98,
+      "word": " the",
+      "probability": 0.998065173625946
+    },
+    {
+      "start": 28.98,
+      "end": 29.28,
+      "word": " reason",
+      "probability": 0.9985542893409729
+    },
+    {
+      "start": 29.28,
+      "end": 29.62,
+      "word": " nest",
+      "probability": 0.9717056155204773
+    },
+    {
+      "start": 29.62,
+      "end": 30.06,
+      "word": " conditions",
+      "probability": 0.9983193278312683
+    },
+    {
+      "start": 30.06,
+      "end": 30.5,
+      "word": " matter.",
+      "probability": 0.9985656142234802
+    },
+    {
+      "start": 31.34,
+      "end": 31.34,
+      "word": " During",
+      "probability": 0.9931449890136719
+    },
+    {
+      "start": 31.34,
+      "end": 31.84,
+      "word": " cold,",
+      "probability": 0.9965577721595764
+    },
+    {
+      "start": 32.0,
+      "end": 32.2,
+      "word": " wet",
+      "probability": 0.9963615536689758
+    },
+    {
+      "start": 32.2,
+      "end": 32.64,
+      "word": " weather,",
+      "probability": 0.9954932928085327
+    },
+    {
+      "start": 33.08,
+      "end": 33.34,
+      "word": " colonies",
+      "probability": 0.998540997505188
+    },
+    {
+      "start": 33.34,
+      "end": 33.62,
+      "word": " tend",
+      "probability": 0.991145670413971
+    },
+    {
+      "start": 33.62,
+      "end": 33.8,
+      "word": " to",
+      "probability": 0.9978000521659851
+    },
+    {
+      "start": 33.8,
+      "end": 34.18,
+      "word": " occupy",
+      "probability": 0.9974924325942993
+    },
+    {
+      "start": 34.18,
+      "end": 34.64,
+      "word": " higher",
+      "probability": 0.9864837527275085
+    },
+    {
+      "start": 34.64,
+      "end": 34.94,
+      "word": " parts",
+      "probability": 0.9978004097938538
+    },
+    {
+      "start": 34.94,
+      "end": 35.12,
+      "word": " of",
+      "probability": 0.9988512992858887
+    },
+    {
+      "start": 35.12,
+      "end": 35.24,
+      "word": " the",
+      "probability": 0.9953504800796509
+    },
+    {
+      "start": 35.24,
+      "end": 35.54,
+      "word": " nest,",
+      "probability": 0.996845543384552
+    },
+    {
+      "start": 35.76,
+      "end": 35.98,
+      "word": " where",
+      "probability": 0.9957842230796814
+    },
+    {
+      "start": 35.98,
+      "end": 36.1,
+      "word": " they",
+      "probability": 0.9975818395614624
+    },
+    {
+      "start": 36.1,
+      "end": 36.24,
+      "word": " can",
+      "probability": 0.9876284599304199
+    },
+    {
+      "start": 36.24,
+      "end": 36.42,
+      "word": " take",
+      "probability": 0.9989438652992249
+    },
+    {
+      "start": 36.42,
+      "end": 36.74,
+      "word": " advantage",
+      "probability": 0.9985215067863464
+    },
+    {
+      "start": 36.74,
+      "end": 37.02,
+      "word": " of",
+      "probability": 0.9979828596115112
+    },
+    {
+      "start": 37.02,
+      "end": 37.38,
+      "word": " sunlight",
+      "probability": 0.9980396628379822
+    },
+    {
+      "start": 37.38,
+      "end": 37.72,
+      "word": " and",
+      "probability": 0.9578617215156555
+    },
+    {
+      "start": 37.72,
+      "end": 37.98,
+      "word": " keep",
+      "probability": 0.9959121942520142
+    },
+    {
+      "start": 37.98,
+      "end": 38.3,
+      "word": " brood",
+      "probability": 0.993877112865448
+    },
+    {
+      "start": 38.3,
+      "end": 38.7,
+      "word": " away",
+      "probability": 0.9983680844306946
+    },
+    {
+      "start": 38.7,
+      "end": 38.98,
+      "word": " from",
+      "probability": 0.9984672665596008
+    },
+    {
+      "start": 38.98,
+      "end": 39.66,
+      "word": " waterlogged",
+      "probability": 0.9048749009768168
+    },
+    {
+      "start": 39.66,
+      "end": 39.88,
+      "word": " soil.",
+      "probability": 0.9995403289794922
+    },
+    {
+      "start": 40.64,
+      "end": 40.82,
+      "word": " During",
+      "probability": 0.9962683916091919
+    },
+    {
+      "start": 40.82,
+      "end": 41.16,
+      "word": " hot,",
+      "probability": 0.9952249526977539
+    },
+    {
+      "start": 41.58,
+      "end": 41.58,
+      "word": " dry",
+      "probability": 0.9986196756362915
+    },
+    {
+      "start": 41.58,
+      "end": 41.96,
+      "word": " weather,",
+      "probability": 0.981330931186676
+    },
+    {
+      "start": 42.48,
+      "end": 42.74,
+      "word": " cooler,",
+      "probability": 0.9950709342956543
+    },
+    {
+      "start": 43.1,
+      "end": 43.32,
+      "word": " moisture",
+      "probability": 0.8069587349891663
+    },
+    {
+      "start": 43.32,
+      "end": 43.9,
+      "word": " conditions",
+      "probability": 0.9955630302429199
+    },
+    {
+      "start": 43.9,
+      "end": 44.26,
+      "word": " below",
+      "probability": 0.996217668056488
+    },
+    {
+      "start": 44.26,
+      "end": 44.64,
+      "word": " ground",
+      "probability": 0.9866241216659546
+    },
+    {
+      "start": 44.64,
+      "end": 44.96,
+      "word": " become",
+      "probability": 0.9904154539108276
+    },
+    {
+      "start": 44.96,
+      "end": 45.38,
+      "word": " useful",
+      "probability": 0.9985817670822144
+    },
+    {
+      "start": 45.38,
+      "end": 45.82,
+      "word": " instead.",
+      "probability": 0.9740824103355408
+    },
+    {
+      "start": 46.56,
+      "end": 46.8,
+      "word": " Workers",
+      "probability": 0.990327775478363
+    },
+    {
+      "start": 46.8,
+      "end": 47.16,
+      "word": " move",
+      "probability": 0.9966339468955994
+    },
+    {
+      "start": 47.16,
+      "end": 47.38,
+      "word": " the",
+      "probability": 0.9921521544456482
+    },
+    {
+      "start": 47.38,
+      "end": 47.64,
+      "word": " brood",
+      "probability": 0.9987694621086121
+    },
+    {
+      "start": 47.64,
+      "end": 47.96,
+      "word": " within",
+      "probability": 0.9942903518676758
+    },
+    {
+      "start": 47.96,
+      "end": 48.12,
+      "word": " the",
+      "probability": 0.9929325580596924
+    },
+    {
+      "start": 48.12,
+      "end": 48.4,
+      "word": " nest",
+      "probability": 0.9980487823486328
+    },
+    {
+      "start": 48.4,
+      "end": 48.62,
+      "word": " as",
+      "probability": 0.9809118509292603
+    },
+    {
+      "start": 48.62,
+      "end": 49.02,
+      "word": " conditions",
+      "probability": 0.9971554279327393
+    },
+    {
+      "start": 49.02,
+      "end": 49.6,
+      "word": " change.",
+      "probability": 0.9995844960212708
+    },
+    {
+      "start": 50.3,
+      "end": 50.4,
+      "word": " Picture",
+      "probability": 0.9953721165657043
+    },
+    {
+      "start": 50.4,
+      "end": 50.68,
+      "word": " the",
+      "probability": 0.9980329871177673
+    },
+    {
+      "start": 50.68,
+      "end": 51.02,
+      "word": " nursery",
+      "probability": 0.9798880815505981
+    },
+    {
+      "start": 51.02,
+      "end": 51.48,
+      "word": " shifting",
+      "probability": 0.9815943241119385
+    },
+    {
+      "start": 51.48,
+      "end": 51.94,
+      "word": " between",
+      "probability": 0.9991089701652527
+    },
+    {
+      "start": 51.94,
+      "end": 52.3,
+      "word": " different",
+      "probability": 0.9973763227462769
+    },
+    {
+      "start": 52.3,
+      "end": 52.58,
+      "word": " parts",
+      "probability": 0.9983152151107788
+    },
+    {
+      "start": 52.58,
+      "end": 52.78,
+      "word": " of",
+      "probability": 0.9994799494743347
+    },
+    {
+      "start": 52.78,
+      "end": 52.88,
+      "word": " the",
+      "probability": 0.9961677193641663
+    },
+    {
+      "start": 52.88,
+      "end": 53.32,
+      "word": " structure,",
+      "probability": 0.9993396401405334
+    },
+    {
+      "start": 53.32,
+      "end": 53.8,
+      "word": " rather",
+      "probability": 0.8483633399009705
+    },
+    {
+      "start": 53.8,
+      "end": 54.12,
+      "word": " than",
+      "probability": 0.9973957538604736
+    },
+    {
+      "start": 54.12,
+      "end": 54.5,
+      "word": " every",
+      "probability": 0.9958874583244324
+    },
+    {
+      "start": 54.5,
+      "end": 54.76,
+      "word": " ant",
+      "probability": 0.9832686185836792
+    },
+    {
+      "start": 54.76,
+      "end": 55.08,
+      "word": " staying",
+      "probability": 0.990265429019928
+    },
+    {
+      "start": 55.08,
+      "end": 55.26,
+      "word": " in",
+      "probability": 0.9987797141075134
+    },
+    {
+      "start": 55.26,
+      "end": 55.56,
+      "word": " one",
+      "probability": 0.9920216202735901
+    },
+    {
+      "start": 55.56,
+      "end": 55.9,
+      "word": " fixed",
+      "probability": 0.9883267283439636
+    },
+    {
+      "start": 55.9,
+      "end": 56.24,
+      "word": " room",
+      "probability": 0.9886026382446289
+    },
+    {
+      "start": 56.24,
+      "end": 56.58,
+      "word": " all",
+      "probability": 0.9884746670722961
+    },
+    {
+      "start": 56.58,
+      "end": 56.92,
+      "word": " season.",
+      "probability": 0.9702224135398865
+    },
+    {
+      "start": 57.66,
+      "end": 57.82,
+      "word": " So",
+      "probability": 0.9852740168571472
+    },
+    {
+      "start": 57.82,
+      "end": 57.96,
+      "word": " the",
+      "probability": 0.8913891911506653
+    },
+    {
+      "start": 57.96,
+      "end": 58.18,
+      "word": " nest",
+      "probability": 0.9937130808830261
+    },
+    {
+      "start": 58.18,
+      "end": 58.36,
+      "word": " you",
+      "probability": 0.9967238306999207
+    },
+    {
+      "start": 58.36,
+      "end": 58.56,
+      "word": " see",
+      "probability": 0.9989032745361328
+    },
+    {
+      "start": 58.56,
+      "end": 58.84,
+      "word": " above",
+      "probability": 0.9979830980300903
+    },
+    {
+      "start": 58.84,
+      "end": 59.24,
+      "word": " ground",
+      "probability": 0.9608994722366333
+    },
+    {
+      "start": 59.24,
+      "end": 59.78,
+      "word": " doesn't",
+      "probability": 0.9747318029403687
+    },
+    {
+      "start": 59.78,
+      "end": 60.02,
+      "word": " show",
+      "probability": 0.998749852180481
+    },
+    {
+      "start": 60.02,
+      "end": 60.22,
+      "word": " you",
+      "probability": 0.9973879456520081
+    },
+    {
+      "start": 60.22,
+      "end": 60.48,
+      "word": " where",
+      "probability": 0.9974663257598877
+    },
+    {
+      "start": 60.48,
+      "end": 60.66,
+      "word": " the",
+      "probability": 0.9988170862197876
+    },
+    {
+      "start": 60.66,
+      "end": 61.08,
+      "word": " developing",
+      "probability": 0.9929819107055664
+    },
+    {
+      "start": 61.08,
+      "end": 61.42,
+      "word": " ants",
+      "probability": 0.9972302317619324
+    },
+    {
+      "start": 61.42,
+      "end": 61.58,
+      "word": " are",
+      "probability": 0.9982120990753174
+    },
+    {
+      "start": 61.58,
+      "end": 61.74,
+      "word": " being",
+      "probability": 0.999339759349823
+    },
+    {
+      "start": 61.74,
+      "end": 62.18,
+      "word": " kept.",
+      "probability": 0.999067485332489
+    },
+    {
+      "start": 62.6,
+      "end": 62.84,
+      "word": " The",
+      "probability": 0.9953497648239136
+    },
+    {
+      "start": 62.84,
+      "end": 63.32,
+      "word": " colony's",
+      "probability": 0.946111261844635
+    },
+    {
+      "start": 63.32,
+      "end": 63.76,
+      "word": " internal",
+      "probability": 0.9995057582855225
+    },
+    {
+      "start": 63.76,
+      "end": 64.24,
+      "word": " activity",
+      "probability": 0.9993202686309814
+    },
+    {
+      "start": 64.24,
+      "end": 64.62,
+      "word": " can",
+      "probability": 0.9982919096946716
+    },
+    {
+      "start": 64.62,
+      "end": 65.06,
+      "word": " continue",
+      "probability": 0.9992303848266602
+    },
+    {
+      "start": 65.06,
+      "end": 65.36,
+      "word": " out",
+      "probability": 0.99904865026474
+    },
+    {
+      "start": 65.36,
+      "end": 65.52,
+      "word": " of",
+      "probability": 0.9351239800453186
+    },
+    {
+      "start": 65.52,
+      "end": 65.8,
+      "word": " sight",
+      "probability": 0.994142472743988
+    },
+    {
+      "start": 65.8,
+      "end": 66.1,
+      "word": " while",
+      "probability": 0.9582533240318298
+    },
+    {
+      "start": 66.1,
+      "end": 66.26,
+      "word": " the",
+      "probability": 0.9991286396980286
+    },
+    {
+      "start": 66.26,
+      "end": 66.6,
+      "word": " surface",
+      "probability": 0.9983100891113281
+    },
+    {
+      "start": 66.6,
+      "end": 66.92,
+      "word": " looks",
+      "probability": 0.998345136642456
+    },
+    {
+      "start": 66.92,
+      "end": 67.4,
+      "word": " quiet.",
+      "probability": 0.9914637207984924
+    },
+    {
+      "start": 68.02,
+      "end": 68.2,
+      "word": " For",
+      "probability": 0.996850311756134
+    },
+    {
+      "start": 68.2,
+      "end": 68.32,
+      "word": " a",
+      "probability": 0.9988547563552856
+    },
+    {
+      "start": 68.32,
+      "end": 68.66,
+      "word": " homeowner,",
+      "probability": 0.9875450730323792
+    },
+    {
+      "start": 68.92,
+      "end": 69.24,
+      "word": " that",
+      "probability": 0.9977710247039795
+    },
+    {
+      "start": 69.24,
+      "end": 69.64,
+      "word": " changes",
+      "probability": 0.9808909893035889
+    },
+    {
+      "start": 69.64,
+      "end": 69.94,
+      "word": " what",
+      "probability": 0.9975048899650574
+    },
+    {
+      "start": 69.94,
+      "end": 70.02,
+      "word": " a",
+      "probability": 0.9970177412033081
+    },
+    {
+      "start": 70.02,
+      "end": 70.3,
+      "word": " missing",
+      "probability": 0.9771941900253296
+    },
+    {
+      "start": 70.3,
+      "end": 70.56,
+      "word": " mound",
+      "probability": 0.9917382597923279
+    },
+    {
+      "start": 70.56,
+      "end": 71.08,
+      "word": " means.",
+      "probability": 0.9989867806434631
+    },
+    {
+      "start": 71.58,
+      "end": 71.8,
+      "word": " You're",
+      "probability": 0.9928780496120453
+    },
+    {
+      "start": 71.8,
+      "end": 72.04,
+      "word": " losing",
+      "probability": 0.9966757297515869
+    },
+    {
+      "start": 72.04,
+      "end": 72.34,
+      "word": " a",
+      "probability": 0.9988895058631897
+    },
+    {
+      "start": 72.34,
+      "end": 72.74,
+      "word": " visible",
+      "probability": 0.9910266995429993
+    },
+    {
+      "start": 72.74,
+      "end": 73.12,
+      "word": " clue",
+      "probability": 0.9981572031974792
+    },
+    {
+      "start": 73.12,
+      "end": 73.36,
+      "word": " about",
+      "probability": 0.999427855014801
+    },
+    {
+      "start": 73.36,
+      "end": 73.56,
+      "word": " the",
+      "probability": 0.9987807869911194
+    },
+    {
+      "start": 73.56,
+      "end": 73.9,
+      "word": " nest,",
+      "probability": 0.9980323910713196
+    },
+    {
+      "start": 74.16,
+      "end": 74.48,
+      "word": " not",
+      "probability": 0.9973272085189819
+    },
+    {
+      "start": 74.48,
+      "end": 74.7,
+      "word": " getting",
+      "probability": 0.9987313151359558
+    },
+    {
+      "start": 74.7,
+      "end": 74.9,
+      "word": " a",
+      "probability": 0.9987058639526367
+    },
+    {
+      "start": 74.9,
+      "end": 75.22,
+      "word": " direct",
+      "probability": 0.999349057674408
+    },
+    {
+      "start": 75.22,
+      "end": 75.62,
+      "word": " measurement",
+      "probability": 0.9977046847343445
+    },
+    {
+      "start": 75.62,
+      "end": 75.9,
+      "word": " of",
+      "probability": 0.9986207485198975
+    },
+    {
+      "start": 75.9,
+      "end": 76.04,
+      "word": " the",
+      "probability": 0.9991150498390198
+    },
+    {
+      "start": 76.04,
+      "end": 76.46,
+      "word": " colony's",
+      "probability": 0.9932424128055573
+    },
+    {
+      "start": 76.46,
+      "end": 76.82,
+      "word": " condition",
+      "probability": 0.9977645874023438
+    },
+    {
+      "start": 76.82,
+      "end": 77.3,
+      "word": " or",
+      "probability": 0.8602789044380188
+    },
+    {
+      "start": 77.3,
+      "end": 77.5,
+      "word": " its",
+      "probability": 0.9133129715919495
+    },
+    {
+      "start": 77.5,
+      "end": 77.98,
+      "word": " developing",
+      "probability": 0.9947226047515869
+    },
+    {
+      "start": 77.98,
+      "end": 78.22,
+      "word": " young.",
+      "probability": 0.9613567590713501
+    }
+  ],
+  "software_versions": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.7.1",
+    "av": "17.0.0"
+  }
+}

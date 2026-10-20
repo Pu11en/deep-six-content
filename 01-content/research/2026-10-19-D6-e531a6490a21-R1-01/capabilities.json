@@ -1,0 +1,31 @@
+{
+  "mode": "agent_driven",
+  "available": true,
+  "model_calls": false,
+  "authentication": "per_client_bearer",
+  "search": {
+    "available": true,
+    "configured": true,
+    "availability": "unprobed_best_effort",
+    "backend": "parallel_public",
+    "reason": "no_startup_probe; inspect action receipt",
+    "paid_fallback": false,
+    "requires_key": false
+  },
+  "tools": [
+    "read",
+    "search",
+    "note",
+    "evidence",
+    "check",
+    "gap",
+    "coverage",
+    "final"
+  ],
+  "support": "literal_quote_plus_caller_assessment_not_independent_verification",
+  "resume": "persisted_approved_snapshot_sources_evidence_coverage_and_action_receipts",
+  "budget": "immutable_approved_ceilings; steps_per_attempt; active_seconds_only",
+  "paid_fallback": false,
+  "cookies": false,
+  "browser": false
+}

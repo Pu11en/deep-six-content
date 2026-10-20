@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-56-8c434c978d1fd913",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e12\",\"reason\":\"Full repository license retrieved. Applicable notice requirements and dependency licenses remain relevant.\",\"tool\":\"check\"},\"expected_revision\":56}",
+  "revision": 57,
+  "outcome": "applied"
+}

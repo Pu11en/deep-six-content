@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 52,
+  "idempotency_key": "d6-52-db43d8e4ea6c4e86",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e10",
+    "assessment": "supported",
+    "reason": "Quote found; supports the scene-length formula in this skill. Skill text, not tested."
+  }
+}

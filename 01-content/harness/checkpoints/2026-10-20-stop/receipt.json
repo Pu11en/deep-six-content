@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-10-20T05:54:56+00:00",
+  "status": "unfinished_project_checkpoint",
+  "source": "01-content/harness/runtime/state.json",
+  "snapshot": "state.json",
+  "state_sha256": "ff75b72a21f2ff453e10f9e7da3b13c6c19a834e2958f3ea0d5b595f2a526890",
+  "byte_count": 100006,
+  "approved_narration_id": "D6-01096ba333e3",
+  "approved_narration_text_sha256": "82cccb251487b7aaafb35865ef010593f05d091e8255cb15290e091fd1e09844",
+  "approved_narration_words": 138,
+  "audio_generated": false,
+  "next_voice": "Chris",
+  "approved_records": 2,
+  "source_queue_records": 7,
+  "current_writing_review": null,
+  "offline_tests_passed": 100,
+  "state_secret_scan": "gitleaks 8.30.1: no findings",
+  "restore_rule": "Restore only when runtime/state.json is absent; never overwrite newer runtime state.",
+  "unfinished": [
+    "Ensign-wasp audio and video",
+    "System design and production automation",
+    "Outro website URL overlay",
+    "Cloud portability test"
+  ],
+  "staged_secret_scan": {
+    "scanner": "gitleaks 8.30.1",
+    "findings_reviewed": 223,
+    "false_positive_field": "idempotency_key",
+    "explanation": "Every finding is a crawler request idempotency identifier, not an authentication credential.",
+    "unresolved_findings": 0
+  }
+}

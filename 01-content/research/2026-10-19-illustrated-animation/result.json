@@ -1,0 +1,445 @@
+{
+  "claims": [
+    {
+      "evidence_id": "e1",
+      "claim": "The ant toolkit describes code-drawn textured 2D scenes and cross-sections.",
+      "quote": "paper grain, hatching, brush ink, watercolour that blooms",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/README.md",
+      "source_sha256": "0a30e0f53125594f2f915476c4a3b7c01fbae9c2976071d7aa39226b71857388",
+      "fetched_at": 1792441119.1771438,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Creator description, corroborated by inspected drawing modules and an older saved contact sheet; no new quality test.",
+        "revision": 35
+      }
+    },
+    {
+      "evidence_id": "e2",
+      "claim": "The ant package declares @napi-rs/canvas ^0.1.65 as its sole direct dependency.",
+      "quote": "\"dependencies\": { \"@napi-rs/canvas\": \"^0.1.65\" }",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/package.json",
+      "source_sha256": "8be3adbdd622355f622d53aa7fef66865bf74eb0ddeb7cd3c0fa1890110dc418",
+      "fetched_at": 1792441172.2436895,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Complete manifest read. Transitive dependencies and installation compatibility were not tested.",
+        "revision": 37
+      }
+    },
+    {
+      "evidence_id": "e3",
+      "claim": "The ant renderer takes width, height, frame rate and duration from the film specification.",
+      "quote": "const W = F.W, H = F.H, fps = F.fps || 24, N = Math.round(F.dur * fps)",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/lib/film.mjs",
+      "source_sha256": "2c999da159b476d3b735cfbd78c010d501b9f03f198bca14b61fe2eaa977c937",
+      "fetched_at": 1792441173.8856359,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Full renderer creates the canvas and FFmpeg output using these values. Vertical composition remains work to author and test.",
+        "revision": 39
+      }
+    },
+    {
+      "evidence_id": "e4",
+      "claim": "The supplied ant drawing explicitly implements a one-node waist.",
+      "quote": "// ---------------- petiole: the narrow waist with one node",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/lib/rigs/ant.mjs",
+      "source_sha256": "8a958fd42da49f5bea449a5bc29e56b6c27bbc007b414d14a7f825ab8154c2e3",
+      "fetched_at": 1792441173.0401165,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Drawing code and surrounding body paths read. This is not verified red-imported-fire-ant anatomy.",
+        "revision": 41
+      }
+    },
+    {
+      "evidence_id": "e5",
+      "claim": "The colony module supplies cocoon artwork.",
+      "quote": "export function cocoon(ctx, s = 1)",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/lib/colony.mjs",
+      "source_sha256": "4c2b68a8f223efb3891e72151f7ecab69da877bab5d67bfd79da5f3f66abb383",
+      "fetched_at": 1792441217.6572762,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Full module read. Its capsule-shaped cocoon must not stand in for the naked fire-ant pupa described by Texas A&M.",
+        "revision": 43
+      }
+    },
+    {
+      "evidence_id": "e6",
+      "claim": "Texas A&M describes fire-ant pupae as naked, without enclosing cocoons.",
+      "quote": "Pupae of some species, like fire ants, are “naked”",
+      "url": "https://fireant.tamu.edu/learn/fire-ant-identification/",
+      "source_sha256": "dc71c6abf85c06bfc547bdc5575b19989edf7a4f0addbc13c7aade46d1a1bdf8",
+      "fetched_at": 1792441261.7679129,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The paragraph directly contrasts naked fire-ant pupae with other species having capsule-like cocoons.",
+        "revision": 45
+      }
+    },
+    {
+      "evidence_id": "e7",
+      "claim": "Texas A&M says fire-ant mounds have no central opening and describes entry through underground tunnels.",
+      "quote": "The mound has no opening in the center like most ant mounds.",
+      "url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/",
+      "source_sha256": "07fa79297da7248e8495672d987e41caa532de78a4ea291d1afad4594b3d28cc",
+      "fetched_at": 1792441178.541316,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The next sentence describes the underground entry tunnels. Do not reuse a different-ant demo central mound entrance.",
+        "revision": 47
+      }
+    },
+    {
+      "evidence_id": "e8",
+      "claim": "The colony demo fixes 1920x1080, 24 fps and 32 seconds.",
+      "quote": "const W = 1920, H = 1080, FPS = 24, DUR = 32;",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/examples/ant-colony/film.mjs",
+      "source_sha256": "f04473c2257b1aeec8ad964af64b53307b0ab740520c8ac92b88fcc2ebccf417",
+      "fetched_at": 1792441174.7790022,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Declaration directly read. Snapshot is truncated; the complete film was not audited. New vertical layout and narration timing are needed.",
+        "revision": 49
+      }
+    },
+    {
+      "evidence_id": "e9",
+      "claim": "The ant-animation repository carries an MIT license.",
+      "quote": "MIT License",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/LICENSE",
+      "source_sha256": "22613aa5bd8808d19a66479717a0a88dd3e0dd199e0b48bed3fadb9ee327280b",
+      "fetched_at": 1792441175.741376,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Full license retrieved. Preserve notices when adapting code. Transitive dependency terms were not audited.",
+        "revision": 51
+      }
+    },
+    {
+      "evidence_id": "e10",
+      "claim": "Anidoodle documents a folk-tale storybook style with paint and pencil on cream paper.",
+      "quote": "| **Folk-tale storybook** | Painted foreground dissolving into pencil line on cream paper |",
+      "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/README.md",
+      "source_sha256": "15d848ddf82402a7df02ee5d723333f19c99c94883c7266d33bf8e010bbb82f9",
+      "fetched_at": 1792441176.9554071,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "A candidate visual vocabulary described by its author; not a tested fire-ant result.",
+        "revision": 53
+      }
+    },
+    {
+      "evidence_id": "e11",
+      "claim": "Anidoodle lists esbuild, Playwright Core and TypeScript, with Remotion/React packages in optional dependencies.",
+      "quote": "\"optionalDependencies\": {",
+      "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/engine/package.json",
+      "source_sha256": "07b1c8e0ac22a998d85eecc4b5ae2d494039c76edb4e6f3bb2f9f595240ac5fa",
+      "fetched_at": 1792441227.468351,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Complete manifest read: Remotion/React appear in this block; esbuild and Playwright/TypeScript are separate. Install behavior remains untested.",
+        "revision": 55
+      }
+    },
+    {
+      "evidence_id": "e12",
+      "claim": "Anidoodle carries the Apache License, Version 2.0.",
+      "quote": "Version 2.0, January 2004",
+      "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/LICENSE",
+      "source_sha256": "aa7ba36133bb07559b8f2f96eb4d7e2e95003432238973b31b6727517bd6c0a0",
+      "fetched_at": 1792441262.8871036,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Full repository license retrieved. Applicable notice requirements and dependency licenses remain relevant.",
+        "revision": 57
+      }
+    },
+    {
+      "evidence_id": "e13",
+      "claim": "Anidoodle documents a repeated-frame problem in its butterfly example opening.",
+      "quote": "there are 49 identical consecutive frames",
+      "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/example/README.md",
+      "source_sha256": "23d98af213255217255995d8b76fa57ed0eae6e478772858a9fe92968dea6096",
+      "fetched_at": 1792441300.1790855,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The example README reports a failed dead-air check. This is a reported limitation, not a test performed here.",
+        "revision": 59
+      }
+    },
+    {
+      "evidence_id": "e14",
+      "claim": "The butterfly source specifies square 1080x1080 frames and derives duration from imported cues.",
+      "quote": "meta: { title: \"mechanicalLepidoptera\", W: 1080, H: 1080, fps: 30, bpm: 120, durationFrames: TOTAL }",
+      "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/example/src/canvas-core/mechanicalLepidoptera.ts",
+      "source_sha256": "372164593069f92d94e7d5dead288e3e3929c4f6402178eb903aef59902d9567",
+      "fetched_at": 1792441357.1417067,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Direct source declaration. Header says 60 seconds, README says 47; imported cue values were not evaluated, leaving actual duration unresolved.",
+        "revision": 61
+      }
+    },
+    {
+      "evidence_id": "e15",
+      "claim": "The inspected Remotion license lists for-profit organizations up to three employees as eligible for free use; other groups and company-license conditions apply.",
+      "quote": "- a for-profit organization with up to 3 employees",
+      "url": "https://raw.githubusercontent.com/remotion-dev/remotion/main/LICENSE.md",
+      "source_sha256": "bd65083b940f61904f6ef298aade918a7cad72a3e35bc406e36fab365844b673",
+      "fetched_at": 1792441220.229511,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Full license read, including other eligible groups and Company License. Entity eligibility was not assessed. File also flags Remotion 5 changes; do not assume commercial use is free.",
+        "revision": 63
+      }
+    },
+    {
+      "evidence_id": "e16",
+      "claim": "Motion Canvas is designed for informative vector animations synchronized with voiceovers.",
+      "quote": "informative vector animations and\nsynchronize them with voice-overs.",
+      "url": "https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/README.md",
+      "source_sha256": "9895daa20be79849a312b5cb5b9ed36db2d1a6dfe9731b5e53a67b222abe9cd9",
+      "fetched_at": 1792441120.7838314,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Primary README supports timing relevance, not proof of textured pest illustration quality.",
+        "revision": 65
+      }
+    },
+    {
+      "evidence_id": "e17",
+      "claim": "HyperFrames describes turning HTML, CSS, media and seekable animations into MP4.",
+      "quote": "HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
+      "url": "https://raw.githubusercontent.com/heygen-com/hyperframes/main/README.md",
+      "source_sha256": "082bf168bb2d133acb59436dadb677984fee29f58e45cb1dbe10bb1cf50bc142",
+      "fetched_at": 1792441121.8017027,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Relevant primary README section read; snapshot truncated. General rendering capability, not a ready pest illustration library or measured determinism.",
+        "revision": 67
+      }
+    },
+    {
+      "evidence_id": "e18",
+      "claim": "HandDraw describes its core as whiteboard-animation rendering.",
+      "quote": "Agent-native, deterministic whiteboard-animation rendering.",
+      "url": "https://raw.githubusercontent.com/ToBeWin/HandDraw-Skill/main/README.md",
+      "source_sha256": "61ec908d7eb56130e3fadaae0221a8c2e83e86aa781b1c56875d4ae41481b0fa",
+      "fetched_at": 1792441119.903291,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Complete short README read, including limited animation vocabulary and separate companion for colorful stories.",
+        "revision": 69
+      }
+    },
+    {
+      "evidence_id": "e19",
+      "claim": "Anidoodle publishes a renderer that opens a Playwright adapter and encodes frames with FFmpeg.",
+      "quote": "const t0 = Date.now(), session = await playwright.open(env, page.out, { scale, workers })",
+      "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/engine/tools/render.mjs",
+      "source_sha256": "3ef7fad37d49fbf0e1d2cc06adbb47cd1af64ec4da610ddb3187bfc79daa246d",
+      "fetched_at": 1792441265.7103567,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Full script read, including the FFmpeg spawn. Supports local requirements; no renderer was executed.",
+        "revision": 71
+      }
+    },
+    {
+      "evidence_id": "e20",
+      "claim": "The ant demo expects fonts under a Claude-specific folder and a macOS system-font path.",
+      "quote": "const FD = process.env.FONT_DIR || path.join(process.env.HOME, \".claude/skills/tesseract-edit/assets/fonts\");",
+      "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/examples/ant-colony/film.mjs",
+      "source_sha256": "f04473c2257b1aeec8ad964af64b53307b0ab740520c8ac92b88fcc2ebccf417",
+      "fetched_at": 1792441174.7790022,
+      "source_exists": true,
+      "quote_found": true,
+      "semantic_support": "supported",
+      "support_judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "Adjacent registrations use Inter files and /System/Library/Fonts/Menlo.ttc. A Linux adaptation should select explicit available fonts.",
+        "revision": 73
+      }
+    }
+  ],
+  "answer": "The ant toolkit describes code-drawn textured 2D scenes and cross-sections.\nThe ant package declares @napi-rs/canvas ^0.1.65 as its sole direct dependency.\nThe ant renderer takes width, height, frame rate and duration from the film specification.\nThe supplied ant drawing explicitly implements a one-node waist.\nThe colony module supplies cocoon artwork.\nTexas A&M describes fire-ant pupae as naked, without enclosing cocoons.\nTexas A&M says fire-ant mounds have no central opening and describes entry through underground tunnels.\nThe colony demo fixes 1920x1080, 24 fps and 32 seconds.\nThe ant-animation repository carries an MIT license.\nAnidoodle documents a folk-tale storybook style with paint and pencil on cream paper.\nAnidoodle lists esbuild, Playwright Core and TypeScript, with Remotion/React packages in optional dependencies.\nAnidoodle carries the Apache License, Version 2.0.\nAnidoodle documents a repeated-frame problem in its butterfly example opening.\nThe butterfly source specifies square 1080x1080 frames and derives duration from imported cues.\nThe inspected Remotion license lists for-profit organizations up to three employees as eligible for free use; other groups and company-license conditions apply.\nMotion Canvas is designed for informative vector animations synchronized with voiceovers.\nHyperFrames describes turning HTML, CSS, media and seekable animations into MP4.\nHandDraw describes its core as whiteboard-animation rendering.\nAnidoodle publishes a renderer that opens a Playwright adapter and encodes frames with FFmpeg.\nThe ant demo expects fonts under a Claude-specific folder and a macOS system-font path.",
+  "outcome": "partial",
+  "gaps": [
+    "No package was installed or renderer executed. Local speed, native dependency compatibility, finished visual quality and synchronization of the approved 78.602449-second narration remain untested.",
+    "The one-node ant rig requires species-specific anatomy review. Crawler search found a Texas A&M Imported Fire Ant Model PDF describing two nodes, but that PDF was not read. The attempted older Texas Insects page redirected to a general homepage; do not treat that redirect or the search snippet as checked body evidence.",
+    "Anidoodle README says the worked example is 47 seconds, while the source header says 60 seconds and duration comes from imports. Actual duration and the reported repeated-frame issue were not tested.",
+    "Some source snapshots are truncated. The older UF insect page and Texas Insects page redirect to general homepages and are excluded from substantive evidence; one guessed Texas A&M identification URL returned 404 before the correct page was retrieved.",
+    "Remotion commercial-license eligibility, full dependency-license compatibility and actual install resolution were not assessed. No paid service or new voice generation is required by the proposed first trial, but no all-purpose zero-cost guarantee is made.",
+    "Astra ultra appears in the existing local model cache; no new model generation or renderer benchmark was run. The recommendation remains a prototype choice, not a proven production pipeline."
+  ],
+  "usage": {
+    "calls": 0,
+    "pages": 30,
+    "searches": 3,
+    "steps": 79
+  },
+  "coverage": [
+    {
+      "evidence_ids": [
+        "e1",
+        "e4",
+        "e8",
+        "e10",
+        "e16",
+        "e17",
+        "e18"
+      ],
+      "id": "q1",
+      "question": "Which candidate has the strongest published code and examples for textured illustrated ants and underground nest scenes?",
+      "reason": "Six candidates compared using primary descriptions and code. Ant toolkit is the first prototype recommendation because it has relevant drawing/nest modules and an inspected existing contact sheet; Anidoodle is the illustrated-art backup. No live quality ranking is claimed.",
+      "status": "addressed"
+    },
+    {
+      "evidence_ids": [
+        "e3",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e20"
+      ],
+      "id": "q2",
+      "question": "How can the first trial preserve fire-ant biology, reuse the approved narration, and produce 1080x1920 vertical scenes in Deep Six colors?",
+      "reason": "Record scientific corrections, new vertical layout and explicit scene timing against the existing audio. Reuse the original MP3; add naked pupae and avoid the demo central mound opening. Exact anatomy and timed output still need the future trial.",
+      "status": "addressed"
+    },
+    {
+      "evidence_ids": [
+        "e2",
+        "e9",
+        "e11",
+        "e12",
+        "e15",
+        "e19"
+      ],
+      "id": "q3",
+      "question": "What exactly would the first option and one backup require locally, and what costs, license conditions or setup limits apply?",
+      "reason": "Declared packages and licensing were read. Local read-only inspection found Node/npm/FFmpeg already installed and neither candidate installed in this project. Recommend a small isolated ant toolkit trial and a separate Playwright-based backup; no installation or spending occurred.",
+      "status": "addressed"
+    },
+    {
+      "evidence_ids": [
+        "e13",
+        "e14",
+        "e20"
+      ],
+      "id": "q4",
+      "question": "What remains unverified without installing or rendering, and what should a small first trial demonstrate?",
+      "reason": "Known documentation/setup limitations and all untested runtime questions are explicit. Recommend a short narration-matched test showing workers move brood through a textured nest before making the full video.",
+      "status": "addressed"
+    }
+  ],
+  "stop_reason": "caller_finalized",
+  "caveats": [
+    "First choice and backup are caller recommendations based on fit; no new rendering, installation or full audiovisual review was performed.",
+    "Caller support checks establish contextual support in the retrieved text, not independent fact or model verification. Search snippets are leads only.",
+    "Public-source run: three searches and thirty page attempts. Twenty-nine snapshots were saved; two generic redirects are excluded from substantive evidence, and truncated snapshots are identified.",
+    "Existing approved narration remains unchanged. App files, whiteboard and diagrams were not edited. No external paid service, model call, video generation, installation or publishing occurred during this research.",
+    "Best-effort public-source research; completeness is not established.",
+    "Semantic support is a caller assessment, not independent model or fact verification."
+  ]
+}

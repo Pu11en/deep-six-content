@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 53,
+  "idempotency_key": "d6-53-7924435a80c482af",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e11",
+    "assessment": "supported",
+    "reason": "Quote found; supports the stated sync rule. Studio blog advice, no data."
+  }
+}

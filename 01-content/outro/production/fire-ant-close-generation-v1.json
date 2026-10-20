@@ -1,0 +1,42 @@
+{
+  "started_utc": "2026-10-20T04:06:01.765359+00:00",
+  "status": "generated_pending_review",
+  "phase": "approved_fire_ant_finishing",
+  "category": "voice",
+  "generation_requests": 1,
+  "automatic_retry": false,
+  "authorization": "Approved next step after finished outro; remains inside previously approved $3 production cap.",
+  "approval_file": "production/finished-outro-approval-v2.json",
+  "plan_file": "production/fire-ant-ending-plan.json",
+  "voice_id": "rPMkKgdwgIwqv4fXgR6N",
+  "voice_name": "Tyler",
+  "model_id": "eleven_v4",
+  "seed": 20261019,
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "spoken_text": "So a missing mound doesn't mean the colony is gone.",
+  "direction": "[warm, clear, conversational]",
+  "spoken_input_characters_with_tag": 81,
+  "previous_text_context": "For a homeowner, that changes what a missing mound means. You\u2019re losing a visible clue about the nest, not getting a direct measurement of the colony\u2019s condition or its developing young.",
+  "next_text_context": "Helping you understand pests. Deep Six Pest Control.",
+  "context_fields_are_not_spoken": true,
+  "existing_available_credits": 2469,
+  "voice_credit_multiplier": 1.0,
+  "model_credit_multiplier": 1.0,
+  "usd_per_1000_characters": 0.1,
+  "conservative_cost_bound_usd": 0.0319,
+  "reserved_ceiling_usd": 0.05,
+  "estimated_api_cost_usd": 0.0081,
+  "pricing_url": "https://elevenlabs.io/pricing/api",
+  "cost_is_invoice_confirmed": false,
+  "output": "01-content/outro/assets/fire-ant-closing-tyler-source-v1.mp3",
+  "bytes": 54795,
+  "sha256": "591b3f35500f418d9dba5ab84c342beb5b69e48bcc0bbe1a1f430b4109d153b4",
+  "response_headers": {
+    "request-id": "WqBcFAZbgKiu9NXfc7S0",
+    "character-cost": "18"
+  },
+  "finished_utc": "2026-10-20T04:06:02.697599+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 71,
+  "idempotency_key": "d6-71-6e753e68e84982de",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s9",
+    "claim": "The ant demo expects fonts under a Claude-specific folder and a macOS system-font path.",
+    "quote": "const FD = process.env.FONT_DIR || path.join(process.env.HOME, \".claude/skills/tesseract-edit/assets/fonts\");"
+  }
+}

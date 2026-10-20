@@ -1,0 +1,66 @@
+{
+  "active_provider": "codex",
+  "research_backend": "crawler",
+  "claude_models": {
+    "default": "claude-sonnet-5-5"
+  },
+  "codex_models": [
+    "gpt-6-astra",
+    "gpt-6.1-sol"
+  ],
+  "role_routes": {
+    "narrations": [
+      {"provider": "codex", "model": "gpt-6-astra", "effort": "high"},
+      {"provider": "codex", "model": "gpt-6.1-sol", "effort": "medium"}
+    ],
+    "narration_edit": [
+      {"provider": "codex", "model": "gpt-6-astra", "effort": "high"},
+      {"provider": "codex", "model": "gpt-6.1-sol", "effort": "medium"}
+    ]
+  },
+  "timeout_seconds": 240,
+  "writing_enabled": true,
+  "approved_narration_outro": "Helping you understand pests. Deep Six Pest Control.",
+  "board_updates_enabled": false,
+  "sources_per_pest": 3,
+  "pest_rotation": [
+    "ants",
+    "cockroaches",
+    "termites",
+    "mosquitoes",
+    "rodents",
+    "spiders",
+    "scorpions",
+    "bed bugs",
+    "fleas and ticks",
+    "stinging insects",
+    "wildlife"
+  ],
+  "topic": "Ants and fire ants: distinct, useful homeowner lessons for Central Texas",
+  "trusted_domains": [
+    "citybugs.tamu.edu",
+    "fireant.tamu.edu",
+    "extensionentomology.tamu.edu",
+    "agrilifeextension.tamu.edu",
+    "npic.orst.edu",
+    "epa.gov"
+  ],
+  "support_domains": [
+    "citybugs.tamu.edu",
+    "fireant.tamu.edu",
+    "extensionentomology.tamu.edu",
+    "agrilifeextension.tamu.edu",
+    "npic.orst.edu",
+    "epa.gov",
+    "ars.usda.gov",
+    "extension.msstate.edu",
+    "pmc.ncbi.nlm.nih.gov",
+    "academic.oup.com",
+    "extension.okstate.edu",
+    "fireants.tennessee.edu",
+    "edis.ifas.ufl.edu",
+    "ask.ifas.ufl.edu",
+    "ipm.ucanr.edu",
+    "extension.umn.edu"
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "selected_hook": {
+    "source_id": "SRC-0fa91dcbc971",
+    "text": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+    "fact_ids": [
+      "SRC-0fa91dcbc971-F1",
+      "SRC-0fa91dcbc971-F2"
+    ],
+    "payoff": "Explain that the ensign wasp puts an egg inside the cockroach egg case so its developing young can feed on the cockroach eggs, and introduce what an ensign wasp is in plain English."
+  },
+  "sources": [
+    {
+      "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+      "title": "Flag waving for Americans",
+      "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+      "date": "2015-05-05",
+      "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+      "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+      "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur",
+      "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species.",
+      "facts": [
+        {
+          "id": "SRC-0fa91dcbc971-F1",
+          "statement": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+          "quote": "slender ovipositor into the tough ootheca"
+        },
+        {
+          "id": "SRC-0fa91dcbc971-F2",
+          "statement": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case.",
+          "quote": "dozen or more cockroach eggs"
+        },
+        {
+          "id": "SRC-0fa91dcbc971-F3",
+          "statement": "The ensign wasp described in this article does not sting or bite people.",
+          "quote": "does not sting or bite"
+        },
+        {
+          "id": "SRC-0fa91dcbc971-F4",
+          "statement": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+          "quote": "unique, stalked abdomen"
+        },
+        {
+          "statement": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases.",
+          "quote": "solitary predators of cockroach (Blattodea) eggs inside oothecae",
+          "id": "SUP-a3ce9f37fdb5-F1",
+          "evidence_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+          "evidence_limits": "The retrieved crawler text is truncated at 24,000 characters; the cited introduction is present in full. This is a taxonomy paper, not an infestation study or a local pest-control trial. Do not infer detailed development timing, pupation or emergence from this excerpt."
+        },
+        {
+          "statement": "Many insect parasitoids specialize on one or a few closely related host species.",
+          "quote": "often specialized on only one or a few closely related species of prey",
+          "id": "SUP-aeefe1c118c4-F1",
+          "evidence_url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/",
+          "evidence_limits": "General parasitoid biology, not an Evania-specific host-range experiment. Do not transfer the general one-host description to individual cockroach eggs: an ensign larva eats several eggs in one case. Do not use the pesticide sections or imply reliable whole-home control."
+        },
+        {
+          "statement": "The female braces herself against a cockroach egg case, penetrates its tough covering with her egg-laying organ and lays one egg. The profile says inserting the organ usually takes 15 to 30 minutes.",
+          "quote": "15 to 30 minutes",
+          "id": "SUP-d34ca591f2c4-F1",
+          "evidence_url": "https://ask.ifas.ufl.edu/publication/IN319",
+          "evidence_limits": "Older biological observations summarized by an extension profile, not a new Texas field trial. Timing is described as usual, not an invariant rule. The larva cuts individual egg shells; the mother penetrates the outer egg case. No whole-home control rate or release recommendation is supported here. Foreign historical control rates and speculation are excluded. An exit hole is not a standalone diagnostic test."
+        },
+        {
+          "statement": "The earliest larval stage has pointed jaws bearing small teeth that cut through the shells of individual cockroach eggs. Later larval stages have differently shaped jaws.",
+          "quote": "cut through the tough shell",
+          "id": "SUP-d34ca591f2c4-F2",
+          "evidence_url": "https://ask.ifas.ufl.edu/publication/IN319",
+          "evidence_limits": "Older biological observations summarized by an extension profile, not a new Texas field trial. Timing is described as usual, not an invariant rule. The larva cuts individual egg shells; the mother penetrates the outer egg case. No whole-home control rate or release recommendation is supported here. Foreign historical control rates and speculation are excluded. An exit hole is not a standalone diagnostic test."
+        },
+        {
+          "statement": "The wasp pupates inside the cockroach egg case without a cocoon. The mature adult cuts a small round, jagged exit hole near the end of a long side of the case.",
+          "quote": "small round jagged hole",
+          "id": "SUP-d34ca591f2c4-F3",
+          "evidence_url": "https://ask.ifas.ufl.edu/publication/IN319",
+          "evidence_limits": "Older biological observations summarized by an extension profile, not a new Texas field trial. Timing is described as usual, not an invariant rule. The larva cuts individual egg shells; the mother penetrates the outer egg case. No whole-home control rate or release recommendation is supported here. Foreign historical control rates and speculation are excluded. An exit hole is not a standalone diagnostic test."
+        },
+        {
+          "statement": "The profile names Oriental, American and Australian cockroaches as hosts of Evania appendigaster and describes it as common in much of the southern United States. It does not name German cockroaches as hosts.",
+          "quote": "common in much of the southern US",
+          "id": "SUP-d34ca591f2c4-F4",
+          "evidence_url": "https://ask.ifas.ufl.edu/publication/IN319",
+          "evidence_limits": "Older biological observations summarized by an extension profile, not a new Texas field trial. Timing is described as usual, not an invariant rule. The larva cuts individual egg shells; the mother penetrates the outer egg case. No whole-home control rate or release recommendation is supported here. Foreign historical control rates and speculation are excluded. An exit hole is not a standalone diagnostic test."
+        },
+        {
+          "statement": "American cockroaches favor warm, moist places. Females deposit their egg cases in cracks or crevices.",
+          "quote": "deposited in a crack or crevice",
+          "id": "SUP-139443c3574f-F1",
+          "evidence_url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+          "evidence_limits": "Do not claim German cockroaches are hosts of this ensign wasp. Species prevalence, winter treatments and outdoor survival in Minnesota are not transferred to Texas. No pesticide or health guidance is used. Egg cases differ by species; do not present one size or shape as universal."
+        },
+        {
+          "statement": "Female German cockroaches carry their egg cases until the eggs are ready to hatch, unlike the deposited cases described for American cockroaches.",
+          "quote": "until the eggs are ready to hatch",
+          "id": "SUP-139443c3574f-F2",
+          "evidence_url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+          "evidence_limits": "Do not claim German cockroaches are hosts of this ensign wasp. Species prevalence, winter treatments and outdoor survival in Minnesota are not transferred to Texas. No pesticide or health guidance is used. Egg cases differ by species; do not present one size or shape as universal."
+        },
+        {
+          "statement": "Inspect bags, boxes and luggage brought indoors for cockroaches and their egg capsules. Corrugated cardboard can harbor them; removing boxes and other unnecessary clutter reduces hiding places.",
+          "quote": "Examine bags, boxes and luggage",
+          "id": "SUP-139443c3574f-F3",
+          "evidence_url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+          "evidence_limits": "Do not claim German cockroaches are hosts of this ensign wasp. Species prevalence, winter treatments and outdoor survival in Minnesota are not transferred to Texas. No pesticide or health guidance is used. Egg cases differ by species; do not present one size or shape as universal."
+        },
+        {
+          "statement": "Indoor cockroach prevention includes restricting food and water, repairing leaks, drying damp places and sealing cracks where roaches hide. These steps reduce resources and shelter available to them.",
+          "quote": "leaky water pipes or faucets",
+          "id": "SUP-139443c3574f-F4",
+          "evidence_url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+          "evidence_limits": "Do not claim German cockroaches are hosts of this ensign wasp. Species prevalence, winter treatments and outdoor survival in Minnesota are not transferred to Texas. No pesticide or health guidance is used. Egg cases differ by species; do not present one size or shape as universal."
+        },
+        {
+          "statement": "Most crawling pests travel in dark areas and along edges. Place sticky insect cards directly against a wall, with open ends running parallel to it so insects can enter along that route.",
+          "quote": "travel in dark areas and along edges",
+          "id": "SUP-b8f992d02be3-F1",
+          "evidence_url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+          "evidence_limits": "Use light-duty insect monitoring cards. No rodent trapping or pesticide recommendations. Traps detect activity and changes; they are not presented as a complete control method. A wasp sighting alone does not establish an active cockroach infestation."
+        },
+        {
+          "statement": "Suggested cockroach trap sites include behind stoves and refrigerators, in cupboards and under sinks. Traps beside exterior doors or other entry points can monitor outdoor cockroaches coming in.",
+          "quote": "Behind stoves and refrigerators",
+          "id": "SUP-b8f992d02be3-F2",
+          "evidence_url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+          "evidence_limits": "Use light-duty insect monitoring cards. No rodent trapping or pesticide recommendations. Traps detect activity and changes; they are not presented as a complete control method. A wasp sighting alone does not establish an active cockroach infestation."
+        },
+        {
+          "statement": "Sticky traps detect pests when people are absent, including at night. Comparing multiple traps can help pinpoint activity and monitoring over time shows changes in abundance. Their main role is detection and monitoring, not standalone control.",
+          "quote": "detect pests, and monitor changes",
+          "id": "SUP-b8f992d02be3-F3",
+          "evidence_url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+          "evidence_limits": "Use light-duty insect monitoring cards. No rodent trapping or pesticide recommendations. Traps detect activity and changes; they are not presented as a complete control method. A wasp sighting alone does not establish an active cockroach infestation."
+        }
+      ],
+      "urls": [
+        "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+      ],
+      "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+      "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0",
+      "source_id": "SRC-0fa91dcbc971",
+      "checked_at": "2026-10-20T00:07:30+00:00"
+    }
+  ],
+  "supporting_sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+      "title": "A Semantic Model for Species Description Applied to the Ensign Wasps (Hymenoptera: Evaniidae) of New Caledonia",
+      "publisher": "Systematic Biology, Oxford University Press",
+      "date": "2013",
+      "lesson": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases. This supports the distinction between the adult wasp placing an egg and its developing young doing the feeding.",
+      "species": "Ensign wasps (Evaniidae), including Evania appendigaster",
+      "region": "Taxonomic study of New Caledonia; introductory biology is family context, not Texas field measurements",
+      "limits": "The retrieved crawler text is truncated at 24,000 characters; the cited introduction is present in full. This is a taxonomy paper, not an infestation study or a local pest-control trial. Do not infer detailed development timing, pupation or emergence from this excerpt.",
+      "facts": [
+        {
+          "statement": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases.",
+          "quote": "solitary predators of cockroach (Blattodea) eggs inside oothecae",
+          "id": "SUP-a3ce9f37fdb5-F1"
+        }
+      ],
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881"
+      ],
+      "publication_key": "systematic biology, oxford university press|a semantic model for species description applied to the ensign wasps hymenoptera evaniidae of new caledonia",
+      "page_digest": "4d954cfc2b60cd4692bb250cfcb41a1254dcae189e7b62dc58cdfc17ef6320b5",
+      "source_id": "SUP-a3ce9f37fdb5",
+      "checked_at": "2026-10-20T00:08:43+00:00"
+    },
+    {
+      "url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/",
+      "title": "What is a beneficial parasite?",
+      "publisher": "Texas A&M AgriLife Extension Service, Insects in the City",
+      "date": "2013-08-02",
+      "lesson": "Many insect parasitoids specialize on one or a few related host species. This explains why a natural enemy relationship should not be generalized to every pest or every wasp.",
+      "species": "Insect parasitoids in general; the article includes ensign wasps as an example",
+      "region": "Texas extension education with general garden and urban-landscape context",
+      "limits": "General parasitoid biology, not an Evania-specific host-range experiment. Do not transfer the general one-host description to individual cockroach eggs: an ensign larva eats several eggs in one case. Do not use the pesticide sections or imply reliable whole-home control.",
+      "facts": [
+        {
+          "statement": "Many insect parasitoids specialize on one or a few closely related host species.",
+          "quote": "often specialized on only one or a few closely related species of prey",
+          "id": "SUP-aeefe1c118c4-F1"
+        }
+      ],
+      "urls": [
+        "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite"
+      ],
+      "publication_key": "texas a&m agrilife extension service, insects in the city|what is a beneficial parasite",
+      "page_digest": "b0ba8d04db5f01b5bded894080b783a1f5ac40a8f135b08e70b357fd64d61863",
+      "source_id": "SUP-aeefe1c118c4",
+      "checked_at": "2026-10-20T00:08:43+00:00"
+    },
+    {
+      "url": "https://ask.ifas.ufl.edu/publication/IN319",
+      "title": "A Cockroach Egg Parasitoid, Evania appendigaster (Linnaeus) (Hymenoptera: Evaniidae)",
+      "publisher": "University of Florida IFAS Extension",
+      "date": "undated",
+      "lesson": "The female has to penetrate a tough egg case; the young wasp then develops inside and the adult cuts an exit hole. These details explain what happens to one egg case.",
+      "species": "Evania appendigaster; documented hosts include American, Oriental and Australian cockroaches",
+      "region": "Florida university profile; reports this wasp is common in much of the southern United States",
+      "limits": "Older biological observations summarized by an extension profile, not a new Texas field trial. Timing is described as usual, not an invariant rule. The larva cuts individual egg shells; the mother penetrates the outer egg case. No whole-home control rate or release recommendation is supported here. Foreign historical control rates and speculation are excluded. An exit hole is not a standalone diagnostic test.",
+      "facts": [
+        {
+          "statement": "The female braces herself against a cockroach egg case, penetrates its tough covering with her egg-laying organ and lays one egg. The profile says inserting the organ usually takes 15 to 30 minutes.",
+          "quote": "15 to 30 minutes",
+          "id": "SUP-d34ca591f2c4-F1"
+        },
+        {
+          "statement": "The earliest larval stage has pointed jaws bearing small teeth that cut through the shells of individual cockroach eggs. Later larval stages have differently shaped jaws.",
+          "quote": "cut through the tough shell",
+          "id": "SUP-d34ca591f2c4-F2"
+        },
+        {
+          "statement": "The wasp pupates inside the cockroach egg case without a cocoon. The mature adult cuts a small round, jagged exit hole near the end of a long side of the case.",
+          "quote": "small round jagged hole",
+          "id": "SUP-d34ca591f2c4-F3"
+        },
+        {
+          "statement": "The profile names Oriental, American and Australian cockroaches as hosts of Evania appendigaster and describes it as common in much of the southern United States. It does not name German cockroaches as hosts.",
+          "quote": "common in much of the southern US",
+          "id": "SUP-d34ca591f2c4-F4"
+        }
+      ],
+      "urls": [
+        "https://ask.ifas.ufl.edu/publication/IN319"
+      ],
+      "publication_key": "university of florida ifas extension|a cockroach egg parasitoid evania appendigaster linnaeus hymenoptera evaniidae",
+      "page_digest": "c5fc966c704ff2cdae9b8cb5af5f86fba19e2e0834cd53122eda0ed1589f0727",
+      "source_id": "SUP-d34ca591f2c4",
+      "checked_at": "2026-10-20T00:40:21+00:00"
+    },
+    {
+      "url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+      "title": "Cockroaches",
+      "publisher": "University of Minnesota Extension",
+      "date": "Reviewed 2024",
+      "lesson": "Cockroach species differ in egg-case handling. Inspection should account for deposited egg cases, transported belongings and the food, moisture and hiding places that support activity.",
+      "species": "American and German cockroaches for egg-case facts; household cockroaches for general inspection guidance",
+      "region": "Minnesota extension publication; use species biology and general indoor inspection, not regional prevalence or cold-weather management, for Texas",
+      "limits": "Do not claim German cockroaches are hosts of this ensign wasp. Species prevalence, winter treatments and outdoor survival in Minnesota are not transferred to Texas. No pesticide or health guidance is used. Egg cases differ by species; do not present one size or shape as universal.",
+      "facts": [
+        {
+          "statement": "American cockroaches favor warm, moist places. Females deposit their egg cases in cracks or crevices.",
+          "quote": "deposited in a crack or crevice",
+          "id": "SUP-139443c3574f-F1"
+        },
+        {
+          "statement": "Female German cockroaches carry their egg cases until the eggs are ready to hatch, unlike the deposited cases described for American cockroaches.",
+          "quote": "until the eggs are ready to hatch",
+          "id": "SUP-139443c3574f-F2"
+        },
+        {
+          "statement": "Inspect bags, boxes and luggage brought indoors for cockroaches and their egg capsules. Corrugated cardboard can harbor them; removing boxes and other unnecessary clutter reduces hiding places.",
+          "quote": "Examine bags, boxes and luggage",
+          "id": "SUP-139443c3574f-F3"
+        },
+        {
+          "statement": "Indoor cockroach prevention includes restricting food and water, repairing leaks, drying damp places and sealing cracks where roaches hide. These steps reduce resources and shelter available to them.",
+          "quote": "leaky water pipes or faucets",
+          "id": "SUP-139443c3574f-F4"
+        }
+      ],
+      "urls": [
+        "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches"
+      ],
+      "publication_key": "university of minnesota extension|cockroaches",
+      "page_digest": "2831b71ed56ddcbfad922af7085fb21f7df85435936119c43a5b10bb9609e3d4",
+      "source_id": "SUP-139443c3574f",
+      "checked_at": "2026-10-20T00:40:21+00:00"
+    },
+    {
+      "url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+      "title": "What is a sticky trap?",
+      "publisher": "Texas A&M AgriLife Extension Service, Insects in the City",
+      "date": "undated",
+      "lesson": "Sticky insect traps reveal where and when crawling pests are active. Placement against edges and comparison among locations make them useful inspection tools.",
+      "species": "Cockroaches and other crawling insect pests",
+      "region": "Texas university extension guidance for buildings",
+      "limits": "Use light-duty insect monitoring cards. No rodent trapping or pesticide recommendations. Traps detect activity and changes; they are not presented as a complete control method. A wasp sighting alone does not establish an active cockroach infestation.",
+      "facts": [
+        {
+          "statement": "Most crawling pests travel in dark areas and along edges. Place sticky insect cards directly against a wall, with open ends running parallel to it so insects can enter along that route.",
+          "quote": "travel in dark areas and along edges",
+          "id": "SUP-b8f992d02be3-F1"
+        },
+        {
+          "statement": "Suggested cockroach trap sites include behind stoves and refrigerators, in cupboards and under sinks. Traps beside exterior doors or other entry points can monitor outdoor cockroaches coming in.",
+          "quote": "Behind stoves and refrigerators",
+          "id": "SUP-b8f992d02be3-F2"
+        },
+        {
+          "statement": "Sticky traps detect pests when people are absent, including at night. Comparing multiple traps can help pinpoint activity and monitoring over time shows changes in abundance. Their main role is detection and monitoring, not standalone control.",
+          "quote": "detect pests, and monitor changes",
+          "id": "SUP-b8f992d02be3-F3"
+        }
+      ],
+      "urls": [
+        "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap"
+      ],
+      "publication_key": "texas a&m agrilife extension service, insects in the city|what is a sticky trap",
+      "page_digest": "603ee88a072135cd9bf2230f199679de90103aa1979fc67a657dfd0528c2682a",
+      "source_id": "SUP-b8f992d02be3",
+      "checked_at": "2026-10-20T00:40:21+00:00"
+    }
+  ],
+  "approved_voice_examples": [
+    "A fire ant colony doesn’t always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one.\n\nA colony has more going on than workers walking around outside. It also has a developing generation underground: eggs, larvae and pupae. Together, those stages are called brood. Eggs hatch into larvae, larvae become pupae, and adults eventually emerge.\n\nThose young ants are part of the reason nest conditions matter. During cold, wet weather, colonies tend to occupy higher parts of the nest, where they can take advantage of sunlight and keep brood away from waterlogged soil. During hot, dry weather, cooler, moister conditions below ground become useful instead.\n\nWorkers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season.\n\nSo the nest you see above ground doesn’t show you where the developing ants are being kept. The colony’s internal activity can continue out of sight while the surface looks quiet.\n\nFor a homeowner, that changes what a missing mound means. You’re losing a visible clue about the nest, not getting a direct measurement of the colony’s condition or its developing young."
+  ],
+  "preferences": {
+    "spoken_source_credits": false,
+    "plain_terms": true,
+    "option_2_direction_liked": true,
+    "selection": null
+  },
+  "request": {
+    "count": 1,
+    "focus": "Refine one strong narration in the recognition direction Drew liked in option 2. Use this sequence: answer the hook with the mother placing one egg and her young feeding on the cockroach eggs; explain how to recognize the adult by its small size and flag-like body movement; finish with what this means for a homeowner who sees it, including that this wasp does not sting or bite people. Connect the thoughts naturally. Do not diagnose an infestation. This recognition lesson does not need a closing infestation disclaimer, a trap-placement lesson, jaws, an egg-laying time measurement, or a full life-cycle and exit-hole sequence. The viewer should understand what it is and what it is doing, not hear a fact list."
+  },
+  "latest_feedback": "Drew wants one carefully refined narration and fewer repeated corrections. He liked option 2's recognition direction, not its wording. Use connected, natural speech, no filler or obvious conclusions, no spoken source credits or unexplained terms, exact hook 4C and the approved outro. The narration is not approved. Compare models on the same brief before choosing a writing route.",
+  "approved_outro": "Helping you understand pests. Deep Six Pest Control."
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 54,
+  "idempotency_key": "d6-54-6fedbdd60b95c663",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e12",
+    "assessment": "supported",
+    "reason": "Quote found; supports the playbook's stated design intent. Product page, not a test of results."
+  }
+}

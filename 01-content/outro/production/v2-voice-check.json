@@ -1,0 +1,77 @@
+{
+  "source": "01-content/outro/assets/fire-ant-tyler-signoff-source-v2.mp3",
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "4.048980"
+    }
+  },
+  "asr_model": "small.en cached, CPU int8",
+  "transcript": "Helping you understand pests. Deep6 Pest Control.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": " Helping you understand pests.",
+      "words": [
+        {
+          "word": " Helping",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.7400320768356323
+        },
+        {
+          "word": " you",
+          "start": 0.44,
+          "end": 0.72,
+          "probability": 0.8660820126533508
+        },
+        {
+          "word": " understand",
+          "start": 0.72,
+          "end": 1.36,
+          "probability": 0.9860376715660095
+        },
+        {
+          "word": " pests.",
+          "start": 1.36,
+          "end": 1.9,
+          "probability": 0.9842848777770996
+        }
+      ]
+    },
+    {
+      "start": 2.58,
+      "end": 3.7,
+      "text": " Deep6 Pest Control.",
+      "words": [
+        {
+          "word": " Deep6",
+          "start": 2.58,
+          "end": 2.92,
+          "probability": 0.6121269911527634
+        },
+        {
+          "word": " Pest",
+          "start": 2.92,
+          "end": 3.34,
+          "probability": 0.9846723675727844
+        },
+        {
+          "word": " Control.",
+          "start": 3.34,
+          "end": 3.7,
+          "probability": 0.9784174561500549
+        }
+      ]
+    }
+  ],
+  "voice_identity_basis": "Same Tyler voice_id, model_id, seed and voice settings as approved fire-ant source; ASR checks words, not voice identity."
+}

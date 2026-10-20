@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 38,
+  "idempotency_key": "research-359182d1022c-a39",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "This is one explicitly listed route into homes, not a diagnosis of how a particular infestation began. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

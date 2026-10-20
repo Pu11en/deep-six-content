@@ -1,0 +1,13 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 27,
+  "idempotency_key": "research-488991e51202-a28",
+  "action": {
+    "tool": "gap",
+    "questions": [
+      "Not established; omitted from this narration: Exact cockroach egg-case deposition locations around buildings",
+      "Not established; omitted from this narration: Detailed pupation, exit route and development timing",
+      "Not established; omitted from this narration: A household monitoring procedure or infestation estimate from an adult wasp sighting"
+    ]
+  }
+}

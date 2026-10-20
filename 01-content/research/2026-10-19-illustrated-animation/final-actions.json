@@ -1,0 +1,101 @@
+{
+  "op": "actions",
+  "actions": [
+    {
+      "tool": "gap",
+      "questions": [
+        "No package was installed or renderer executed. Local speed, native dependency compatibility, finished visual quality and synchronization of the approved 78.602449-second narration remain untested.",
+        "The one-node ant rig requires species-specific anatomy review. Crawler search found a Texas A&M Imported Fire Ant Model PDF describing two nodes, but that PDF was not read. The attempted older Texas Insects page redirected to a general homepage; do not treat that redirect or the search snippet as checked body evidence.",
+        "Anidoodle README says the worked example is 47 seconds, while the source header says 60 seconds and duration comes from imports. Actual duration and the reported repeated-frame issue were not tested.",
+        "Some source snapshots are truncated. The older UF insect page and Texas Insects page redirect to general homepages and are excluded from substantive evidence; one guessed Texas A&M identification URL returned 404 before the correct page was retrieved.",
+        "Remotion commercial-license eligibility, full dependency-license compatibility and actual install resolution were not assessed. No paid service or new voice generation is required by the proposed first trial, but no all-purpose zero-cost guarantee is made.",
+        "Astra ultra appears in the existing local model cache; no new model generation or renderer benchmark was run. The recommendation remains a prototype choice, not a proven production pipeline."
+      ]
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q1",
+      "status": "addressed",
+      "evidence_ids": [
+        "e1",
+        "e4",
+        "e8",
+        "e10",
+        "e16",
+        "e17",
+        "e18"
+      ],
+      "reason": "Six candidates compared using primary descriptions and code. Ant toolkit is the first prototype recommendation because it has relevant drawing/nest modules and an inspected existing contact sheet; Anidoodle is the illustrated-art backup. No live quality ranking is claimed."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q2",
+      "status": "addressed",
+      "evidence_ids": [
+        "e3",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e20"
+      ],
+      "reason": "Record scientific corrections, new vertical layout and explicit scene timing against the existing audio. Reuse the original MP3; add naked pupae and avoid the demo central mound opening. Exact anatomy and timed output still need the future trial."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q3",
+      "status": "addressed",
+      "evidence_ids": [
+        "e2",
+        "e9",
+        "e11",
+        "e12",
+        "e15",
+        "e19"
+      ],
+      "reason": "Declared packages and licensing were read. Local read-only inspection found Node/npm/FFmpeg already installed and neither candidate installed in this project. Recommend a small isolated ant toolkit trial and a separate Playwright-based backup; no installation or spending occurred."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q4",
+      "status": "addressed",
+      "evidence_ids": [
+        "e13",
+        "e14",
+        "e20"
+      ],
+      "reason": "Known documentation/setup limitations and all untested runtime questions are explicit. Recommend a short narration-matched test showing workers move brood through a textured nest before making the full video."
+    },
+    {
+      "tool": "final",
+      "evidence_ids": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15",
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20"
+      ],
+      "caveats": [
+        "First choice and backup are caller recommendations based on fit; no new rendering, installation or full audiovisual review was performed.",
+        "Caller support checks establish contextual support in the retrieved text, not independent fact or model verification. Search snippets are leads only.",
+        "Public-source run: three searches and thirty page attempts. Twenty-nine snapshots were saved; two generic redirects are excluded from substantive evidence, and truncated snapshots are identified.",
+        "Existing approved narration remains unchanged. App files, whiteboard and diagrams were not edited. No external paid service, model call, video generation, installation or publishing occurred during this research."
+      ]
+    }
+  ]
+}

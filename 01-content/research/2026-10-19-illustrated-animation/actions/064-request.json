@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 64,
+  "idempotency_key": "d6-64-31412457b475db8a",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e16",
+    "assessment": "supported",
+    "reason": "Primary README supports timing relevance, not proof of textured pest illustration quality."
+  }
+}

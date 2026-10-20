@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 27,
+  "idempotency_key": "d6-27-12d1d3f19e4c826a",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "The same blog says videos with a pattern interrupt every 4 seconds average 58% retention versus 41% for static talking-head videos (self-reported; no method shown).",
+    "quote": "pattern interrupts every 4 seconds average 58% retention compared to 41%"
+  }
+}

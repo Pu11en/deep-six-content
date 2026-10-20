@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 17,
+  "idempotency_key": "research-488991e51202-a18",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e3",
+    "assessment": "supported",
+    "reason": "The article explicitly states that this ensign wasp does not sting or bite. This is species-specific and is not a claim about all wasps. Independent original-page check passed."
+  }
+}

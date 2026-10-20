@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-31-d1907dc27cbe4436",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://texasinsects.tamu.edu/red-imported-fire-ant/\"},\"expected_revision\":31}",
+  "revision": 32,
+  "outcome": "applied"
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 38,
+  "idempotency_key": "d6-38-2756c1935ee9427d",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The awesome-opus5-5-videos list collects videos made by asking Claude Opus 5.5 to write the animation as code.",
+    "quote": "asking Claude Opus 5.5 to write the animation as code"
+  }
+}

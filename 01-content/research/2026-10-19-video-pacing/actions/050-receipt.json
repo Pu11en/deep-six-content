@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-50-c1e4bbb44bae6b3d",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e8\",\"reason\":\"Quote found; supports the one-knowledge-beat-per-shot rule in this skill.\",\"tool\":\"check\"},\"expected_revision\":50}",
+  "revision": 51,
+  "outcome": "applied"
+}

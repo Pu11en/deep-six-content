@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 11,
+  "idempotency_key": "d6-11-61bd8db1dd1a0a86",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/README.md"
+  }
+}

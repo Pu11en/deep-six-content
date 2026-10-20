@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-6-c3b5c66cde38330b",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/package.json\"},\"expected_revision\":6}",
+  "revision": 7,
+  "outcome": "applied"
+}

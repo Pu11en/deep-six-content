@@ -1,0 +1,30 @@
+{
+  "original_sources_checked_unchanged": [
+    "01-content/brand/fun-fact-friday-spider.png",
+    "01-content/brand/style-spec.md",
+    "01-content/brand/code-mascot/reaper.svg",
+    "01-content/brand/code-mascot/compare.png",
+    "01-content/animation/brand.json",
+    "01-content/mp3-system/OUTRO-PAUSE.md",
+    "01-content/mp3-system/narrations-before-outro.json",
+    "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4"
+  ],
+  "voice_reference": "production/fire-ant-voice-reference.json",
+  "voice_policy": "One episode narrator through lesson and outro; generate the full future narration including the exact sign-off.",
+  "v1_media_rejected": true,
+  "new_media_spend_usd": 1.1452395,
+  "replacement_media_ready": true,
+  "requested_creative_model": "claude-opus-5-5",
+  "opus_direction_received": true,
+  "actual_creative_model": "claude-opus-5-5",
+  "creative_proof": "opus-v2-revision-receipt.json",
+  "scope_correction_pending": false,
+  "current_plan": "V2-PRODUCTION.md",
+  "replacement_budget_approved": true,
+  "no_fixed_brand_voice": true,
+  "media_source_prompts_ready": true,
+  "protected_originals_unchanged": true,
+  "current_review": "REVIEW-V2.md",
+  "final_checks": "final-checks-v2.json",
+  "finished_media_approved": false
+}

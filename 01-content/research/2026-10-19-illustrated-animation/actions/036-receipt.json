@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-36-9b216f517844bac7",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e2\",\"reason\":\"Complete manifest read. Transitive dependencies and installation compatibility were not tested.\",\"tool\":\"check\"},\"expected_revision\":36}",
+  "revision": 37,
+  "outcome": "applied"
+}

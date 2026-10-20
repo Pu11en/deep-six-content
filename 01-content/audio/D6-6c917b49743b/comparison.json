@@ -1,0 +1,72 @@
+{
+  "approved_narration_id": "D6-6c917b49743b",
+  "status": "waiting_audio_review",
+  "voice_id": "ljX1ZrXuDIIRVcmiVSyR",
+  "voice_name": "Michael - Genuine and Approachable",
+  "voice_selection_basis": "Live catalog description and available-account voice metadata; not a completed listening comparison. American male, middle-aged, confident; narration/training use. Standard rate 1.0.",
+  "model_id": "eleven_multilingual_v2",
+  "seed": 20261019,
+  "output_format": "mp3_44100_128",
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "authorization": "Drew explicitly requested two ElevenLabs MP3s: selected narration 2 unchanged and a voice-refined comparison. No top-up or subscription change authorized.",
+  "variants": [
+    {
+      "name": "original",
+      "text_file": "original.txt",
+      "audio_file": "original.mp3",
+      "status": "complete",
+      "text_sha256": "75465d225b3d0b86f0b0443cb69bb031a1db36b261f83cebbab321c36be83ec5",
+      "characters": 1267,
+      "started_at": "2026-10-19T19:21:43+00:00",
+      "request_id": "r1pN7ApyfB84LkeZST8n",
+      "audio_sha256": "db433c24f9bcfe691ee0c817a818260f94ca16d3abd4b09f778bda44efc31bba",
+      "bytes": 1333332,
+      "duration_seconds": 83.30449,
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1,
+      "completed_at": "2026-10-19T19:22:01+00:00"
+    },
+    {
+      "name": "refined",
+      "text_file": "refined.txt",
+      "audio_file": "refined.mp3",
+      "status": "complete",
+      "text_sha256": "fa3b61ebf3d53875693700b73e2269aa30aa56b40b9f3c9df78fe09260a1baf4",
+      "characters": 1232,
+      "started_at": "2026-10-19T19:22:01+00:00",
+      "request_id": "NtmyXmgOdctHAw4xWTIf",
+      "audio_sha256": "da4a9d062506bf77e7bf2bdd26858a609c2ea6a70f05d72a982ed8e16cdffefc",
+      "bytes": 1285685,
+      "duration_seconds": 80.326531,
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1,
+      "completed_at": "2026-10-19T19:22:18+00:00"
+    }
+  ],
+  "comparison_limit": "Same voice/model/settings/seed; model generation is nondeterministic, so this is not a controlled causal test. Refined wording is a comparison draft, not a replacement of the approved original.",
+  "research_sources": [
+    "https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech",
+    "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+    "https://elevenlabs.io/docs/overview/models",
+    "https://elevenlabs.io/docs/api-reference/text-to-speech/convert"
+  ],
+  "available_characters_before": 3466,
+  "available_characters_after": 2917,
+  "observed_credit_change": 549,
+  "supporting_texas_reference": {
+    "title": "University of Texas Fire Ant Project FAQ, question 14",
+    "url": "https://www.sbs.utexas.edu/fireant/FAQ%20Answers.html",
+    "checked": "2026-10-19",
+    "supports": "Workers move brood higher in wet conditions and deeper into more humid chambers in dry conditions. Historical biology reference; no current treatment or range claims used."
+  },
+  "preferred_script_variant": "original",
+  "voice_feedback": "Rejected Michael as boring/monotone; pronunciation issues reported, exact words not yet identified."
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+    "quote": "slender ovipositor into the tough ootheca"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case. An egg case successfully consumed in this way will not produce cockroaches.",
+    "quote": "dozen or more cockroach eggs"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The ensign wasp described in this article does not sting or bite people.",
+    "quote": "does not sting or bite"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+    "quote": "unique, stalked abdomen"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases.",
+    "quote": "solitary predators of cockroach (Blattodea) eggs inside oothecae"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Many insect parasitoids specialize on one or a few closely related host species.",
+    "quote": "often specialized on only one or a few closely related species of prey"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-12-0ebd1b944788ced8",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/\"},\"expected_revision\":12}",
+  "revision": 13,
+  "outcome": "applied"
+}

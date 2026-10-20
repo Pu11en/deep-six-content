@@ -1,0 +1,15 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 21,
+  "idempotency_key": "research-488991e51202-a22",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "unanswered",
+    "evidence_ids": [
+      "e1",
+      "e2"
+    ],
+    "reason": "The selected source establishes a tough case enclosing multiple cockroach eggs. Precise American cockroach deposition locations around buildings were not verified in an accepted supporting card and will be omitted. That optional detail is not needed to answer the chosen hook."
+  }
+}

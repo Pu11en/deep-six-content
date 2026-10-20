@@ -1,0 +1,21 @@
+{
+  "checked_utc": "2026-10-20T03:03:12.688398+00:00",
+  "episode": "Deep Six Fire Ants Full v2",
+  "voice_name": "Tyler",
+  "provider": "ElevenLabs",
+  "voice_id": "rPMkKgdwgIwqv4fXgR6N",
+  "model_id": "eleven_v4",
+  "seed": 20261019,
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "output_format": "mp3_44100_128",
+  "approved_manifest": "01-content/audio/D6-6c917b49743b/full-original-tyler-01/comparison.json",
+  "approved_audio": "01-content/audio/D6-6c917b49743b/full-original-tyler-01/original-tyler.mp3",
+  "audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+  "matches_full_v2_scene_reference": true,
+  "current_video_rule": "Use Tyler and matching existing delivery. Preserve approved audio; any later ending extension must be a separate reviewed output.",
+  "future_video_rule": "Include the outro line in each full narration and generate it in that episode's chosen voice. No fixed separately voiced outro track.",
+  "new_audio_generated": false
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-41-81712e6fc2484efe",
+  "payload": "{\"action\":{\"claim\":\"The colony module supplies cocoon artwork.\",\"quote\":\"export function cocoon(ctx, s = 1)\",\"source_id\":\"s14\",\"tool\":\"evidence\"},\"expected_revision\":41}",
+  "revision": 42,
+  "outcome": "applied"
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-49-c5cadb0925fd2862",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e7\",\"reason\":\"Quote found; supports the 2-4 s per shot figure for 15 s videos in this AI-production skill. The comparison with measured shorts is the caller's inference, not in the page.\",\"tool\":\"check\"},\"expected_revision\":49}",
+  "revision": 50,
+  "outcome": "applied"
+}

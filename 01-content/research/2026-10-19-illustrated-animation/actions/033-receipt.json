@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-33-9557fef7ab53d786",
+  "payload": "{\"action\":{\"claim\":\"The ant toolkit describes code-drawn textured 2D scenes and cross-sections.\",\"quote\":\"paper grain, hatching, brush ink, watercolour that blooms\",\"source_id\":\"s1\",\"tool\":\"evidence\"},\"expected_revision\":33}",
+  "revision": 34,
+  "outcome": "applied"
+}

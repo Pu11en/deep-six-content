@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-61-62dffd8af33cb973",
+  "payload": "{\"action\":{\"claim\":\"The inspected Remotion license lists for-profit organizations up to three employees as eligible for free use; other groups and company-license conditions apply.\",\"quote\":\"- a for-profit organization with up to 3 employees\",\"source_id\":\"s16\",\"tool\":\"evidence\"},\"expected_revision\":61}",
+  "revision": 62,
+  "outcome": "applied"
+}

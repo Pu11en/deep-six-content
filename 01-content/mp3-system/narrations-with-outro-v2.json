@@ -1,0 +1,126 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-17d3b5e23088",
+  "status": "waiting_narrations",
+  "created_at": "2026-10-20T04:34:05+00:00",
+  "selected_hook": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+  "approved_signoff": "Helping you understand pests. Deep Six Pest Control.",
+  "approval_file": "01-content/outro/production/finished-outro-approval-v2.json",
+  "ranking_is_editorial": true,
+  "body_edits": "Revised only the final teaching paragraph or closing sentence in each option, preserving hook, core teaching, order and exact approved sign-off.",
+  "scripts": [
+    {
+      "rank": 1,
+      "original_number": 6,
+      "original_batch": 2,
+      "original_option": 1,
+      "title": "Getting through the egg case",
+      "reason": "Strongest link between an unusual biological mechanism and a concrete inspection lesson.",
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nAn ensign wasp is putting her young beside its food. But getting through that case takes work.\n\nShe braces herself against it and pushes in a slender egg-laying organ. The University of Florida describes this step as usually taking 15 to 30 minutes.\n\nShe leaves one egg inside. The larva that hatches has pointed jaws with small teeth for cutting through the individual cockroach eggs.\n\nAmerican cockroaches, one of this wasp's hosts, leave their egg cases in cracks and crevices. So when you inspect those warm, damp hiding places, look for egg cases as well as live roaches.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SUP-d34ca591f2c4-F1",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-139443c3574f-F1",
+        "SUP-b8f992d02be3-F2"
+      ],
+      "original_text_sha256": "ead484e6b78bb6631f0bfaf62fff48fd0595a55b26201bacec5c47ea287b669d",
+      "transition": "A revised final teaching thought closes the lesson. The same narrator takes a natural breath, then delivers the exact approved sign-off. Pause and visual directions are not spoken.",
+      "closing_revision": {
+        "previous": "During an inspection, check those gaps in warm, damp areas, including sheltered spaces under sinks.",
+        "replacement": "So when you inspect those warm, damp hiding places, look for egg cases as well as live roaches."
+      }
+    },
+    {
+      "rank": 2,
+      "original_number": 7,
+      "original_batch": 2,
+      "original_option": 2,
+      "title": "Recognizing the wasp",
+      "reason": "Useful identification details explain the visitor and lead to a practical inspection step.",
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nThat's an ensign wasp. Her young feeds on the cockroach eggs inside.\n\nThe adult has an unusual shape: a tiny abdomen perched on a thin stalk. It flicks that part of its body up and down like a flag. Ensign is another word for a flag.\n\nThis wasp is only about five to seven millimeters long, and it doesn't sting or bite people.\n\nIf you find one indoors, place small insect monitoring cards tight against walls under sinks or behind appliances.\n\nUse the traps to check for cockroaches, and leave the harmless ensign wasp alone.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-b8f992d02be3-F1",
+        "SUP-b8f992d02be3-F2",
+        "SUP-b8f992d02be3-F3"
+      ],
+      "original_text_sha256": "9916bd1dbbf26dfbb76a0a135bdc220daef8adb57141310981e71cb76412ca57",
+      "transition": "A revised final teaching thought closes the lesson. The same narrator takes a natural breath, then delivers the exact approved sign-off. Pause and visual directions are not spoken.",
+      "closing_revision": {
+        "previous": "If you find one indoors, check for cockroach activity. Small insect monitoring cards under sinks or behind appliances can help you find where roaches are moving. Set them tight against a wall, along the edges the insects follow.",
+        "replacement": "If you find one indoors, place small insect monitoring cards tight against walls under sinks or behind appliances.\n\nUse the traps to check for cockroaches, and leave the harmless ensign wasp alone."
+      }
+    },
+    {
+      "rank": 3,
+      "original_number": 10,
+      "original_batch": 2,
+      "original_option": 5,
+      "title": "From egg to adult, inside the case",
+      "reason": "A coherent visual story follows the wasp through feeding, pupation and emergence.",
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nThe cockroach eggs feed a young ensign wasp, but the case also holds it while it grows into an adult.\n\nThe mother places one egg inside. When it hatches, the larva uses pointed jaws with tiny teeth to cut through the individual cockroach eggs.\n\nAfter feeding and growing, it becomes a pupa inside the same case. It doesn't spin a cocoon.\n\nThe adult cuts a small, round hole with a jagged edge near one end of the case. So the insect emerging from a cockroach egg case may turn out to be an ensign wasp.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3"
+      ],
+      "original_text_sha256": "f44bf270f98e6c46d2dd49fe932c0f9b7b7d74c8030523c4deebbcff8591165d",
+      "transition": "A revised final teaching thought closes the lesson. The same narrator takes a natural breath, then delivers the exact approved sign-off. Pause and visual directions are not spoken.",
+      "closing_revision": {
+        "previous": "The adult cuts its way out, leaving a small, round hole with a jagged edge near one end of the case.",
+        "replacement": "The adult cuts a small, round hole with a jagged edge near one end of the case. So the insect emerging from a cockroach egg case may turn out to be an ensign wasp."
+      }
+    },
+    {
+      "rank": 4,
+      "original_number": 9,
+      "original_batch": 2,
+      "original_option": 4,
+      "title": "Finding where roaches are active",
+      "reason": "Specific trap-placement advice explains where to monitor and how catches guide inspection.",
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nAn ensign wasp leaves one egg inside, where her young will feed on the cockroach eggs.\n\nIf you spot the adult indoors and want to check for roaches, start with small insect monitoring cards.\n\nRoaches tend to follow edges. Place the cards directly against walls under sinks or behind the refrigerator, with the openings lined up along the wall.\n\nUse several locations and compare catches. The traps work while you're asleep or away, helping show where activity is concentrated.\n\nA card near an exterior door can also help detect outdoor cockroaches coming in. Keep checking the cards over time to see whether catches rise or fall. So start your inspection where the traps show the most activity.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SUP-b8f992d02be3-F1",
+        "SUP-b8f992d02be3-F2",
+        "SUP-b8f992d02be3-F3"
+      ],
+      "original_text_sha256": "4c01cb86ddab474f879f1694515330a4e41607f3fbe2166c3fccbf2fa09b2c3f",
+      "transition": "A revised final teaching thought closes the lesson. The same narrator takes a natural breath, then delivers the exact approved sign-off. Pause and visual directions are not spoken.",
+      "closing_revision": {
+        "previous": "Start the closer inspection near the cards catching the most roaches.",
+        "replacement": "So start your inspection where the traps show the most activity."
+      }
+    },
+    {
+      "rank": 5,
+      "original_number": 8,
+      "original_batch": 2,
+      "original_option": 3,
+      "title": "Checking for roaches and their eggs",
+      "reason": "Brief egg-case comparison and packing advice add practical prevention value, with a looser connection to the wasp story.",
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nAn ensign wasp lays one egg there so her young can feed on the cockroach eggs. American cockroaches are among its hosts.\n\nAmerican females leave their egg cases in cracks or crevices. German females carry theirs until the eggs are ready to hatch.\n\nCorrugated cardboard gives roaches hiding places, so remove unnecessary boxes after unpacking.\n\nBefore bags, boxes or luggage come through the door, check for both live roaches and their egg cases.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SUP-139443c3574f-F1",
+        "SUP-139443c3574f-F2",
+        "SUP-139443c3574f-F3"
+      ],
+      "original_text_sha256": "632678f51312ffcb3f34f400f9ad43a4ee659cb22d5b421d4d27284d8f325b2e",
+      "transition": "A revised final teaching thought closes the lesson. The same narrator takes a natural breath, then delivers the exact approved sign-off. Pause and visual directions are not spoken.",
+      "closing_revision": {
+        "previous": "When you bring bags, boxes or luggage indoors, check for both roaches and egg cases. Corrugated cardboard also provides hiding places, so remove unnecessary boxes after unpacking.",
+        "replacement": "Corrugated cardboard gives roaches hiding places, so remove unnecessary boxes after unpacking.\n\nBefore bags, boxes or luggage come through the door, check for both live roaches and their egg cases."
+      }
+    }
+  ],
+  "previous_version": "01-content/mp3-system/narrations-with-outro-v1.json"
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 7,
+  "idempotency_key": "research-8a92111d8a9a-a8",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The profile names Oriental, American and Australian cockroaches as hosts of Evania appendigaster and describes it as common in much of the southern United States. It does not name German cockroaches as hosts.",
+    "quote": "common in much of the southern US"
+  }
+}

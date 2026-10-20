@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-25-f335bb34f07cea32",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/engine/tools/render.mjs\"},\"expected_revision\":25}",
+  "revision": 26,
+  "outcome": "applied"
+}

@@ -1,0 +1,11 @@
+{
+  "foreground": true,
+  "pause_and_rewind_sent": true,
+  "viewer": "Windows ffplay",
+  "screenshot_taken": false,
+  "controls": "Space plays/pauses. Esc closes.",
+  "status": "foreground_pause_requested",
+  "window_title": "Deep Six Video Preview",
+  "video_sha256": "ea772c18ca5fec3ac3fca72b35ddb181dbf7ea43944eab956e3902dad2f9e5f0",
+  "browser_opened": false
+}

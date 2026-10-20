@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 42,
+  "idempotency_key": "d6-42-33b179771f152af9",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s15",
+    "claim": "A listed creator says the video code synced every cut to a synthesized music beat.",
+    "quote": "synced every cut to it"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 37,
+  "idempotency_key": "research-359182d1022c-a38",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e3",
+    "assessment": "supported",
+    "reason": "The FAQ directly rejects cleanliness as a conclusion from finding roaches. Later prevention advice preserves the value of sanitation. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

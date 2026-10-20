@@ -1,0 +1,56 @@
+{
+  "started_utc": "2026-10-20T03:49:16.493292+00:00",
+  "status": "generated_pending_review",
+  "phase": "replacement_v2",
+  "category": "video",
+  "model": "gemini-omni-1.1-flash",
+  "generation_requests": 1,
+  "automatic_retry": false,
+  "approval_file": "01-content/outro/production/v2-production-approval.json",
+  "approved_cap_usd": 1.25,
+  "conservative_token_cost_bound_usd": 1.173208,
+  "prior_estimated_or_reserved_production_usd": 1.257493,
+  "input_token_allowance": 17552,
+  "generation_config": {
+    "max_output_tokens": 65536
+  },
+  "prompt_sha256": "884d500912fc0a9d345e415ca466b5b0d3bf05259a52f0c0cff8a5adbfd673b2",
+  "references": {
+    "01-content/outro/assets/outro-v2-start.jpg": "6c8d3d750c619d544777b99468db38a488f764ee7fb8345d798cacbbe26b7f6b",
+    "01-content/outro/assets/outro-v2-end.jpg": "cad0d69ce9e46f16aa31aa10b37e43d5ab5c6b0053991a95189d9b2d8871fc18"
+  },
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "rates_checked_date": "2026-10-19",
+  "cost_is_invoice_confirmed": false,
+  "provider_status": "completed",
+  "interaction_id": null,
+  "output": "01-content/outro/assets/mascot-motion-source-v2.mp4",
+  "sha256": "3c170766572aa25f4bc7a75f1ea21607da37fc6dcfcf05b767df4c29a6ce6569",
+  "bytes": 1932290,
+  "usage": {
+    "total_tokens": 61106,
+    "total_input_tokens": 2461,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 2200
+      },
+      {
+        "modality": "text",
+        "tokens": 261
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 57920,
+    "output_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 57920
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 725
+  },
+  "estimated_api_cost_usd": 1.0238165,
+  "finished_utc": "2026-10-20T03:49:51.259578+00:00"
+}

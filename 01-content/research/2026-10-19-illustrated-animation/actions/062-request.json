@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 62,
+  "idempotency_key": "d6-62-eb92d8fb6832aaaa",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e15",
+    "assessment": "supported",
+    "reason": "Full license read, including other eligible groups and Company License. Entity eligibility was not assessed. File also flags Remotion 5 changes; do not assume commercial use is free."
+  }
+}

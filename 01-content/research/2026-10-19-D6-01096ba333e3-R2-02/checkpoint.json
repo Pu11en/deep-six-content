@@ -1,0 +1,20 @@
+{
+  "status": "imported",
+  "harness_request_id": "research-8a92111d8a9a",
+  "run_id": "D6-01096ba333e3",
+  "pending_action": null,
+  "planning_session_id": "08afca3a-c7a1-4928-a894-79d14bea13ff",
+  "crawler_job_id": "77e8f770-f158-417d-9961-5d193cfce134",
+  "agent_revision": 31,
+  "usage": {
+    "calls": 0,
+    "pages": 4,
+    "searches": 0,
+    "steps": 31
+  },
+  "active_seconds": 7.534228636941407,
+  "crawler_status": "finished",
+  "writing_status": "waiting_narrations",
+  "review_id": "review-35acddaa7f3e",
+  "presentation": "Full narration text in chat; no preview opened."
+}

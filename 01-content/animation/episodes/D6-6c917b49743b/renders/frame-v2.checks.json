@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "width": 1080,
+  "height": 1920,
+  "png_sha256": "39e778db2e00de4124bb80be81873dbc0565ee4158e9753ae0cb7091e7ce0194",
+  "fresh_render_matches": true,
+  "repeated_draw_matches": true,
+  "earlier_frame_unchanged": true,
+  "illustration_pixels_unchanged_between_y350_and_y1580": true,
+  "exact_palette_pixel_counts": {
+    "cream": 445,
+    "paper": 2924,
+    "ink": 4035,
+    "purple": 287163,
+    "lime": 11761
+  },
+  "non_opaque_pixels": 0,
+  "review_status": "pending",
+  "scope": "Ad colors applied to brand framing and typography. Original insect/nest artwork preserved. No animation or new narration generated."
+}

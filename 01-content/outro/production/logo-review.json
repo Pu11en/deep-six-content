@@ -1,0 +1,14 @@
+{
+  "source": "https://www.deepsixpest.com/wp-content/uploads/2026/02/Header_Logo.png",
+  "official_original": "01-content/outro/assets/official-header-logo.png",
+  "compositing_copy": "01-content/outro/assets/deep-six-logo.png",
+  "sha256": "135630619ad2fe7d263d27f2a380e9add1f8c733d1005e889d8b93f4b9560ee6",
+  "original_size": [
+    172,
+    100
+  ],
+  "unchanged_pixels": true,
+  "use": "Original transparent website logo composited as a stable overlay. No generative lettering.",
+  "limit": "The website source is small; standard local scaling is used, with no claim of added source detail.",
+  "other_references": "The ad has extra stylistic outlines and accents. The website logo supplies the actual clean wordmark."
+}

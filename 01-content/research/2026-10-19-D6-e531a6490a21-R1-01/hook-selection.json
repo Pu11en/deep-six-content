@@ -1,0 +1,17 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "label": "4C",
+  "review_id": "review-b5413ec2a6fb",
+  "number": 4,
+  "hook": {
+    "source_id": "SRC-0fa91dcbc971",
+    "text": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+    "fact_ids": [
+      "SRC-0fa91dcbc971-F1",
+      "SRC-0fa91dcbc971-F2"
+    ],
+    "payoff": "Explain that the ensign wasp puts an egg inside the cockroach egg case so its developing young can feed on the cockroach eggs, and introduce what an ensign wasp is in plain English."
+  },
+  "feedback": "Drew chose variation 4C: \"Why would a wasp lay its egg inside a cockroach’s egg case?\" He called 4B the worst option. Keep the chosen opening exact. Explain what an ensign wasp is naturally after the hook. No em dashes.",
+  "at": "2026-10-19T23:56:58+00:00"
+}

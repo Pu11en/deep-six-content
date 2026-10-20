@@ -1,0 +1,47 @@
+{
+  "episode_id": "D6-6c917b49743b",
+  "status": "style_selected",
+  "selected_option": "C",
+  "feedback": [
+    {
+      "at": "2026-10-19T21:30:30.874783+00:00",
+      "user_text": "c",
+      "meaning": "Selected C, cut-paper storybook; no additional reason stated."
+    }
+  ],
+  "candidates": [
+    {
+      "key": "A",
+      "name": "Illustrated science book",
+      "description": "The existing warm, detailed illustration with Deep Six branding.",
+      "image": "../renders/frame-v2.png",
+      "manifest": "../renders/frame-v2.json",
+      "review": "../renders/frame-v2.review.json"
+    },
+    {
+      "key": "B",
+      "name": "Bold cartoon",
+      "description": "Thick outlines, cel shading and lively shapes.",
+      "image": "cartoon/renders/frame-v1.png",
+      "manifest": "cartoon/renders/frame-v1.json",
+      "review": "cartoon/renders/frame-v1.review.json"
+    },
+    {
+      "key": "C",
+      "name": "Cut-paper storybook",
+      "description": "Layered paper shapes, tactile texture and soft shadows.",
+      "image": "paper/renders/frame-v1.png",
+      "manifest": "paper/renders/frame-v1.json",
+      "review": "paper/renders/frame-v1.review.json"
+    },
+    {
+      "key": "D",
+      "name": "Cinematic miniature",
+      "description": "Rounded sculptural forms, depth and warm lighting.",
+      "image": "miniature/renders/frame-v1.png",
+      "manifest": "miniature/renders/frame-v1.json",
+      "review": "miniature/renders/frame-v1.review.json"
+    }
+  ],
+  "selected_at": "2026-10-19T21:30:30.874783+00:00"
+}

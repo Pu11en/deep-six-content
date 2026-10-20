@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 14,
+  "idempotency_key": "d6-14-df3ed223db9c0834",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/inference-sh/skills/main/guides/video/explainer-video-guide/SKILL.md"
+  }
+}

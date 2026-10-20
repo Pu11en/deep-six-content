@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 20,
+  "idempotency_key": "research-488991e51202-a21",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e6",
+    "assessment": "supported",
+    "reason": "The extension article describes specialization on one or a few related hosts in parasitoids generally. This is context, not a measured host range or a control guarantee for Evania. Independent original-page check passed."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-35-d4759c6bf7d52902",
+  "payload": "{\"action\":{\"claim\":\"The ant package declares @napi-rs/canvas ^0.1.65 as its sole direct dependency.\",\"quote\":\"\\\"dependencies\\\": { \\\"@napi-rs/canvas\\\": \\\"^0.1.65\\\" }\",\"source_id\":\"s6\",\"tool\":\"evidence\"},\"expected_revision\":35}",
+  "revision": 36,
+  "outcome": "applied"
+}

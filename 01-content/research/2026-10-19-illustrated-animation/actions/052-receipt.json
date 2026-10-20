@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-52-b95e63e4ab1edc4e",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e10\",\"reason\":\"A candidate visual vocabulary described by its author; not a tested fire-ant result.\",\"tool\":\"check\"},\"expected_revision\":52}",
+  "revision": 53,
+  "outcome": "applied"
+}

@@ -1,0 +1,687 @@
+{
+  "client_id": "imac-research",
+  "request_id": "research-359182d1022c",
+  "run_id": "D6-e531a6490a21",
+  "stage": "sources",
+  "planning_session_id": "bfecca6d-9fbe-46ba-b036-39549aa582a8",
+  "crawler_request_id": "50cd370c-82db-4e8f-b8d8-7955d26453f6",
+  "crawler_job_id": "c69b13cb-fe36-4c91-8b9c-dcd8ffc39dbb",
+  "status": "finished",
+  "usage": {
+    "calls": 0,
+    "pages": 19,
+    "searches": 4,
+    "steps": 51
+  },
+  "active_seconds": 34.284467071061954,
+  "checked_at": "2026-10-19T23:22:53.604362+00:00",
+  "source_mapping": [
+    {
+      "candidate_number": 1,
+      "crawler_source_id": "s14",
+      "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+      "quote_words": 22,
+      "crawler_text_sha256": "25ad24cabd3ef5e612b84711cf19fcbcf52626902d002f07045efefa386b9901",
+      "truncated": false
+    },
+    {
+      "candidate_number": 2,
+      "crawler_source_id": "s6",
+      "url": "https://npic.orst.edu/faq/roach.html",
+      "quote_words": 21,
+      "crawler_text_sha256": "e912d9657cb95513312bc04ac863065866e93adb7257b941083a9cf124a7a572",
+      "truncated": false
+    },
+    {
+      "candidate_number": 3,
+      "crawler_source_id": "s3",
+      "url": "https://npic.orst.edu/pest/roach.html",
+      "quote_words": 18,
+      "crawler_text_sha256": "491fc5edb1603653b3ec08dd9259be3847131f889750c0f392b072ac4e1fe475",
+      "truncated": false
+    },
+    {
+      "candidate_number": 4,
+      "crawler_source_id": "s1",
+      "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+      "quote_words": 19,
+      "crawler_text_sha256": "4cee8d54d7a78e44c1bbf0f773595090fff8ce4eba56f6420d8ec6322f2fac2c",
+      "truncated": false
+    },
+    {
+      "candidate_number": 5,
+      "crawler_source_id": "s9",
+      "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+      "quote_words": 22,
+      "crawler_text_sha256": "2b876133731aa19768b3fdd079dee7661db232cb69111bf616f36897ec6dc54a",
+      "truncated": false
+    }
+  ],
+  "evidence": [
+    {
+      "claim": "A female ensign wasp places a single egg inside a cockroach egg case.",
+      "created_call": 0,
+      "created_revision": 24,
+      "id": "e1",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The surrounding paragraph identifies the female ensign wasp, insertion into the cockroach ootheca, and laying a single egg. Scope remains the named host relationship. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 36
+      },
+      "quote": "lays a single egg",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s14"
+    },
+    {
+      "claim": "The ensign wasp described in this article does not sting or bite people.",
+      "created_call": 0,
+      "created_revision": 26,
+      "id": "e2",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The article explicitly says this ensign wasp does not sting or bite. This statement is not extended to other wasps. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 37
+      },
+      "quote": "it does not sting or bite",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s14"
+    },
+    {
+      "claim": "Finding cockroaches alone does not establish that a home is dirty.",
+      "created_call": 0,
+      "created_revision": 27,
+      "id": "e3",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The FAQ directly rejects cleanliness as a conclusion from finding roaches. Later prevention advice preserves the value of sanitation. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 38
+      },
+      "quote": "Finding roaches is not a sign that your house is dirty.",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s6"
+    },
+    {
+      "claim": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+      "created_call": 0,
+      "created_revision": 28,
+      "id": "e4",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "This is one explicitly listed route into homes, not a diagnosis of how a particular infestation began. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 39
+      },
+      "quote": "Hitching a ride on bags, backpacks, suitcases and other containers.",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s6"
+    },
+    {
+      "claim": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+      "created_call": 0,
+      "created_revision": 29,
+      "id": "e5",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The control tips immediately pair dead cockroaches, eggs and feces with attraction to their debris. Chemical mechanisms and effect sizes remain unestablished here. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 40
+      },
+      "quote": "Cockroaches are attracted to their own debris.",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s3"
+    },
+    {
+      "claim": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+      "created_call": 0,
+      "created_revision": 30,
+      "id": "e6",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The following sentence says these monitors can identify problem areas. The claim is monitoring, not proven complete control. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 41
+      },
+      "quote": "Monitor and assess cockroach activity using sticky traps or glue boards.",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s3"
+    },
+    {
+      "claim": "Adult male Turkestan cockroaches are slender and brownish orange/red, with long yellowish wings.",
+      "created_call": 0,
+      "created_revision": 31,
+      "id": "e7",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The paragraph explicitly identifies adult males before the quoted color, shape and wing description. No current Central Texas distribution is inferred. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 42
+      },
+      "quote": "brownish orange/red, slender, and have long, yellowish wings",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s1"
+    },
+    {
+      "claim": "Adult female Turkestan cockroaches are broader than males and have short vestigial wings.",
+      "created_call": 0,
+      "created_revision": 32,
+      "id": "e8",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The immediately preceding sentences identify adult female Turkestan cockroaches; the quoted comparison refers to them, not nymphs. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 43
+      },
+      "quote": "They are broader than Turkestan males and have short vestigial wings.",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s1"
+    },
+    {
+      "claim": "In the apartment study summarized here, fogger-treated homes showed no significant decrease in free-roaming German cockroach numbers two to four weeks later.",
+      "created_call": 0,
+      "created_revision": 33,
+      "id": "e9",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The full paragraph specifies fogger-treated apartments, free-roaming cockroach counts and two-to-four-week follow-up; the study population is German cockroaches. No universal treatment claim is made. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 44
+      },
+      "quote": "there was no significant drop in these wild cockroach numbers",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s9"
+    },
+    {
+      "claim": "The extension article explains that cockroaches can retreat to protected crevices when they sense an irritating insecticide.",
+      "created_call": 0,
+      "created_revision": 34,
+      "id": "e10",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The sentence explicitly describes retreat into protected cracks in response to irritating insecticide. The article separately discusses resistance, so hiding is not asserted as the sole experimental cause. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 45
+      },
+      "quote": "cockroaches typically hide in protective crevices when they sense an irritating insecticide",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s9"
+    },
+    {
+      "claim": "The developing wasp larva feeds on cockroach eggs inside that case.",
+      "created_call": 0,
+      "created_revision": 35,
+      "id": "e11",
+      "judgment": {
+        "independent_fact_verification": false,
+        "independent_model_verification": false,
+        "kind": "caller_assessment",
+        "reason": "The paragraph describes the wasp larva developing inside the cockroach egg case while consuming its eggs. The exact original nonbreaking space was preserved for literal anchoring. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+        "revision": 46
+      },
+      "quote": "wasp larva matures while feeding on the dozen or more cockroach eggs",
+      "quote_found": true,
+      "semantic_support": "supported",
+      "source_exists": true,
+      "source_id": "s14"
+    }
+  ],
+  "coverage": [
+    {
+      "evidence_ids": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11"
+      ],
+      "id": "q1",
+      "question": "Which five distinct original publications can support useful lessons about cockroach biology, behavior, identification or nonchemical prevention?",
+      "reason": "Five distinct eligible publications passed original-page checks: egg-case parasitism, entry into clean homes, debris attraction and monitoring, Turkestan sex differences, and protected hiding in an apartment fogger study.",
+      "status": "addressed"
+    },
+    {
+      "evidence_ids": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11"
+      ],
+      "id": "q2",
+      "question": "What does each source teach, why would a homeowner care, and does the main source itself support an honest hook?",
+      "reason": "Each result card describes a separate homeowner lesson supported by its main article. Supporting science follows human source and hook choices; no hooks or scripts have been generated.",
+      "status": "addressed"
+    },
+    {
+      "evidence_ids": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11"
+      ],
+      "id": "q3",
+      "question": "Which exact passages support each lesson, and what species, geographic, date or evidence limits matter?",
+      "reason": "Eleven anchored facts use 18 to 22 quoted words per publication. Cards retain species, dates or undated status, geography, study limits and unresolved mechanisms. No selected crawler snapshot is truncated.",
+      "status": "addressed"
+    },
+    {
+      "evidence_ids": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11"
+      ],
+      "id": "q4",
+      "question": "Are any candidates duplicate, reserved, inaccessible, too shallow or unsupported? What remains unknown?",
+      "reason": "Original-page validator rejected no selected cards and found no reserved publication matches. Excluded duplicate PDF editions, unsupported PDF retrieval, document shells, thin pages and out-of-scope treatment material. Four accidentally followed sharing links provide no evidence; the local read dispatcher now restricts publisher domains.",
+      "status": "addressed"
+    }
+  ],
+  "crawler_result": {
+    "claims": [
+      {
+        "evidence_id": "e1",
+        "claim": "A female ensign wasp places a single egg inside a cockroach egg case.",
+        "quote": "lays a single egg",
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "source_sha256": "25ad24cabd3ef5e612b84711cf19fcbcf52626902d002f07045efefa386b9901",
+        "fetched_at": 1792451909.1512642,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The surrounding paragraph identifies the female ensign wasp, insertion into the cockroach ootheca, and laying a single egg. Scope remains the named host relationship. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 36
+        }
+      },
+      {
+        "evidence_id": "e2",
+        "claim": "The ensign wasp described in this article does not sting or bite people.",
+        "quote": "it does not sting or bite",
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "source_sha256": "25ad24cabd3ef5e612b84711cf19fcbcf52626902d002f07045efefa386b9901",
+        "fetched_at": 1792451909.1512642,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The article explicitly says this ensign wasp does not sting or bite. This statement is not extended to other wasps. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 37
+        }
+      },
+      {
+        "evidence_id": "e3",
+        "claim": "Finding cockroaches alone does not establish that a home is dirty.",
+        "quote": "Finding roaches is not a sign that your house is dirty.",
+        "url": "https://npic.orst.edu/faq/roach.html",
+        "source_sha256": "e912d9657cb95513312bc04ac863065866e93adb7257b941083a9cf124a7a572",
+        "fetched_at": 1792451802.337717,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The FAQ directly rejects cleanliness as a conclusion from finding roaches. Later prevention advice preserves the value of sanitation. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 38
+        }
+      },
+      {
+        "evidence_id": "e4",
+        "claim": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+        "quote": "Hitching a ride on bags, backpacks, suitcases and other containers.",
+        "url": "https://npic.orst.edu/faq/roach.html",
+        "source_sha256": "e912d9657cb95513312bc04ac863065866e93adb7257b941083a9cf124a7a572",
+        "fetched_at": 1792451802.337717,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "This is one explicitly listed route into homes, not a diagnosis of how a particular infestation began. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 39
+        }
+      },
+      {
+        "evidence_id": "e5",
+        "claim": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+        "quote": "Cockroaches are attracted to their own debris.",
+        "url": "https://npic.orst.edu/pest/roach.html",
+        "source_sha256": "491fc5edb1603653b3ec08dd9259be3847131f889750c0f392b072ac4e1fe475",
+        "fetched_at": 1792451734.4407096,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The control tips immediately pair dead cockroaches, eggs and feces with attraction to their debris. Chemical mechanisms and effect sizes remain unestablished here. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 40
+        }
+      },
+      {
+        "evidence_id": "e6",
+        "claim": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+        "quote": "Monitor and assess cockroach activity using sticky traps or glue boards.",
+        "url": "https://npic.orst.edu/pest/roach.html",
+        "source_sha256": "491fc5edb1603653b3ec08dd9259be3847131f889750c0f392b072ac4e1fe475",
+        "fetched_at": 1792451734.4407096,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The following sentence says these monitors can identify problem areas. The claim is monitoring, not proven complete control. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 41
+        }
+      },
+      {
+        "evidence_id": "e7",
+        "claim": "Adult male Turkestan cockroaches are slender and brownish orange/red, with long yellowish wings.",
+        "quote": "brownish orange/red, slender, and have long, yellowish wings",
+        "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+        "source_sha256": "4cee8d54d7a78e44c1bbf0f773595090fff8ce4eba56f6420d8ec6322f2fac2c",
+        "fetched_at": 1792451666.6244106,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The paragraph explicitly identifies adult males before the quoted color, shape and wing description. No current Central Texas distribution is inferred. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 42
+        }
+      },
+      {
+        "evidence_id": "e8",
+        "claim": "Adult female Turkestan cockroaches are broader than males and have short vestigial wings.",
+        "quote": "They are broader than Turkestan males and have short vestigial wings.",
+        "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+        "source_sha256": "4cee8d54d7a78e44c1bbf0f773595090fff8ce4eba56f6420d8ec6322f2fac2c",
+        "fetched_at": 1792451666.6244106,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The immediately preceding sentences identify adult female Turkestan cockroaches; the quoted comparison refers to them, not nymphs. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 43
+        }
+      },
+      {
+        "evidence_id": "e9",
+        "claim": "In the apartment study summarized here, fogger-treated homes showed no significant decrease in free-roaming German cockroach numbers two to four weeks later.",
+        "quote": "there was no significant drop in these wild cockroach numbers",
+        "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+        "source_sha256": "2b876133731aa19768b3fdd079dee7661db232cb69111bf616f36897ec6dc54a",
+        "fetched_at": 1792451828.582851,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The full paragraph specifies fogger-treated apartments, free-roaming cockroach counts and two-to-four-week follow-up; the study population is German cockroaches. No universal treatment claim is made. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 44
+        }
+      },
+      {
+        "evidence_id": "e10",
+        "claim": "The extension article explains that cockroaches can retreat to protected crevices when they sense an irritating insecticide.",
+        "quote": "cockroaches typically hide in protective crevices when they sense an irritating insecticide",
+        "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+        "source_sha256": "2b876133731aa19768b3fdd079dee7661db232cb69111bf616f36897ec6dc54a",
+        "fetched_at": 1792451828.582851,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The sentence explicitly describes retreat into protected cracks in response to irritating insecticide. The article separately discusses resistance, so hiding is not asserted as the sole experimental cause. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 45
+        }
+      },
+      {
+        "evidence_id": "e11",
+        "claim": "The developing wasp larva feeds on cockroach eggs inside that case.",
+        "quote": "wasp larva matures while feeding on the dozen or more cockroach eggs",
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "source_sha256": "25ad24cabd3ef5e612b84711cf19fcbcf52626902d002f07045efefa386b9901",
+        "fetched_at": 1792451909.1512642,
+        "source_exists": true,
+        "quote_found": true,
+        "semantic_support": "supported",
+        "support_judgment": {
+          "independent_fact_verification": false,
+          "independent_model_verification": false,
+          "kind": "caller_assessment",
+          "reason": "The paragraph describes the wasp larva developing inside the cockroach egg case while consuming its eggs. The exact original nonbreaking space was preserved for literal anchoring. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent.",
+          "revision": 46
+        }
+      }
+    ],
+    "answer": "A female ensign wasp places a single egg inside a cockroach egg case.\nThe ensign wasp described in this article does not sting or bite people.\nFinding cockroaches alone does not establish that a home is dirty.\nCockroaches can enter homes on bags, backpacks, suitcases and other containers.\nCockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.\nSticky traps or glue boards can help identify areas of cockroach activity in a home.\nAdult male Turkestan cockroaches are slender and brownish orange/red, with long yellowish wings.\nAdult female Turkestan cockroaches are broader than males and have short vestigial wings.\nIn the apartment study summarized here, fogger-treated homes showed no significant decrease in free-roaming German cockroach numbers two to four weeks later.\nThe extension article explains that cockroaches can retreat to protected crevices when they sense an irritating insecticide.\nThe developing wasp larva feeds on cockroach eggs inside that case.",
+    "outcome": "partial",
+    "gaps": [],
+    "usage": {
+      "calls": 0,
+      "pages": 19,
+      "searches": 4,
+      "steps": 51
+    },
+    "coverage": [
+      {
+        "evidence_ids": [
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "e5",
+          "e6",
+          "e7",
+          "e8",
+          "e9",
+          "e10",
+          "e11"
+        ],
+        "id": "q1",
+        "question": "Which five distinct original publications can support useful lessons about cockroach biology, behavior, identification or nonchemical prevention?",
+        "reason": "Five distinct eligible publications passed original-page checks: egg-case parasitism, entry into clean homes, debris attraction and monitoring, Turkestan sex differences, and protected hiding in an apartment fogger study.",
+        "status": "addressed"
+      },
+      {
+        "evidence_ids": [
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "e5",
+          "e6",
+          "e7",
+          "e8",
+          "e9",
+          "e10",
+          "e11"
+        ],
+        "id": "q2",
+        "question": "What does each source teach, why would a homeowner care, and does the main source itself support an honest hook?",
+        "reason": "Each result card describes a separate homeowner lesson supported by its main article. Supporting science follows human source and hook choices; no hooks or scripts have been generated.",
+        "status": "addressed"
+      },
+      {
+        "evidence_ids": [
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "e5",
+          "e6",
+          "e7",
+          "e8",
+          "e9",
+          "e10",
+          "e11"
+        ],
+        "id": "q3",
+        "question": "Which exact passages support each lesson, and what species, geographic, date or evidence limits matter?",
+        "reason": "Eleven anchored facts use 18 to 22 quoted words per publication. Cards retain species, dates or undated status, geography, study limits and unresolved mechanisms. No selected crawler snapshot is truncated.",
+        "status": "addressed"
+      },
+      {
+        "evidence_ids": [
+          "e1",
+          "e2",
+          "e3",
+          "e4",
+          "e5",
+          "e6",
+          "e7",
+          "e8",
+          "e9",
+          "e10",
+          "e11"
+        ],
+        "id": "q4",
+        "question": "Are any candidates duplicate, reserved, inaccessible, too shallow or unsupported? What remains unknown?",
+        "reason": "Original-page validator rejected no selected cards and found no reserved publication matches. Excluded duplicate PDF editions, unsupported PDF retrieval, document shells, thin pages and out-of-scope treatment material. Four accidentally followed sharing links provide no evidence; the local read dispatcher now restricts publisher domains.",
+        "status": "addressed"
+      }
+    ],
+    "stop_reason": "caller_finalized",
+    "caveats": [
+      "Caller assessments are editorial judgments; independent original-page, allowed-domain, duplicate-publication and exact-quote checks passed for all five cards. Semantic judgment remains necessary.",
+      "No selected source establishes current New Braunfels infestation rates. Historical articles and undated NPIC guidance keep their stated limits.",
+      "The debris-attraction mechanism needs supporting science after human selection. The fogger study is not proof that hiding alone caused its result or that every treatment fails.",
+      "PDF read was unsupported. Four mistakenly followed sharing links were excluded; source-domain filtering is now enforced by this trial dispatcher.",
+      "One source quote needed its original nonbreaking whitespace for crawler anchoring; the corrected quote was accepted.",
+      "No browser, cookies, paid fallback or crawler model calls were used. No source, hook or script has been chosen by the agent.",
+      "Best-effort public-source research; completeness is not established.",
+      "Semantic support is a caller assessment, not independent model or fact verification."
+    ]
+  },
+  "independent_validation": {
+    "checked_at": "2026-10-19T23:21:03.944304+00:00",
+    "method": "Independent live original-page retrieval through d6_sources.validate_cards",
+    "accepted": 5,
+    "failures": [],
+    "sources": [
+      {
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "final_urls": [
+          "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|flag waving for americans",
+        "page_digest": "1a3111f5b0b70961d7a684a0fcd2ec7178b318e8d7abf684760ddc00ce3e70f0"
+      },
+      {
+        "url": "https://npic.orst.edu/faq/roach.html",
+        "final_urls": [
+          "https://npic.orst.edu/faq/roach.html"
+        ],
+        "publication_key": "national pesticide information center, oregon state university|why do i have roaches in my home",
+        "page_digest": "208c40b440c4b520f7ab68a9d49d1170b4d4fd278d038e88074a6569fc4a0e2b"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/roach.html",
+        "final_urls": [
+          "https://npic.orst.edu/pest/roach.html"
+        ],
+        "publication_key": "national pesticide information center, oregon state university|cockroaches",
+        "page_digest": "a3a6692517ad1686998b6fdb61bd65dfdc1c6de5106e3094b75b76f59abfed27"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+        "final_urls": [
+          "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|the turkestan cockroach an emerging pest in texas",
+        "page_digest": "830110e0d7c8daa04149269717a49b6376e1d0ee3932565ee90cfc0a618bd86d"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+        "final_urls": [
+          "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb"
+        ],
+        "publication_key": "texas a&m agrilife extension service — insects in the city|bug bombs bomb",
+        "page_digest": "424ace022235d403c8eac42c279ebe087493531b5d64664a515bd295a514d150"
+      }
+    ]
+  },
+  "limits": "Independent original-page and quote checks plus caller editorial assessment; not independent scientific peer review. No paid crawler model calls or audio generation."
+}

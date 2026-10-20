@@ -1,0 +1,617 @@
+[
+  {
+    "url": "https://npic.orst.edu/pest/roach.html",
+    "links": [
+      {
+        "url": "https://npic.orst.edu/az.html",
+        "label": "A to Z"
+      },
+      {
+        "url": "https://npic.orst.edu/about.html",
+        "label": "About Us"
+      },
+      {
+        "url": "https://npic.orst.edu/contactus.html",
+        "label": "Contact Us"
+      },
+      {
+        "url": "https://npic.orst.edu/outreach.html",
+        "label": "NPIC\n                                        Material"
+      },
+      {
+        "url": "https://npic.orst.edu/health/index.html",
+        "label": "Health and\n                                        Safety"
+      },
+      {
+        "url": "https://npic.orst.edu/health/humhealth.html",
+        "label": "Human\n                                        Health"
+      },
+      {
+        "url": "https://npic.orst.edu/health/animhealth.html",
+        "label": "Animal\n                                        Health"
+      },
+      {
+        "url": "https://npic.orst.edu/health/safeuse.html",
+        "label": "Safe Use\n                                        Practices"
+      },
+      {
+        "url": "https://npic.orst.edu/health/food.html",
+        "label": "Food\n                                        Safety"
+      },
+      {
+        "url": "https://npic.orst.edu/envir/air.html",
+        "label": "Air"
+      },
+      {
+        "url": "https://npic.orst.edu/envir/water.html",
+        "label": "Water"
+      },
+      {
+        "url": "https://npic.orst.edu/envir/soil.html",
+        "label": "Soil"
+      },
+      {
+        "url": "https://npic.orst.edu/envir/plants.html",
+        "label": "Plants"
+      },
+      {
+        "url": "https://npic.orst.edu/envir/wildlife.html",
+        "label": "Wildlife"
+      },
+      {
+        "url": "https://npic.orst.edu/envir/pollinator.html",
+        "label": "Bees\n                                        & Pollinators"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/index.html",
+        "label": "Where To\n                                        Start With Pests"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/learnpest.html",
+        "label": "Pest\n                                        Information By Name"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/idpest.html",
+        "label": "How To\n                                        Identify Your Pest"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/learnpest.html",
+        "label": "Learn\n                                        About Your Pest"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/controlpest.html",
+        "label": "Before\n                                        You Control Your Pest"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/ipm.html",
+        "label": "Integrated Pest\n                                        Management"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/products.html",
+        "label": "Pesticide Products"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/lowrisk.html",
+        "label": "Low-Risk\n                                        Pesticides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/organic.html",
+        "label": "Organic\n                                        Pesticide Ingredients"
+      },
+      {
+        "url": "https://npic.orst.edu/incidents.html#hum",
+        "label": "Human\n                                        Exposure"
+      },
+      {
+        "url": "https://npic.orst.edu/emerg.html#human",
+        "label": "Human\n                                        Poisonings"
+      },
+      {
+        "url": "https://npic.orst.edu/incidents.html#anim",
+        "label": "Animal/Pet Exposure"
+      },
+      {
+        "url": "https://npic.orst.edu/emerg.html#pet",
+        "label": "Animal/Pet Poisoning"
+      },
+      {
+        "url": "https://npic.orst.edu/incidents.html#env",
+        "label": "Wildlife\n                                        Poisoning or Environmental\n                                        Incident"
+      },
+      {
+        "url": "https://npic.orst.edu/incidents.html#prod",
+        "label": "Label Or\n                                        Container Issues"
+      },
+      {
+        "url": "https://npic.orst.edu/reg/tribes.html",
+        "label": "Incidents On\n                                        Tribal Land"
+      },
+      {
+        "url": "https://npic.orst.edu/incidents.html#app",
+        "label": "Illegal\n                                        Pesticide Activity"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/roach.es.html",
+        "label": "En espa\u00f1ol"
+      },
+      {
+        "url": "https://hles.unl.edu/insects/urban-entomology/cockroaches/",
+        "label": "cockroach identification guide"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/countyext.html",
+        "label": "county extension office"
+      },
+      {
+        "url": "https://npic.orst.edu/health/readlabel.html",
+        "label": "always read and follow the label directions"
+      },
+      {
+        "url": "https://npic.orst.edu/health/disposal.html",
+        "label": "dispose of any unwanted pesticide"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/idpest.html",
+        "label": "Identify the cockroach species"
+      },
+      {
+        "url": "https://npic.orst.edu/health/readlabel.html",
+        "label": "read the label"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/lowrisk.html",
+        "label": "lower toxicity"
+      },
+      {
+        "url": "https://npic.orst.edu/mlr.html",
+        "label": ""
+      },
+      {
+        "url": "https://npic.orst.edu/mlr.html",
+        "label": "Local contacts"
+      },
+      {
+        "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/11/bmp_cockroach.pdf",
+        "label": "Best Management Practices for Cockroaches"
+      },
+      {
+        "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/10/cockroach_bait_and_growth_regulate-1.pdf",
+        "label": "Bait and Growth Regulator for Cockroaches"
+      },
+      {
+        "url": "https://youtu.be/_j98nSQbfTI?si=hhWFmrRyFWZsK3vn",
+        "label": "Seasonal Outdoor Cockroach Management Tips"
+      },
+      {
+        "url": "https://extension.psu.edu/got-roaches-eliminate-roaches-with-ipm",
+        "label": "Got Roaches? Eliminate Roaches with IPM"
+      },
+      {
+        "url": "https://edis.ifas.ufl.edu/entity/topic/cockroaches",
+        "label": "Cockroach Publications"
+      },
+      {
+        "url": "https://hles.unl.edu/insects/urban-entomology/cockroaches/",
+        "label": "Cockroaches"
+      },
+      {
+        "url": "http://extension.umaine.edu/ipm/ipddl/publications/5011e/",
+        "label": "Cockroaches"
+      },
+      {
+        "url": "http://extension.entm.purdue.edu/publications/E-241.pdf",
+        "label": "A Practical Guide to Cockroach Management in Multi-Family Housing Units"
+      },
+      {
+        "url": "https://hgic.clemson.edu/factsheet/cockroach-control/",
+        "label": "Understanding Cockroach Control"
+      },
+      {
+        "url": "https://entomology.ca.uky.edu/ef614",
+        "label": "Cockroach Elimination in Homes and Apartments"
+      },
+      {
+        "url": "https://ipm.ucanr.edu/PMG/PESTNOTES/pn7467.html",
+        "label": "How to Manage Cockroaches"
+      },
+      {
+        "url": "https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/OPIPP/CDPH%20Document%20Library/CockroachControlOnTransit1.pdf",
+        "label": "Safer and Effective Cockroach Control for Buses and Trains"
+      },
+      {
+        "url": "https://www.canr.msu.edu/resources/american-cockroach",
+        "label": "American Cockroach"
+      },
+      {
+        "url": "https://extension.usu.edu/pests/schoolipm/structural-pest-id-guide/american-cockroach",
+        "label": "American Cockroach"
+      },
+      {
+        "url": "https://edis.ifas.ufl.edu/in298",
+        "label": "American Cockroach,  Periplaneta americana"
+      },
+      {
+        "url": "https://extension.usu.edu/pests/schoolipm/structural-pest-id-guide/german-cockroach",
+        "label": "German Cockroach"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/biology-behavior-of-the-german-cockroach",
+        "label": "Biology and Behavior of the German Cockroach"
+      },
+      {
+        "url": "https://schoolipm.tamu.edu/forms/pest-management-plans/ipm-action-plan-for-german-cockroaches/",
+        "label": "IPM Action Plan for German Cockroaches"
+      },
+      {
+        "url": "https://extension.usu.edu/pests/schoolipm/structural-pest-id-guide/oriental-cockroach",
+        "label": "Oriental Cockroach"
+      },
+      {
+        "url": "https://extension.psu.edu/oriental-cockroaches",
+        "label": "Oriental Cockroach"
+      },
+      {
+        "url": "http://entomology.ifas.ufl.edu/creatures/urban/roaches/oriental_cockroach.htm",
+        "label": "Oriental Cockroach"
+      },
+      {
+        "url": "https://npic.orst.edu/faq/roach.html",
+        "label": "Why do I have roaches in my home? FAQ"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/ipm.html",
+        "label": "Integrated Pest Management (IPM)"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/idpest.html",
+        "label": "Identifying Pests"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/illegal/index.html",
+        "label": "Illegal Pesticides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/illegal/chalk.html",
+        "label": "Illegal Insecticidal Chalk"
+      },
+      {
+        "url": "https://npic.orst.edu/health/pets.html",
+        "label": "Pesticide Use Around Pets"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/learnpest.html",
+        "label": "Learn about a pest"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/idpest.html",
+        "label": "Identify a pest"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/controlpest.html",
+        "label": "Control a pest"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/ipm.html",
+        "label": "Integrated Pest Management"
+      },
+      {
+        "url": "https://npic.orst.edu/pest/weeds.html",
+        "label": "Herbicides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/amicrob/index.html",
+        "label": "Disinfectants"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/fungicide.html",
+        "label": "Fungicides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/insecticide.html",
+        "label": "Insecticides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/natbio.html",
+        "label": "Natural and Biological Pesticides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/repel.html",
+        "label": "Repellents"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/rodenticide.html",
+        "label": "Rodenticides"
+      },
+      {
+        "url": "https://npic.orst.edu/ingred/ptype/index.html",
+        "label": "Other types of pesticides"
+      },
+      {
+        "url": "https://npic.orst.edu/Disclaimer.html",
+        "label": "disclaimer"
+      },
+      {
+        "url": "https://npic.orst.edu/contactus.html",
+        "label": "Contact us"
+      },
+      {
+        "url": "https://npic.orst.edu/about.html",
+        "label": "About\n                NPIC"
+      },
+      {
+        "url": "https://npic.orst.edu/index.es.html",
+        "label": "En\n                espa\u00f1ol"
+      },
+      {
+        "url": "https://npic.orst.edu/about.html",
+        "label": "NPIC"
+      }
+    ],
+    "frames": [
+      {
+        "class": "rounded ratio ratio-16x9",
+        "src": "https://images.bugwood.org/series.cfm?coll=95687",
+        "frameborder": "0",
+        "allowfullscreen": "true",
+        "webkitallowfullscreen": "true",
+        "mozallowfullscreen": "true",
+        "height": "400",
+        "width": "600",
+        "scrolling": "no",
+        "seamless": null
+      }
+    ],
+    "script_excerpt": null
+  },
+  {
+    "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100HM24.TXT",
+    "links": [],
+    "frames": [],
+    "script_excerpt": "Public document redirects through JavaScript; original document text was absent. No credentials retained."
+  },
+  {
+    "url": "https://www3.epa.gov/pesticides/kids/roaches/english/keepthem/index.html",
+    "links": [
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/index.html",
+        "label": "Hey \r\n                    Web Surfers!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/facts/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/facts/index.html",
+        "label": "Fascinating \r\n                    Roach Facts"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/every/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/every/index.html",
+        "label": "Roaches \r\n                  Are Everywhere!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/party/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/party/index.html",
+        "label": "Prevent \r\n                  Roach Parties!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/starve/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/starve/index.html",
+        "label": "Starve \r\n                  Them Out!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/getit/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/getit/index.html",
+        "label": "No \r\n                  More Roach Snacks!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/drythem/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/drythem/index.html",
+        "label": "Dry \r\n                  Them Out!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/wordsch/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/wordsch/index.html",
+        "label": "Water \r\n                  Word Search"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/keepthem/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/keepthem/index.html",
+        "label": "Keep \r\n                  Them Out!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/whereare/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/whereare/index.html",
+        "label": "Where \r\n                  are the Roaches?"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/learned/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/learned/index.html",
+        "label": "What \r\n                  Have You Learned?"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/packing/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/english/packing/index.html",
+        "label": "Send \r\n                  Them Packing!"
+      },
+      {
+        "url": "https://www3.epa.gov/pesticides/kids/roaches/spanish/keepthem/index.html",
+        "label": "EN \r\n              ESPA\u00d1OL"
+      }
+    ],
+    "frames": [
+      {
+        "src": "//www.googletagmanager.com/ns.html?id=GTM-L8ZB",
+        "height": "0",
+        "width": "0",
+        "style": "display:none;visibility:hidden"
+      }
+    ],
+    "script_excerpt": null
+  },
+  {
+    "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+    "links": [
+      {
+        "url": "https://citybugs.tamu.edu/category/household-pests/",
+        "label": "Household pests"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/",
+        "label": "Household"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/ants-house/",
+        "label": "Household ants"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/beetles-house/",
+        "label": "Household beetles"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/beetles-house/what-are-beetles/",
+        "label": "What are beetles?"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/cockroaches/",
+        "label": "Cockroaches"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/food-fabric/",
+        "label": "Food and fabric pests"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/flies-house/",
+        "label": "Indoor flies"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/termites/",
+        "label": "Termites & wood destroying insects"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/termites/ent-6002/",
+        "label": "What is a termite?"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/factsheets/household/misc-house/",
+        "label": "Miscellaneous pests"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+        "label": "June 26, 2024"
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/tumblr?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://entomologytoday.org/2013/12/09/the-invasive-turkestan-cockroach-is-displacing-the-oriental-cockroach-in-the-southwestern-u-s/",
+        "label": "The Invasive Turkestan Cockroach is Displacing the Oriental Cockroach in the Southwestern U.S."
+      },
+      {
+        "url": "https://www.pctonline.com/news/turkestan-cockroach-explosion-california/",
+        "label": "Turkestan Cockroaches Have Made Themselves at Home in California"
+      },
+      {
+        "url": "https://ipm.ucanr.edu/Invasive-and-Exotic-Pests/Turkestan-Cockroach/#:~:text=The%20Turkestan%20cockroach%20is%20an,quickly%20develop%20very%20high%20populations.",
+        "label": "UC IPM Factsheet"
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/tumblr?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2024%2F06%2F26%2Fthe-turkestan-cockroach-an-emerging-pest-in-texas%2F&linkname=The%20Turkestan%20Cockroach%3A%20An%20Emerging%20Pest%20in%20Texas",
+        "label": ""
+      },
+      {
+        "url": "https://citybugs.tamu.edu/category/household-pests/",
+        "label": "Household pests"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+        "label": "permalink"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+        "label": "The Turkestan Cockroach: An Emerging Pest in Texas"
+      },
+      {
+        "url": "https://citybugs.tamu.edu/category/household-pests/",
+        "label": "Household pests"
+      },
+      {
+        "url": "http://insectsinthecity.blogspot.com/2020/07/tubular-flying-insects.html",
+        "label": "Tubular flying insects"
+      },
+      {
+        "url": "http://insectsinthecity.blogspot.com/2020/07/this-post-is-essentially-updated.html",
+        "label": "Bargain sale on Mallis Handbook"
+      },
+      {
+        "url": "https://www.tamu.edu/statements/compact-with-texans.html",
+        "label": "Compact with Texans"
+      },
+      {
+        "url": "https://www.tsl.texas.gov/trail/index.html",
+        "label": "Statewide Search"
+      }
+    ],
+    "frames": [],
+    "script_excerpt": null
+  }
+]

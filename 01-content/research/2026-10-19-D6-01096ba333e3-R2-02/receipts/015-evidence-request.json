@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 14,
+  "idempotency_key": "research-8a92111d8a9a-a15",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Sticky traps detect pests when people are absent, including at night. Comparing multiple traps can help pinpoint activity and monitoring over time shows changes in abundance. Their main role is detection and monitoring, not standalone control.",
+    "quote": "detect pests, and monitor changes"
+  }
+}

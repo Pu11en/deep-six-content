@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-50-c80a39f0db920473",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e9\",\"reason\":\"Full license retrieved. Preserve notices when adapting code. Transitive dependency terms were not audited.\",\"tool\":\"check\"},\"expected_revision\":50}",
+  "revision": 51,
+  "outcome": "applied"
+}

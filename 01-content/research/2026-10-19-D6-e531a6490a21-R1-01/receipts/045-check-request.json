@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 44,
+  "idempotency_key": "research-359182d1022c-a45",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e10",
+    "assessment": "supported",
+    "reason": "The sentence explicitly describes retreat into protected cracks in response to irritating insecticide. The article separately discusses resistance, so hiding is not asserted as the sole experimental cause. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

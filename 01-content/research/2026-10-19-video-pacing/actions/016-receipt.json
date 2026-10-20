@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-16-341f99b57cb36b46",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://mediascaleup.com/post/animating-to-voiceover-done-properly-motion\"},\"expected_revision\":16}",
+  "revision": 17,
+  "outcome": "applied"
+}

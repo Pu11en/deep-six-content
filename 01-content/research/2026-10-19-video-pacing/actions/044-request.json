@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 44,
+  "idempotency_key": "d6-44-7aa62a6ab3d4430d",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e2",
+    "assessment": "supported",
+    "reason": "Quote found; supports that the blog reports these figures. First-person claim with no sample or method; treat as anecdotal."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-19T23:23:21.082730+00:00",
+  "run_id": "D6-e531a6490a21",
+  "review_id": "review-bd3cfdc8d391",
+  "stage": "waiting_sources",
+  "sources_accepted": 5,
+  "independent_page_and_quote_checks": "passed",
+  "existing_source_queue_and_priority": "unchanged",
+  "previous_approved_mp3_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+  "crawler_usage": {
+    "calls": 0,
+    "pages": 19,
+    "searches": 4,
+    "steps": 51
+  },
+  "paid_calls": 0,
+  "awaiting": "Drew source selection"
+}

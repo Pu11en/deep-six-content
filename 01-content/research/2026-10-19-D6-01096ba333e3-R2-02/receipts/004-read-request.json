@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 3,
+  "idempotency_key": "research-8a92111d8a9a-a4",
+  "action": {
+    "tool": "read",
+    "url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/"
+  }
+}

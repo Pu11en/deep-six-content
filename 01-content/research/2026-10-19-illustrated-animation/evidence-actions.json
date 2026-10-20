@@ -1,0 +1,245 @@
+{
+  "op": "actions",
+  "actions": [
+    {
+      "tool": "evidence",
+      "source_id": "s1",
+      "claim": "The ant toolkit describes code-drawn textured 2D scenes and cross-sections.",
+      "quote": "paper grain, hatching, brush ink, watercolour that blooms"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e1",
+      "assessment": "supported",
+      "reason": "Creator description, corroborated by inspected drawing modules and an older saved contact sheet; no new quality test."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s6",
+      "claim": "The ant package declares @napi-rs/canvas ^0.1.65 as its sole direct dependency.",
+      "quote": "\"dependencies\": { \"@napi-rs/canvas\": \"^0.1.65\" }"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e2",
+      "assessment": "supported",
+      "reason": "Complete manifest read. Transitive dependencies and installation compatibility were not tested."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s8",
+      "claim": "The ant renderer takes width, height, frame rate and duration from the film specification.",
+      "quote": "const W = F.W, H = F.H, fps = F.fps || 24, N = Math.round(F.dur * fps)"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e3",
+      "assessment": "supported",
+      "reason": "Full renderer creates the canvas and FFmpeg output using these values. Vertical composition remains work to author and test."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s7",
+      "claim": "The supplied ant drawing explicitly implements a one-node waist.",
+      "quote": "// ---------------- petiole: the narrow waist with one node"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e4",
+      "assessment": "supported",
+      "reason": "Drawing code and surrounding body paths read. This is not verified red-imported-fire-ant anatomy."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s14",
+      "claim": "The colony module supplies cocoon artwork.",
+      "quote": "export function cocoon(ctx, s = 1)"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e5",
+      "assessment": "supported",
+      "reason": "Full module read. Its capsule-shaped cocoon must not stand in for the naked fire-ant pupa described by Texas A&M."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s20",
+      "claim": "Texas A&M describes fire-ant pupae as naked, without enclosing cocoons.",
+      "quote": "Pupae of some species, like fire ants, are “naked”"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e6",
+      "assessment": "supported",
+      "reason": "The paragraph directly contrasts naked fire-ant pupae with other species having capsule-like cocoons."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s12",
+      "claim": "Texas A&M says fire-ant mounds have no central opening and describes entry through underground tunnels.",
+      "quote": "The mound has no opening in the center like most ant mounds."
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e7",
+      "assessment": "supported",
+      "reason": "The next sentence describes the underground entry tunnels. Do not reuse a different-ant demo central mound entrance."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s9",
+      "claim": "The colony demo fixes 1920x1080, 24 fps and 32 seconds.",
+      "quote": "const W = 1920, H = 1080, FPS = 24, DUR = 32;"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e8",
+      "assessment": "supported",
+      "reason": "Declaration directly read. Snapshot is truncated; the complete film was not audited. New vertical layout and narration timing are needed."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s10",
+      "claim": "The ant-animation repository carries an MIT license.",
+      "quote": "MIT License"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e9",
+      "assessment": "supported",
+      "reason": "Full license retrieved. Preserve notices when adapting code. Transitive dependency terms were not audited."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s11",
+      "claim": "Anidoodle documents a folk-tale storybook style with paint and pencil on cream paper.",
+      "quote": "| **Folk-tale storybook** | Painted foreground dissolving into pencil line on cream paper |"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e10",
+      "assessment": "supported",
+      "reason": "A candidate visual vocabulary described by its author; not a tested fire-ant result."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s18",
+      "claim": "Anidoodle lists esbuild, Playwright Core and TypeScript, with Remotion/React packages in optional dependencies.",
+      "quote": "\"optionalDependencies\": {"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e11",
+      "assessment": "supported",
+      "reason": "Complete manifest read: Remotion/React appear in this block; esbuild and Playwright/TypeScript are separate. Install behavior remains untested."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s21",
+      "claim": "Anidoodle carries the Apache License, Version 2.0.",
+      "quote": "Version 2.0, January 2004"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e12",
+      "assessment": "supported",
+      "reason": "Full repository license retrieved. Applicable notice requirements and dependency licenses remain relevant."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s26",
+      "claim": "Anidoodle documents a repeated-frame problem in its butterfly example opening.",
+      "quote": "there are 49 identical consecutive frames"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e13",
+      "assessment": "supported",
+      "reason": "The example README reports a failed dead-air check. This is a reported limitation, not a test performed here."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s29",
+      "claim": "The butterfly source specifies square 1080x1080 frames and derives duration from imported cues.",
+      "quote": "meta: { title: \"mechanicalLepidoptera\", W: 1080, H: 1080, fps: 30, bpm: 120, durationFrames: TOTAL }"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e14",
+      "assessment": "supported",
+      "reason": "Direct source declaration. Header says 60 seconds, README says 47; imported cue values were not evaluated, leaving actual duration unresolved."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s16",
+      "claim": "The inspected Remotion license lists for-profit organizations up to three employees as eligible for free use; other groups and company-license conditions apply.",
+      "quote": "- a for-profit organization with up to 3 employees"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e15",
+      "assessment": "supported",
+      "reason": "Full license read, including other eligible groups and Company License. Entity eligibility was not assessed. File also flags Remotion 5 changes; do not assume commercial use is free."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s3",
+      "claim": "Motion Canvas is designed for informative vector animations synchronized with voiceovers.",
+      "quote": "informative vector animations and\nsynchronize them with voice-overs."
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e16",
+      "assessment": "supported",
+      "reason": "Primary README supports timing relevance, not proof of textured pest illustration quality."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s4",
+      "claim": "HyperFrames describes turning HTML, CSS, media and seekable animations into MP4.",
+      "quote": "HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos."
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e17",
+      "assessment": "supported",
+      "reason": "Relevant primary README section read; snapshot truncated. General rendering capability, not a ready pest illustration library or measured determinism."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s2",
+      "claim": "HandDraw describes its core as whiteboard-animation rendering.",
+      "quote": "Agent-native, deterministic whiteboard-animation rendering."
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e18",
+      "assessment": "supported",
+      "reason": "Complete short README read, including limited animation vocabulary and separate companion for colorful stories."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s23",
+      "claim": "Anidoodle publishes a renderer that opens a Playwright adapter and encodes frames with FFmpeg.",
+      "quote": "const t0 = Date.now(), session = await playwright.open(env, page.out, { scale, workers })"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e19",
+      "assessment": "supported",
+      "reason": "Full script read, including the FFmpeg spawn. Supports local requirements; no renderer was executed."
+    },
+    {
+      "tool": "evidence",
+      "source_id": "s9",
+      "claim": "The ant demo expects fonts under a Claude-specific folder and a macOS system-font path.",
+      "quote": "const FD = process.env.FONT_DIR || path.join(process.env.HOME, \".claude/skills/tesseract-edit/assets/fonts\");"
+    },
+    {
+      "tool": "check",
+      "evidence_id": "e20",
+      "assessment": "supported",
+      "reason": "Adjacent registrations use Inter files and /System/Library/Fonts/Menlo.ttc. A Linux adaptation should select explicit available fonts."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-77-e514adfa91953504",
+  "payload": "{\"action\":{\"evidence_ids\":[\"e13\",\"e14\",\"e20\"],\"question_id\":\"q4\",\"reason\":\"Known documentation/setup limitations and all untested runtime questions are explicit. Recommend a short narration-matched test showing workers move brood through a textured nest before making the full video.\",\"status\":\"addressed\",\"tool\":\"coverage\"},\"expected_revision\":77}",
+  "revision": 78,
+  "outcome": "applied"
+}

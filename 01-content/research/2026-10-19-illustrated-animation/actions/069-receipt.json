@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-69-3744c7461bcf3e32",
+  "payload": "{\"action\":{\"claim\":\"Anidoodle publishes a renderer that opens a Playwright adapter and encodes frames with FFmpeg.\",\"quote\":\"const t0 = Date.now(), session = await playwright.open(env, page.out, { scale, workers })\",\"source_id\":\"s23\",\"tool\":\"evidence\"},\"expected_revision\":69}",
+  "revision": 70,
+  "outcome": "applied"
+}

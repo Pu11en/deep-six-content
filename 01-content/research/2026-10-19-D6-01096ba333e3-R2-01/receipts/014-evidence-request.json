@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 13,
+  "idempotency_key": "research-488991e51202-a14",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases.",
+    "quote": "solitary predators of cockroach (Blattodea) eggs inside oothecae"
+  }
+}

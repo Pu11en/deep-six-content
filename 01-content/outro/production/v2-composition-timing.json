@@ -1,0 +1,51 @@
+{
+  "fps": 30,
+  "frames": 165,
+  "duration_seconds": 5.5,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "source_dimensions": [
+    720,
+    1280
+  ],
+  "source_fps": 24,
+  "resolution_note": "1080p delivery is a scale-up of a native 720p AI source.",
+  "source_in_seconds": 0,
+  "source_out_seconds": 5.2,
+  "entry_seconds": 0.3,
+  "character_action_reviewed": "Anticipation, jump, robe flare, wide arm swing, recoil and settle. Continuous generated motion retained.",
+  "source_motion_retimed": false,
+  "source_audio_used": false,
+  "logo_reveal_seconds": [
+    2.05,
+    2.433333333333333
+  ],
+  "logo_release_seconds": 2.433333333333333,
+  "logo_landed_seconds": 3.033333333333333,
+  "logo_final_center": [
+    540,
+    290
+  ],
+  "logo_final_width": 520,
+  "logo_source": "assets/deep-six-logo.png",
+  "logo_sha256": "135630619ad2fe7d263d27f2a380e9add1f8c733d1005e889d8b93f4b9560ee6",
+  "logo_source_dimensions": [
+    172,
+    100
+  ],
+  "logo_generated_by_ai": false,
+  "voice_start_seconds": 0.55,
+  "company_name_start_seconds": 3.18,
+  "final_spoken_word_end_seconds": 4.24,
+  "final_brand_hold_after_speech_seconds": 1.26,
+  "review_caption": "HELPING YOU UNDERSTAND PESTS.",
+  "caption_end_seconds": 2.55,
+  "reusable_master_has_audio": false,
+  "reusable_master_has_captions": false,
+  "no_fire_ant_footage_in_review": true,
+  "finished_media_approved": true,
+  "company_name_timing_basis": "ASR on final muxed review; approximate word boundary",
+  "approval_file": "finished-outro-approval-v2.json"
+}

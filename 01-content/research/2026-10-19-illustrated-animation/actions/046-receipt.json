@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-46-be0752a8e163f10f",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e7\",\"reason\":\"The next sentence describes the underground entry tunnels. Do not reuse a different-ant demo central mound entrance.\",\"tool\":\"check\"},\"expected_revision\":46}",
+  "revision": 47,
+  "outcome": "applied"
+}

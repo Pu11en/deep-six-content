@@ -1,0 +1,24 @@
+{
+  "started_utc": "2026-10-20T03:00:40.414935+00:00",
+  "status": "failed_no_fallback",
+  "requested_model": "claude-opus-5-5",
+  "effort": "max",
+  "route": "Claude Code subscription login",
+  "api_key_route_disabled": true,
+  "automatic_fallback": false,
+  "tools": [
+    "Read",
+    "Glob",
+    "Grep"
+  ],
+  "brief_sha256": "2ba31303cc10f0332c935a96927acee958072a03fda400da93e7449e547ee905",
+  "user_authorized_model": true,
+  "failure": "ModelError",
+  "elapsed_seconds": 900.1,
+  "finished_utc": "2026-10-20T03:15:37.911935+00:00",
+  "failure_kind": "timeout",
+  "timeout_seconds": 900,
+  "creative_output_received": false,
+  "next_attempt": "opus-v2-focused-receipt.json",
+  "next_attempt_change": "Same Opus 5.5 model, high effort, two references and a focused 700-1000 word creative request."
+}

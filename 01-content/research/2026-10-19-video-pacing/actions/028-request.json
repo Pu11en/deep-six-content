@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 28,
+  "idempotency_key": "d6-28-73dad8581cd651ff",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s13",
+    "claim": "OpusClip's Shorts blog says high-performing Shorts average one cut every 2-4 seconds (unsourced 'data suggests').",
+    "quote": "high-performing Shorts average one cut every 2-4 seconds"
+  }
+}

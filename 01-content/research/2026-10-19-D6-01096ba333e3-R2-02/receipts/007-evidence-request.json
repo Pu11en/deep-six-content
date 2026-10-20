@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 6,
+  "idempotency_key": "research-8a92111d8a9a-a7",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The wasp pupates inside the cockroach egg case without a cocoon. The mature adult cuts a small round, jagged exit hole near the end of a long side of the case.",
+    "quote": "small round jagged hole"
+  }
+}

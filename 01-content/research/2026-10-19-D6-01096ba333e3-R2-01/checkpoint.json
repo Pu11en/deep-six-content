@@ -1,0 +1,31 @@
+{
+  "request_id": "research-488991e51202",
+  "run_id": "D6-01096ba333e3",
+  "stage": "R2",
+  "status": "imported",
+  "authorization": "Drew selected hook 4C within the accepted source-to-MP3 trial. Free supporting research before five narration choices.",
+  "client_id": "imac-research",
+  "selected_hook": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+  "pending_action": null,
+  "recovery": "Initial create request was rejected with HTTP 422 before creation: one reservation constraint exceeded 2000 characters. Replaced it with one concise constraint per publication.",
+  "planning_session_id": "96cf266f-dae0-4e55-978d-81f84ea907aa",
+  "crawler_request_id": "bddc25f2-b040-4d9a-897e-3d132bf53fc5",
+  "crawler_job_id": "abf092b6-c969-4e6f-b43b-120f1457268f",
+  "agent_revision": 29,
+  "usage": {
+    "calls": 0,
+    "pages": 5,
+    "searches": 4,
+    "steps": 29
+  },
+  "active_seconds": 11.487375617201906,
+  "crawler_status": "finished",
+  "evidence_sha256": "9f6bf5130d5c3bd75e2df10e0887e13c0b8bab9588ec71a51e701d7cfed3a03b",
+  "writing_status": "waiting_narrations",
+  "narration_review_id": "review-5c13e5e1635f",
+  "narration_choices_file": "01-content/mp3-system/narration-options.md",
+  "supporting_source_ids": [
+    "SUP-a3ce9f37fdb5",
+    "SUP-aeefe1c118c4"
+  ]
+}

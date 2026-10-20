@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 42,
+  "idempotency_key": "d6-42-f092fb4e8ac4a0a8",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "Full module read. Its capsule-shaped cocoon must not stand in for the naked fire-ant pupa described by Texas A&M."
+  }
+}

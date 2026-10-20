@@ -1,0 +1,44 @@
+{
+  "id": "e5439860-a052-4860-b74f-fbb586d23a2d",
+  "client_id": "imac-research",
+  "original_goal": "Find public video links (YouTube Shorts and other sites) and published pacing guidance that show how fast motion and scene changes run in fast, dynamic, narration-matched animated educational shorts, as inspiration for Deep Six cut-paper storybook pest-education videos. Output is leads and pacing guidance only; no video watching is claimed.",
+  "revision": 1,
+  "approved_revision": 1,
+  "created_at": 1792449309.2967978,
+  "updated_at": 1792449309.3359585,
+  "brief": {
+    "goal": "Collect concrete public inspiration video links (fast-paced narrated animated science/education shorts, papercraft or cut-paper explainers, insect or ant animated explainers, AI-code-made animation examples) plus published pacing guidance (average shot length, 'change the visual every N seconds' for Shorts/TikTok/Reels retention), so the project can then download and measure real cut rates locally. The crawler cannot watch videos: pages are leads.",
+    "output": "Saved source snapshots, evidence with short exact quotes for pacing-guidance claims, candidate video URLs with title/creator as stated on the page, explicit gaps and limits, in the project's 2026-10-19-video-pacing research folder. No claim that any video was watched.",
+    "questions": [
+      "Which concrete video URLs (YouTube Shorts or other public video pages) from fast-paced animated science/education creators (for example Zack D. Films, Kurzgesagt, TED-Ed, MinuteEarth, SciShow, The Infographics Show, Hashem Al-Ghaili), papercraft or cut-paper explainers, and insect or ant animated explainers show visuals that follow each narrated phrase?",
+      "What published articles or data give average shot length or 'change the visual every N seconds' guidance for YouTube Shorts, TikTok and Reels, and which exact short passages support each claim?",
+      "What AI-code-made animation examples with fast pacing are listed at https://github.com/yihui-dev/awesome-opus5-5-videos, and what do their descriptions say about pacing and technique?",
+      "What can this caller-driven crawler not establish about pacing (it cannot watch video), so that it must be measured locally instead?"
+    ],
+    "scope_constraints": [
+      "Public pages only. Free public search and reading only. No login, cookies, browser, downloads of video by the crawler, paid services, or publishing.",
+      "Search results and page text are leads, not facts. Do not claim a video was watched, and do not treat popularity as proof of effectiveness.",
+      "Evidence cards keep quoted text to at most 25 words total per publication. Save exact short quotes only for pacing-guidance claims.",
+      "Crawler mode is caller-driven with no crawler model calls; calls=1 only satisfies the API minimum.",
+      "Write only research artifacts in the project's 2026-10-19-video-pacing research folder; no changes to the board, handoff or other project files."
+    ]
+  },
+  "notes": [
+    {
+      "content": "Drew asked in chat on 19 Oct 2026 for research to find YouTube or other video links to use as inspiration for how fast the motion is and how fast each scene changes, so Deep Six can make really dynamic, fast scenes that visualize every single thing the narration says. His last animation test was rejected for too little motion, too few scenes, and visuals that did not show what the narration said. He suggested using the MacBook crawler first. This request authorizes bounded free public search and reading only; no spending.",
+      "role": "user"
+    },
+    {
+      "content": "Plan: use at most 6 public searches, 30 page reads and 80 steps (80 is the API maximum for steps) in this caller-driven run (zero model calls; the API minimum calls=1 is a compatibility field). Search for animated science shorts creators, papercraft/cut-paper and insect/ant explainers, and shot-length guidance for Shorts/TikTok/Reels; read the awesome-opus5-5-videos list and any pacing articles; save short exact quotes for pacing claims. Then record gaps and coverage and finish. Video downloads and cut measurement happen outside the crawler, locally, on low-resolution first-30-second clips only.",
+      "role": "agent"
+    }
+  ],
+  "budget": {
+    "calls": 1,
+    "pages": 30,
+    "searches": 6,
+    "seconds": 900,
+    "steps": 80
+  },
+  "approved": true
+}

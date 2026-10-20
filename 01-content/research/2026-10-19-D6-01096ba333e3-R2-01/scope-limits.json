@@ -1,0 +1,63 @@
+{
+  "core_hook_answer_supported": true,
+  "contradictions": [],
+  "necessary_unresolved_for_core_lesson": [],
+  "optional_details_not_established": [
+    "Exact cockroach egg-case deposition locations around buildings",
+    "Detailed pupation, exit route and development timing",
+    "A household monitoring procedure or infestation estimate from an adult wasp sighting"
+  ],
+  "coverage": [
+    {
+      "tool": "coverage",
+      "question_id": "q1",
+      "status": "unanswered",
+      "evidence_ids": [
+        "e1",
+        "e2"
+      ],
+      "reason": "The selected source establishes a tough case enclosing multiple cockroach eggs. Precise American cockroach deposition locations around buildings were not verified in an accepted supporting card and will be omitted. That optional detail is not needed to answer the chosen hook."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q2",
+      "status": "unanswered",
+      "evidence_ids": [
+        "e1",
+        "e2",
+        "e5"
+      ],
+      "reason": "Egg placement with the ovipositor and larval feeding are verified. Pupation and the exact emergence route or timing were not verified in accepted evidence and will be omitted. The core why-question is answered by the larva gaining food inside the case."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q3",
+      "status": "addressed",
+      "evidence_ids": [
+        "e3",
+        "e4"
+      ],
+      "reason": "The main article establishes adult size, stalked flag-like abdomen and its movement. Its adult does not sting or bite; the feeding larva is a different life stage."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q4",
+      "status": "addressed",
+      "evidence_ids": [
+        "e1",
+        "e6"
+      ],
+      "reason": "The selected Texas extension article identifies American, smokybrown and Oriental cockroaches in its text; the imported core fact names American cockroaches. General host specialization supports retaining species limits. No current local abundance measurement or universal host claim is available or needed."
+    },
+    {
+      "tool": "coverage",
+      "question_id": "q5",
+      "status": "unanswered",
+      "evidence_ids": [
+        "e3"
+      ],
+      "reason": "The main article presents an indoor sighting as a possible clue and distinguishes regular roach sightings from a wasp sighting. It supplies no reliable diagnostic rule or infestation-size estimate. A separate monitoring procedure was not established, so scripts will omit it and avoid claims of complete control."
+    }
+  ],
+  "writing_scope": "Explain the food relationship, egg placement, developing larva and recognizable harmless-to-people adult. Do not invent the omitted details or imply household control."
+}

@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 14,
+  "idempotency_key": "d6-14-2afbdb2c337ca255",
+  "action": {
+    "tool": "search",
+    "query": "site:fireant.tamu.edu fire ant identification two nodes pupae cocoon"
+  }
+}

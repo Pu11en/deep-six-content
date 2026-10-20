@@ -1,0 +1,18 @@
+{
+  "recorded_utc": "2026-10-20T04:24:48.105654+00:00",
+  "user_reply": "yep good that is one finished video as far as i can tell",
+  "context": "Drew accepted the delivered complete Fire Ants Full v2 video with the closing sentence and approved reusable outro.",
+  "status": "approved_complete",
+  "fire_ant_final_approved": true,
+  "final_project_path": "/home/drewp/main-projects/deep-six-content/01-content/outro/assets/deep-six-fire-ants-full-v2-with-outro.mp4",
+  "desktop_path": "/mnt/c/Users/drewp/Desktop/Deep Six - Fire Ants Full v2 - Final.mp4",
+  "sha256": "293b4857965531720ca278e55aaf5fa51ef047d2a38757700e26560bda38a586",
+  "bytes": 75397465,
+  "duration_seconds": 88.1,
+  "validation_file": "production/fire-ant-final-checks.json",
+  "desktop_copy_matches": true,
+  "remaining_production_work": [],
+  "publishing_authorized": false,
+  "publishing_performed": false,
+  "other_sessions_messaged": false
+}

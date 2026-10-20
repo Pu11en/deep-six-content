@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 15,
+  "idempotency_key": "research-488991e51202-a16",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "The selected article describes the female inserting its slender ovipositor through the tough case and laying one egg; it identifies the American cockroach as a host. Independent original-page check passed."
+  }
+}

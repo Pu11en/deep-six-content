@@ -1,0 +1,19 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 76,
+  "idempotency_key": "d6-76-c0db3cb24333a7b0",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e2",
+      "e9",
+      "e11",
+      "e12",
+      "e15",
+      "e19"
+    ],
+    "reason": "Declared packages and licensing were read. Local read-only inspection found Node/npm/FFmpeg already installed and neither candidate installed in this project. Recommend a small isolated ant toolkit trial and a separate Playwright-based backup; no installation or spending occurred."
+  }
+}

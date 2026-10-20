@@ -1,0 +1,15 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 27,
+  "idempotency_key": "research-8a92111d8a9a-a28",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "addressed",
+    "evidence_ids": [
+      "e5",
+      "e6"
+    ],
+    "reason": "The species sections distinguish American egg-case deposition from German egg-case carrying. No host-access mechanism is inferred from this comparison."
+  }
+}

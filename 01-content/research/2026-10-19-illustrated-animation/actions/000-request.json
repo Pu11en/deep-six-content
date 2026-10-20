@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 0,
+  "idempotency_key": "d6-0-c045ccc7431d019b",
+  "action": {
+    "tool": "search",
+    "query": "code hand drawn animation ant colony JavaScript storybook canvas Remotion"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 25,
+  "idempotency_key": "research-8a92111d8a9a-a26",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e11",
+    "assessment": "supported",
+    "reason": "Read the complete crawler page and its relevant section. Independently fetched the original URL and verified the exact quote. Claim preserves species and context; regional and control limits are retained in the card."
+  }
+}

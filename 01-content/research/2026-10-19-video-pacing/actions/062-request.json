@@ -1,0 +1,18 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 62,
+  "idempotency_key": "d6-62-8af8d67866131923",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17"
+    ],
+    "reason": "The list is a gallery of X posts with prompts. The crawler snapshot was cut at 24,000 characters before the Explainers section, so only two Explainers prompt files and the Skillry gallery page were read. Prompts say 'fast moving' and 'punchy' but give no measured pacing."
+  }
+}

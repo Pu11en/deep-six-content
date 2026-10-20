@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "result": {
+    "status": "done",
+    "files_written": [
+      "episodes/D6-6c917b49743b/runs/astra-ending/shot-list.json",
+      "episodes/D6-6c917b49743b/runs/astra-ending/segments.json",
+      "episodes/D6-6c917b49743b/runs/astra-ending/caption-groups.json"
+    ],
+    "shot_count": 20,
+    "segment_count": 2,
+    "new_assets": [],
+    "summary": "Validated 50 word-timed beats and 25 caption groups covering all 62 words. Segments cover 57.60\u201378.60 exactly. Existing files remain unchanged."
+  },
+  "runs": [
+    {
+      "model": "gpt-6-astra",
+      "effort": "xhigh",
+      "exit": 0,
+      "elapsed_seconds": 412.1,
+      "usage": {
+        "input_tokens": 635419,
+        "cached_input_tokens": 555008,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 15388,
+        "reasoning_output_tokens": 4806
+      },
+      "unavailable": false
+    }
+  ],
+  "restored": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "A female ensign wasp places a single egg inside a cockroach egg case.",
+    "quote": "lays a single egg"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "The developing wasp larva feeds on cockroach eggs inside that case.",
+    "quote": "wasp larva matures while feeding on the dozen or more cockroach eggs"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "The ensign wasp described in this article does not sting or bite people.",
+    "quote": "it does not sting or bite"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s6",
+    "claim": "Finding cockroaches alone does not establish that a home is dirty.",
+    "quote": "Finding roaches is not a sign that your house is dirty."
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s6",
+    "claim": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+    "quote": "Hitching a ride on bags, backpacks, suitcases and other containers."
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+    "quote": "Cockroaches are attracted to their own debris."
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+    "quote": "Monitor and assess cockroach activity using sticky traps or glue boards."
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "Adult male Turkestan cockroaches are slender and brownish orange/red, with long yellowish wings.",
+    "quote": "brownish orange/red, slender, and have long, yellowish wings"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "Adult female Turkestan cockroaches are broader than males and have short vestigial wings.",
+    "quote": "They are broader than Turkestan males and have short vestigial wings."
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s9",
+    "claim": "In the apartment study summarized here, fogger-treated homes showed no significant decrease in free-roaming German cockroach numbers two to four weeks later.",
+    "quote": "there was no significant drop in these wild cockroach numbers"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s9",
+    "claim": "The extension article explains that cockroaches can retreat to protected crevices when they sense an irritating insecticide.",
+    "quote": "cockroaches typically hide in protective crevices when they sense an irritating insecticide"
+  }
+]

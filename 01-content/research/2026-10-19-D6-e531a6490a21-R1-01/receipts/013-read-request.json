@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 12,
+  "idempotency_key": "research-359182d1022c-a13",
+  "action": {
+    "tool": "read",
+    "url": "https://www3.epa.gov/pesticides/kids/roaches/english/facts/index.html"
+  }
+}

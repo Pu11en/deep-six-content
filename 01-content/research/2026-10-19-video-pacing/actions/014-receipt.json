@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-14-df3ed223db9c0834",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/inference-sh/skills/main/guides/video/explainer-video-guide/SKILL.md\"},\"expected_revision\":14}",
+  "revision": 15,
+  "outcome": "applied"
+}

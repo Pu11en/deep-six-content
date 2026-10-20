@@ -1,0 +1,16 @@
+{
+  "episode_id": "D6-6c917b49743b",
+  "stage": "hook_motion_review",
+  "candidate": "hook-v1.mp4",
+  "candidate_sha256": "d6611e727b66ba33d79098eb15e2b55cac3a7a2b61cbe5364d632970fcdc227c",
+  "decision": "approved",
+  "feedback": [
+    {
+      "at": "2026-10-19T23:14:00+00:00",
+      "user_text": "Also, I did see it. It's really good. Wherever you did, proceed and then proceed and then do the rest Because I do like the way it I do like the everything about it. So you're doing whatever you're doing, you're doing it correctly. So can so just make the video",
+      "meaning": "Drew approved hook v1 and asked for the full video made the same way."
+    }
+  ],
+  "approved_by": "Drew",
+  "approved_at": "2026-10-19T23:14:00+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "voices": [
+    {
+      "name": "Tyler",
+      "voice_id": "rPMkKgdwgIwqv4fXgR6N"
+    },
+    {
+      "name": "Chris",
+      "voice_id": "iP95p4xoKVk53GoZ742B"
+    },
+    {
+      "name": "Liam",
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ"
+    }
+  ],
+  "next_index": 1,
+  "assignments": {
+    "D6-6c917b49743b": {
+      "name": "Tyler",
+      "voice_id": "rPMkKgdwgIwqv4fXgR6N"
+    }
+  },
+  "preference": "Drew liked all three hook auditions and requested rotation across narrations. Original narration wording preferred. Keep the assigned voice for revisions of the same narration."
+}

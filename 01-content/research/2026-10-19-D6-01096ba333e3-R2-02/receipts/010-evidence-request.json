@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 9,
+  "idempotency_key": "research-8a92111d8a9a-a10",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Female German cockroaches carry their egg cases until the eggs are ready to hatch, unlike the deposited cases described for American cockroaches.",
+    "quote": "until the eggs are ready to hatch"
+  }
+}

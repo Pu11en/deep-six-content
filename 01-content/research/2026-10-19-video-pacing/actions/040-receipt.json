@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-40-83a5596201c74561",
+  "payload": "{\"action\":{\"claim\":\"Another listed Explainers entry (Deedy's X post) was prompted as a slick, punchy startup video.\",\"quote\":\"make a modern slick and punchy video for a modern startup that works on inference\",\"source_id\":\"s12\",\"tool\":\"evidence\"},\"expected_revision\":40}",
+  "revision": 41,
+  "outcome": "applied"
+}

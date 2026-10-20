@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 10,
+  "idempotency_key": "research-488991e51202-a11",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case. An egg case successfully consumed in this way will not produce cockroaches.",
+    "quote": "dozen or more cockroach eggs"
+  }
+}

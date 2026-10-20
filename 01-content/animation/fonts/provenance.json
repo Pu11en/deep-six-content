@@ -1,0 +1,32 @@
+[
+  {
+    "file": "EBGaramond12-Regular.ttf",
+    "copied_from": "/usr/share/fonts/truetype/ebgaramond/EBGaramond12-Regular.ttf",
+    "sha256": "689aa494b0eb1913085eaeb84d28b18e3b788b45dddbb3083a676d2e8896b5a4"
+  },
+  {
+    "file": "DejaVuSans.ttf",
+    "copied_from": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+  },
+  {
+    "file": "EBGaramond-LICENSE.txt",
+    "copied_from": "/usr/share/doc/fonts-ebgaramond-extra/copyright",
+    "sha256": "36deb8323ecc0e8fea2a181a9b7fce65f139ae557a44e9b4606d33417218ae06"
+  },
+  {
+    "file": "DejaVu-LICENSE.txt",
+    "copied_from": "/usr/share/doc/fonts-dejavu-core/copyright",
+    "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+  },
+  {
+    "file": "InterDisplay-Black.otf",
+    "copied_from": "/usr/share/fonts/opentype/inter/InterDisplay-Black.otf",
+    "sha256": "c0ebb676933a45d73d16fea70c875f9f2b711b585c69b15962b7f2a890b5f8e8"
+  },
+  {
+    "file": "Inter-LICENSE.txt",
+    "copied_from": "/usr/share/doc/fonts-inter/copyright",
+    "sha256": "781ffde332be9bdb6ccc527e6ccd6d6a586f3960c2d598b5580b8c7d1ae53d66"
+  }
+]

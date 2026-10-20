@@ -1,0 +1,68 @@
+[
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The female braces herself against a cockroach egg case, penetrates its tough covering with her egg-laying organ and lays one egg. The profile says inserting the organ usually takes 15 to 30 minutes.",
+    "quote": "15 to 30 minutes"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The earliest larval stage has pointed jaws bearing small teeth that cut through the shells of individual cockroach eggs. Later larval stages have differently shaped jaws.",
+    "quote": "cut through the tough shell"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The wasp pupates inside the cockroach egg case without a cocoon. The mature adult cuts a small round, jagged exit hole near the end of a long side of the case.",
+    "quote": "small round jagged hole"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The profile names Oriental, American and Australian cockroaches as hosts of Evania appendigaster and describes it as common in much of the southern United States. It does not name German cockroaches as hosts.",
+    "quote": "common in much of the southern US"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "American cockroaches favor warm, moist places. Females deposit their egg cases in cracks or crevices.",
+    "quote": "deposited in a crack or crevice"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Female German cockroaches carry their egg cases until the eggs are ready to hatch, unlike the deposited cases described for American cockroaches.",
+    "quote": "until the eggs are ready to hatch"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Inspect bags, boxes and luggage brought indoors for cockroaches and their egg capsules. Corrugated cardboard can harbor them; removing boxes and other unnecessary clutter reduces hiding places.",
+    "quote": "Examine bags, boxes and luggage"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Indoor cockroach prevention includes restricting food and water, repairing leaks, drying damp places and sealing cracks where roaches hide. These steps reduce resources and shelter available to them.",
+    "quote": "leaky water pipes or faucets"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Most crawling pests travel in dark areas and along edges. Place sticky insect cards directly against a wall, with open ends running parallel to it so insects can enter along that route.",
+    "quote": "travel in dark areas and along edges"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Suggested cockroach trap sites include behind stoves and refrigerators, in cupboards and under sinks. Traps beside exterior doors or other entry points can monitor outdoor cockroaches coming in.",
+    "quote": "Behind stoves and refrigerators"
+  },
+  {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Sticky traps detect pests when people are absent, including at night. Comparing multiple traps can help pinpoint activity and monitoring over time shows changes in abundance. Their main role is detection and monitoring, not standalone control.",
+    "quote": "detect pests, and monitor changes"
+  }
+]

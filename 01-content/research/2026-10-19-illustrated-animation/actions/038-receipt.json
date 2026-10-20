@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-38-eb6221b0e6252156",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e3\",\"reason\":\"Full renderer creates the canvas and FFmpeg output using these values. Vertical composition remains work to author and test.\",\"tool\":\"check\"},\"expected_revision\":38}",
+  "revision": 39,
+  "outcome": "applied"
+}

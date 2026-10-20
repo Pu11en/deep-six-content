@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 59,
+  "idempotency_key": "d6-59-f3e217290c4fab93",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e17",
+    "assessment": "supported",
+    "reason": "Quote found in the gallery page (creator's own post text); supports the creator's claim only."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-44-7aa62a6ab3d4430d",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e2\",\"reason\":\"Quote found; supports that the blog reports these figures. First-person claim with no sample or method; treat as anecdotal.\",\"tool\":\"check\"},\"expected_revision\":44}",
+  "revision": 45,
+  "outcome": "applied"
+}

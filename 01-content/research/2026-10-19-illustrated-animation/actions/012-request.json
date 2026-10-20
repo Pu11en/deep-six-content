@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 12,
+  "idempotency_key": "d6-12-0ebd1b944788ced8",
+  "action": {
+    "tool": "read",
+    "url": "https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 48,
+  "idempotency_key": "research-359182d1022c-a49",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Eleven anchored facts use 18 to 22 quoted words per publication. Cards retain species, dates or undated status, geography, study limits and unresolved mechanisms. No selected crawler snapshot is truncated."
+  }
+}

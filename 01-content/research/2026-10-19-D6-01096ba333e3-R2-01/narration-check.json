@@ -1,0 +1,94 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-5c13e5e1635f",
+  "checked_at": "2026-10-20T00:11:02+00:00",
+  "selected_hook_label": "4C",
+  "selected_hook": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+  "checks": {
+    "five_complete_scripts": true,
+    "chosen_hook_exact_in_all": true,
+    "no_em_dashes": true,
+    "distinct_scripts": true,
+    "fact_references_valid": true,
+    "plain_ensign_wasp_introduction_in_all": true,
+    "waiting_for_drew": true,
+    "prior_approved_episode_count_unchanged": true,
+    "ant_queue_priority_preserved": true,
+    "board_updates_disabled": true
+  },
+  "editorial_changes": [
+    "Clarified that recognizing the species, rather than merely seeing an insect, explains its identity.",
+    "Shortened the comparison about one wasp and multiple eggs.",
+    "Corrected the wording so the eggs, not the protective case, are consumed."
+  ],
+  "scientific_review": [
+    "Egg placement, feeding and the adult description match the checked source passages.",
+    "The five scripts preserve the distinction between the egg case and the eggs inside it.",
+    "No script invents deposition locations, pupation timing or exit mechanics.",
+    "Host and household-control claims stay within the recorded limits."
+  ],
+  "source_urls": [
+    "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+    "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/"
+  ],
+  "choices": [
+    {
+      "number": 1,
+      "title": "Step by step",
+      "words": 202,
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-a3ce9f37fdb5-F1"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The mother and her young",
+      "words": 214,
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SUP-a3ce9f37fdb5-F1"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "One wasp, multiple eggs",
+      "words": 197,
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SUP-a3ce9f37fdb5-F1"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Meet the flag-shaped wasp",
+      "words": 210,
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-a3ce9f37fdb5-F1"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "What it means at home",
+      "words": 217,
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-a3ce9f37fdb5-F1"
+      ]
+    }
+  ]
+}

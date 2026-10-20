@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 27,
+  "idempotency_key": "research-359182d1022c-a28",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s6",
+    "claim": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+    "quote": "Hitching a ride on bags, backpacks, suitcases and other containers."
+  }
+}

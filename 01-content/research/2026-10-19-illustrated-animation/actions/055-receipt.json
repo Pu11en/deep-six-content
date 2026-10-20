@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-55-f0a41277586ee7ba",
+  "payload": "{\"action\":{\"claim\":\"Anidoodle carries the Apache License, Version 2.0.\",\"quote\":\"Version 2.0, January 2004\",\"source_id\":\"s21\",\"tool\":\"evidence\"},\"expected_revision\":55}",
+  "revision": 56,
+  "outcome": "applied"
+}

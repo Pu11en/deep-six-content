@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-5-974fe5bcdb87386a",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/master/skills/papercraft-stop-motion-explainer/SKILL.md\"},\"expected_revision\":5}",
+  "revision": 6,
+  "outcome": "applied"
+}

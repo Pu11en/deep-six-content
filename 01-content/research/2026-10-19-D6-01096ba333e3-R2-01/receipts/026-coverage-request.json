@@ -1,0 +1,14 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 25,
+  "idempotency_key": "research-488991e51202-a26",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q5",
+    "status": "unanswered",
+    "evidence_ids": [
+      "e3"
+    ],
+    "reason": "The main article presents an indoor sighting as a possible clue and distinguishes regular roach sightings from a wasp sighting. It supplies no reliable diagnostic rule or infestation-size estimate. A separate monitoring procedure was not established, so scripts will omit it and avoid claims of complete control."
+  }
+}

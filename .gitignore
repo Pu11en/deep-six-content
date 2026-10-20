@@ -1,0 +1,11 @@
+__pycache__/
+01-content/harness/runtime/
+
+# Local job locks, raw CLI logs and reproducible frame caches.
+01-content/audio/**/*.lock
+01-content/animation/episodes/**/dev/
+01-content/animation/episodes/**/job/*.jsonl
+01-content/animation/episodes/**/job/stderr-*.log
+01-content/animation/episodes/**/plan-job/*.jsonl
+01-content/animation/episodes/**/plan-job/stderr-*.log
+01-content/outro/production/*-frames/

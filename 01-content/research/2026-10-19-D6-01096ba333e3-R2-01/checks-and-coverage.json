@@ -1,0 +1,88 @@
+[
+  {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "The selected article describes the female inserting its slender ovipositor through the tough case and laying one egg; it identifies the American cockroach as a host. Independent original-page check passed."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e2",
+    "assessment": "supported",
+    "reason": "The article describes the larva feeding on a dozen or more eggs and states that parasitized cases do not hatch cockroaches. The claim is limited to successful feeding, not a guaranteed outcome of every attack. Independent original-page check passed."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e3",
+    "assessment": "supported",
+    "reason": "The article explicitly states that this ensign wasp does not sting or bite. This is species-specific and is not a claim about all wasps. Independent original-page check passed."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "The article gives the 5-7 mm size, stalked abdomen, signal-flag comparison and up-and-down movement. Independent original-page check passed."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "The taxonomy paper introduction describes solitary predation on cockroach eggs inside oothecae. This passage is complete in the truncated crawler text and was found on the independently fetched full page."
+  },
+  {
+    "tool": "check",
+    "evidence_id": "e6",
+    "assessment": "supported",
+    "reason": "The extension article describes specialization on one or a few related hosts in parasitoids generally. This is context, not a measured host range or a control guarantee for Evania. Independent original-page check passed."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "unanswered",
+    "evidence_ids": [
+      "e1",
+      "e2"
+    ],
+    "reason": "The selected source establishes a tough case enclosing multiple cockroach eggs. Precise American cockroach deposition locations around buildings were not verified in an accepted supporting card and will be omitted. That optional detail is not needed to answer the chosen hook."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "unanswered",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e5"
+    ],
+    "reason": "Egg placement with the ovipositor and larval feeding are verified. Pupation and the exact emergence route or timing were not verified in accepted evidence and will be omitted. The core why-question is answered by the larva gaining food inside the case."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e3",
+      "e4"
+    ],
+    "reason": "The main article establishes adult size, stalked flag-like abdomen and its movement. Its adult does not sting or bite; the feeding larva is a different life stage."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e6"
+    ],
+    "reason": "The selected Texas extension article identifies American, smokybrown and Oriental cockroaches in its text; the imported core fact names American cockroaches. General host specialization supports retaining species limits. No current local abundance measurement or universal host claim is available or needed."
+  },
+  {
+    "tool": "coverage",
+    "question_id": "q5",
+    "status": "unanswered",
+    "evidence_ids": [
+      "e3"
+    ],
+    "reason": "The main article presents an indoor sighting as a possible clue and distinguishes regular roach sightings from a wasp sighting. It supplies no reliable diagnostic rule or infestation-size estimate. A separate monitoring procedure was not established, so scripts will omit it and avoid claims of complete control."
+  }
+]

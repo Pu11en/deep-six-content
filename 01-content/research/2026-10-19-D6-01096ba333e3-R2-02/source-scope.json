@@ -1,0 +1,14 @@
+{
+  "added_support_domains": [
+    "edis.ifas.ufl.edu",
+    "ask.ifas.ufl.edu",
+    "ipm.ucanr.edu",
+    "extension.umn.edu"
+  ],
+  "reason": "Official university extension publications needed for the requested deeper biology and practical pest-control explanations. The Florida publication redirects from edis.ifas.ufl.edu to ask.ifas.ufl.edu. No change to the main-source queue or paid-call authorization.",
+  "discovery_queries": [
+    "Evania appendigaster ensign wasp cockroach egg cases parasitoid, on university extension domains",
+    "cockroaches pest notes American cockroach sticky traps egg cases hiding places, on university extension domains"
+  ],
+  "discovery_method": "Two free web searches; candidates will be read through the crawler and checked independently."
+}

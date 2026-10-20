@@ -1,0 +1,52 @@
+{
+  "file": "01-content/outro/assets/outro-voice-raw-v1.wav",
+  "sample_rate": 24000,
+  "duration_seconds": 3.84,
+  "peak_dbfs": -1.6807583707785698,
+  "clipped_samples": 0,
+  "transcript": "Helping you understand pests, Deep6 Pest Control.",
+  "words": [
+    {
+      "word": "Helping",
+      "start": 0.0,
+      "end": 0.56,
+      "probability": 0.8635724186897278
+    },
+    {
+      "word": "you",
+      "start": 0.56,
+      "end": 0.74,
+      "probability": 0.9807773232460022
+    },
+    {
+      "word": "understand",
+      "start": 0.74,
+      "end": 1.26,
+      "probability": 0.9848328232765198
+    },
+    {
+      "word": "pests,",
+      "start": 1.26,
+      "end": 1.76,
+      "probability": 0.9936999082565308
+    },
+    {
+      "word": "Deep6",
+      "start": 2.44,
+      "end": 2.7,
+      "probability": 0.5517852604389191
+    },
+    {
+      "word": "Pest",
+      "start": 2.7,
+      "end": 3.1,
+      "probability": 0.9786886870861053
+    },
+    {
+      "word": "Control.",
+      "start": 3.1,
+      "end": 3.46,
+      "probability": 0.9804688096046448
+    }
+  ]
+}

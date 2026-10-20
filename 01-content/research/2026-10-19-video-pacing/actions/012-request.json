@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 12,
+  "idempotency_key": "d6-12-be118d57e888aff4",
+  "action": {
+    "tool": "read",
+    "url": "https://justtv.wordpress.com/tag/average-shot-length"
+  }
+}

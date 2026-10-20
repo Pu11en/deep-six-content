@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 66,
+  "idempotency_key": "d6-66-fc699bfc91507b12",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e17",
+    "assessment": "supported",
+    "reason": "Relevant primary README section read; snapshot truncated. General rendering capability, not a ready pest illustration library or measured determinism."
+  }
+}

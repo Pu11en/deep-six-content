@@ -1,0 +1,18 @@
+{
+  "failed_reads": [
+    {
+      "url": "https://ipm.ucanr.edu/home-and-landscape/cockroaches/",
+      "crawler_outcome": "redirect_limit",
+      "used_in_cards": false
+    }
+  ],
+  "excluded_claims": [
+    "No household suppression percentage or guarantee.",
+    "No inference that egg-carrying behavior alone proves a species cannot be parasitized.",
+    "No claim that an ensign-wasp sighting proves or locates an active infestation."
+  ],
+  "nonblocking_gaps": [
+    "The selected sources do not establish a local whole-home suppression rate. Scripts make no such claim."
+  ],
+  "covered_required_scope": "Mechanism, species-specific egg-case handling, trap placement, incoming item inspection, moisture and shelter reduction."
+}

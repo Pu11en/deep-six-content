@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-39-71558bbf86160564",
+  "payload": "{\"action\":{\"claim\":\"The supplied ant drawing explicitly implements a one-node waist.\",\"quote\":\"// ---------------- petiole: the narrow waist with one node\",\"source_id\":\"s7\",\"tool\":\"evidence\"},\"expected_revision\":39}",
+  "revision": 40,
+  "outcome": "applied"
+}

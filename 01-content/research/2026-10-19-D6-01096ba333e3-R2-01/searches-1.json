@@ -1,0 +1,10 @@
+[
+  {
+    "tool": "search",
+    "query": "\"Evania appendigaster\" larva egg case emergence site:pmc.ncbi.nlm.nih.gov"
+  },
+  {
+    "tool": "search",
+    "query": "\"American cockroach\" \"egg case\" site:citybugs.tamu.edu"
+  }
+]

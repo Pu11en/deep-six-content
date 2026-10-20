@@ -1,0 +1,13 @@
+{
+  "status": "done",
+  "files_written": [
+    "episodes/D6-6c917b49743b/model-test/test-astra-conditions/shot-list.json",
+    "scenes/test-astra-conditions.mjs"
+  ],
+  "shot_count": 15,
+  "self_check_rounds": 2,
+  "longest_still_seconds": 0,
+  "picture_change_median": 0.215,
+  "remaining_issues": [],
+  "summary": "Created the 13.35-second segment. Visual, timing, backward-seek and motion checks passed."
+}

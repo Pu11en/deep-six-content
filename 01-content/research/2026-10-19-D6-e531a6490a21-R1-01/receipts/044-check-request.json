@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 43,
+  "idempotency_key": "research-359182d1022c-a44",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e9",
+    "assessment": "supported",
+    "reason": "The full paragraph specifies fogger-treated apartments, free-roaming cockroach counts and two-to-four-week follow-up; the study population is German cockroaches. No universal treatment claim is made. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

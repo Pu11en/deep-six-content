@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 56,
+  "idempotency_key": "d6-56-8c434c978d1fd913",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e12",
+    "assessment": "supported",
+    "reason": "Full repository license retrieved. Applicable notice requirements and dependency licenses remain relevant."
+  }
+}

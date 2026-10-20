@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 8,
+  "idempotency_key": "research-8a92111d8a9a-a9",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "American cockroaches favor warm, moist places. Females deposit their egg cases in cracks or crevices.",
+    "quote": "deposited in a crack or crevice"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 35,
+  "idempotency_key": "research-359182d1022c-a36",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "The surrounding paragraph identifies the female ensign wasp, insertion into the cockroach ootheca, and laying a single egg. Scope remains the named host relationship. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

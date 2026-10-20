@@ -1,0 +1,20 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 61,
+  "idempotency_key": "d6-61-2044ec41a7f7ff11",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7"
+    ],
+    "reason": "Vendor blogs give 3-5 s pattern interrupts and one cut per 2-4 s for Shorts, and an AI papercraft skill gives 2-4 s per shot. None cites a dataset or method, so these are rules of thumb that proved slower than the fast shorts measured locally."
+  }
+}

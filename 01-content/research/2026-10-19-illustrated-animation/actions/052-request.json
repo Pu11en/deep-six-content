@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 52,
+  "idempotency_key": "d6-52-b95e63e4ab1edc4e",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e10",
+    "assessment": "supported",
+    "reason": "A candidate visual vocabulary described by its author; not a tested fire-ant result."
+  }
+}

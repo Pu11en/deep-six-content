@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 17,
+  "idempotency_key": "d6-17-d622c591174ad64b",
+  "action": {
+    "tool": "read",
+    "url": "https://www.youtube.com/watch?v=q4IlJA0mC_I"
+  }
+}

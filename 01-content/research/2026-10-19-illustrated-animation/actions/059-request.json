@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 59,
+  "idempotency_key": "d6-59-3742318c6c3a802e",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s29",
+    "claim": "The butterfly source specifies square 1080x1080 frames and derives duration from imported cues.",
+    "quote": "meta: { title: \"mechanicalLepidoptera\", W: 1080, H: 1080, fps: 30, bpm: 120, durationFrames: TOTAL }"
+  }
+}

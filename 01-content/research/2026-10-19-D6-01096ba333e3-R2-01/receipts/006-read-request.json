@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 5,
+  "idempotency_key": "research-488991e51202-a6",
+  "action": {
+    "tool": "read",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-895bed57995b",
+  "at": "2026-10-20T05:18:57+00:00",
+  "status": "awaiting_drew_review",
+  "selected_hook": {
+    "source_id": "SRC-0fa91dcbc971",
+    "text": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+    "fact_ids": [
+      "SRC-0fa91dcbc971-F1",
+      "SRC-0fa91dcbc971-F2"
+    ],
+    "payoff": "Explain that the ensign wasp puts an egg inside the cockroach egg case so its developing young can feed on the cockroach eggs, and introduce what an ensign wasp is in plain English."
+  },
+  "request": {
+    "count": 5,
+    "focus": "Five fresh, complete ensign-wasp narrations. Each develops one connected lesson with natural spoken wording. Answer the chosen hook once in the first short paragraph, then keep moving. No repeated food explanation, no announcements before giving a fact, no dictionary-definition sentence about ensign, no padding or generic final recap. Vary the story and rhythm, not just synonyms. Each ending must finish its own lesson before the approved sign-off. Facts are available material, not a list to cram in.",
+    "directions": [
+      "1. Recognizing this small harmless wasp: one egg and the young feeding, then the adult size and flag-like body movement. Connect the name to that visible feature naturally. Give the homeowner a clear reason to leave this identified wasp alone.",
+      "2. The effort of laying the egg: the mother braces against the tough case and usually needs 15 to 30 minutes to insert her egg-laying organ. Describe that organ in ordinary words. Explain why she goes to that effort without repeating the feeding answer. Keep this one insect story coherent; do not attach a generic trap checklist.",
+      "3. What happens inside one case: after her egg hatches, the young feeds and grows, changes into an adult inside that same case, and the adult cuts a small hole to leave. Make every subject and life-stage change clear. Omit the detached no-cocoon detail. End the story with a concrete useful fact, not an obvious statement that eaten eggs will not hatch.",
+      "4. Checking for roach activity: after the wasp explanation, naturally connect to how a homeowner can use sticky insect traps. Explain the glue surface briefly, why wall edges matter, and a small number of useful placement sites. Finish with what comparing catches tells them. A wasp sighting is not a diagnosis, and the traps are for monitoring; keep claims narrow rather than adding a disclaimer ending.",
+      "5. Egg cases in hiding: American cockroaches leave cases in cracks and gaps. Connect the wasp egg-case story to a practical inspection or prevention lesson using the checked evidence on warm damp places or bags and boxes. Choose a single coherent practical path. Say cardboard boxes, not corrugated cardboard. Do not imply German cockroaches are hosts of this wasp."
+    ]
+  },
+  "scripts": [
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA female ensign wasp puts one egg inside the case. When her egg hatches, the young wasp feeds on the cockroach eggs around it.\n\nThe adult is about a quarter of an inch long. At the back of its body, a little flag-shaped section sits on a thin stalk. It bobs up and down, giving the ensign wasp its name.\n\nThis wasp doesn’t sting or bite people. If you spot one in your home, you can leave it alone.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nAn ensign wasp puts her egg there so her young can feed on the cockroach eggs inside.\n\nThe mother has to get through a tough outer wall first. She braces herself against the case and pushes in the thin tube she uses to lay eggs.\n\nGetting that tube through usually takes 15 to 30 minutes. Once it’s in, she leaves a single egg inside.\n\nThis wasp doesn’t sting or bite people, so you can leave it alone if you find one in your home.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SUP-d34ca591f2c4-F1"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nAn ensign wasp lays one egg inside so her young can feed on the cockroach eggs.\n\nIf you find one indoors and want to check for roaches, sticky insect traps can help. They have a glue surface that catches insects as they walk across it.\n\nRoaches tend to follow walls and edges. Set the traps right against a wall, under a sink or behind the refrigerator. Keep the openings lined up along the wall so roaches can walk straight in as they follow that edge.\n\nCompare what you catch in different places. Start a closer inspection where you’re catching the most roaches.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SUP-b8f992d02be3-F1",
+        "SUP-b8f992d02be3-F2",
+        "SUP-b8f992d02be3-F3"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nAn ensign wasp is a small wasp that lays one egg inside so her young can feed on the cockroach eggs. American cockroach egg cases are one of her targets.\n\nFemale American cockroaches leave their egg cases in cracks and small gaps. These roaches favor warm, damp places, so a leaking pipe gives you a place to start looking.\n\nCheck the nearby cracks and gaps for both live roaches and egg cases. Fix the leak, dry the area, and seal gaps the roaches use for shelter.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-139443c3574f-F1",
+        "SUP-139443c3574f-F4"
+      ]
+    }
+  ],
+  "quality": {
+    "status": "ready_for_review",
+    "changes": [
+      "Preserved the exact hook and sign-off in all five scripts.",
+      "Version 1: Removed the repeated feeding explanation and redundant recognition sentence.",
+      "Version 2: Replaced technical wording with a plain description and clarified that the usual 15–30 minutes is for penetrating the case.",
+      "Version 3: Clarified the life stages and removed repeated explanations, ending on the adult’s exit hole.",
+      "Version 4: Replaced “hosts” with ordinary wording and connected trap placement directly to insect movement and monitoring.",
+      "Version 5: Cut repeated hiding-place descriptions and the generic recap, keeping the lesson focused on damp areas and nearby shelter."
+    ],
+    "unresolved": [],
+    "calls": [
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narrations",
+        "at": "2026-10-20T05:13:28+00:00",
+        "prompt_version": "bd85fece174d"
+      },
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narration_edit",
+        "at": "2026-10-20T05:15:14+00:00",
+        "prompt_version": "989ff421f52f"
+      }
+    ],
+    "human_approved": false,
+    "session_edit": {
+      "at": "2026-10-20T05:18:57+00:00",
+      "editor": "session_assistant",
+      "manual_text_edits": true,
+      "generated_artifact": "01-content/mp3-system/narrations-with-outro-v5-generated.json",
+      "checks": [
+        "Exact hook and outro preserved.",
+        "Each final claim matched to the checked source cards.",
+        "Plain wording and life-stage subjects reviewed.",
+        "No em dashes or spoken source credits."
+      ],
+      "human_approved": false
+    }
+  },
+  "previous_options_file": "01-content/mp3-system/narrations-with-outro-v4.json",
+  "preserved_file_hashes": {
+    "BOARD.md": "1e497959fc76e20ab358f770b8fb1ffa9e7cd1b0383550a310ef684bcd347d0f",
+    "01-content/mp3-system/narrations-before-outro.json": "e8f48019c11a554f74726ccdb1f9d5a71a0dd75c923bc4f80fd4cd52bf923f3d",
+    "01-content/mp3-system/narrations-with-outro-v4.json": "066c8e0be184d49c09570e277d7caa0181ac78f00ccf1eac6d71c8f6e96ddb58"
+  },
+  "preserved_state_fields": [
+    "approved",
+    "queue",
+    "source_queue",
+    "used_sources",
+    "next_source_id",
+    "runs"
+  ],
+  "generation_receipt": "01-content/mp3-system/narrations-with-outro-v5-generated.json"
+}

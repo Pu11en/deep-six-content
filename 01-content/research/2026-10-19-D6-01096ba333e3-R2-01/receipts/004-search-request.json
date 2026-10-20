@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 3,
+  "idempotency_key": "research-488991e51202-a4",
+  "action": {
+    "tool": "search",
+    "query": "ensign wasp extension"
+  }
+}

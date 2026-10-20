@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-15-7500d9a39b0d467f",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://fireant.tamu.edu/learn/identification/\"},\"expected_revision\":15}",
+  "revision": 16,
+  "outcome": "http_404"
+}

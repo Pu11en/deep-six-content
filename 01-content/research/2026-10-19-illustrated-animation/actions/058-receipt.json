@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-58-5bad5bb8c4c0848b",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e13\",\"reason\":\"The example README reports a failed dead-air check. This is a reported limitation, not a test performed here.\",\"tool\":\"check\"},\"expected_revision\":58}",
+  "revision": 59,
+  "outcome": "applied"
+}

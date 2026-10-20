@@ -1,0 +1,16 @@
+{
+  "episode_id": "D6-6c917b49743b",
+  "stage": "hook_motion_review",
+  "candidate": "full-v1.mp4",
+  "candidate_sha256": "407ddcb2cffe5bf77f2d22ae2d9ea34a71b7677ddd15ee7112699fdefb1b6e6a",
+  "decision": "superseded",
+  "feedback": [
+    {
+      "at": "2026-10-20T00:21:05+00:00",
+      "user_text": null,
+      "meaning": "Never shown to Drew. Replaced by v2 after the agent's own check found holds still for up to 1 second."
+    }
+  ],
+  "approved_by": null,
+  "approved_at": null
+}

@@ -1,0 +1,14 @@
+{
+  "asset": "01-content/outro/assets/v2-paper-style-reference.png",
+  "sha256": "ec80944469134f0221ec199543ffe92be415d0f2769b3302a300d42249300ecc",
+  "source_video": "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4",
+  "frame_requested_seconds": 0.34,
+  "crop_xywh": [
+    20,
+    0,
+    760,
+    300
+  ],
+  "purpose": "Reference B for Opus start-frame prompt: actual matte paper grain, edge and palette, with no captions or pests.",
+  "method": "Read-only video frame extraction and crop; source unchanged. No generation or recoloring."
+}

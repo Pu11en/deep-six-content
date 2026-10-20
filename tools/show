@@ -26,6 +26,8 @@ mkdir -p "$root/board-previews"
 board="$root/BOARD.md"
 head='# Deep Six board\n\nNewest on top.\n\n---\n'
 [ -f "$board" ] || printf "$head" > "$board"
-body="$(sed '1,/^---$/d' "$board")"
-{ printf "$head\n"; printf "%b\n" "$entry"; printf '%s\n' "$body"; } > "$board.tmp" && mv "$board.tmp" "$board"
+# Keep anything above the board header (the harness-managed current-status block).
+pre="$(awk '/^# Deep Six board$/{exit} {print}' "$board")"
+body="$(awk 'h&&d{print;next} /^# Deep Six board$/{h=1} h&&/^---$/{d=1}' "$board")"
+{ [ -n "$pre" ] && printf '%s\n\n' "$pre"; printf "$head\n"; printf "%b\n" "$entry"; printf '%s\n' "$body"; } > "$board.tmp" && mv "$board.tmp" "$board"
 echo "On board: $rel"

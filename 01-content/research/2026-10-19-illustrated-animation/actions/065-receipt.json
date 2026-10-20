@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-65-28528fdcb7681efd",
+  "payload": "{\"action\":{\"claim\":\"HyperFrames describes turning HTML, CSS, media and seekable animations into MP4.\",\"quote\":\"HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.\",\"source_id\":\"s4\",\"tool\":\"evidence\"},\"expected_revision\":65}",
+  "revision": 66,
+  "outcome": "applied"
+}

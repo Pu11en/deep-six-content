@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 17,
+  "idempotency_key": "research-359182d1022c-a18",
+  "action": {
+    "tool": "read",
+    "url": "https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fcitybugs.tamu.edu%2F2019%2F02%2F05%2Fbug-bombs-bomb%2F&linkname=Bug%20bombs%20bomb"
+  }
+}

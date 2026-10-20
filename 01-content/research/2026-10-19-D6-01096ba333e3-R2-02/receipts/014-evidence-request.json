@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 13,
+  "idempotency_key": "research-8a92111d8a9a-a14",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Suggested cockroach trap sites include behind stoves and refrigerators, in cupboards and under sinks. Traps beside exterior doors or other entry points can monitor outdoor cockroaches coming in.",
+    "quote": "Behind stoves and refrigerators"
+  }
+}

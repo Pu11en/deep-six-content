@@ -1,0 +1,69 @@
+{
+  "checked_at": "2026-10-20T05:00:30+00:00",
+  "review_id": "review-c5fac296a003",
+  "candidate_file": "01-content/mp3-system/narrations-with-outro-v4.json",
+  "script_sha256": "b52eff959b15303929164503cd679310770f0f9bdc529e7e77dd790e1b0ff81b",
+  "word_count": 104,
+  "exact_hook": true,
+  "approved_outro_exact_once": true,
+  "no_em_dashes": true,
+  "known_fact_ids_only": true,
+  "no_spoken_source_credits": true,
+  "manual_text_edits": false,
+  "human_approved": false,
+  "claim_review": [
+    {
+      "claim": "The mother places one egg inside the cockroach egg case.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1"
+      ]
+    },
+    {
+      "claim": "The young feeds on the dozen or more cockroach eggs inside.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F2"
+      ]
+    },
+    {
+      "claim": "Adult about a quarter inch long; stalked rear section resembles a signal flag, moves up and down, and explains the name.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F4"
+      ],
+      "size_check": "0.25 inches is 6.35 mm, within the checked 5 to 7 mm range."
+    },
+    {
+      "claim": "This wasp does not sting or bite people.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F3"
+      ]
+    },
+    {
+      "claim": "A homeowner can leave this identified ensign wasp alone.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3"
+      ],
+      "type": "Practical inference from its harmlessness and feeding relationship; no promise of infestation control."
+    }
+  ],
+  "tests": {
+    "command": "python -m unittest discover -s tests -p 'test_d6_*.py'",
+    "passed": 100,
+    "failed": 0,
+    "scope": "Offline fixtures. Tests cover workflow behavior, not audience taste."
+  },
+  "preserved_state_fields": [
+    "approved",
+    "queue",
+    "source_queue",
+    "used_sources",
+    "next_source_id",
+    "runs"
+  ],
+  "preserved_file_hashes": {
+    "BOARD.md": "1e497959fc76e20ab358f770b8fb1ffa9e7cd1b0383550a310ef684bcd347d0f",
+    "01-content/mp3-system/narrations-before-outro.json": "e8f48019c11a554f74726ccdb1f9d5a71a0dd75c923bc4f80fd4cd52bf923f3d",
+    "01-content/mp3-system/narrations-with-outro-v3.json": "6c40cab98153c24dfbe3e3cf25bec41baae6d0863a4d1d347f98dae65a61af73"
+  },
+  "model_comparison": "Opus returned a subscription-limit failure before a draft. No superiority finding is supported."
+}

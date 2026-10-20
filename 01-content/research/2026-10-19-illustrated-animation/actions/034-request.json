@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 34,
+  "idempotency_key": "d6-34-34f21082428e3d3c",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e1",
+    "assessment": "supported",
+    "reason": "Creator description, corroborated by inspected drawing modules and an older saved contact sheet; no new quality test."
+  }
+}

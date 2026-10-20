@@ -1,0 +1,13 @@
+{
+  "path": "01-content/outro/assets/hybrid-still-v3.jpg",
+  "sha256": "3555ae928763f1541a96b3b5b06af6d60784b168f65ab62322749e61c03396d7",
+  "accepted_for_motion_test": true,
+  "reference": "01-content/brand/fun-fact-friday-spider.png",
+  "observations": [
+    "Magnifier viewer-left, flashlight viewer-right and right-curl hood match the original.",
+    "Skull silhouette, oval eyes, triangular nose, short jaw marks, original costume and unmirrored badge are recognizable and closely preserve the source.",
+    "Paper texture and cream/purple/lime border support the hybrid style.",
+    "Figure is lower/larger than requested. Final composition will inset the full unaltered frame to keep the face, badge and logo clear of platform controls."
+  ],
+  "limits": "AI adaptation remains subject to Drew's finished-media approval; not a new authoritative brand master."
+}

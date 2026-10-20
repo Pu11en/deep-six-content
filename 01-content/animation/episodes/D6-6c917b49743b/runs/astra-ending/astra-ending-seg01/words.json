@@ -1,0 +1,1150 @@
+{
+ "audio": "../../../../audio/D6-6c917b49743b/full-original-tyler-01/original-tyler.mp3",
+ "audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+ "excerpt": "A fire ant colony doesn't always have a mound you can see. In a drought, the ground itself can be too hard and dry for them to build one. A colony has more going on than workers walking around outside. It also has a developing generation underground: eggs, larvae and pupae. Together, those stages are called brood. Eggs hatch into larvae, larvae become pupae, and adults eventually emerge. Those young ants are part of the reason nest conditions matter. During cold, wet weather, colonies tend to occupy higher parts of the nest, where they can take advantage of sunlight and keep brood away from waterlogged soil. During hot, dry weather, cooler, moister conditions below ground become useful instead. Workers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season. So the nest you see above ground doesn't show you where the developing ants are being kept. The colony's internal activity can continue out of sight while the surface looks quiet. For a homeowner, that changes what a missing mound means. You're losing a visible clue about the nest, not getting a direct measurement of the colony's condition or its developing young.",
+ "excerpt_start_seconds": 0,
+ "excerpt_end_seconds": 78.6,
+ "method": "Words 0-28: the hook timings checked earlier. Words 29-210: median start of three offline faster-whisper models (small.en, medium.en, large-v3-turbo), each aligned to the approved script, then snapped to measured silences (ffmpeg silencedetect -38 dB, 0.12 s). Machine alignment, not a human listening check.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.07,
+   "end": 0.22
+  },
+  {
+   "text": "fire",
+   "start": 0.22,
+   "end": 0.52
+  },
+  {
+   "text": "ant",
+   "start": 0.52,
+   "end": 0.71
+  },
+  {
+   "text": "colony",
+   "start": 0.72,
+   "end": 1.14
+  },
+  {
+   "text": "doesn't",
+   "start": 1.14,
+   "end": 1.66
+  },
+  {
+   "text": "always",
+   "start": 1.8,
+   "end": 2.14
+  },
+  {
+   "text": "have",
+   "start": 2.14,
+   "end": 2.38
+  },
+  {
+   "text": "a",
+   "start": 2.38,
+   "end": 2.56
+  },
+  {
+   "text": "mound",
+   "start": 2.56,
+   "end": 2.8
+  },
+  {
+   "text": "you",
+   "start": 2.8,
+   "end": 2.98
+  },
+  {
+   "text": "can",
+   "start": 2.98,
+   "end": 3.13
+  },
+  {
+   "text": "see.",
+   "start": 3.13,
+   "end": 3.59
+  },
+  {
+   "text": "In",
+   "start": 4.19,
+   "end": 4.29
+  },
+  {
+   "text": "a",
+   "start": 4.29,
+   "end": 4.42
+  },
+  {
+   "text": "drought,",
+   "start": 4.42,
+   "end": 4.81
+  },
+  {
+   "text": "the",
+   "start": 4.98,
+   "end": 5.14
+  },
+  {
+   "text": "ground",
+   "start": 5.14,
+   "end": 5.42
+  },
+  {
+   "text": "itself",
+   "start": 5.42,
+   "end": 5.88
+  },
+  {
+   "text": "can",
+   "start": 5.88,
+   "end": 6.18
+  },
+  {
+   "text": "be",
+   "start": 6.18,
+   "end": 6.34
+  },
+  {
+   "text": "too",
+   "start": 6.34,
+   "end": 6.6
+  },
+  {
+   "text": "hard",
+   "start": 6.6,
+   "end": 7.0
+  },
+  {
+   "text": "and",
+   "start": 7.0,
+   "end": 7.2
+  },
+  {
+   "text": "dry",
+   "start": 7.2,
+   "end": 7.48
+  },
+  {
+   "text": "for",
+   "start": 7.48,
+   "end": 7.7
+  },
+  {
+   "text": "them",
+   "start": 7.7,
+   "end": 7.82
+  },
+  {
+   "text": "to",
+   "start": 7.82,
+   "end": 8.0
+  },
+  {
+   "text": "build",
+   "start": 8.0,
+   "end": 8.2
+  },
+  {
+   "text": "one.",
+   "start": 8.2,
+   "end": 8.38
+  },
+  {
+   "text": "A",
+   "start": 8.99,
+   "end": 9.1
+  },
+  {
+   "text": "colony",
+   "start": 9.1,
+   "end": 9.42
+  },
+  {
+   "text": "has",
+   "start": 9.42,
+   "end": 9.68
+  },
+  {
+   "text": "more",
+   "start": 9.68,
+   "end": 9.96
+  },
+  {
+   "text": "going",
+   "start": 9.96,
+   "end": 10.24
+  },
+  {
+   "text": "on",
+   "start": 10.24,
+   "end": 10.52
+  },
+  {
+   "text": "than",
+   "start": 10.52,
+   "end": 10.7
+  },
+  {
+   "text": "workers",
+   "start": 10.7,
+   "end": 11.06
+  },
+  {
+   "text": "walking",
+   "start": 11.06,
+   "end": 11.48
+  },
+  {
+   "text": "around",
+   "start": 11.48,
+   "end": 11.82
+  },
+  {
+   "text": "outside.",
+   "start": 11.82,
+   "end": 12.43
+  },
+  {
+   "text": "It",
+   "start": 12.99,
+   "end": 13.08
+  },
+  {
+   "text": "also",
+   "start": 13.08,
+   "end": 13.4
+  },
+  {
+   "text": "has",
+   "start": 13.4,
+   "end": 13.76
+  },
+  {
+   "text": "a",
+   "start": 13.76,
+   "end": 13.98
+  },
+  {
+   "text": "developing",
+   "start": 13.98,
+   "end": 14.4
+  },
+  {
+   "text": "generation",
+   "start": 14.4,
+   "end": 15.0
+  },
+  {
+   "text": "underground:",
+   "start": 15.0,
+   "end": 15.9
+  },
+  {
+   "text": "eggs,",
+   "start": 16.32,
+   "end": 16.75
+  },
+  {
+   "text": "larvae",
+   "start": 16.95,
+   "end": 17.32
+  },
+  {
+   "text": "and",
+   "start": 17.58,
+   "end": 17.76
+  },
+  {
+   "text": "pupae.",
+   "start": 17.76,
+   "end": 18.08
+  },
+  {
+   "text": "Together,",
+   "start": 18.64,
+   "end": 19.0
+  },
+  {
+   "text": "those",
+   "start": 19.28,
+   "end": 19.5
+  },
+  {
+   "text": "stages",
+   "start": 19.5,
+   "end": 19.82
+  },
+  {
+   "text": "are",
+   "start": 19.82,
+   "end": 20.16
+  },
+  {
+   "text": "called",
+   "start": 20.16,
+   "end": 20.5
+  },
+  {
+   "text": "brood.",
+   "start": 20.5,
+   "end": 21.12
+  },
+  {
+   "text": "Eggs",
+   "start": 21.79,
+   "end": 22.04
+  },
+  {
+   "text": "hatch",
+   "start": 22.04,
+   "end": 22.36
+  },
+  {
+   "text": "into",
+   "start": 22.36,
+   "end": 22.68
+  },
+  {
+   "text": "larvae,",
+   "start": 22.68,
+   "end": 23.16
+  },
+  {
+   "text": "larvae",
+   "start": 23.49,
+   "end": 23.82
+  },
+  {
+   "text": "become",
+   "start": 23.82,
+   "end": 24.14
+  },
+  {
+   "text": "pupae,",
+   "start": 24.14,
+   "end": 24.7
+  },
+  {
+   "text": "and",
+   "start": 24.99,
+   "end": 25.1
+  },
+  {
+   "text": "adults",
+   "start": 25.1,
+   "end": 25.52
+  },
+  {
+   "text": "eventually",
+   "start": 25.52,
+   "end": 26.14
+  },
+  {
+   "text": "emerge.",
+   "start": 26.14,
+   "end": 26.69
+  },
+  {
+   "text": "Those",
+   "start": 27.29,
+   "end": 27.54
+  },
+  {
+   "text": "young",
+   "start": 27.54,
+   "end": 27.88
+  },
+  {
+   "text": "ants",
+   "start": 27.88,
+   "end": 28.26
+  },
+  {
+   "text": "are",
+   "start": 28.26,
+   "end": 28.48
+  },
+  {
+   "text": "part",
+   "start": 28.48,
+   "end": 28.74
+  },
+  {
+   "text": "of",
+   "start": 28.74,
+   "end": 28.88
+  },
+  {
+   "text": "the",
+   "start": 28.88,
+   "end": 28.98
+  },
+  {
+   "text": "reason",
+   "start": 28.98,
+   "end": 29.28
+  },
+  {
+   "text": "nest",
+   "start": 29.28,
+   "end": 29.62
+  },
+  {
+   "text": "conditions",
+   "start": 29.62,
+   "end": 30.08
+  },
+  {
+   "text": "matter.",
+   "start": 30.08,
+   "end": 30.54
+  },
+  {
+   "text": "During",
+   "start": 31.15,
+   "end": 31.34
+  },
+  {
+   "text": "cold,",
+   "start": 31.34,
+   "end": 31.84
+  },
+  {
+   "text": "wet",
+   "start": 32.06,
+   "end": 32.22
+  },
+  {
+   "text": "weather,",
+   "start": 32.22,
+   "end": 32.68
+  },
+  {
+   "text": "colonies",
+   "start": 32.99,
+   "end": 33.38
+  },
+  {
+   "text": "tend",
+   "start": 33.38,
+   "end": 33.62
+  },
+  {
+   "text": "to",
+   "start": 33.62,
+   "end": 33.8
+  },
+  {
+   "text": "occupy",
+   "start": 33.8,
+   "end": 34.18
+  },
+  {
+   "text": "higher",
+   "start": 34.18,
+   "end": 34.64
+  },
+  {
+   "text": "parts",
+   "start": 34.64,
+   "end": 34.98
+  },
+  {
+   "text": "of",
+   "start": 34.98,
+   "end": 35.12
+  },
+  {
+   "text": "the",
+   "start": 35.12,
+   "end": 35.24
+  },
+  {
+   "text": "nest,",
+   "start": 35.24,
+   "end": 35.61
+  },
+  {
+   "text": "where",
+   "start": 35.9,
+   "end": 35.98
+  },
+  {
+   "text": "they",
+   "start": 35.98,
+   "end": 36.1
+  },
+  {
+   "text": "can",
+   "start": 36.1,
+   "end": 36.24
+  },
+  {
+   "text": "take",
+   "start": 36.24,
+   "end": 36.42
+  },
+  {
+   "text": "advantage",
+   "start": 36.42,
+   "end": 36.76
+  },
+  {
+   "text": "of",
+   "start": 36.76,
+   "end": 37.02
+  },
+  {
+   "text": "sunlight",
+   "start": 37.02,
+   "end": 37.48
+  },
+  {
+   "text": "and",
+   "start": 37.48,
+   "end": 37.62
+  },
+  {
+   "text": "keep",
+   "start": 37.62,
+   "end": 38.0
+  },
+  {
+   "text": "brood",
+   "start": 38.0,
+   "end": 38.3
+  },
+  {
+   "text": "away",
+   "start": 38.3,
+   "end": 38.7
+  },
+  {
+   "text": "from",
+   "start": 38.7,
+   "end": 38.98
+  },
+  {
+   "text": "waterlogged",
+   "start": 38.98,
+   "end": 39.66
+  },
+  {
+   "text": "soil.",
+   "start": 39.66,
+   "end": 39.99
+  },
+  {
+   "text": "During",
+   "start": 40.64,
+   "end": 40.82
+  },
+  {
+   "text": "hot,",
+   "start": 40.82,
+   "end": 41.16
+  },
+  {
+   "text": "dry",
+   "start": 41.42,
+   "end": 41.58
+  },
+  {
+   "text": "weather,",
+   "start": 41.58,
+   "end": 42.03
+  },
+  {
+   "text": "cooler,",
+   "start": 42.39,
+   "end": 42.76
+  },
+  {
+   "text": "moister",
+   "start": 43.0,
+   "end": 43.36
+  },
+  {
+   "text": "conditions",
+   "start": 43.36,
+   "end": 43.9
+  },
+  {
+   "text": "below",
+   "start": 43.9,
+   "end": 44.26
+  },
+  {
+   "text": "ground",
+   "start": 44.26,
+   "end": 44.64
+  },
+  {
+   "text": "become",
+   "start": 44.64,
+   "end": 44.96
+  },
+  {
+   "text": "useful",
+   "start": 44.96,
+   "end": 45.36
+  },
+  {
+   "text": "instead.",
+   "start": 45.36,
+   "end": 45.88
+  },
+  {
+   "text": "Workers",
+   "start": 46.49,
+   "end": 46.8
+  },
+  {
+   "text": "move",
+   "start": 46.8,
+   "end": 47.2
+  },
+  {
+   "text": "the",
+   "start": 47.2,
+   "end": 47.38
+  },
+  {
+   "text": "brood",
+   "start": 47.38,
+   "end": 47.64
+  },
+  {
+   "text": "within",
+   "start": 47.64,
+   "end": 47.96
+  },
+  {
+   "text": "the",
+   "start": 47.96,
+   "end": 48.12
+  },
+  {
+   "text": "nest",
+   "start": 48.12,
+   "end": 48.4
+  },
+  {
+   "text": "as",
+   "start": 48.4,
+   "end": 48.62
+  },
+  {
+   "text": "conditions",
+   "start": 48.62,
+   "end": 49.02
+  },
+  {
+   "text": "change.",
+   "start": 49.02,
+   "end": 49.66
+  },
+  {
+   "text": "Picture",
+   "start": 50.26,
+   "end": 50.48
+  },
+  {
+   "text": "the",
+   "start": 50.48,
+   "end": 50.68
+  },
+  {
+   "text": "nursery",
+   "start": 50.68,
+   "end": 51.06
+  },
+  {
+   "text": "shifting",
+   "start": 51.06,
+   "end": 51.58
+  },
+  {
+   "text": "between",
+   "start": 51.58,
+   "end": 51.94
+  },
+  {
+   "text": "different",
+   "start": 51.94,
+   "end": 52.3
+  },
+  {
+   "text": "parts",
+   "start": 52.3,
+   "end": 52.64
+  },
+  {
+   "text": "of",
+   "start": 52.64,
+   "end": 52.78
+  },
+  {
+   "text": "the",
+   "start": 52.78,
+   "end": 52.88
+  },
+  {
+   "text": "structure,",
+   "start": 52.88,
+   "end": 53.32
+  },
+  {
+   "text": "rather",
+   "start": 53.32,
+   "end": 53.86
+  },
+  {
+   "text": "than",
+   "start": 53.86,
+   "end": 54.12
+  },
+  {
+   "text": "every",
+   "start": 54.12,
+   "end": 54.5
+  },
+  {
+   "text": "ant",
+   "start": 54.5,
+   "end": 54.76
+  },
+  {
+   "text": "staying",
+   "start": 54.76,
+   "end": 55.08
+  },
+  {
+   "text": "in",
+   "start": 55.08,
+   "end": 55.26
+  },
+  {
+   "text": "one",
+   "start": 55.26,
+   "end": 55.56
+  },
+  {
+   "text": "fixed",
+   "start": 55.56,
+   "end": 55.92
+  },
+  {
+   "text": "room",
+   "start": 55.92,
+   "end": 56.24
+  },
+  {
+   "text": "all",
+   "start": 56.24,
+   "end": 56.58
+  },
+  {
+   "text": "season.",
+   "start": 56.58,
+   "end": 57.01
+  },
+  {
+   "text": "So",
+   "start": 57.69,
+   "end": 57.82
+  },
+  {
+   "text": "the",
+   "start": 57.82,
+   "end": 57.96
+  },
+  {
+   "text": "nest",
+   "start": 57.96,
+   "end": 58.18
+  },
+  {
+   "text": "you",
+   "start": 58.18,
+   "end": 58.36
+  },
+  {
+   "text": "see",
+   "start": 58.36,
+   "end": 58.56
+  },
+  {
+   "text": "above",
+   "start": 58.56,
+   "end": 58.84
+  },
+  {
+   "text": "ground",
+   "start": 58.84,
+   "end": 59.33
+  },
+  {
+   "text": "doesn't",
+   "start": 59.47,
+   "end": 59.78
+  },
+  {
+   "text": "show",
+   "start": 59.78,
+   "end": 60.02
+  },
+  {
+   "text": "you",
+   "start": 60.02,
+   "end": 60.22
+  },
+  {
+   "text": "where",
+   "start": 60.22,
+   "end": 60.48
+  },
+  {
+   "text": "the",
+   "start": 60.48,
+   "end": 60.66
+  },
+  {
+   "text": "developing",
+   "start": 60.66,
+   "end": 61.08
+  },
+  {
+   "text": "ants",
+   "start": 61.08,
+   "end": 61.42
+  },
+  {
+   "text": "are",
+   "start": 61.42,
+   "end": 61.58
+  },
+  {
+   "text": "being",
+   "start": 61.58,
+   "end": 61.74
+  },
+  {
+   "text": "kept.",
+   "start": 61.74,
+   "end": 62.19
+  },
+  {
+   "text": "The",
+   "start": 62.73,
+   "end": 62.84
+  },
+  {
+   "text": "colony's",
+   "start": 62.84,
+   "end": 63.32
+  },
+  {
+   "text": "internal",
+   "start": 63.32,
+   "end": 63.76
+  },
+  {
+   "text": "activity",
+   "start": 63.76,
+   "end": 64.26
+  },
+  {
+   "text": "can",
+   "start": 64.26,
+   "end": 64.62
+  },
+  {
+   "text": "continue",
+   "start": 64.62,
+   "end": 65.06
+  },
+  {
+   "text": "out",
+   "start": 65.06,
+   "end": 65.36
+  },
+  {
+   "text": "of",
+   "start": 65.36,
+   "end": 65.52
+  },
+  {
+   "text": "sight",
+   "start": 65.52,
+   "end": 65.82
+  },
+  {
+   "text": "while",
+   "start": 65.82,
+   "end": 66.1
+  },
+  {
+   "text": "the",
+   "start": 66.1,
+   "end": 66.26
+  },
+  {
+   "text": "surface",
+   "start": 66.26,
+   "end": 66.64
+  },
+  {
+   "text": "looks",
+   "start": 66.64,
+   "end": 66.92
+  },
+  {
+   "text": "quiet.",
+   "start": 66.92,
+   "end": 67.37
+  },
+  {
+   "text": "For",
+   "start": 68.11,
+   "end": 68.2
+  },
+  {
+   "text": "a",
+   "start": 68.2,
+   "end": 68.32
+  },
+  {
+   "text": "homeowner,",
+   "start": 68.32,
+   "end": 68.87
+  },
+  {
+   "text": "that",
+   "start": 69.01,
+   "end": 69.24
+  },
+  {
+   "text": "changes",
+   "start": 69.24,
+   "end": 69.68
+  },
+  {
+   "text": "what",
+   "start": 69.68,
+   "end": 69.94
+  },
+  {
+   "text": "a",
+   "start": 69.94,
+   "end": 70.02
+  },
+  {
+   "text": "missing",
+   "start": 70.02,
+   "end": 70.3
+  },
+  {
+   "text": "mound",
+   "start": 70.3,
+   "end": 70.58
+  },
+  {
+   "text": "means.",
+   "start": 70.58,
+   "end": 71.18
+  },
+  {
+   "text": "You're",
+   "start": 71.64,
+   "end": 71.8
+  },
+  {
+   "text": "losing",
+   "start": 71.8,
+   "end": 72.06
+  },
+  {
+   "text": "a",
+   "start": 72.06,
+   "end": 72.34
+  },
+  {
+   "text": "visible",
+   "start": 72.34,
+   "end": 72.74
+  },
+  {
+   "text": "clue",
+   "start": 72.74,
+   "end": 73.12
+  },
+  {
+   "text": "about",
+   "start": 73.12,
+   "end": 73.38
+  },
+  {
+   "text": "the",
+   "start": 73.38,
+   "end": 73.56
+  },
+  {
+   "text": "nest,",
+   "start": 73.56,
+   "end": 73.96
+  },
+  {
+   "text": "not",
+   "start": 74.25,
+   "end": 74.48
+  },
+  {
+   "text": "getting",
+   "start": 74.48,
+   "end": 74.74
+  },
+  {
+   "text": "a",
+   "start": 74.74,
+   "end": 74.9
+  },
+  {
+   "text": "direct",
+   "start": 74.9,
+   "end": 75.22
+  },
+  {
+   "text": "measurement",
+   "start": 75.22,
+   "end": 75.64
+  },
+  {
+   "text": "of",
+   "start": 75.64,
+   "end": 75.9
+  },
+  {
+   "text": "the",
+   "start": 75.9,
+   "end": 76.04
+  },
+  {
+   "text": "colony's",
+   "start": 76.04,
+   "end": 76.46
+  },
+  {
+   "text": "condition",
+   "start": 76.46,
+   "end": 77.01
+  },
+  {
+   "text": "or",
+   "start": 77.14,
+   "end": 77.3
+  },
+  {
+   "text": "its",
+   "start": 77.3,
+   "end": 77.5
+  },
+  {
+   "text": "developing",
+   "start": 77.5,
+   "end": 77.98
+  },
+  {
+   "text": "young.",
+   "start": 77.98,
+   "end": 78.22
+  }
+ ],
+ "caption_groups": [
+  {
+   "words": [
+    149,
+    150,
+    151
+   ]
+  },
+  {
+   "words": [
+    152,
+    153
+   ]
+  },
+  {
+   "words": [
+    154,
+    155
+   ]
+  },
+  {
+   "words": [
+    156,
+    157,
+    158
+   ]
+  },
+  {
+   "words": [
+    159,
+    160
+   ]
+  },
+  {
+   "words": [
+    161,
+    162
+   ]
+  },
+  {
+   "words": [
+    163,
+    164,
+    165
+   ]
+  },
+  {
+   "words": [
+    166,
+    167
+   ]
+  },
+  {
+   "words": [
+    168,
+    169
+   ]
+  },
+  {
+   "words": [
+    170,
+    171
+   ]
+  },
+  {
+   "words": [
+    172,
+    173,
+    174
+   ]
+  },
+  {
+   "words": [
+    175,
+    176,
+    177
+   ]
+  },
+  {
+   "words": [
+    178,
+    179
+   ]
+  }
+ ]
+}

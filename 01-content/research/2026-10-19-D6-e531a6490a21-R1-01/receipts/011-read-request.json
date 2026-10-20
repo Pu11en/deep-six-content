@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 10,
+  "idempotency_key": "research-359182d1022c-a11",
+  "action": {
+    "tool": "read",
+    "url": "https://npic.orst.edu/faq/roach.html"
+  }
+}

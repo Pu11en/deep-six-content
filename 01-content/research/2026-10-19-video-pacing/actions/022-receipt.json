@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-22-f13a9231f141998e",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.bytecap.io/blog/optimal-short-form-video-length-retention-analysis\"},\"expected_revision\":22}",
+  "revision": 23,
+  "outcome": "applied"
+}

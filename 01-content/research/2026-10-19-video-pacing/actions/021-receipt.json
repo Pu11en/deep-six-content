@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-21-f6612bf3831ba7ea",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.opus.pro/blog/ideal-youtube-shorts-length-format-retention\"},\"expected_revision\":21}",
+  "revision": 22,
+  "outcome": "applied"
+}

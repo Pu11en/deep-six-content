@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-18-f5710a02a52a65bd",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.youtube.com/watch?v=Fjns2RO9t8Q\"},\"expected_revision\":18}",
+  "revision": 19,
+  "outcome": "document_too_large"
+}

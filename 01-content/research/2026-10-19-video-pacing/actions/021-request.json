@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 21,
+  "idempotency_key": "d6-21-f6612bf3831ba7ea",
+  "action": {
+    "tool": "read",
+    "url": "https://www.opus.pro/blog/ideal-youtube-shorts-length-format-retention"
+  }
+}

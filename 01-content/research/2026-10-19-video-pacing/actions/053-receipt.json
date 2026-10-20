@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-53-7924435a80c482af",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e11\",\"reason\":\"Quote found; supports the stated sync rule. Studio blog advice, no data.\",\"tool\":\"check\"},\"expected_revision\":53}",
+  "revision": 54,
+  "outcome": "applied"
+}

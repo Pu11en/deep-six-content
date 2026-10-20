@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-54-6fedbdd60b95c663",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e12\",\"reason\":\"Quote found; supports the playbook's stated design intent. Product page, not a test of results.\",\"tool\":\"check\"},\"expected_revision\":54}",
+  "revision": 55,
+  "outcome": "applied"
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 70,
+  "idempotency_key": "d6-70-cebcf860f41ee894",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e19",
+    "assessment": "supported",
+    "reason": "Full script read, including the FFmpeg spawn. Supports local requirements; no renderer was executed."
+  }
+}

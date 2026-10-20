@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-63-be256e3d9eff1073",
+  "payload": "{\"action\":{\"claim\":\"Motion Canvas is designed for informative vector animations synchronized with voiceovers.\",\"quote\":\"informative vector animations and\\nsynchronize them with voice-overs.\",\"source_id\":\"s3\",\"tool\":\"evidence\"},\"expected_revision\":63}",
+  "revision": 64,
+  "outcome": "applied"
+}

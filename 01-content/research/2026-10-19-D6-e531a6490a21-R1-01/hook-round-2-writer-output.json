@@ -1,0 +1,65 @@
+{
+  "review_id": "review-8d00ee87a909",
+  "hooks": [
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A wasp slips one egg inside a cockroach’s egg case. What happens next turns the roach eggs into food.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Explain how the ensign wasp’s egg develops into a larva that feeds on the cockroach eggs inside the case."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A dozen or more cockroach eggs can feed a single young wasp. How does it get inside their egg case?",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Reveal that the female ensign wasp places one egg inside the case, putting her developing young among its food."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "Eating cockroach eggs is how this wasp grows up. Its mother puts it right inside the case where those eggs are developing.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Identify the ensign wasp and explain that the mother deposits an egg, whose larva then feeds within the cockroach egg case."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "Laying one extra egg can change what happens inside a cockroach egg case. That egg belongs to a wasp.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Explain how the added ensign wasp egg produces a larva that consumes the developing cockroach eggs."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "This wasp eats cockroach eggs when it’s young, and it won’t sting or bite you as an adult. Its relationship with roaches starts inside their egg case.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3"
+      ],
+      "payoff": "Introduce the ensign wasp, distinguish its harmlessness to people from its larva’s feeding, and explain how the female places an egg inside a cockroach egg case."
+    }
+  ],
+  "call": {
+    "provider": "codex",
+    "model": "gpt-6-astra",
+    "attempts": [
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "result": "success"
+      }
+    ],
+    "stage": "hooks",
+    "at": "2026-10-19T23:40:50+00:00",
+    "prompt_version": "10c047cd8702"
+  }
+}

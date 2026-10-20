@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-70-cebcf860f41ee894",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e19\",\"reason\":\"Full script read, including the FFmpeg spawn. Supports local requirements; no renderer was executed.\",\"tool\":\"check\"},\"expected_revision\":70}",
+  "revision": 71,
+  "outcome": "applied"
+}

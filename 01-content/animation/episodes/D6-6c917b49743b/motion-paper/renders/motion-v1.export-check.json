@@ -1,0 +1,13 @@
+{
+  "status": "export_check_failed",
+  "reason": "Renderer expected 259 frames using ceil; FFmpeg correctly encoded 258 at 24 fps for the 10.76-second duration.",
+  "video_duration_seconds": 10.75,
+  "audio_duration_seconds": 10.76,
+  "actual_frame_count": 258,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "preserved_file": "motion-v1.partial.mp4",
+  "fix": "Use nearest-frame rounding, preserve v1 files, render revision v2. This was not a style or motion rejection."
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 23,
+  "idempotency_key": "research-359182d1022c-a24",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s14",
+    "claim": "A female ensign wasp places a single egg inside a cockroach egg case.",
+    "quote": "lays a single egg"
+  }
+}

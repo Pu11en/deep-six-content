@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "fire-ant-style-options",
+  "style": "miniature",
+  "candidate": "frame-v1.png",
+  "candidate_sha256": "ad15ea4acddf9829b98f64db41d450752d6b823b011ba8eb3979b82b4feea936",
+  "stage": "style_review",
+  "decision": "pending",
+  "feedback": [],
+  "approved_by": null,
+  "approved_at": null,
+  "next_step_after_approval": "Measure the approved audio excerpt, then render the short moving test."
+}

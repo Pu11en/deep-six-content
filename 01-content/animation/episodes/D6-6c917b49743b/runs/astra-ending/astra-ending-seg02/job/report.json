@@ -1,0 +1,24 @@
+{
+  "ok": false,
+  "agent_result": null,
+  "runs": [
+    {
+      "model": "gpt-6-astra",
+      "effort": "xhigh",
+      "exit": 1,
+      "elapsed_seconds": 4.1,
+      "usage": {},
+      "unavailable": true
+    },
+    {
+      "model": "gpt-6-sol",
+      "effort": "xhigh",
+      "exit": 1,
+      "elapsed_seconds": 3.0,
+      "usage": {},
+      "unavailable": true
+    }
+  ],
+  "protected_files_restored": [],
+  "module_syntax": "node:internal/modules/cjs/loader:1386\n  throw err;\n  ^\n\nError: Cannot find module '/home/drewp/main-projects/deep-six-content/01-content/animation/scenes/astra-ending-seg02.mjs'\n    at node:internal/modules/cjs/loader:1383:15\n    at node:internal/main/check_syntax:33:20 {\n  code: 'MODULE_NOT_FOUND',\n  requireStack: []\n}\n\nNode.js v22.22.0"
+}

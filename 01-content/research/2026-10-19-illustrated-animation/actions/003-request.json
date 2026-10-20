@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 3,
+  "idempotency_key": "d6-3-39bb1c89f1179253",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/README.md"
+  }
+}

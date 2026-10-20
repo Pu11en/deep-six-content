@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-19",
+  "tests": {
+    "command": "python3 -m unittest discover -s tests -q",
+    "passed": 94,
+    "seconds": 4.059,
+    "offline": true
+  },
+  "network_model_or_paid_calls": false,
+  "state": {
+    "corrected_status_records": 1,
+    "queued_sources_preserved": 3,
+    "queue_priority_preserved": true,
+    "approved_scripts_preserved": true,
+    "new_run_started": false,
+    "next_research_pest": "cockroaches",
+    "completed_video_receipts": 0,
+    "migration_backup": "01-content/harness/runtime/migrations/before-mp4-lifecycle-92e77abcab7e.json"
+  },
+  "audio": {
+    "path": "/home/drewp/main-projects/deep-six-content/01-content/audio/D6-6c917b49743b/full-original-tyler-01/original-tyler.mp3",
+    "duration_seconds": 78.602449,
+    "audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+    "approved_narration_id": "D6-6c917b49743b",
+    "request_sha256": "7825c37979aed13c6631ce4109aec4597d9912f919a44f4711b05dcb0f74279d",
+    "script_sha256": "24b2c8eeeda2534f89e3b196e2e8dfb8f8278e93fe75800049493e2f8247d590",
+    "legacy_approval": true
+  },
+  "preserved_older_diagram_sha256": {
+    "01-content/diagrams/video-system.excalidraw": "426bd268c5da6f7ac049e9b3ddbba7086b21177fc89888c3a327aa53d8529352",
+    "01-content/diagrams/system-overview.excalidraw": "41a592a877bd6bf59729d4c562b8814b44a1da6f351bb49b478db80aa65f9dd9"
+  },
+  "board": {
+    "updates_enabled": false,
+    "edited_by_this_task": false,
+    "observed_sha256": "4df2b7e5c0dd2f47ccc06d5a8ce1645e3e6ab65513608ec1574d2965ebf4127d",
+    "note": "Current shared BOARD differs from an earlier recorded fingerprint; preserved as found, no attempt to restore it."
+  },
+  "limits": [
+    "No live crawler job or TTS request tested in this review.",
+    "MP4 semantic completeness is an operator check, not a duration check.",
+    "Source and narration semantic originality still needs editorial review."
+  ]
+}

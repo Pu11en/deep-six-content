@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 13,
+  "idempotency_key": "d6-13-37b908fab87f4d69",
+  "action": {
+    "tool": "read",
+    "url": "https://entnemdept.ufl.edu/creatures/urban/ants/red_imported_fire_ant.htm"
+  }
+}

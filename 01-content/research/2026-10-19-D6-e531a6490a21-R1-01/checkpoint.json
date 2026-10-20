@@ -1,0 +1,55 @@
+{
+  "request_id": "research-359182d1022c",
+  "run_id": "D6-e531a6490a21",
+  "stage": "R1",
+  "status": "sources_saved",
+  "authorization": "yes lets go",
+  "client_id": "imac-research",
+  "planning_session_id": "bfecca6d-9fbe-46ba-b036-39549aa582a8",
+  "crawler_request_id": "50cd370c-82db-4e8f-b8d8-7955d26453f6",
+  "crawler_job_id": "c69b13cb-fe36-4c91-8b9c-dcd8ffc39dbb",
+  "pending_action": null,
+  "agent_revision": 51,
+  "usage": {
+    "calls": 0,
+    "pages": 19,
+    "searches": 4,
+    "steps": 51
+  },
+  "active_seconds": 34.284467071061954,
+  "crawler_status": "finished",
+  "evidence_sha256": "04c2c7e2a9b14cc3dca02470fc93d50e01d60f400e2edcfe377642b6640a8c16",
+  "review_id": "review-bd3cfdc8d391",
+  "imported_at": "2026-10-19T23:22:53+00:00",
+  "liked_source_ids": [
+    "SRC-0fa91dcbc971",
+    "SRC-9c3cbed0ebf3",
+    "SRC-6c5ad958f7d8"
+  ],
+  "selected_source_id": "SRC-0fa91dcbc971",
+  "writing_run_id": "D6-01096ba333e3",
+  "source_choice_evidence": "1 and 2 good and 3\n\nlets do 1",
+  "writing_status": "narration_approved",
+  "hook_review_id": "review-0acc0a9fd91f",
+  "provisional_hook_preference": {
+    "round": 2,
+    "numbers": [
+      3,
+      4
+    ],
+    "selected": false
+  },
+  "hook_round": 2,
+  "held_hook_file": "held-hook-3.json",
+  "hook_variations_file": "hook-3-and-4-variations.json",
+  "selected_hook_label": "4C",
+  "selected_hook": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+  "narration_review_id": "review-e8af59c5fb1e",
+  "supporting_research_folder": "01-content/research/2026-10-19-D6-01096ba333e3-R2-02",
+  "narration_adaptation_file": "01-content/mp3-system/narrations-with-outro-v6.json",
+  "approved_narration_id": "D6-01096ba333e3",
+  "selected_narration_number": 3,
+  "narration_approved_at": "2026-10-20T05:40:43+00:00",
+  "narration_choice_evidence": "3",
+  "narration_approval_receipt": "01-content/mp3-system/narration-approval.json"
+}

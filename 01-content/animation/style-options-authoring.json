@@ -1,0 +1,36 @@
+{
+  "status": "rendered_for_style_review",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "ultra",
+  "authentication": "Existing Codex ChatGPT subscription login; API credentials excluded from subprocess environment.",
+  "started_at": "2026-10-19T21:08:40.247744+00:00",
+  "brief_sha256": "8b74e61b95e10df4668d2bc0cbebc4c03b3184882ceba94b579f1a97fbb2e57e",
+  "requested_styles": [
+    "cartoon",
+    "paper",
+    "miniature"
+  ],
+  "automatic_retry": false,
+  "elapsed_seconds": 569.4,
+  "usage": {
+    "input_tokens": 12790,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 24251,
+    "reasoning_output_tokens": 10605
+  },
+  "event_type_counts": {
+    "thread.started": 1,
+    "turn.started": 1,
+    "item.completed": 1,
+    "turn.completed": 1
+  },
+  "completed_item_type_counts": {
+    "agent_message": 1
+  },
+  "source_sha256": "60e29517f2e7ea2245bd2b0af5c036a907a40706fa4a7ebab979119c83bc6312",
+  "source": "scenes/fire-ant-style-options.mjs",
+  "comparison_review": "episodes/D6-6c917b49743b/style-options/review.md",
+  "checks": "episodes/D6-6c917b49743b/style-options/checks.json",
+  "selected_option": null
+}

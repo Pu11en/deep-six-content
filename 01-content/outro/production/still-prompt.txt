@@ -1,0 +1,22 @@
+Create one vertical 9:16 illustration for a reusable Deep Six Pest Control educational-video outro. Output one finished scene, not a storyboard, comparison or contact sheet.
+
+REFERENCE 1: 01-content/brand/fun-fact-friday-spider.png
+This is the authoritative reference for the existing Deep Six reaper character. It is not a request for a new mascot.
+
+REFERENCE 2: 01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-1.png
+This is a sheet of frames from the existing educational video. Use it only to understand the matte paper texture, layered shapes, restrained depth and friendly visual tone. Do not reproduce its frame grid, labels, ants, captions or lesson imagery.
+
+PRESERVE
+Preserve the first reference's recognizable reaper identity: original skull silhouette and face proportions, large black oval eyes, tiny nose, small tooth marks, curled purple hood, robe proportions, white gloves and the actual D6 shield design. Preserve the purple, lime, cream and near-black family: #3A3148, #A9D554, #F0DDB2, #F6EFE2 and #1E1B22. Keep the friendly, curious expression and familiar magnifying glass and flashlight. Match the original badge rather than inventing a replacement.
+
+REPLACE
+Replace the garage, spider, promotional card, sticky note, existing headings and button with one quiet cream paper setting. Leave the upper-middle area clean for the real logo and the approved sentence, which will be added separately during video assembly. Do not generate a wordmark, slogan, subtitle, button, website or decorative lettering. The mascot's existing chest emblem is the only emblem to retain in the generated artwork.
+
+ADAPT
+Give the existing mascot slightly simpler shading and a subtle matte paper texture that fits the second reference. Keep the identity detailed enough to recognize the original. Use gentle layered-paper depth and soft contact shadows. Avoid glossy 3D surfaces, dramatic cinematic lighting, a new flat-vector face or exaggerated individual teeth.
+
+COMPOSITION
+One character, one scene. Place the mascot in the lower-middle area, slightly to the right of center, fully inside the frame with comfortable margins. It occupies roughly the lower half of the image, leaving clear room above for the actual brand artwork. Keep the eyes, chest badge and props readable. Both hands and their props remain steady in a relaxed pose suitable for one very small friendly nod in later animation. The flashlight stays pointed down; it does not obscure the face or blank logo area. Use a simple cream background with restrained purple and lime paper accents. Keep important details away from the extreme right and bottom edges.
+
+OUTPUT
+Portrait illustration at the model's 2K setting. One image only. No extra panels or commentary embedded in the artwork. This is a still reference for later animation; do not simulate motion blur or add speech bubbles.

@@ -1,0 +1,49 @@
+{
+  "approved_narration_id": "D6-6c917b49743b",
+  "comparison_id": "D6-6c917b49743b-full-original-tyler-01",
+  "status": "audio_approved",
+  "voice_rotation_file": "../../voice-rotation.json",
+  "voice_id": "rPMkKgdwgIwqv4fXgR6N",
+  "voice_name": "Tyler",
+  "model_id": "eleven_v4",
+  "seed": 20261019,
+  "output_format": "mp3_44100_128",
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "player_title": "D6 Original Narration - Tyler",
+  "player_intro": "Your original narration 2, read by Tyler.",
+  "player_footer": "Tyler for this narration. Chris next, then Liam. Original wording preserved.",
+  "authorization": "Drew liked all three audition voices and asked us to pick one for this narration and rotate the others on future narrations. This render uses the previously selected original script. Exactly one full narration; no video, top-up or plan change.",
+  "spoken_text_check": "After removing delivery tags and normalizing whitespace, render text equals the approved original narration exactly.",
+  "variants": [
+    {
+      "name": "original_tyler",
+      "voice_id": "rPMkKgdwgIwqv4fXgR6N",
+      "label": "Tyler \u2014 Original narration",
+      "description": "Full original script with the delivery direction used in the hook audition.",
+      "text_file": "render.txt",
+      "audio_file": "original-tyler.mp3",
+      "status": "complete",
+      "text_sha256": "dab0678a1cfc6322ce21a9b478579ab07b5e03177f496ee0117a34ab66ea7308",
+      "characters": 1358,
+      "started_at": "2026-10-19T19:39:46+00:00",
+      "request_id": "gZBN87djxsjomj47NPHJ",
+      "audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+      "bytes": 1258100,
+      "duration_seconds": 78.602449,
+      "codec_name": "mp3",
+      "sample_rate": "44100",
+      "channels": 1,
+      "completed_at": "2026-10-19T19:40:03+00:00"
+    }
+  ],
+  "available_characters_before": 2785,
+  "audio_review": {
+    "status": "approved",
+    "feedback": "I love it. Now we have narration for the video.",
+    "approved_at": "2026-10-19T19:59:17+00:00",
+    "approved_variant": "original_tyler"
+  }
+}

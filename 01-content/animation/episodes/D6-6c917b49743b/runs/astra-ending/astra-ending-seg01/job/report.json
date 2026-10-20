@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "agent_result": {
+    "status": "done",
+    "files_written": [
+      "scenes/astra-ending-seg01.mjs"
+    ],
+    "shot_count": 10,
+    "self_check_rounds": 3,
+    "longest_still_seconds": 0,
+    "picture_change_median": 0.182,
+    "remaining_issues": [],
+    "summary": "Implemented all ten planned shots. Visual, transition, caption, and motion checks passed."
+  },
+  "runs": [
+    {
+      "model": "gpt-6-astra",
+      "effort": "xhigh",
+      "exit": 0,
+      "elapsed_seconds": 762.9,
+      "usage": {
+        "input_tokens": 4275173,
+        "cached_input_tokens": 4101376,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 24846,
+        "reasoning_output_tokens": 10434
+      },
+      "unavailable": false
+    }
+  ],
+  "protected_files_restored": [],
+  "module_syntax": "ok",
+  "motion": {
+    "longest_still_seconds": 0,
+    "picture_change_half_second_median": 0.182,
+    "targets": {
+      "longest_still_seconds": "<= 0.35",
+      "picture_change_half_second_median": ">= 0.15"
+    }
+  }
+}

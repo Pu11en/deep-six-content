@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-13-37b908fab87f4d69",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://entnemdept.ufl.edu/creatures/urban/ants/red_imported_fire_ant.htm\"},\"expected_revision\":13}",
+  "revision": 14,
+  "outcome": "applied"
+}

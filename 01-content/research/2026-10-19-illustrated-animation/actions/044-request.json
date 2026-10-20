@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 44,
+  "idempotency_key": "d6-44-5f8c4adcdda93abe",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e6",
+    "assessment": "supported",
+    "reason": "The paragraph directly contrasts naked fire-ant pupae with other species having capsule-like cocoons."
+  }
+}

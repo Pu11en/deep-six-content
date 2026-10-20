@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "candidates": [
+    {
+      "style": "cartoon",
+      "width": 1080,
+      "height": 1920,
+      "png_sha256": "ef45f3c4afc3a2b3a2c9de36718fb5fa905b7258d349a479deccd69790c8fd7a",
+      "manifest_matches": true,
+      "fresh_render_matches": true,
+      "repeat_render_matches": true,
+      "fully_opaque": true,
+      "review_pending": true,
+      "visual_review": "Viewed generated artwork: distinct material/layout, legible text, no visible clipping; stylized anatomy, not an identification plate."
+    },
+    {
+      "style": "paper",
+      "width": 1080,
+      "height": 1920,
+      "png_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060",
+      "manifest_matches": true,
+      "fresh_render_matches": true,
+      "repeat_render_matches": true,
+      "fully_opaque": true,
+      "review_pending": true,
+      "visual_review": "Viewed generated artwork: distinct material/layout, legible text, no visible clipping; stylized anatomy, not an identification plate."
+    },
+    {
+      "style": "miniature",
+      "width": 1080,
+      "height": 1920,
+      "png_sha256": "ad15ea4acddf9829b98f64db41d450752d6b823b011ba8eb3979b82b4feea936",
+      "manifest_matches": true,
+      "fresh_render_matches": true,
+      "repeat_render_matches": true,
+      "fully_opaque": true,
+      "review_pending": true,
+      "visual_review": "Viewed generated artwork: distinct material/layout, legible text, no visible clipping; stylized anatomy, not an identification plate."
+    }
+  ],
+  "preserved": {
+    "original_v1": true,
+    "branded_A": true,
+    "approved_audio": true,
+    "board": true,
+    "detailed_diagram": true,
+    "overview_diagram": true,
+    "no_style_selected": true
+  },
+  "author_source_matches": true,
+  "limits": [
+    "Static style studies only: time is accepted but does not animate these three alternatives.",
+    "Miniature uses 2D shading to suggest depth, not a 3D engine.",
+    "No audio alignment, motion test or user approval yet.",
+    "Technical checks do not establish biological accuracy or user approval."
+  ]
+}

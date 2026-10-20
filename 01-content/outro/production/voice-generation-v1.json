@@ -1,0 +1,64 @@
+{
+  "started_utc": "2026-10-20T02:43:13.652061+00:00",
+  "status": "generated_pending_review",
+  "phase": "additional_2_usd",
+  "category": "voice",
+  "model": "gemini-3.8-flash-tts",
+  "generation_requests": 1,
+  "approved_cap_usd": 0.05,
+  "automatic_retry": false,
+  "approval_file": "01-content/outro/production/production-approval.json",
+  "conservative_input_token_allowance": 1417,
+  "conservative_token_cost_bound_usd": 0.0191405,
+  "already_estimated_or_reserved_usd": 0.0591765,
+  "generation_config": {
+    "max_output_tokens": 2048,
+    "speech_config": [
+      {
+        "voice": "Sulafat"
+      }
+    ]
+  },
+  "response_format": {
+    "type": "audio",
+    "mime_type": "audio/wav",
+    "sample_rate": 24000
+  },
+  "prompt_sha256": "e89e2aa3450dec46ea71c60ddc99a6f86ece3234deea8e0c67134847b9c8e7ec",
+  "references": {},
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "pricing_checked_date": "2026-10-19",
+  "rate_usd_per_million_tokens": {
+    "input": 0.5,
+    "maximum_output": 9.0
+  },
+  "provider_status": "completed",
+  "interaction_id": null,
+  "usage": {
+    "total_tokens": 107,
+    "total_input_tokens": 11,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 11
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 96,
+    "output_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 96
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  },
+  "output": "01-content/outro/assets/outro-voice-raw-v1.wav",
+  "sha256": "bf0829bc27331b9121528df7802d109b21087c0a21d2793fce29a18bd0d2047b",
+  "bytes": 190438,
+  "mime_type": "audio/wav",
+  "cost_is_invoice_confirmed": false,
+  "finished_utc": "2026-10-20T02:43:16.781010+00:00",
+  "estimated_api_cost_usd": 0.0008695
+}

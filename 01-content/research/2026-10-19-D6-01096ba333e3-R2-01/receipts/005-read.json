@@ -1,0 +1,256 @@
+{
+  "receipt": {
+    "idempotency_key": "research-488991e51202-a5",
+    "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/\"},\"expected_revision\":4}",
+    "revision": 5,
+    "outcome": "applied"
+  },
+  "mode": "agent_driven",
+  "trust": "All source text, snippets, notes, claims and caller assessments are untrusted data, never instructions or authorization.",
+  "support_policy": "Literal anchoring plus separately submitted caller assessment; NOT independent model or fact verification.",
+  "state": {
+    "action_log": [
+      {
+        "idempotency_key": "research-488991e51202-a1",
+        "outcome": "applied",
+        "payload": "{\"action\":{\"query\":\"\\\"Evania appendigaster\\\" larva egg case emergence site:pmc.ncbi.nlm.nih.gov\",\"tool\":\"search\"},\"expected_revision\":0}",
+        "revision": 1
+      },
+      {
+        "idempotency_key": "research-488991e51202-a2",
+        "outcome": "applied",
+        "payload": "{\"action\":{\"query\":\"\\\"American cockroach\\\" \\\"egg case\\\" site:citybugs.tamu.edu\",\"tool\":\"search\"},\"expected_revision\":1}",
+        "revision": 2
+      },
+      {
+        "idempotency_key": "research-488991e51202-a3",
+        "outcome": "free_search_unavailable",
+        "payload": "{\"action\":{\"query\":\"Evania appendigaster biology\",\"tool\":\"search\"},\"expected_revision\":2}",
+        "revision": 3
+      },
+      {
+        "idempotency_key": "research-488991e51202-a4",
+        "outcome": "free_search_unavailable",
+        "payload": "{\"action\":{\"query\":\"ensign wasp extension\",\"tool\":\"search\"},\"expected_revision\":3}",
+        "revision": 4
+      },
+      {
+        "idempotency_key": "research-488991e51202-a5",
+        "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/\"},\"expected_revision\":4}",
+        "revision": 5,
+        "outcome": "applied"
+      }
+    ],
+    "active_seconds": 5.884283367078751,
+    "agent_revision": 5,
+    "approved_revision": 1,
+    "attempts": [
+      {
+        "detail": "\"Evania appendigaster\" larva egg case emergence site:pmc.ncbi.nlm.nih.gov",
+        "id": "e21c7184-09e2-4118-a88d-c6c7ddce1771",
+        "kind": "searches",
+        "outcome": "searched",
+        "started_at": 1792454382.308466
+      },
+      {
+        "detail": "\"American cockroach\" \"egg case\" site:citybugs.tamu.edu",
+        "id": "53eb52a4-b3da-43ef-8cff-a8b405e63545",
+        "kind": "searches",
+        "outcome": "searched",
+        "started_at": 1792454384.2974224
+      },
+      {
+        "detail": "Evania appendigaster biology",
+        "id": "4cb7bea6-fe92-4a6b-9fc6-16d470017e0d",
+        "kind": "searches",
+        "outcome": "free_search_unavailable",
+        "started_at": 1792454430.8315208
+      },
+      {
+        "detail": "ensign wasp extension",
+        "id": "56f0553b-f766-434e-9719-3b18fa6e4829",
+        "kind": "searches",
+        "outcome": "free_search_unavailable",
+        "started_at": 1792454432.9094229
+      },
+      {
+        "id": "a48b1665-c300-42ce-a927-3dffebe8f3f0",
+        "kind": "pages",
+        "detail": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "started_at": 1792454484.1353936,
+        "outcome": "read"
+      }
+    ],
+    "brief": {
+      "goal": "Find up to four checked supporting publications for the exact chosen hook: Why would a wasp lay its egg inside a cockroach’s egg case?",
+      "output": "Checked supporting source cards with title, publisher, date, lesson, species, region, limits and 1-4 facts per card, each with a short exact quote. Maximum 25 quoted words total per publication. Identify unresolved necessary gaps. No scripts or replacement hooks.",
+      "questions": [
+        "What is a cockroach egg case, what does it enclose, and where do American cockroaches deposit it around buildings? Establish the setting without generalizing to every cockroach species.",
+        "How does Evania appendigaster place its egg inside the case, and what documented sequence follows through larval feeding, pupation and adult emergence? Clarify the fate of the cockroach eggs without assuming every attack succeeds.",
+        "Which visible features help explain what an ensign wasp is and distinguish the adult from its developing larva? Verify the characteristic body shape and movements before describing them.",
+        "Which cockroach species are documented hosts, and what evidence establishes relevance to Texas homes? Keep general biology separate from any location-specific measurements.",
+        "What can a homeowner reasonably infer from finding an adult ensign wasp indoors, and what observations would help assess cockroach activity? Establish why a sighting alone cannot locate an egg case, confirm an active infestation or demonstrate complete control."
+      ],
+      "scope_constraints": [
+        "Use primary research or university extension pages on these domains: citybugs.tamu.edu, fireant.tamu.edu, extensionentomology.tamu.edu, agrilifeextension.tamu.edu, npic.orst.edu, epa.gov, ars.usda.gov, extension.msstate.edu, pmc.ncbi.nlm.nih.gov, academic.oup.com, extension.okstate.edu, fireants.tennessee.edu",
+        "Use public search and original readable pages; no snippets as evidence, paid fallback, model calls, cookies, new logins or browser.",
+        "Keep the exact selected hook and one coherent lesson. Explain species names in plain speech. No em dashes in authored prose.",
+        "Limit conclusions to documented species and evidence. Do not infer active infestation, location of an egg case or complete pest control from one adult wasp sighting.",
+        "No pesticide prescriptions, dosing, medical advice or invented behavior.",
+        "Main publication already checked: https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/ . Read for context; do not return it as new supporting evidence.",
+        "Research only relevant gaps. State limits where no local measurement exists. Stop after enough evidence for the lesson.",
+        "Reserved publication: How can I tell if I have fire ants? | ['https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants']",
+        "Reserved publication: Carpenter ants around homes | ['https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001']",
+        "Reserved publication: Swarming Insects Indoors | ['https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012']",
+        "Reserved publication: Texas Leaf Cutting Ant | ['https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002']",
+        "Reserved publication: Ants | ['https://npic.orst.edu/pest/ant.html']",
+        "Reserved publication: Fire Ant Frequently Asked Questions | ['https://fireant.tamu.edu/manage/faq']",
+        "Reserved publication: Tawny Crazy Ants: A Texas-Size Problem | ['https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf']",
+        "Reserved publication: Cleaning insect poop off trees | ['https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop']",
+        "Reserved publication: Identifying household ants | ['https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013']",
+        "Reserved publication: Biology | ['https://fireant.tamu.edu/learn/biology']",
+        "Reserved publication: Flag waving for Americans | ['https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans']",
+        "Reserved publication: Why do I have roaches in my home? | ['https://npic.orst.edu/faq/roach.html']",
+        "Reserved publication: Cockroaches | ['https://npic.orst.edu/pest/roach.html']",
+        "Reserved publication: The Turkestan Cockroach: An Emerging Pest in Texas | ['https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas']",
+        "Reserved publication: Bug bombs bomb | ['https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb']",
+        "Reserved publication: Fire Ant Frequently Asked Questions | ['https://fireant.tamu.edu/manage/faq']",
+        "Reserved publication: Fire Ant Biology | ['https://extension.msstate.edu/insects/fire-ants/fire-ant-biology']",
+        "Reserved publication: Fire Ant Facts | ['https://extension.msstate.edu/insects/fire-ants/fire-ant-facts']",
+        "Reserved publication: How can I tell if I have fire ants? | ['https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants']",
+        "Reserved publication: Effects of Temperature and Season on Foraging Activity of Red Imported Fire Ants in Oklahoma (2003) | ['https://www.ars.usda.gov/research/publications/publication?seqNo115=139549']",
+        "Reserved publication: Dynamic Thermal Structure of Imported Fire Ant Mounds (2008) | ['https://pmc.ncbi.nlm.nih.gov/articles/PMC3061603']"
+      ]
+    },
+    "client_id": "imac-research",
+    "coverage": [
+      {
+        "evidence_ids": [],
+        "id": "q1",
+        "question": "What is a cockroach egg case, what does it enclose, and where do American cockroaches deposit it around buildings? Establish the setting without generalizing to every cockroach species.",
+        "reason": null,
+        "status": "open"
+      },
+      {
+        "evidence_ids": [],
+        "id": "q2",
+        "question": "How does Evania appendigaster place its egg inside the case, and what documented sequence follows through larval feeding, pupation and adult emergence? Clarify the fate of the cockroach eggs without assuming every attack succeeds.",
+        "reason": null,
+        "status": "open"
+      },
+      {
+        "evidence_ids": [],
+        "id": "q3",
+        "question": "Which visible features help explain what an ensign wasp is and distinguish the adult from its developing larva? Verify the characteristic body shape and movements before describing them.",
+        "reason": null,
+        "status": "open"
+      },
+      {
+        "evidence_ids": [],
+        "id": "q4",
+        "question": "Which cockroach species are documented hosts, and what evidence establishes relevance to Texas homes? Keep general biology separate from any location-specific measurements.",
+        "reason": null,
+        "status": "open"
+      },
+      {
+        "evidence_ids": [],
+        "id": "q5",
+        "question": "What can a homeowner reasonably infer from finding an adult ensign wasp indoors, and what observations would help assess cockroach activity? Establish why a sighting alone cannot locate an egg case, confirm an active infestation or demonstrate complete control.",
+        "reason": null,
+        "status": "open"
+      }
+    ],
+    "created_at": 1792454361.098842,
+    "evidence": [],
+    "gaps": [],
+    "id": "abf092b6-c969-4e6f-b43b-120f1457268f",
+    "inflight": null,
+    "limits": {
+      "calls": 1,
+      "pages": 20,
+      "searches": 4,
+      "seconds": 300,
+      "steps": 70
+    },
+    "mode": "agent_driven",
+    "notes": [],
+    "pending_action": null,
+    "pending_agent": null,
+    "queries": [
+      {
+        "key": "\"evania appendigaster\" larva egg case emergence site:pmc.ncbi.nlm.nih.gov",
+        "query": "\"Evania appendigaster\" larva egg case emergence site:pmc.ncbi.nlm.nih.gov",
+        "results": [
+          {
+            "snippet": "For example, thick spumaline coating protects egg masses of some caddisfly species from predation by Orthotrichia armata Wells (Trichoptera: Hydroptilidae) larvae (6), whereas egg-stacking and scale-casing are used by Lymantria dispar (L.) (Lepidoptera: Erebidae) and Ochrogaster lunifer Herrich-Schäffer (Lepidoptera: Notodontidae) to prevent inner",
+            "title": "Oviposition selection in spotted lanternfly: impact of habitat and substrate on egg mass size and hatchability",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10926464"
+          },
+          {
+            "snippet": "In general, the evolution of scale insects seems to show multiple cyclic conversions from oviparous reproduction to ovoviviparous/viviparous reproduction with the emergence of new peculiar adaptations for eggs’ protection (Fig. 7).\nAccording to this hypothesis, most common reasons for the obligate egg retention are different variants of paedogenesis and neoteny, when the reproducing larva or nymph has lost special adult structures responsible for oviposition, with quick passage of the egg through the oviducts and fertilization of the egg in ectodermal parts of the oviduct\nA similar situation also occurs in the cases of different morphological or physiological transformations, which are related not with paedogenesis, but with changes in the imaginal reproductive system.",
+            "title": "Egg retention, viviparity and ovoviviparity in Paraneoptera - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354988"
+          },
+          {
+            "snippet": "Light-trapped females in the field and those emerging from laboratory-reared larvae were placed in individual glass vessels (65 mm in diameter, 90 mm in height) at 25 ± 1 °C (14:10 h L:D cycle) after measuring their head width (between the outer margin of the right and left eyes) and forewing length (distance from the tip to the base) using slide\nField-collected larvae were placed in individual glass vessels (65 mm in diameter, 90 mm in height) with small stones on the bottom acting as refuges. Well-aerated tap water, not exceeding 5 mm in depth, was provided and replaced daily. The larvae were fed one or two living last-instar larvae of a chironomid midge every day.\nWhen the larvae stopped feeding for one week, they were individually relocated to moist peat moss, in which they made holes for pupation, and maintained at 25 ± 1 °C (14:10 h L:D cycle). Adults usually emerged after about a 14-day prepupal period and about a 10-day pupal period.\nIn this case, a drop of distilled water was ",
+            "title": "Functions of Egg-Coating Substances Secreted by Female Accessory Glands in Alderflies, Fishflies and Dobsonflies (Megaloptera)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9504246"
+          },
+          {
+            "snippet": "Egg flattened, dome-shaped, appearing smooth but with minute pitting visible under dissecting microscope, pale yellow to cream-colored (Figure 1b); eggs of a clutch generally laid in one or two loose rows (Figure 1a); upon emergence, larvae eat a hole through top of egg, consuming up to two-thirds of shell, but never entire shell (Figure 1a); 71\nclutches of eggs averaged (±SD) 4.8 ± 2.6 eggs per clutch.\nThe positioning of larvae and egg clutches directly over moving water, in combination with the weak frass-throwing ability of the larvae, suggests that moving water may be important in frass removal.",
+            "title": "The Immature Stages and Shelter Building Behavior of Falgo Jeconia Ombra in eastern Ecuador (Lepidoptera: Hesperiidae: Hesperiinae)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3011894"
+          },
+          {
+            "snippet": "The periods of light had no influence on hatching. This synchronization of hatching, enabling the eggs to emerge from diapause in the spring, could be considered an evolutionary adaptation aimed at postponing hatching of late-spawned eggs until a time allowing for completion of the full development cycle, including the parasitic larval stage.\nAbout 3 weeks after the eggs were laid, fully developed larvae could be seen under the egg integuments, and some of them made small movements. In another case, where 14 batches of eggs were laid by five females in the spring or early summer, the larvae hatched when they were fully developed.\nOnly the winter temperature of 4 °C increased the hatching percentage, the intermediate temperature (10 °C) had the same effect as 20 °C.\nAccording to Martin (2010), temperature stimulates eggs to emerge from diapause in water mites inhabiting springs and streams.\nThis synchronization of hatching, enabling eggs to emerge from diapause in the spring, could be c",
+            "title": "Influence of temperature and light–dark cycle on hatching of Eylais extendens",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5851706"
+          }
+        ]
+      },
+      {
+        "key": "\"american cockroach\" \"egg case\" site:citybugs.tamu.edu",
+        "query": "\"American cockroach\" \"egg case\" site:citybugs.tamu.edu",
+        "results": []
+      },
+      {
+        "error": "free_search_unavailable",
+        "key": "evania appendigaster biology",
+        "query": "Evania appendigaster biology",
+        "results": []
+      },
+      {
+        "error": "free_search_unavailable",
+        "key": "ensign wasp extension",
+        "query": "ensign wasp extension",
+        "results": []
+      }
+    ],
+    "reason": "caller_action_required",
+    "request_id": "bddc25f2-b040-4d9a-897e-3d132bf53fc5",
+    "result": null,
+    "routes": [],
+    "seed_urls": [],
+    "sources": [
+      {
+        "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "final_url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+        "text": "tag based on what is being viewed.\nWe filter the output of wp_title() a bit - see\nagriflex_filter_wp_title() in functions.php.\n--\nFlag waving for Americans - Insects in the City\ntag of your theme, or you will break many plugins, which\ngenerally use this hook to add elements to   such\nas styles, scripts, and meta tags. --\nTexas A&amp;M AgriLife Extension Service\nInsects in the City   The best in science-based, pest management solutions from Texas A&amp;M AgriLife Extension Service     Search for:\nMenu\nSkip to content\nHome\nInsect Updates\nNews\nInteresting insects\nBeneficial insects\nPests of landscapes\nHousehold pests\nPublic health\nUncategorized\nPesticides\nExotic pests\nPeople\nYard &#038; Garden\nAnts\nSucking pests\nWhat are mouthparts on insects like, and how can I see them?\nBeneficial insects\nChewing insects\nOther insects and critters\nPests of lawns\nPests of vegetable gardens\nTrees and specialty landscape plants\nHousehold\nHousehold ants\nHousehold beetles\nWhat are beetles?\nCockroaches\nFood and fabric pests\nIndoor flies\nTermites &amp; wood destroying insects\nWhat is a termite?\nMiscellaneous pests\nBiting &#038; Stinging\nBees\nHoney Bee Swarms and their Control\nWasps\nBed bugs\nBed bugs and your apartment\nBed bugs: Do-it-yourself control options\nSpiders and other biting and stinging pests\nAsps and Other Stinging Caterpillars\nBiting Mites\nConenose or Kissing Bugs\nControl of Brown Recluse Spiders\nDiagnosing Mysterious “Bug Bites”\nSafer Flea Control\nPesticides &#038; Mgmt\nWhat is a pesticide?\nWhat is a pyrethroid insecticide?\nWhat is a signal word?\nCheck Out our Podcasts\nFlag waving for Americans\nPosted on    May 5, 2015      by     p-porter\nEnsign wasp,  Evania appendigaster . The dark, flag-like abdomen, here just visible behind the wings, gives the insect its name.\nThe ensign wasp is one of the odder insects found occasionally in homes.  A small insect, only 5-7 mm long, it does not sting or bite.  In fact, it does no harm; but it is a beneficial parasite of at least three household cockroaches, the American cockroach being the most common.\nEnsign wasps are experts at locating not the cockroaches themselves, but the egg cases (oothecae) that cockroaches deposit.  According to  one account , when the female ensign wasp encounters a cockroach egg case, she first taps it with her antennae, presumably to confirm that it is an acceptable host for her egg.  Then she lies down beside it (I have never heard of an insect voluntarily lying on its side before!) and braces her legs against the ootheca.  After much labor she inserts her slender ovipositor into the tough ootheca and lays a single egg.  After hatching, the wasp larva matures while feeding on the dozen or more cockroach eggs inside each ootheca.  No cockroaches will hatch from an egg case that has been parasitized by an ensign wasp.\nThe name ensign wasp comes from the unique, stalked abdomen.  Shaped like a sailor&#8217;s signal flag, she frequently waves her abdomen up and down while stalking her prey as if to say, &#8220;Here I am!  Look out cockroaches!&#8221;\nEgg cases produced of the American cockroach (shown here) make up food for the ensign wasp.\nIf you find an ensign wasp in your home, there&#8217;s no need to panic.  It likely means that one of the larger species of cockroaches (American, Smoky brown, or Oriental cockroaches) is present somewhere inside the structure.  I see one or two of these wasps in my office building every year.  I know they come from the rarely seen population of American cockroaches lurking in the walls and ceilings of our office building&#8211;something found in nearly every commercial building.  I like to think that we don&#8217;t see a lot of cockroaches because we have these little wasps keeping watch.\nIf you see these wasps AND see cockroaches on a regular basis, you may want to consider some control action.  Against the cockroaches, not the wasps!  One home owner recently swore that the ensign wasps were coming at her, and were tough to kill. Not true, though they do look impressive when they wave their little flags.  The only ones who should get nervous about ensign wasps are the cockroaches.\nFor more information about cockroaches around the home, see the fact sheet  Cockroaches and Their Control .\nThis entry was posted in  Beneficial insects ,  Household pests ,  Interesting insects  and tagged  American cockroach ,  ensign wasp ,  Evania appendigaster ,  evaniidae ,  Periplaneta americana . Bookmark the  permalink .\nPost navigation\n&larr;  Tent caterpillars without the tent\nKern&#8217;s flower scarab  &rarr;\nComments are closed.\nHelpful Resources\nBooks about insects\nInsects in the classroom\nResources for insect collecting and observing\nInsect identification help\nDiagnostic sample guidelines\nArchives  \t\t Archives\nSelect Month\nOctober 2025\nJune 2024\nMay 2024\nMarch 2024\nJune 2022\nMay 2022\nApril 2022\nJanuary 2022\nDecember 2021\nNovember 2021\nAugust 2021\nJuly 2021\nJune 2021\nOctober 2020\nSeptember 2020\nJuly 2020\nJune 2020\nMay 2020\nApril 2020\nMarch 2020\nFebruary 2020\nJanuary 2020\nOctober 2019\nAugust 2019\nJune 2019\nMay 2019\nMarch 2019\nFebruary 2019\nJanuary 2019\nDecember 2018\nOctober 2018\nSeptember 2018\nAugust 2018\nJuly 2018\nJune 2018\nApril 2018\nFebruary 2018\nDecember 2017\nNovember 2017\nOctober 2017\nSeptember 2017\nAugust 2017\nJune 2017\nApril 2017\nMarch 2017\nFebruary 2017\nJanuary 2017\nDecember 2016\nOctober 2016\nSeptember 2016\nAugust 2016\nJuly 2016\nJune 2016\nMay 2016\nApril 2016\nMarch 2016\nJanuary 2016\nDecember 2015\nNovember 2015\nOctober 2015\nSeptember 2015\nAugust 2015\nJuly 2015\nJune 2015\nMay 2015\nApril 2015\nMarch 2015\nFebruary 2015\nDecember 2014\nOctober 2014\nSeptember 2014\nAugust 2014\nJuly 2014\nJune 2014\nMay 2014\nApril 2014\nMarch 2014\nFebruary 2014\nJanuary 2014\nDecember 2013\nNovember 2013\nSeptember 2013\nAugust 2013\nJuly 2013\nJune 2013\nMay 2013\nApril 2013\nMarch 2013\nFebruary 2013\nDecember 2012\nNovember 2012\nOctober 2012\nAugust 2012\nJuly 2012\nJune 2012\nMay 2012\nApril 2012\nMarch 2012\nFebruary 2012\nJanuary 2012\nNovember 2011\nOctober 2011\nSeptember 2011\nAugust 2011\nJuly 2011\nJune 2011\nMay 2011\nApril 2011\nMarch 2011\nFebruary 2011\nJanuary 2011\nDecember 2010\nNovember 2010\nOctober 2010\nSeptember 2010\nAugust 2010\nJuly 2010\nJune 2010\nMay 2010\nApril 2010\nSeptember 2007\nRecent Posts\nWhy Does it Always Have to be Spiders…?\nThe Turkestan Cockroach: An Emerging Pest in Texas\nThe Emerald Ash Borer: A Threat to Ash Trees in the United States and Texas\nNewsletter – AgriLife Today | Texas tarantula tango: Understanding their annual hunt for food, love\nNewsletter &#8211; Pesticide Labels (Cary Sims, CEA, ANR &#8211; Angelina Co.)\nCategories\nBeneficial insects\nExotic pests\nHousehold pests\nInteresting insects\nNews\nOther pests\nPeople\nPesticides\nPests of landscapes\nPublic health\nUncategorized\nVegetable gardens\nInsects in the City Professional blog     Tubular flying insects    Bargain sale on Mallis Handbook\nAbout     A unique education agency, the Texas A&amp;M AgriLife Extension Service teaches Texans wherever they live, extending research-based knowledge to benefit their families and communities.     \t   Popular Links    \t   County Extension Offices    Research and Extension Centers    Contact Directory    Media Contacts    Texas 4-H and Youth Dev.    Strategic Plan and Impacts    Employment Opportunities          Required Links       Compact with Texans    Privacy and Security    Accessibility Policy    State Link Policy    Statewide Search    Equal Opportunity    Veterans Benefits    Military Families    Risk, Fraud &amp; Misconduct Hotline    Texas Homeland Security    Veteran&apos;s Portal    Financial Disclosures    Open Records/Public Information          Contact             AgriLife Bookstore     AgriLife Extension&apos;s online Bookstore offers educational information and resources related to our many areas of expertise and programming; from agriculture, horticulture, and natural resources to nutrition, wellness for families and youth, and much more.\ntag of your theme, or you will break many plugins, which\ngenerally use this hook to reference JavaScript files. --",
+        "fetched_at": 1792454485.3891137,
+        "sha256": "25ad24cabd3ef5e612b84711cf19fcbcf52626902d002f07045efefa386b9901",
+        "content_type": "text/html; charset=utf-8",
+        "truncated": false,
+        "policy": "public-readonly-free-v1",
+        "id": "s1",
+        "source_exists": true
+      }
+    ],
+    "status": "awaiting_caller",
+    "usage": {
+      "calls": 0,
+      "pages": 1,
+      "searches": 4,
+      "steps": 5
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "case": "unapproved_style",
+      "rejected_before_render": true
+    },
+    {
+      "case": "changed_audio",
+      "rejected_before_render": true
+    },
+    {
+      "case": "invalid_timing",
+      "rejected_before_render": true
+    }
+  ]
+}

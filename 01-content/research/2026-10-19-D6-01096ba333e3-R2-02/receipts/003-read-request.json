@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 2,
+  "idempotency_key": "research-8a92111d8a9a-a3",
+  "action": {
+    "tool": "read",
+    "url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches"
+  }
+}

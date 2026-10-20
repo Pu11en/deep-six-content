@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 1,
+  "idempotency_key": "research-488991e51202-a2",
+  "action": {
+    "tool": "search",
+    "query": "\"American cockroach\" \"egg case\" site:citybugs.tamu.edu"
+  }
+}

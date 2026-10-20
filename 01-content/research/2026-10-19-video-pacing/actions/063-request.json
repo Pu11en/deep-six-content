@@ -1,0 +1,12 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 63,
+  "idempotency_key": "d6-63-94cd601ee621f05c",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [],
+    "reason": "Limits identified: the crawler is caller-driven with no browser, no video access and no model calls; YouTube pages exceeded its size limit; page text and search snippets are leads only. Pacing was therefore measured locally on downloaded low-resolution clips."
+  }
+}

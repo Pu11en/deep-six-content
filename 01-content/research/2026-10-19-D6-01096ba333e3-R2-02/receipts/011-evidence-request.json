@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 10,
+  "idempotency_key": "research-8a92111d8a9a-a11",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Inspect bags, boxes and luggage brought indoors for cockroaches and their egg capsules. Corrugated cardboard can harbor them; removing boxes and other unnecessary clutter reduces hiding places.",
+    "quote": "Examine bags, boxes and luggage"
+  }
+}

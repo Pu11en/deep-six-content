@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-54-5d0dfad252256462",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e11\",\"reason\":\"Complete manifest read: Remotion/React appear in this block; esbuild and Playwright/TypeScript are separate. Install behavior remains untested.\",\"tool\":\"check\"},\"expected_revision\":54}",
+  "revision": 55,
+  "outcome": "applied"
+}

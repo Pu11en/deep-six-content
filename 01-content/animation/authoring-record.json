@@ -1,0 +1,33 @@
+{
+  "status": "authored_and_rendered_for_review",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "ultra",
+  "authentication": "Existing Codex ChatGPT subscription login; API credentials excluded from subprocess environment.",
+  "elapsed_seconds": 774.45,
+  "usage": {
+    "input_tokens": 265112,
+    "cached_input_tokens": 213760,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 37258,
+    "reasoning_output_tokens": 13239
+  },
+  "brief_sha256": "cadbf6ba8489945c402713ece3df1985ca92b6e4a9e1c01e9742047f6561a4d5",
+  "source_sha256": "e08ab67af80fed2facad90e00f9b76d61bbbadc97e46370fbe127afb548d9f70",
+  "design_summary": "Warm paper, textured earth, connected organic chambers, and a 637px worker gently carrying a curved cream larva. Original anatomy includes six thoracic legs, two waist nodes, and ten-segment antennae with two-segment clubs. Backgrounds are cached; the scene is deterministic and still by default. Syntax and mock-canvas checks passed; a raster preview was unavailable.",
+  "first_candidate": "episodes/D6-6c917b49743b/renders/frame-v1.png",
+  "user_style_decision": "pending",
+  "invocation_settings": {
+    "shell_tool": false,
+    "shell_snapshot": false,
+    "multi_agent": false,
+    "apps": false,
+    "plugins": false,
+    "hooks": false,
+    "web_search": "disabled",
+    "sandbox": "read-only"
+  },
+  "current_candidate": "episodes/D6-6c917b49743b/renders/frame-v2.png",
+  "local_refinements": [
+    "Applied the user-requested ad colors through branding.mjs; original Astra scene code unchanged."
+  ]
+}

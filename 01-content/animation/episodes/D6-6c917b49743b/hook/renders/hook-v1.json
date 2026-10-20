@@ -1,0 +1,35 @@
+{
+  "candidate": "hook-v1.mp4",
+  "revision": "v1",
+  "video_sha256": "d6611e727b66ba33d79098eb15e2b55cac3a7a2b61cbe5364d632970fcdc227c",
+  "approval_file": "hook-v1.review.json",
+  "created_with": {
+    "scene": "scenes/hook-fire-ant-drought.mjs",
+    "kit": "scenes/paper-kit.mjs",
+    "renderer": "render-shots.mjs",
+    "node": "v22.22.0"
+  },
+  "inputs": {
+    "config_sha256": "06153282664910182e7647d51150b67c3e6320bb8d547f482dd8221b806067d9",
+    "scene_sha256": "c60da393deaf798867a07cdae758fb99863689c25d355cddf3627955db39721b",
+    "kit_sha256": "fc98d0b1d81a6ea253167478be7b3e389302760cbf7eff67e8ea2f092ee2527f",
+    "timing_sha256": "2476ea9799107542db72ac4090e4c0207944d564035235a29edd663c0ebd1d51",
+    "shot_list_sha256": "53edc0abad8672c2a3b780fd543d5acbb4f497c978c3fea737e060d156987e72",
+    "approved_audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+    "approved_style_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060"
+  },
+  "checks": {
+    "width": 1080,
+    "height": 1920,
+    "aspect": "1080:1920",
+    "fps": "30/1",
+    "frames": 264,
+    "video_seconds": 8.8,
+    "audio_seconds": 8.8,
+    "container_seconds": 8.8,
+    "longest_still_seconds": 0.133,
+    "mean_motion": 4.745,
+    "render_seconds": 141.9
+  },
+  "contact_sheet": "hook-v1-beats.png"
+}

@@ -1,0 +1,26 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-c97fdabb9436",
+  "scripts": 5,
+  "originals_and_previous_version_unchanged": true,
+  "exact_hook_in_all": true,
+  "approved_outro_exactly_once_per_script": true,
+  "no_em_dashes": true,
+  "no_spoken_institution_names_or_formal_citations": true,
+  "unfamiliar_trade_terms_removed": true,
+  "flag_explanation_connected_to_name": true,
+  "young_wasp_becomes_adult_before_exit": true,
+  "sticky_trap_glue_definition_checked_against_existing_source": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+  "fact_references_valid": true,
+  "scientific_limits": "The egg-insertion timing remains usually 15 to 30 minutes. The egg-laying tube is a plain-language description of the ovipositor, not a claim that the mother enters the case. German cockroaches are compared for egg handling, not claimed as wasp hosts. Seeing an ensign wasp is not described as proof of an infestation.",
+  "words": [
+    118,
+    125,
+    104,
+    122,
+    101
+  ],
+  "source_queue_approved_items_and_board_unchanged": true,
+  "narration_selected": false,
+  "audio_generated": false
+}

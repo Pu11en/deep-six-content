@@ -1,0 +1,39 @@
+{
+  "started_utc": "2026-10-20T03:48:44.192518+00:00",
+  "status": "generated_pending_review",
+  "phase": "replacement_v2",
+  "category": "voice",
+  "generation_requests": 1,
+  "automatic_retry": false,
+  "approval_file": "01-content/outro/production/v2-production-approval.json",
+  "voice_id": "rPMkKgdwgIwqv4fXgR6N",
+  "voice_name": "Tyler",
+  "model_id": "eleven_v4",
+  "seed": 20261019,
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "output_format": "mp3_44100_128",
+  "spoken_text": "Helping you understand pests. Deep Six Pest Control.",
+  "direction_tag": "[warm, clear, conversational]",
+  "characters_including_direction": 82,
+  "available_credits_before": 2487,
+  "credit_multiplier": 1.0,
+  "usd_per_1000_characters": 0.1,
+  "conservative_token_cost_bound_usd": 0.0082,
+  "approved_cap_usd": 0.1,
+  "pricing_url": "https://elevenlabs.io/pricing/api",
+  "same_pricing_v4_source": "https://elevenlabs.io/v4",
+  "cost_is_invoice_confirmed": false,
+  "scope": "Fire-ant outro review only. Future videos generate whole narration in their own voice.",
+  "output": "01-content/outro/assets/fire-ant-tyler-signoff-source-v2.mp3",
+  "sha256": "d6e02f91140707ca291630f48b5f8c4fefb5f286a08c6b8b38b4fa0903ef2b74",
+  "bytes": 65244,
+  "estimated_api_cost_usd": 0.0082,
+  "response_headers": {
+    "request-id": "QA7CvlE2mxHJj02vetS4",
+    "character-cost": "18"
+  },
+  "finished_utc": "2026-10-20T03:48:45.326774+00:00"
+}

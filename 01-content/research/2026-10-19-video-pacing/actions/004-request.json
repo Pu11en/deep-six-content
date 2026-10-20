@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 4,
+  "idempotency_key": "d6-4-97e7553087ffc081",
+  "action": {
+    "tool": "search",
+    "query": "how often to change the visual in YouTube Shorts TikTok Reels: ideal shot length, cut every 2-3 seconds, effect on viewer retention"
+  }
+}

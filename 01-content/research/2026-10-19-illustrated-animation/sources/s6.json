@@ -1,0 +1,12 @@
+{
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": 1792441172.2436895,
+  "final_url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/package.json",
+  "id": "s6",
+  "policy": "public-readonly-free-v1",
+  "sha256": "8be3adbdd622355f622d53aa7fef66865bf74eb0ddeb7cd3c0fa1890110dc418",
+  "source_exists": true,
+  "text": "{\n  \"name\": \"claude-animation\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"type\": \"module\",\n  \"description\": \"Hand-drawn 2D animation in JavaScript: brush, watercolour, textured editorial rigs, rendered frame-exact with node canvas + ffmpeg.\",\n  \"dependencies\": { \"@napi-rs/canvas\": \"^0.1.65\" }\n}\n",
+  "truncated": false,
+  "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/package.json"
+}

@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 22,
+  "idempotency_key": "research-359182d1022c-a23",
+  "action": {
+    "tool": "read",
+    "url": "https://citybugs.tamu.edu/2013/04/17/good-grooming-makes-good-pest-control/"
+  }
+}

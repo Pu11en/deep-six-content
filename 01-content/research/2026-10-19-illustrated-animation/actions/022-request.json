@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 22,
+  "idempotency_key": "d6-22-59a8a93f04733463",
+  "action": {
+    "tool": "read",
+    "url": "https://fireant.tamu.edu/learn/fire-ant-identification/"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "checked": "crawler workflow documentation",
+  "api_paths_present": 7,
+  "budget_matches_live_schema": true,
+  "local_links_resolved": 8,
+  "approved_mp3_hash_unchanged": true,
+  "board_hash_unchanged": true,
+  "approved_narration_and_source_queue_preserved": true,
+  "new_research_jobs": 0,
+  "paid_calls": 0,
+  "implementation_changed": false
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-57-dd45a3a60420f111",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e15\",\"reason\":\"Quote found in the prompt file; prompt wording only, not a pacing measurement.\",\"tool\":\"check\"},\"expected_revision\":57}",
+  "revision": 58,
+  "outcome": "applied"
+}

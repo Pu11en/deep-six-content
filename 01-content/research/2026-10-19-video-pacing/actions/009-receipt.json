@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-9-227e6e96eb04ce09",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.aspire.io/blog/everything-marketers-need-to-know-about-youtube-shorts\"},\"expected_revision\":9}",
+  "revision": 10,
+  "outcome": "applied"
+}

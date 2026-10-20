@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-36-c6834f7781b94119",
+  "payload": "{\"action\":{\"claim\":\"MediaScaleUp says visuals should land on or slightly before the word they illustrate.\",\"quote\":\"Visuals should land on or slightly before the word, never noticeably after it.\",\"source_id\":\"s10\",\"tool\":\"evidence\"},\"expected_revision\":36}",
+  "revision": 37,
+  "outcome": "applied"
+}

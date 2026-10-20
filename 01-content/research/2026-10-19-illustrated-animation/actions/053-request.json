@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 53,
+  "idempotency_key": "d6-53-873ed58a9bbe4e53",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s18",
+    "claim": "Anidoodle lists esbuild, Playwright Core and TypeScript, with Remotion/React packages in optional dependencies.",
+    "quote": "\"optionalDependencies\": {"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 37,
+  "idempotency_key": "d6-37-b771a811bde1606c",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s9",
+    "claim": "FrameJam's explainer playbook aims for one idea per scene with every picture landing on its word.",
+    "quote": "one idea per scene, and every picture landing on its word"
+  }
+}

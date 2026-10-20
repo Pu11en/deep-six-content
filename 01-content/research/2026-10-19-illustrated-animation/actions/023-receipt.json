@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-23-693a28c20f982706",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/alexgreensh/anidoodle/main/LICENSE\"},\"expected_revision\":23}",
+  "revision": 24,
+  "outcome": "applied"
+}

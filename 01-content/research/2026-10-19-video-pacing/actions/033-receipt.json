@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-33-1d25fb5325d1c387",
+  "payload": "{\"action\":{\"claim\":\"The same skill says each shot explains only one knowledge beat.\",\"quote\":\"Each shot explains only one knowledge beat\",\"source_id\":\"s2\",\"tool\":\"evidence\"},\"expected_revision\":33}",
+  "revision": 34,
+  "outcome": "applied"
+}

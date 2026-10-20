@@ -1,0 +1,12 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 64,
+  "idempotency_key": "d6-64-bed390ec74d7901a",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "blocked",
+    "evidence_ids": [],
+    "reason": "Blocked by crawler limits, as expected: this caller-driven client has no browser, no video access and no model calls, and YouTube pages exceeded its size limit. Page text and search snippets are leads only, so pacing (cut rate, motion, picture-to-narration match) cannot be established by the crawler and was measured locally on downloaded low-resolution clips instead."
+  }
+}

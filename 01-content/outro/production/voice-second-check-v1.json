@@ -1,0 +1,48 @@
+{
+  "model": "medium.en",
+  "transcript": "Helping you understand pests? Deep6 Pest Control.",
+  "words": [
+    {
+      "word": "Helping",
+      "start": 0.0,
+      "end": 0.62,
+      "probability": 0.976917952299118
+    },
+    {
+      "word": "you",
+      "start": 0.62,
+      "end": 0.78,
+      "probability": 0.9465473890304565
+    },
+    {
+      "word": "understand",
+      "start": 0.78,
+      "end": 1.28,
+      "probability": 0.9837086796760559
+    },
+    {
+      "word": "pests?",
+      "start": 1.28,
+      "end": 1.78,
+      "probability": 0.9918047189712524
+    },
+    {
+      "word": "Deep6",
+      "start": 2.3,
+      "end": 2.78,
+      "probability": 0.6741668283939362
+    },
+    {
+      "word": "Pest",
+      "start": 2.78,
+      "end": 3.14,
+      "probability": 0.9668693840503693
+    },
+    {
+      "word": "Control.",
+      "start": 3.14,
+      "end": 3.48,
+      "probability": 0.9779670238494873
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-11-c0eb78716ab22108",
+  "payload": "{\"action\":{\"query\":\"animated explainer video scene length: how many seconds should each scene or shot last in a fast-paced narrated animation, visuals matched to each sentence of the voiceover\",\"tool\":\"search\"},\"expected_revision\":11}",
+  "revision": 12,
+  "outcome": "applied"
+}

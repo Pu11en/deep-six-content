@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-48-25acb85b95af7920",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e6\",\"reason\":\"Quote found; supports that this guide is qualitative only and gives no interval.\",\"tool\":\"check\"},\"expected_revision\":48}",
+  "revision": 49,
+  "outcome": "applied"
+}

@@ -1,0 +1,76 @@
+{
+  "started_utc": "2026-10-20T02:43:31.721615+00:00",
+  "status": "generated_pending_visual_review",
+  "provider": "Google Gemini API",
+  "model": "gemini-nano-banana-2.1",
+  "generation_requests": 1,
+  "approval_file": "01-content/outro/production/production-approval.json",
+  "approved_cap_usd": 0.15,
+  "generation_config": {
+    "candidateCount": 1,
+    "responseModalities": [
+      "IMAGE"
+    ],
+    "maxOutputTokens": 4096,
+    "thinkingConfig": {
+      "thinkingLevel": "MINIMAL"
+    },
+    "imageConfig": {
+      "aspectRatio": "9:16",
+      "imageSize": "2K"
+    }
+  },
+  "prompt_sha256": "8ed12e449b3b61dbbea2c552d32c9387981bbeed47b00013ac0478036396d0d8",
+  "references": {
+    "01-content/brand/fun-fact-friday-spider.png": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708"
+  },
+  "preflight_input_tokens": 678,
+  "conservative_input_token_allowance": 6061,
+  "phase": "additional_2_usd",
+  "category": "image",
+  "conservative_token_cost_bound_usd": 0.1319715,
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "pricing_checked_date": "2026-10-19",
+  "rate_usd_per_million_tokens": {
+    "input": 1.5,
+    "output_image": 30,
+    "output_text_and_thinking": 7.5
+  },
+  "automatic_retry": false,
+  "usage": {
+    "promptTokenCount": 1540,
+    "candidatesTokenCount": 2115,
+    "totalTokenCount": 3655,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1120
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 420
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1680
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "model_version": "gemini-nano-banana-2.1",
+  "finish_reasons": [
+    "STOP"
+  ],
+  "output": "01-content/outro/assets/hybrid-still-v3.jpg",
+  "dimensions": [
+    1536,
+    2752
+  ],
+  "sha256": "3555ae928763f1541a96b3b5b06af6d60784b168f65ab62322749e61c03396d7",
+  "image_token_count_basis": "API usage modality breakdown",
+  "estimated_api_cost_usd": 0.0559725,
+  "cost_is_invoice_confirmed": false,
+  "finished_utc": "2026-10-20T02:43:52.429843+00:00"
+}

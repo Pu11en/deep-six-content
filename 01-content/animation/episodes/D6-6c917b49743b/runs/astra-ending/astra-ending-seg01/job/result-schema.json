@@ -1,0 +1,50 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "status",
+  "files_written",
+  "shot_count",
+  "self_check_rounds",
+  "longest_still_seconds",
+  "picture_change_median",
+  "remaining_issues",
+  "summary"
+ ],
+ "properties": {
+  "status": {
+   "type": "string",
+   "enum": [
+    "done",
+    "blocked"
+   ]
+  },
+  "files_written": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "shot_count": {
+   "type": "integer"
+  },
+  "self_check_rounds": {
+   "type": "integer"
+  },
+  "longest_still_seconds": {
+   "type": "number"
+  },
+  "picture_change_median": {
+   "type": "number"
+  },
+  "remaining_issues": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "summary": {
+   "type": "string"
+  }
+ }
+}

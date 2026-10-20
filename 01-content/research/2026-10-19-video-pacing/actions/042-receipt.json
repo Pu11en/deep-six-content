@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-42-33b179771f152af9",
+  "payload": "{\"action\":{\"claim\":\"A listed creator says the video code synced every cut to a synthesized music beat.\",\"quote\":\"synced every cut to it\",\"source_id\":\"s15\",\"tool\":\"evidence\"},\"expected_revision\":42}",
+  "revision": 43,
+  "outcome": "applied"
+}

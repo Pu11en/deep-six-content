@@ -1,0 +1,24 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 47,
+  "idempotency_key": "research-359182d1022c-a48",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Each result card describes a separate homeowner lesson supported by its main article. Supporting science follows human source and hook choices; no hooks or scripts have been generated."
+  }
+}

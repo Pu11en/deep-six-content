@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 11,
+  "idempotency_key": "research-359182d1022c-a12",
+  "action": {
+    "tool": "read",
+    "url": "https://citybugs.tamu.edu/category/household-pests/"
+  }
+}

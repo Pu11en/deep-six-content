@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-72-0ce17c1ecf7f291e",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e20\",\"reason\":\"Adjacent registrations use Inter files and /System/Library/Fonts/Menlo.ttc. A Linux adaptation should select explicit available fonts.\",\"tool\":\"check\"},\"expected_revision\":72}",
+  "revision": 73,
+  "outcome": "applied"
+}

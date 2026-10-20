@@ -1,57 +1,187 @@
+<!-- d6-current:start -->
+**Liked sources saved.**
+
+1. **First: [Fire Ant Frequently Asked Questions](https://fireant.tamu.edu/manage/faq/)** — A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.
+
+2. **Queued: [Tawny Crazy Ants: A Texas-Size Problem](https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf)** — Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.
+
+3. **Queued: [Identifying household ants](https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013/)** — An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.
+
+4. **Queued: [Biology](https://fireant.tamu.edu/learn/biology/)** — Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.
+
+Next research: cockroaches.
+
+Hooks are on hold while we design research.
+<!-- d6-current:end -->
+
 # Deep Six board
 
 Newest on top.
 
 ---
 
+### 2026-10-19 20:46 · Model test: Astra and Sol make our videos
+
+**Update after Drew watched: Astra's clips are bad; Sol's Test 3 is the better one.** My first read below was wrong.
+
+Each model made the same 13 seconds ("Those young ants ... waterlogged soil") from scratch, without seeing my version. They are on your Desktop:
+
+- **Deep Six - Model Test 1 Opus**: mine, from the finished video.
+- **Deep Six - Model Test 2 Astra**: 9 minutes, 15 shots.
+- **Deep Six - Model Test 3 Sol**: 8 minutes, 9 shots.
+- **Deep Six - Model Test 4 Astra Full Flow (first half)**: Astra planned and made the ending by itself.
+
+**Heads-up:** your ChatGPT Codex usage limit ran out during these tests. It resets **October 26 at 11:01 AM**. Astra and Sol share that one limit.
+
+**Astra's version, moving:**
+
+![Astra's 13 seconds](board-previews/model-test-astra-1792460779.gif)
+
+**Opus (mine), beat by beat:**
+
+![Opus](01-content/animation/episodes/D6-6c917b49743b/model-test/opus-reference/beats-1.png)
+
+**Astra, beat by beat:**
+
+![Astra](01-content/animation/episodes/D6-6c917b49743b/model-test/test-astra-conditions/renders/segment-v1-beats-1.png)
+
+**Sol, beat by beat:**
+
+![Sol](01-content/animation/episodes/D6-6c917b49743b/model-test/test-sol-conditions/renders/segment-v1-beats-1.png)
+
+
+### 2026-10-19 19:20 · Full video v2: fire ants in a drought
+
+**The full fire-ant video is done: 79 seconds, 76 shots, every phrase drawn as it is spoken.**
+
+It is on your Desktop: **Deep Six - Fire Ants Full v2.mp4**. Play it there for sound.
+
+![Eggs to adult, from the middle of the video](board-previews/full-v2-nursery-1792455654.gif)
+
+**What happens:**
+
+- **0 to 9 s:** your approved hook, unchanged.
+- **9 to 16 s:** inside the nest: busy chambers, workers walking outside, a nursery deep underground.
+- **16 to 27 s:** eggs, larvae and pupae up close; an egg hatches and grows into an adult.
+- **27 to 46 s:** cold and wet: brood carried up into the warm mound while the deep soil floods. Hot and dry: brood carried down to the cool, moist deep chambers.
+- **46 to 58 s:** workers carry the brood; a lime picture frame follows the nursery around the nest; one pinned room gets a big X.
+- **58 to 68 s:** the mound doesn't show where the young are; the busy colony hides under a quiet lawn.
+- **68 to 79 s:** a homeowner, a missing mound, a magnifier and a gauge with no reading.
+
+**Every beat, in order:**
+
+![Beats 1](01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-1.png)
+
+![Beats 2](01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-2.png)
+
+![Beats 3](01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-3.png)
+
+![Beats 4](01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-4.png)
+
+![Beats 5](01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-5.png)
+
+![Beats 6](01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-6.png)
+
+
+### 2026-10-19 18:03 · Hook animation v1: fire ants in a drought
+
+**First try at the hook: 8.8 seconds, 8 shots, a new action every quarter to half second.**
+
+![Hook preview](board-previews/hook-v1-1792450977.gif)
+
+[Play it with sound](01-content/animation/episodes/D6-6c917b49743b/hook/renders/hook-v1.mp4)
+
+**Every phrase gets its own picture, timed to the word:**
+
+- **"A fire ant"**: a big worker walks across the screen.
+- **"colony"**: the camera pulls back to dozens of ants.
+- **"doesn't always have"**: a mound pops up, then squashes flat.
+- **"a mound you can see"**: a dashed outline marks it; a magnifier shows ants still underground.
+- **"In a drought"**: the sun drops in and the grass turns straw.
+- **"the ground itself"**: cracks race across dry soil.
+- **"can be too hard"**: the ant bites the ground. Clank.
+- **"and dry"**: dust blows and the last drop dries up.
+- **"for them to build one"**: a dashed mound appears and falls apart. The colony is still below.
+
+![One still per beat](01-content/animation/episodes/D6-6c917b49743b/hook/renders/hook-v1-beats.png)
+
+**How the agent makes it**
+
+1. Measure when each word is said.
+2. Director prompt: one picture per phrase, landing on its word.
+3. Animator prompt: turn those shots into drawing code.
+4. Check a still of every beat before you see it.
+
+
+### 2026-10-19 18:09 · Fast-pacing inspiration: what to watch
+
+**The fastest science shorts show a new picture every 0.6 to 0.7 seconds, one picture per 1 to 3 spoken words.**
+
+**How fast is ours?**
+
+| Video | New scene every | Picture moving each half second |
+|---|---|---|
+| Zack D. Films (fastest) | 0.6 to 0.7 s | 25 to 62% |
+| Kurzgesagt Shorts | 1 to 1.5 s | 12 to 17% |
+| Paper collage clips | 1.2 to 2 s | 4 to 19% |
+| **Our hook v1** | **about 1.1 s** | **22%** |
+| Rejected test | one scene | 0.1% |
+
+**Watch these for speed:**
+
+1. [What Happens To Bugs When You Mow?](https://www.youtube.com/watch?v=esR-EXzvckw): Zack D. Films. A new picture every 0.6 s.
+2. [Ants Form A Chain To Raid A Wasp Nest](https://www.youtube.com/watch?v=dxmQDoiHVnc): Zack D. Films. Same ants, new angle on every phrase.
+3. [The Deadliest Thing in Your Kitchen](https://www.youtube.com/watch?v=2cK8l5Yg5w8): Kurzgesagt. A new flat prop or label every second.
+4. [How Electrical Outlets Work](https://www.youtube.com/watch?v=0BZ1C83I2R4): Zack D. Films. The camera flies through objects; never a still frame.
+5. [Queen Ant Clones Another Species](https://www.youtube.com/watch?v=NXhKuMQRAZ4): Kurzgesagt. Name labels pop on with each animal.
+
+**Watch these for the paper look:**
+
+6. [Outer Space, Collage Animation](https://www.youtube.com/watch?v=XAm4i1X7L_Y): torn-paper reveal about every 1.2 s. Widescreen.
+7. [The Hunt for the Perfect Croissant](https://www.youtube.com/watch?v=e7jJn8Iafgg): paper pieces land one at a time on each noun. Widescreen, likely AI-made.
+
+**What to avoid:** [MinuteEarth's mosquito short](https://www.youtube.com/watch?v=fUBRGTKInbI) holds one still scene for 8 seconds.
+
+Measured on each clip's first 30 seconds. Found with the MacBook crawler and YouTube search.
+
+
+### October 19 · How the first batch was made — now skipped
+
+**Astra researched the facts and wrote the first batch through your ChatGPT subscription.** Four sources came from Texas A&M; one came from Oregon State's National Pesticide Information Center. Drew skipped that batch; the current choices appear at the top.
+
+1. Research distinct ant lessons for Central Texas homeowners.
+2. Fetch the original pages separately and check the supporting quotations. Five sources passed.
+3. Give those five source cards to the hook writer, with web search turned off.
+4. Write one opening per source; check the source references and show five choices.
+
+**The missing piece:** no studied video openings were supplied. This batch used general patterns: a visible problem, an honest question, a surprising fact or a misconception correction. Their performance has not been tested.
+
+[Exact hooks, source links, writing method and saved proof](01-content/harness/hook-batch-trace-2026-10-19.md)
+
 ### Excalidraw system design — October 19
 
 [Open the main flow](http://localhost:3003/boards/f8724119f563ab46a50243e7) · [System overview — top to bottom](http://localhost:3003/boards/52831f1163e1277b819320fd)
 
-Both five-choice loops, the saved-hook queue, source links into narration, and production through the reusable outro are drawn. Open decisions are marked in yellow.
+These drawings show the earlier hooks-first flow. The source-first flow below supersedes it. Approved narrations are still saved before later production.
 
-### 2026-10-19 11:31 · Your whiteboard — research, choices, production
+### October 19 · Sources first, then hooks and narrations
 
-# Deep Six shorts — working flow
+**Choose an educational source before choosing its hook.**
 
-**Two research feeds supply five hooks. You choose one, then get five full scripts using that same hook and factual source.** No automation is running yet.
+1. Read five short source summaries with links, then choose one or skip for fresh research.
+2. Choose one of five hooks for that source, or skip for new hooks using the same source.
+3. Read five complete narrations with that exact hook; choose one or skip for new narrations.
+4. Save the chosen script for a future video.
 
-## 1. Research on a schedule
+Repeat to build a bank of approved narrations before making videos. A second hook can wait for another run. Rejected narrations are discarded.
 
-- **Pest resources:** articles with useful homeowner lessons. Start with [Texas A&M](https://citybugs.tamu.edu/2018/06/14/when-ants-invade/), [NPIC](https://npic.orst.edu/pest/ant.html), and [UC IPM](https://ipm.ucanr.edu/home-and-landscape/ants/). [Resource library](01-content/pest-resource-library.md).
-- **Social hooks:** real educational videos, their opening words and visuals, and the pattern worth learning. Keep original links and observed evidence.
+Source choices and comments guide future research. Hook choices guide future openings. A skip alone does not say what you disliked. Crawler integration waits until you say the other agent's work is ready.
 
-Articles supply the facts. Social research supplies ideas for how to open and explain them. Research frequency is still open.
+The source-first flow is built and all 32 offline tests pass. The five already checked sources are above; no source is chosen yet. Telegram and scheduled runs come later.
 
-## 2. Choose the writing
+Every Claude role uses the same backup runner. Astra worked live; this Codex CLI reported Sol 6.1 unavailable. Claude stays paused while out of credits.
 
-1. Writing harness → **five hooks**.
-2. You choose one. A second choice waits for a later video. **Skip → another five.**
-3. Same writing harness → **five full narrations**, each repeating the exact chosen hook and using its same resource.
-4. You choose one. **Skip → another five with that same hook and source.**
-
-Requested writer: Sonnet; exact model/version still needs setup. [Proposed writing instructions](01-content/writing-harness-prompts.md).
-
-## 3. After the chosen narration — proposed
-
-**Scene plan → voiceover and measured timing → code cartoon animation → captions and sound → reusable branded outro → your final review → export.**
-
-Plan the characters’ actions around the lesson. Time the animation to the actual voiceover. Make the outro once, approve it, and reuse it; AI image/video generation can be used for that asset. Every produced preview and final video stays **9:16 in Deep Six colors**.
-
-## Hook-research repos
-
-- [Instagram Viral Reels Research](https://github.com/w-avw/instagram-viral-reels-research-claude-skill): finds candidate reels and combines transcripts with visual frames. Needs Instagram access/setup; its fixed view thresholds would need adapting.
-- [Hookmaxxing](https://github.com/yerdaulet-damir/hookmaxxing): useful rules for studying the opening and checking whether a hook’s promise has evidence. It does not discover videos by itself.
-
-[Inspected files and limits](01-content/research/hook-research-repos-2026-10-19.md). Neither repo has been installed or tested here.
-
-## Decisions and records
-
-Keep sources, prompts, chosen work and brief feedback. **No rejected narration archives.** The old script files and board copies have been deleted; earlier Git history still exists.
-
-Open decision: should five hooks cover five separate lessons/sources, or five openings for one article? This affects saving a second hook for the next video.
-
-[Full design log and step cards](01-content/video-system-design.md) · [Source-use log](01-content/source-log.md)
+[Main flow](http://localhost:3003/boards/f8724119f563ab46a50243e7) · [Overview](http://localhost:3003/boards/52831f1163e1277b819320fd)
 
 
 ### 2026-10-16 23:18 · Cartoon animation — closer matches

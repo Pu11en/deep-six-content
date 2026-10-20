@@ -1,0 +1,44 @@
+{
+  "checked_utc": "2026-10-20T03:47:46.491584+00:00",
+  "subscription": {
+    "tier": "payg",
+    "status": "active",
+    "character_count": 7513,
+    "character_limit": 10000,
+    "can_extend_character_limit": false,
+    "character_refresh_period": "monthly_period"
+  },
+  "voice": {
+    "voice_id": "rPMkKgdwgIwqv4fXgR6N",
+    "name": "Tyler \u2013 Clear US YouTube Creator Voice",
+    "category": "professional",
+    "high_quality_base_model_ids": [
+      "eleven_multilingual_v2",
+      "eleven_turbo_v2_5",
+      "eleven_flash_v2_5",
+      "eleven_turbo_v2",
+      "eleven_flash_v2",
+      "eleven_multilingual_sts_v2"
+    ]
+  },
+  "voice_sharing": {
+    "status": "copied",
+    "rate": 1.0,
+    "disable_at_unix": null,
+    "notice_period": 730,
+    "enable_resharing": null,
+    "voice_mixing_allowed": false
+  },
+  "model": [
+    {
+      "model_id": "eleven_v4",
+      "can_do_text_to_speech": true,
+      "requires_alpha_access": false,
+      "token_cost_factor": 1.0,
+      "can_use_style": false,
+      "can_use_speaker_boost": false,
+      "max_characters_request_subscribed_user": 10000
+    }
+  ],
+  "available_credits": 2487
+}

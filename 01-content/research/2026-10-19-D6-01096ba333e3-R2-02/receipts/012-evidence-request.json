@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 11,
+  "idempotency_key": "research-8a92111d8a9a-a12",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s2",
+    "claim": "Indoor cockroach prevention includes restricting food and water, repairing leaks, drying damp places and sealing cracks where roaches hide. These steps reduce resources and shelter available to them.",
+    "quote": "leaky water pipes or faucets"
+  }
+}

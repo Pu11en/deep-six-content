@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-32-1f690547668e5feb",
+  "payload": "{\"action\":{\"claim\":\"A papercraft stop-motion explainer skill (MiniMax) sets 2-4 seconds per shot for a 15-second video, slower than the fast shorts measured locally.\",\"quote\":\"15s: 4-6 shots, fast but readable, 2-4 seconds per shot.\",\"source_id\":\"s2\",\"tool\":\"evidence\"},\"expected_revision\":32}",
+  "revision": 33,
+  "outcome": "applied"
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-34-34f21082428e3d3c",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e1\",\"reason\":\"Creator description, corroborated by inspected drawing modules and an older saved contact sheet; no new quality test.\",\"tool\":\"check\"},\"expected_revision\":34}",
+  "revision": 35,
+  "outcome": "applied"
+}

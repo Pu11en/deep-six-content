@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-45-5cc6fc9fbb06a7ff",
+  "payload": "{\"action\":{\"claim\":\"Texas A&M says fire-ant mounds have no central opening and describes entry through underground tunnels.\",\"quote\":\"The mound has no opening in the center like most ant mounds.\",\"source_id\":\"s12\",\"tool\":\"evidence\"},\"expected_revision\":45}",
+  "revision": 46,
+  "outcome": "applied"
+}

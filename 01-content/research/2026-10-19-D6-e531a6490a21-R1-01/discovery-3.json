@@ -1,0 +1,14 @@
+[
+  {
+    "tool": "read",
+    "url": "https://npic.orst.edu/pest/roach.html"
+  },
+  {
+    "tool": "read",
+    "url": "https://www3.epa.gov/pesticides/kids/roaches/english/keepthem/index.html"
+  },
+  {
+    "tool": "read",
+    "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100HM24.TXT"
+  }
+]

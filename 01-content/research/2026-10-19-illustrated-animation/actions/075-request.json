@@ -1,0 +1,19 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 75,
+  "idempotency_key": "d6-75-a0c306a8ecdb62a1",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q2",
+    "status": "addressed",
+    "evidence_ids": [
+      "e3",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e20"
+    ],
+    "reason": "Record scientific corrections, new vertical layout and explicit scene timing against the existing audio. Reuse the original MP3; add naked pupae and avoid the demo central mound opening. Exact anatomy and timed output still need the future trial."
+  }
+}

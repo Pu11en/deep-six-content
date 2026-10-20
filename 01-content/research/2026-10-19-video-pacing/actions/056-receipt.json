@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-56-4f22e1183c4ca7a8",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e14\",\"reason\":\"Quote found in the prompt file; supports the prompt wording only. It does not say how fast the finished video actually is.\",\"tool\":\"check\"},\"expected_revision\":56}",
+  "revision": 57,
+  "outcome": "applied"
+}

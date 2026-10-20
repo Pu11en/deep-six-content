@@ -1,0 +1,77 @@
+{
+  "started_utc": "2026-10-20T02:41:15.129678+00:00",
+  "status": "generated_pending_visual_review",
+  "provider": "Google Gemini API",
+  "model": "gemini-nano-banana-2.1",
+  "generation_requests": 1,
+  "approval_file": "01-content/outro/production/production-approval.json",
+  "approved_cap_usd": 0.15,
+  "generation_config": {
+    "candidateCount": 1,
+    "responseModalities": [
+      "IMAGE"
+    ],
+    "maxOutputTokens": 4096,
+    "thinkingConfig": {
+      "thinkingLevel": "MINIMAL"
+    },
+    "imageConfig": {
+      "aspectRatio": "9:16",
+      "imageSize": "2K"
+    }
+  },
+  "prompt_sha256": "1e559f82c99276b9efcbd1e7da2389fc81feb2ea9d8d8e627d66282f81a28308",
+  "references": {
+    "01-content/brand/fun-fact-friday-spider.png": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708",
+    "01-content/outro/assets/hybrid-still-v1.jpg": "10d9e1416ad8c09da8ff97a7fa56ea73fb5a66622f2aa4c1e341d6eca147cf91"
+  },
+  "preflight_input_tokens": 922,
+  "conservative_input_token_allowance": 9870,
+  "phase": "additional_2_usd",
+  "category": "image",
+  "conservative_token_cost_bound_usd": 0.137685,
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "pricing_checked_date": "2026-10-19",
+  "rate_usd_per_million_tokens": {
+    "input": 1.5,
+    "output_image": 30,
+    "output_text_and_thinking": 7.5
+  },
+  "automatic_retry": false,
+  "usage": {
+    "promptTokenCount": 2646,
+    "candidatesTokenCount": 2321,
+    "totalTokenCount": 4967,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 406
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2240
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1680
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "model_version": "gemini-nano-banana-2.1",
+  "finish_reasons": [
+    "STOP"
+  ],
+  "output": "01-content/outro/assets/hybrid-still-v2.jpg",
+  "dimensions": [
+    1536,
+    2752
+  ],
+  "sha256": "231a6c0d44b0daf3126d80cf4e55a19fc9fa0d5e4d42b0cd294e284395aae8b4",
+  "image_token_count_basis": "API usage modality breakdown",
+  "estimated_api_cost_usd": 0.0591765,
+  "cost_is_invoice_confirmed": false,
+  "finished_utc": "2026-10-20T02:41:35.376910+00:00"
+}

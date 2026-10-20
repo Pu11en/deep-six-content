@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "https://www.deepsixpest.com/wp-content/uploads/2026/02/Header_Logo.png",
+    "path": "01-content/outro/assets/official-header-logo.png",
+    "bytes": 4510,
+    "mime": "image/png",
+    "sha256": "135630619ad2fe7d263d27f2a380e9add1f8c733d1005e889d8b93f4b9560ee6"
+  },
+  {
+    "source_url": "https://www.deepsixpest.com/wp-content/uploads/2026/02/Footer_Logo.png",
+    "path": "01-content/outro/assets/official-footer-logo.png",
+    "bytes": 3291,
+    "mime": "image/png",
+    "sha256": "14266d89ecda011e8756d35cc8ef99df3d47aa10e02006b26dc2127ae36769a0"
+  },
+  {
+    "source_url": "https://www.deepsixpest.com/wp-content/uploads/2026/02/Why_Choose_Logo_Icon.png",
+    "path": "01-content/outro/assets/official-why-choose-logo.png",
+    "bytes": 4083,
+    "sha256": "62a037864a6db13853fe38037e9d4d0eb0064b988e2d93f9d2478c32ac35b0db"
+  }
+]

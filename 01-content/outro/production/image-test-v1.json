@@ -1,0 +1,84 @@
+{
+  "started_utc": "2026-10-20T02:06:30.749286+00:00",
+  "status": "reviewed_needs_identity_correction",
+  "provider": "Google Gemini API",
+  "model": "gemini-nano-banana-2.1",
+  "generation_requests": 1,
+  "approval_file": "01-content/outro/production/image-test-approval.json",
+  "approved_cap_usd": 0.15,
+  "generation_config": {
+    "candidateCount": 1,
+    "responseModalities": [
+      "IMAGE"
+    ],
+    "maxOutputTokens": 4096,
+    "thinkingConfig": {
+      "thinkingLevel": "MINIMAL"
+    },
+    "imageConfig": {
+      "aspectRatio": "9:16",
+      "imageSize": "2K"
+    }
+  },
+  "prompt_sha256": "89f7db704f4beffa72ffe2524294e90cb229a29830b342655e24999db4851b3c",
+  "references": {
+    "01-content/brand/fun-fact-friday-spider.png": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708",
+    "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2-beats-1.png": "b7679f26aebe02877df441f9a1fcb3c63bf7a3b477dda447e1248956e2694ede"
+  },
+  "preflight_input_tokens": 1151,
+  "conservative_token_cost_bound_usd": 0.1246065,
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "pricing_checked_date": "2026-10-19",
+  "rate_usd_per_million_tokens": {
+    "input": 1.5,
+    "output_image": 30,
+    "output_text_and_thinking": 7.5
+  },
+  "automatic_retry": false,
+  "usage": {
+    "promptTokenCount": 2875,
+    "candidatesTokenCount": 2139,
+    "totalTokenCount": 5014,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 2240
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 635
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1680
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "model_version": "gemini-nano-banana-2.1",
+  "finish_reasons": [
+    "STOP"
+  ],
+  "output": "01-content/outro/assets/hybrid-still-v1.jpg",
+  "dimensions": [
+    1536,
+    2752
+  ],
+  "sha256": "10d9e1416ad8c09da8ff97a7fa56ea73fb5a66622f2aa4c1e341d6eca147cf91",
+  "image_token_count_basis": "API usage modality breakdown",
+  "estimated_api_cost_usd": 0.058155,
+  "cost_is_invoice_confirmed": false,
+  "finished_utc": "2026-10-20T02:06:46.435378+00:00",
+  "visual_review_file": "01-content/outro/production/IMAGE-TEST-REVIEW.md",
+  "ready_for_animation": false,
+  "finished_outro_approved": false,
+  "preflight_count_discrepancy": {
+    "count_tokens_input": 1151,
+    "actual_prompt_tokens": 2875,
+    "conservative_bound_using_actual_input_usd": 0.1271925,
+    "still_below_approved_cap": true,
+    "future_preflight_requirement": "Allow for observed and published input-image token allocations, not countTokens alone."
+  }
+}

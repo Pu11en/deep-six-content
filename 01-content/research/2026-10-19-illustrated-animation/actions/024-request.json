@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 24,
+  "idempotency_key": "d6-24-61a57fe56235b52d",
+  "action": {
+    "tool": "read",
+    "url": "https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example"
+  }
+}

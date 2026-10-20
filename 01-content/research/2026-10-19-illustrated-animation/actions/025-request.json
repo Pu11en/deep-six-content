@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 25,
+  "idempotency_key": "d6-25-f335bb34f07cea32",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/engine/tools/render.mjs"
+  }
+}

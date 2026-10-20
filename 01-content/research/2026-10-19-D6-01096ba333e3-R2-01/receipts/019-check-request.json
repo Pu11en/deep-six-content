@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 18,
+  "idempotency_key": "research-488991e51202-a19",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e4",
+    "assessment": "supported",
+    "reason": "The article gives the 5-7 mm size, stalked abdomen, signal-flag comparison and up-and-down movement. Independent original-page check passed."
+  }
+}

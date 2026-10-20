@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 28,
+  "idempotency_key": "research-359182d1022c-a29",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+    "quote": "Cockroaches are attracted to their own debris."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "probes": {
+    "assets/outro-animation-clean-v2.mp4": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "165"
+        }
+      ],
+      "format": {
+        "duration": "5.500000"
+      }
+    },
+    "assets/outro-animation-v2.mp4": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "165"
+        }
+      ],
+      "format": {
+        "duration": "5.500000"
+      }
+    },
+    "assets/outro-review-fire-ant-v2.mp4": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "165"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 1,
+          "r_frame_rate": "0/0",
+          "nb_read_frames": "258"
+        }
+      ],
+      "format": {
+        "duration": "5.500000"
+      }
+    }
+  },
+  "final_review_transcript": "Helping you understand pests. Deep6 Pest Control.",
+  "expected_spoken_text": "Helping you understand pests. Deep Six Pest Control.",
+  "normalized_exact_match": true,
+  "signoff_occurrences": 1,
+  "audio_word_timings": [
+    {
+      "text": " Helping you understand pests. Deep6 Pest Control.",
+      "start": 0.0,
+      "end": 4.24,
+      "words": [
+        {
+          "word": " Helping",
+          "start": 0.0,
+          "end": 0.98
+        },
+        {
+          "word": " you",
+          "start": 0.98,
+          "end": 1.28
+        },
+        {
+          "word": " understand",
+          "start": 1.28,
+          "end": 1.92
+        },
+        {
+          "word": " pests.",
+          "start": 1.92,
+          "end": 2.44
+        },
+        {
+          "word": " Deep6",
+          "start": 3.18,
+          "end": 3.48
+        },
+        {
+          "word": " Pest",
+          "start": 3.48,
+          "end": 3.88
+        },
+        {
+          "word": " Control.",
+          "start": 3.88,
+          "end": 4.24
+        }
+      ]
+    }
+  ],
+  "asr_model": "small.en cached CPU int8",
+  "voice_gain_db": -1.8,
+  "narration_speed_change": false,
+  "voice_source": "assets/fire-ant-tyler-signoff-source-v2.mp3",
+  "gain_basis": "Source sign-off integrated loudness -24.54 LUFS; existing lesson final 12.6 seconds -26.35 LUFS. A -1.8 dB adjustment approximates that segment level."
+}

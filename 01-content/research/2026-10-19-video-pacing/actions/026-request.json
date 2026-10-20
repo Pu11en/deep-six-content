@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 26,
+  "idempotency_key": "d6-26-0028c9b065709fc9",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "OpusClip's TikTok blog recommends changing something on screen every 3 to 5 seconds (vendor advice, not independent data).",
+    "quote": "changing something on screen every 3 to 5 seconds"
+  }
+}

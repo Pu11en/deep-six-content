@@ -8,6 +8,8 @@ All videos we create for Deep Six must be **9:16 vertical**, including previews 
 
 ## DISPLAY RULES (Drew, 16 Oct 2026). Read first. Overrides the global "open a note in Markdown Preview" rule.
 
+**Videos (Drew, 19 Oct 2026): copy every MP4 Drew should watch to his Windows Desktop. Never open a video player or pop a window up on his computer.**
+
 The pane beside chat is for CONTENT only: images, videos, and content text Drew needs (prompts, scripts, captions, post copy).
 
 - Everything goes on `BOARD.md`. Nothing else opens in Zed: no notes, research, plans, specs, code, or separate image tabs.

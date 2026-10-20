@@ -1,0 +1,139 @@
+{
+  "requested_model": "gpt-6-astra",
+  "effort": "high",
+  "subscription_only": true,
+  "fallback_enabled": false,
+  "live_state_written": false,
+  "human_approved": false,
+  "started_utc": "2026-10-20T04:51:02.424853+00:00",
+  "status": "complete",
+  "scripts": [
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nBecause the cockroach eggs inside will feed her young. The mother is an ensign wasp, a small wasp that uses the egg cases of certain cockroaches, including American cockroaches.\n\nShe braces herself against the case and pushes a slender egg-laying organ through its tough covering to place one egg inside. When that egg hatches, the young wasp, called a larva, uses tiny jaws to cut through the shells of individual cockroach eggs. That one larva feeds on the dozen or more eggs inside the case.\n\nThe young wasp develops into an adult inside that same case, then cuts a small hole to get out.\n\nAn adult is only about a quarter of an inch long. To recognize it, look at the rear part of its body. It’s attached by a narrow stalk, and the wasp waves that rear part up and down like a little signal flag, giving the ensign wasp its name.\n\nIf you spot this ensign wasp in your home, it won’t sting or bite you. And although its young feed on cockroach eggs, seeing one isn’t proof of an active cockroach infestation.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F1",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3"
+      ]
+    }
+  ],
+  "quality": {
+    "status": "ready_for_review",
+    "changes": [
+      "Removed repeated explanations of egg laying and reassurance about stinging and biting.",
+      "Clarified the sequence from the mother's egg to the feeding larva and emerging adult.",
+      "Connected the flag-like movement directly to recognition and the wasp’s name.",
+      "Preserved the exact hook and outro, limited host claims to certain cockroaches, and retained the sighting-versus-infestation distinction."
+    ],
+    "unresolved": [],
+    "calls": [
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narrations",
+        "at": "2026-10-20T04:51:36+00:00",
+        "prompt_version": "c5487a97cff8"
+      },
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narration_edit",
+        "at": "2026-10-20T04:52:01+00:00",
+        "prompt_version": "d4952e745a05"
+      }
+    ],
+    "human_approved": false
+  },
+  "calls": [
+    {
+      "stage": "narrations",
+      "provider": "codex",
+      "model": "gpt-6-astra",
+      "effort": "high",
+      "attempts": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "result": "success"
+        }
+      ],
+      "prompt_sha256": "c5487a97cff8a157465a21d36d7b67553ebb60e2438a3784302093bb7fcbc2c4",
+      "elapsed_seconds": 34.4,
+      "output": {
+        "scripts": [
+          {
+            "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nBecause the case holds food for her young. An ensign wasp is a small wasp that lays an egg inside the egg cases of certain cockroaches, including American cockroaches. The young wasp then feeds on the dozen or more cockroach eggs inside.\n\nGetting through the case takes some work. The female braces herself against its tough covering and pushes a slender egg-laying organ through it to place one egg inside. When her egg hatches, the young wasp, called a larva, uses tiny jaws to cut through the shells of the individual cockroach eggs and feed.\n\nThe young wasp develops into an adult inside that same case. Then it cuts a small hole in the case to get out.\n\nThat adult has a distinctive feature you can look for: the rear part of its body is attached by a narrow stalk, and it waves up and down like a little signal flag. That’s where the name ensign wasp comes from. The whole wasp is only about a quarter of an inch long.\n\nIf you recognize an ensign wasp in your home, you don’t need to worry about it stinging or biting you. It does neither. Its connection to cockroach eggs also doesn’t mean that seeing one proves you have an active cockroach infestation.\n\nHelping you understand pests. Deep Six Pest Control.",
+            "fact_ids": [
+              "SRC-0fa91dcbc971-F1",
+              "SRC-0fa91dcbc971-F2",
+              "SRC-0fa91dcbc971-F3",
+              "SRC-0fa91dcbc971-F4",
+              "SUP-d34ca591f2c4-F1",
+              "SUP-d34ca591f2c4-F2",
+              "SUP-d34ca591f2c4-F3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "stage": "narration_edit",
+      "provider": "codex",
+      "model": "gpt-6-astra",
+      "effort": "high",
+      "attempts": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "result": "success"
+        }
+      ],
+      "prompt_sha256": "d4952e745a051c9811ee3f12836984b0c6dd74c6d28c0112872225e9f9a07101",
+      "elapsed_seconds": 25.1,
+      "output": {
+        "scripts": [
+          {
+            "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nBecause the cockroach eggs inside will feed her young. The mother is an ensign wasp, a small wasp that uses the egg cases of certain cockroaches, including American cockroaches.\n\nShe braces herself against the case and pushes a slender egg-laying organ through its tough covering to place one egg inside. When that egg hatches, the young wasp, called a larva, uses tiny jaws to cut through the shells of individual cockroach eggs. That one larva feeds on the dozen or more eggs inside the case.\n\nThe young wasp develops into an adult inside that same case, then cuts a small hole to get out.\n\nAn adult is only about a quarter of an inch long. To recognize it, look at the rear part of its body. It’s attached by a narrow stalk, and the wasp waves that rear part up and down like a little signal flag, giving the ensign wasp its name.\n\nIf you spot this ensign wasp in your home, it won’t sting or bite you. And although its young feed on cockroach eggs, seeing one isn’t proof of an active cockroach infestation.\n\nHelping you understand pests. Deep Six Pest Control.",
+            "fact_ids": [
+              "SRC-0fa91dcbc971-F1",
+              "SRC-0fa91dcbc971-F2",
+              "SRC-0fa91dcbc971-F3",
+              "SRC-0fa91dcbc971-F4",
+              "SUP-d34ca591f2c4-F1",
+              "SUP-d34ca591f2c4-F2",
+              "SUP-d34ca591f2c4-F3"
+            ]
+          }
+        ],
+        "changes": [
+          "Removed repeated explanations of egg laying and reassurance about stinging and biting.",
+          "Clarified the sequence from the mother's egg to the feeding larva and emerging adult.",
+          "Connected the flag-like movement directly to recognition and the wasp’s name.",
+          "Preserved the exact hook and outro, limited host claims to certain cockroaches, and retained the sighting-versus-infestation distinction."
+        ],
+        "unresolved": []
+      }
+    }
+  ],
+  "finished_utc": "2026-10-20T04:52:01.782425+00:00"
+}

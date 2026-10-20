@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 9,
+  "idempotency_key": "d6-9-227e6e96eb04ce09",
+  "action": {
+    "tool": "read",
+    "url": "https://www.aspire.io/blog/everything-marketers-need-to-know-about-youtube-shorts"
+  }
+}

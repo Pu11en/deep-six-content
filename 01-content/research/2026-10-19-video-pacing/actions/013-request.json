@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 13,
+  "idempotency_key": "d6-13-870575b92138a05d",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/iart-ai/explainer-video-skills/main/skills/explainer-video/SKILL.md"
+  }
+}

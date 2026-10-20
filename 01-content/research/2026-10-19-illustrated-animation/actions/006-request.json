@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 6,
+  "idempotency_key": "d6-6-c3b5c66cde38330b",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/package.json"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-46-99b7e94da0abb549",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e4\",\"reason\":\"Quote found; supports the blog's 5-7 second guidance for 30-45 second story Shorts. Vendor advice, no data.\",\"tool\":\"check\"},\"expected_revision\":46}",
+  "revision": 47,
+  "outcome": "applied"
+}

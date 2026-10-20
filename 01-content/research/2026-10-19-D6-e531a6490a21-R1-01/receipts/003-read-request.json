@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 2,
+  "idempotency_key": "research-359182d1022c-a3",
+  "action": {
+    "tool": "read",
+    "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas"
+  }
+}

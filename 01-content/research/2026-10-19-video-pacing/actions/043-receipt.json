@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-43-3322bfd430753d35",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e1\",\"reason\":\"Quote found in OpusClip's TikTok blog; supports that the blog gives this advice. Vendor marketing blog; no study cited.\",\"tool\":\"check\"},\"expected_revision\":43}",
+  "revision": 44,
+  "outcome": "applied"
+}

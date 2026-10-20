@@ -1,0 +1,84 @@
+[
+  {
+    "url": "https://ask.ifas.ufl.edu/publication/IN319",
+    "final_url": "https://ask.ifas.ufl.edu/publication/IN319",
+    "crawler_source_id": "s1",
+    "crawler_truncated": false,
+    "quote_words": 20,
+    "facts": [
+      {
+        "quote": "15 to 30 minutes",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "cut through the tough shell",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "small round jagged hole",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "common in much of the southern US",
+        "crawler_match": true,
+        "independent_match": true
+      }
+    ]
+  },
+  {
+    "url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+    "final_url": "https://extension.umn.edu/garden-and-home/home-maintenance/household-insects/cockroaches",
+    "crawler_source_id": "s2",
+    "crawler_truncated": false,
+    "quote_words": 23,
+    "facts": [
+      {
+        "quote": "deposited in a crack or crevice",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "until the eggs are ready to hatch",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "Examine bags, boxes and luggage",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "leaky water pipes or faucets",
+        "crawler_match": true,
+        "independent_match": true
+      }
+    ]
+  },
+  {
+    "url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+    "final_url": "https://citybugs.tamu.edu/factsheets/ipm/what-is-a-sticky-trap/",
+    "crawler_source_id": "s3",
+    "crawler_truncated": false,
+    "quote_words": 16,
+    "facts": [
+      {
+        "quote": "travel in dark areas and along edges",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "Behind stoves and refrigerators",
+        "crawler_match": true,
+        "independent_match": true
+      },
+      {
+        "quote": "detect pests, and monitor changes",
+        "crawler_match": true,
+        "independent_match": true
+      }
+    ]
+  }
+]

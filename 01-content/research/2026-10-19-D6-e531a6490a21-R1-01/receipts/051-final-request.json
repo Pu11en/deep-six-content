@@ -1,0 +1,29 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 50,
+  "idempotency_key": "research-359182d1022c-a51",
+  "action": {
+    "tool": "final",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "caveats": [
+      "Caller assessments are editorial judgments; independent original-page, allowed-domain, duplicate-publication and exact-quote checks passed for all five cards. Semantic judgment remains necessary.",
+      "No selected source establishes current New Braunfels infestation rates. Historical articles and undated NPIC guidance keep their stated limits.",
+      "The debris-attraction mechanism needs supporting science after human selection. The fogger study is not proof that hiding alone caused its result or that every treatment fails.",
+      "PDF read was unsupported. Four mistakenly followed sharing links were excluded; source-domain filtering is now enforced by this trial dispatcher.",
+      "One source quote needed its original nonbreaking whitespace for crawler anchoring; the corrected quote was accepted.",
+      "No browser, cookies, paid fallback or crawler model calls were used. No source, hook or script has been chosen by the agent."
+    ]
+  }
+}

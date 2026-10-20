@@ -1,0 +1,6 @@
+{
+  "path": "01-content/outro/assets/hybrid-still-v2.jpg",
+  "sha256": "231a6c0d44b0daf3126d80cf4e55a19fc9fa0d5e4d42b0cd294e284395aae8b4",
+  "accepted_for_motion_test": false,
+  "reason": "Visual review: orientation and face stayed essentially unchanged. Magnifier still viewer-right, flashlight viewer-left, curl viewer-left. Do not animate this rejected correction."
+}

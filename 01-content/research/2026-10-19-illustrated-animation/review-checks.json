@@ -1,0 +1,31 @@
+{
+  "review_date": "2026-10-19",
+  "scope": "Project state review; offline tests and artifact integrity only. No animation rendering or live API/model calls.",
+  "tests": {
+    "command": "python3 -B -m unittest discover -s tests -p 'test_d6_*.py' -q",
+    "passed": 56,
+    "exit_code": 0,
+    "uses_temporary_fixture_files": true
+  },
+  "approved_id": "D6-6c917b49743b",
+  "audio_status": "audio_approved",
+  "approved_text_matches_original": true,
+  "audio_hash_matches_manifest": true,
+  "duration_seconds": 78.602449,
+  "next_voice": "Chris",
+  "source_queue_count": 4,
+  "next_research_pest": "cockroaches",
+  "frozen_files_sha256": {
+    "BOARD.md": "ea6f9c921c4ae3663556dfb10fe6b83edf842a04a2a8890f56b917ed008c3700",
+    "01-content/diagrams/video-system.excalidraw": "426bd268c5da6f7ac049e9b3ddbba7086b21177fc89888c3a327aa53d8529352",
+    "01-content/diagrams/system-overview.excalidraw": "41a592a877bd6bf59729d4c562b8814b44a1da6f351bb49b478db80aa65f9dd9"
+  },
+  "queued_sources": 3,
+  "used_source_records": 1,
+  "implementation_started": false,
+  "limits": [
+    "Offline tests do not validate animation quality or live service availability.",
+    "Animation toolkit compatibility and rendering remain untested.",
+    "Older README and HANDOFF passages remain stale; review note links current approvals."
+  ]
+}

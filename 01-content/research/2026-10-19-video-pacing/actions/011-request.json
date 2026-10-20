@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 11,
+  "idempotency_key": "d6-11-c0eb78716ab22108",
+  "action": {
+    "tool": "search",
+    "query": "animated explainer video scene length: how many seconds should each scene or shot last in a fast-paced narrated animation, visuals matched to each sentence of the voiceover"
+  }
+}

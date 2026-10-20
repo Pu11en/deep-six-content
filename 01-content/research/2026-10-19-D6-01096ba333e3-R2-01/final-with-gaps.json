@@ -1,0 +1,28 @@
+[
+  {
+    "tool": "gap",
+    "questions": [
+      "Not established; omitted from this narration: Exact cockroach egg-case deposition locations around buildings",
+      "Not established; omitted from this narration: Detailed pupation, exit route and development timing",
+      "Not established; omitted from this narration: A household monitoring procedure or infestation estimate from an adult wasp sighting"
+    ]
+  },
+  {
+    "tool": "final",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6"
+    ],
+    "caveats": [
+      "Core evidence for the selected hook is sufficient. Three broader questions remain partially unanswered; their unverified details are expressly excluded from narration. See the recorded coverage reasons.",
+      "Source s2 was truncated by the crawler; the complete cited introductory passage was independently found on the original page. It is a taxonomy paper, not a Texas pest-control trial.",
+      "Oxford and Oklahoma State pages were inaccessible to the crawler and are not accepted evidence. Web readability alone was not treated as crawler access.",
+      "The crawler used four search attempts, including two free-search failures. Two additional free web discovery queries supplied original URLs for crawler reads. No paid fallback or crawler model calls occurred.",
+      "The source checks are caller assessments backed by independent page fetches. They do not establish complete control or diagnose a home from one adult wasp sighting."
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-40-c4d473c6b01f309d",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e4\",\"reason\":\"Drawing code and surrounding body paths read. This is not verified red-imported-fire-ant anatomy.\",\"tool\":\"check\"},\"expected_revision\":40}",
+  "revision": 41,
+  "outcome": "applied"
+}

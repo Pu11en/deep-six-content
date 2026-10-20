@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 4,
+  "idempotency_key": "research-8a92111d8a9a-a5",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The female braces herself against a cockroach egg case, penetrates its tough covering with her egg-laying organ and lays one egg. The profile says inserting the organ usually takes 15 to 30 minutes.",
+    "quote": "15 to 30 minutes"
+  }
+}

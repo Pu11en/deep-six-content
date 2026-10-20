@@ -1,0 +1,68 @@
+{
+  "started_utc": "2026-10-20T03:48:00.996516+00:00",
+  "status": "generated_pending_review",
+  "phase": "replacement_v2",
+  "category": "end",
+  "model": "gemini-nano-banana-2.1",
+  "generation_requests": 1,
+  "automatic_retry": false,
+  "approval_file": "01-content/outro/production/v2-production-approval.json",
+  "approved_cap_usd": 0.15,
+  "conservative_token_cost_bound_usd": 0.1299615,
+  "prior_estimated_or_reserved_production_usd": 1.19412,
+  "input_token_allowance": 4721,
+  "generation_config": {
+    "candidateCount": 1,
+    "responseModalities": [
+      "IMAGE"
+    ],
+    "maxOutputTokens": 4096,
+    "thinkingConfig": {
+      "thinkingLevel": "MINIMAL"
+    },
+    "imageConfig": {
+      "aspectRatio": "9:16",
+      "imageSize": "2K"
+    }
+  },
+  "prompt_sha256": "fdf0aa81005f5faa5a265d5178a4565b2683b66802705237595fef86da87a056",
+  "references": {
+    "01-content/outro/assets/outro-v2-start.jpg": "6c8d3d750c619d544777b99468db38a488f764ee7fb8345d798cacbbe26b7f6b"
+  },
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "rates_checked_date": "2026-10-19",
+  "cost_is_invoice_confirmed": false,
+  "model_version": "gemini-nano-banana-2.1",
+  "dimensions": [
+    1536,
+    2752
+  ],
+  "image_output_tokens": 1680,
+  "output": "01-content/outro/assets/outro-v2-end.jpg",
+  "sha256": "cad0d69ce9e46f16aa31aa10b37e43d5ab5c6b0053991a95189d9b2d8871fc18",
+  "bytes": 1718079,
+  "usage": {
+    "promptTokenCount": 1267,
+    "candidatesTokenCount": 2063,
+    "totalTokenCount": 3330,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1120
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 147
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1680
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "estimated_api_cost_usd": 0.055173,
+  "finished_utc": "2026-10-20T03:48:15.458223+00:00"
+}

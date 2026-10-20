@@ -1,0 +1,22 @@
+{
+  "reason": "Crawler search returned irrelevant or empty results twice, then free_search_unavailable twice. Its four-search allowance was exhausted.",
+  "fallback": "Two additional free web-tool discovery queries found university and primary-paper URLs; acceptance still uses crawler reads and independent page validation.",
+  "queries": [
+    "\"Evania appendigaster\" larval development mandibles, restricted to PMC and Oxford Academic",
+    "\"ensign wasp\" cockroach eggs, restricted to Texas A&M and Mississippi State extension"
+  ],
+  "candidate_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+    "https://academic.oup.com/ee/article/33/5/1321/355403",
+    "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/"
+  ],
+  "extra_paid_calls": 0,
+  "additional_web_reads": [
+    "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/"
+  ],
+  "failed_direct_web_reads": [
+    "https://entnemdept.ufl.edu/creatures/beneficial/evania_appendigaster.htm",
+    "https://extensionentomology.tamu.edu/insects/ensign-wasp/",
+    "https://extensionentomology.tamu.edu/insects/american-cockroach/"
+  ]
+}

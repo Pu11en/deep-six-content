@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 58,
+  "idempotency_key": "d6-58-5bad5bb8c4c0848b",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e13",
+    "assessment": "supported",
+    "reason": "The example README reports a failed dead-air check. This is a reported limitation, not a test performed here."
+  }
+}

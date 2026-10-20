@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 19,
+  "idempotency_key": "d6-19-f7e6dae77ea0fbe2",
+  "action": {
+    "tool": "read",
+    "url": "https://motioncanvas.io/docs/flow/"
+  }
+}

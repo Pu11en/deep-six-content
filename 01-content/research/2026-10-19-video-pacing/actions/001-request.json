@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 1,
+  "idempotency_key": "d6-1-7a5697cdb3c29abb",
+  "action": {
+    "tool": "search",
+    "query": "papercraft cut-paper stop motion animated explainer short video about insects or ants facts YouTube Shorts"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 9,
+  "idempotency_key": "research-359182d1022c-a10",
+  "action": {
+    "tool": "read",
+    "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100HM24.TXT"
+  }
+}

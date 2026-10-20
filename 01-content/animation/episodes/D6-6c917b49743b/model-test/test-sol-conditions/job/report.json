@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "agent_result": {
+    "status": "done",
+    "files_written": [
+      "episodes/D6-6c917b49743b/model-test/test-sol-conditions/shot-list.json",
+      "scenes/test-sol-conditions.mjs"
+    ],
+    "shot_count": 9,
+    "self_check_rounds": 2,
+    "longest_still_seconds": 0,
+    "picture_change_median": 0.157,
+    "remaining_issues": [],
+    "summary": "Created the cut-paper segment. Inspected both beat sheets and transition frames; the final motion check passes both targets."
+  },
+  "runs": [
+    {
+      "model": "gpt-6-sol",
+      "effort": "xhigh",
+      "exit": 0,
+      "elapsed_seconds": 503.5,
+      "usage": {
+        "input_tokens": 2975974,
+        "cached_input_tokens": 2850560,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 15136,
+        "reasoning_output_tokens": 4880
+      },
+      "unavailable": false
+    }
+  ],
+  "protected_files_restored": [],
+  "module_syntax": "ok",
+  "motion": {
+    "longest_still_seconds": 0,
+    "picture_change_half_second_median": 0.157,
+    "targets": {
+      "longest_still_seconds": "<= 0.35",
+      "picture_change_half_second_median": ">= 0.15"
+    }
+  }
+}

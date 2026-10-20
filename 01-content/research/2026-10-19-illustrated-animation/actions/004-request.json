@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 4,
+  "idempotency_key": "d6-4-192ea8201179ed00",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/heygen-com/hyperframes/main/README.md"
+  }
+}

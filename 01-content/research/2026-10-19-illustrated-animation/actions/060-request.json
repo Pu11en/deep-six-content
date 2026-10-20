@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 60,
+  "idempotency_key": "d6-60-29b5b1c35ff87610",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e14",
+    "assessment": "supported",
+    "reason": "Direct source declaration. Header says 60 seconds, README says 47; imported cue values were not evaluated, leaving actual duration unresolved."
+  }
+}

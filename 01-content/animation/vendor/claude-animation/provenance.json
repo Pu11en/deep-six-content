@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/buildwithhanif/claude-animation-skill",
+  "revision": "4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b",
+  "license": "MIT",
+  "files": [
+    {
+      "path": "LICENSE",
+      "source_url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/LICENSE",
+      "sha256": "22613aa5bd8808d19a66479717a0a88dd3e0dd199e0b48bed3fadb9ee327280b"
+    },
+    {
+      "path": "core.mjs",
+      "source_url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/plugins/claude-animation/skills/claude-animation/lib/core.mjs",
+      "sha256": "df85c88458057c1fa061881bfd77d82bd6830e2038f96c452394f8a4fd250c9e"
+    },
+    {
+      "path": "textures.mjs",
+      "source_url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/plugins/claude-animation/skills/claude-animation/lib/textures.mjs",
+      "sha256": "84ece51403af404f0a19240ec2288c34760e1d611bb7c437e91cae82727f7ea3"
+    },
+    {
+      "path": "colony.mjs",
+      "source_url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b/plugins/claude-animation/skills/claude-animation/lib/colony.mjs",
+      "sha256": "4c2b68a8f223efb3891e72151f7ecab69da877bab5d67bfd79da5f3f66abb383"
+    }
+  ],
+  "scope": "Selected drawing helpers only. No plugin or skill installed."
+}

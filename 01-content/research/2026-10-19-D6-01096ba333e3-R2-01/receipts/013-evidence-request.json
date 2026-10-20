@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 12,
+  "idempotency_key": "research-488991e51202-a13",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+    "quote": "unique, stalked abdomen"
+  }
+}

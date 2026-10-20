@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 20,
+  "idempotency_key": "d6-20-b41be6a87408ae53",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/prompts/deedydas-252537.md"
+  }
+}

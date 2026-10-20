@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-39-ce1a9a5ee6b8c416",
+  "payload": "{\"action\":{\"claim\":\"A listed Explainers entry (Ethan Mollick's X post) was prompted for a self-referential, fast-moving recursion video.\",\"quote\":\"make this self-referential & clever & fast moving\",\"source_id\":\"s11\",\"tool\":\"evidence\"},\"expected_revision\":39}",
+  "revision": 40,
+  "outcome": "applied"
+}

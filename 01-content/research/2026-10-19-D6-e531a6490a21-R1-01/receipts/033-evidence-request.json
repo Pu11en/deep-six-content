@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 32,
+  "idempotency_key": "research-359182d1022c-a33",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s9",
+    "claim": "In the apartment study summarized here, fogger-treated homes showed no significant decrease in free-roaming German cockroach numbers two to four weeks later.",
+    "quote": "there was no significant drop in these wild cockroach numbers"
+  }
+}

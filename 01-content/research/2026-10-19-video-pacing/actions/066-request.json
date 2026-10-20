@@ -1,0 +1,33 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 66,
+  "idempotency_key": "d6-66-eacc4c2f457c4f27",
+  "action": {
+    "tool": "final",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17"
+    ],
+    "caveats": [
+      "Crawler mode is caller-driven: no model calls, no browser, no video access. Search results and page text are leads. None of the pacing measurements in this folder came from the crawler.",
+      "Caller support checks show that each quoted passage appears in the saved snapshot and says what the claim reports. They do not verify the vendors' numbers or the creators' claims.",
+      "Concrete video links found by crawler search: three ant Shorts, a papercraft explainer Short, an ant animation, and creator channel pages. Their pacing was measured locally. The remaining measured videos came from local yt-dlp searches and channel Shorts lists, not from the crawler.",
+      "No paid service, login or cookies were used. Nothing outside the video-pacing research folder was changed."
+    ]
+  }
+}

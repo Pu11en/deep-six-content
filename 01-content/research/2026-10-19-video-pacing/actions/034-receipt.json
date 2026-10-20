@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-34-91538f51d31c91aa",
+  "payload": "{\"action\":{\"claim\":\"The inference.sh explainer guide says one sentence per visual beat.\",\"quote\":\"One sentence per visual beat.\",\"source_id\":\"s8\",\"tool\":\"evidence\"},\"expected_revision\":34}",
+  "revision": 35,
+  "outcome": "applied"
+}

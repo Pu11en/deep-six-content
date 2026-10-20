@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 29,
+  "idempotency_key": "d6-29-2c565edc18880a21",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s13",
+    "claim": "The same blog says story-driven Shorts need a new visual or story beat every 5-7 seconds.",
+    "quote": "a new visual or story beat every 5-7 seconds"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 40,
+  "idempotency_key": "research-359182d1022c-a41",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e6",
+    "assessment": "supported",
+    "reason": "The following sentence says these monitors can identify problem areas. The claim is monitoring, not proven complete control. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

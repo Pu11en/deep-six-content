@@ -1,0 +1,28 @@
+{
+  "approved_narration_id": "D6-01096ba333e3",
+  "review_id": "review-e8af59c5fb1e",
+  "selected_option": 3,
+  "user_reply": "3",
+  "approved_at": "2026-10-20T05:40:43+00:00",
+  "candidate_file": "01-content/mp3-system/narrations-with-outro-v6.json",
+  "approved_script_file": "01-content/approved-narrations/D6-01096ba333e3.md",
+  "word_count": 138,
+  "text_sha256": "82cccb251487b7aaafb35865ef010593f05d091e8255cb15290e091fd1e09844",
+  "human_approved": true,
+  "wording_changed_after_selection": false,
+  "provenance": "Astra draft and editing calls, followed by session-assistant editing before user review. The session_edit human_approved=false field records the preapproval state; this receipt records Drew’s later approval.",
+  "checks": {
+    "approved_text_equals_displayed_option": true,
+    "exported_text_equals_approved_text": true,
+    "fact_ids_preserved": true,
+    "exact_hook_preserved": true,
+    "exact_outro_preserved": true,
+    "no_em_dashes_in_script": true,
+    "previous_approvals_preserved": true,
+    "other_source_queue_entries_preserved": true,
+    "board_unchanged": true,
+    "candidate_archive_unchanged": true
+  },
+  "audio_generated": false,
+  "next_step": "Prepare one complete narration recording with Chris. Obtain bounded spending authorization before paid generation."
+}

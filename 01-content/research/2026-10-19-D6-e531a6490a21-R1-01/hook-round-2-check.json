@@ -1,0 +1,81 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-0acc0a9fd91f",
+  "checked_at": "2026-10-19T23:43:06+00:00",
+  "checks": {
+    "exactly_five_new_hooks": true,
+    "no_em_dashes": true,
+    "distinct_texts": true,
+    "same_selected_source": true,
+    "fact_references_valid": true,
+    "payoff_present": true,
+    "original_hook_3_preserved_exactly": true,
+    "original_hook_3_not_selected": true,
+    "no_hook_selected": true,
+    "still_waiting_for_hook_choice": true,
+    "source_queue_unchanged": true,
+    "source_priority_unchanged": true,
+    "approved_episodes_unchanged": true,
+    "saved_hook_queue_unchanged": true,
+    "board_updates_disabled": true
+  },
+  "source_url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+  "held_hook": "held-hook-3.json",
+  "hooks": [
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A wasp slips one egg inside a cockroach’s egg case. What happens next turns the roach eggs into food.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Explain how the ensign wasp’s egg develops into a larva that feeds on the cockroach eggs inside the case."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A dozen cockroach eggs can feed one baby wasp. How does it get inside their egg case?",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Reveal that the female ensign wasp places one egg inside the case, putting her developing young among its food."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A cockroach’s egg case can become another insect’s nursery. And the cockroach eggs are on the menu.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Reveal that the other insect is an ensign wasp: the female lays an egg inside the cockroach egg case, and the developing larva feeds on the roach eggs."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A cockroach’s egg case can have an extra egg inside. It belongs to a completely different insect.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Identify the extra egg as an ensign wasp egg and explain how its larva feeds on the cockroach eggs around it."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "This wasp doesn’t sting people. But its babies eat cockroach eggs. How do they get inside?",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3"
+      ],
+      "payoff": "Introduce the ensign wasp, distinguish its harmlessness to people from its larva’s feeding, and explain how the female places an egg inside a cockroach egg case."
+    }
+  ],
+  "editorial_review": [
+    "Hook 1 opens with the egg placement and leaves the development sequence for narration.",
+    "Hook 2 uses the source quote stating a dozen or more eggs as food for the larva; baby wasp is plain language for its young.",
+    "Hook 3 uses nursery and menu as metaphors for the larva developing and feeding inside the case.",
+    "Hook 4 leaves the identity of the added egg for the next narration beat.",
+    "Hook 5 contrasts the adult not stinging people with its young feeding on eggs. It refers to this source species, not all wasps.",
+    "No claim of infestation, complete control, universal roach hosts or guaranteed performance."
+  ],
+  "provenance": "Subscription writer output retained separately. Operator tightened hooks 2 through 5 for plain language and curiosity; hook 1 is unchanged."
+}

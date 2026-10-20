@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-20T05:18:57+00:00",
+  "review_id": "review-895bed57995b",
+  "script_count": 5,
+  "exact_hook_every_script": true,
+  "exact_outro_once_every_script": true,
+  "known_fact_ids_only": true,
+  "no_em_dashes": true,
+  "no_spoken_source_credits": true,
+  "all_previous_archive_hashes_preserved": true,
+  "human_approved": false,
+  "script_words": [
+    99,
+    104,
+    98,
+    122,
+    106
+  ],
+  "script_sha256": [
+    "a648ff8c90cbec2a7c258c4063a67a9db77e9039e0f55a6495e90a673b59ff1d",
+    "2bc5d7e30edb746f62090115072b02a99fb963210217bc07801abfbfc539deb8",
+    "f414d5c3d5a66eb644e28dd9739c909a09cf71d36902bbb4ebbe1d351a6945b4",
+    "0fee2ab964485a9b565cc13e67ce9c022db39494ec2ad71ccac2dcc4347428c6",
+    "0d5b2b0127ff933885fb3fe8fa1b01ba35e28e117ef162d6650247265a6208fd"
+  ],
+  "evidence_notes": [
+    "Version 1: quarter inch is 6.35 mm, within the checked 5 to 7 mm adult size range; harmlessness and flag movement use main-source facts.",
+    "Version 2: 15 to 30 minutes is the usual time for inserting the egg-laying organ, not a full life-cycle duration.",
+    "Version 3: feeding young, development into adult inside the case, then adult exit are distinct and correctly ordered.",
+    "Version 4: the archived sticky-trap source explicitly describes a glue surface; wall placement and comparison of catches are monitoring guidance, not a control guarantee.",
+    "Version 5: warm damp habitat, deposited egg cases, repairs and sealing use American-cockroach biology and general indoor prevention, without Minnesota prevalence claims."
+  ],
+  "glue_definition_evidence": "01-content/research/2026-10-19-D6-01096ba333e3-R2-02/evidence.json",
+  "provenance": "Astra draft and editing calls, followed by recorded session-assistant copyediting. No claim of purely unmodified model output."
+}

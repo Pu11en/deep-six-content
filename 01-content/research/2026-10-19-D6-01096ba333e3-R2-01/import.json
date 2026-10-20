@@ -1,0 +1,47 @@
+{
+  "request_id": "research-488991e51202",
+  "run_id": "D6-01096ba333e3",
+  "stage": "support",
+  "client_id": "imac-research",
+  "crawler_job_id": "abf092b6-c969-4e6f-b43b-120f1457268f",
+  "evidence_file": "01-content/research/2026-10-19-D6-01096ba333e3-R2-01/evidence.json",
+  "result": {
+    "cards": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3739881/",
+        "title": "A Semantic Model for Species Description Applied to the Ensign Wasps (Hymenoptera: Evaniidae) of New Caledonia",
+        "publisher": "Systematic Biology, Oxford University Press",
+        "date": "2013",
+        "lesson": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases. This supports the distinction between the adult wasp placing an egg and its developing young doing the feeding.",
+        "species": "Ensign wasps (Evaniidae), including Evania appendigaster",
+        "region": "Taxonomic study of New Caledonia; introductory biology is family context, not Texas field measurements",
+        "limits": "The retrieved crawler text is truncated at 24,000 characters; the cited introduction is present in full. This is a taxonomy paper, not an infestation study or a local pest-control trial. Do not infer detailed development timing, pupation or emergence from this excerpt.",
+        "facts": [
+          {
+            "statement": "Ensign wasps develop individually as predators of cockroach eggs inside egg cases.",
+            "quote": "solitary predators of cockroach (Blattodea) eggs inside oothecae"
+          }
+        ]
+      },
+      {
+        "url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/",
+        "title": "What is a beneficial parasite?",
+        "publisher": "Texas A&M AgriLife Extension Service, Insects in the City",
+        "date": "2013-08-02",
+        "lesson": "Many insect parasitoids specialize on one or a few related host species. This explains why a natural enemy relationship should not be generalized to every pest or every wasp.",
+        "species": "Insect parasitoids in general; the article includes ensign wasps as an example",
+        "region": "Texas extension education with general garden and urban-landscape context",
+        "limits": "General parasitoid biology, not an Evania-specific host-range experiment. Do not transfer the general one-host description to individual cockroach eggs: an ensign larva eats several eggs in one case. Do not use the pesticide sections or imply reliable whole-home control.",
+        "facts": [
+          {
+            "statement": "Many insect parasitoids specialize on one or a few closely related host species.",
+            "quote": "often specialized on only one or a few closely related species of prey"
+          }
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "scope_limits_file": "01-content/research/2026-10-19-D6-01096ba333e3-R2-01/scope-limits.json",
+  "free_discovery_fallback_file": "01-content/research/2026-10-19-D6-01096ba333e3-R2-01/free-discovery-fallback.json"
+}

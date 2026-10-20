@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 30,
+  "idempotency_key": "research-359182d1022c-a31",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "Adult male Turkestan cockroaches are slender and brownish orange/red, with long yellowish wings.",
+    "quote": "brownish orange/red, slender, and have long, yellowish wings"
+  }
+}

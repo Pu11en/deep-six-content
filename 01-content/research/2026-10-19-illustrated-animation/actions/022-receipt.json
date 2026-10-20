@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-22-59a8a93f04733463",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://fireant.tamu.edu/learn/fire-ant-identification/\"},\"expected_revision\":22}",
+  "revision": 23,
+  "outcome": "applied"
+}

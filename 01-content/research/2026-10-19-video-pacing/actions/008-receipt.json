@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-8-80833c690ea7c715",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.autoshortshub.com/guides/tiktok-reels-shorts-retention-patterns\"},\"expected_revision\":8}",
+  "revision": 9,
+  "outcome": "applied"
+}

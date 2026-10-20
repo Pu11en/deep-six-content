@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 33,
+  "idempotency_key": "research-359182d1022c-a34",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s9",
+    "claim": "The extension article explains that cockroaches can retreat to protected crevices when they sense an irritating insecticide.",
+    "quote": "cockroaches typically hide in protective crevices when they sense an irritating insecticide"
+  }
+}

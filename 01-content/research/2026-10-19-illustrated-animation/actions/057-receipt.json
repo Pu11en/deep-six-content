@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-57-7d8543e76a1aacf5",
+  "payload": "{\"action\":{\"claim\":\"Anidoodle documents a repeated-frame problem in its butterfly example opening.\",\"quote\":\"there are 49 identical consecutive frames\",\"source_id\":\"s26\",\"tool\":\"evidence\"},\"expected_revision\":57}",
+  "revision": 58,
+  "outcome": "applied"
+}

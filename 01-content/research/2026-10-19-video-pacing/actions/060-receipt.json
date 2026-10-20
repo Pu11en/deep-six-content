@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-60-53d9a6b45bd86f22",
+  "payload": "{\"action\":{\"evidence_ids\":[\"e9\",\"e10\",\"e11\",\"e12\",\"e8\"],\"question_id\":\"q1\",\"reason\":\"Leads only. Search results gave concrete video URLs (three ant Shorts, a papercraft explainer Short, an ant animation) and creator channels (Zack D. Films, Kurzgesagt, The Infographics Show, Hashem Al-Ghaili, TED-Ed), but the crawler could not read YouTube pages (four reads returned document_too_large) and cannot watch video. Whether visuals follow each narrated phrase was checked locally with yt-dlp and ffmpeg, not by the crawler. The evidence listed is production guidance on matching picture to words.\",\"status\":\"addressed\",\"tool\":\"coverage\"},\"expected_revision\":60}",
+  "revision": 61,
+  "outcome": "applied"
+}

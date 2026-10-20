@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-1-7a5697cdb3c29abb",
+  "payload": "{\"action\":{\"query\":\"papercraft cut-paper stop motion animated explainer short video about insects or ants facts YouTube Shorts\",\"tool\":\"search\"},\"expected_revision\":1}",
+  "revision": 2,
+  "outcome": "applied"
+}

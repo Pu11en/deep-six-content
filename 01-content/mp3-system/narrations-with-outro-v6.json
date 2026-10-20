@@ -1,0 +1,168 @@
+{
+  "run_id": "D6-01096ba333e3",
+  "review_id": "review-e8af59c5fb1e",
+  "at": "2026-10-20T05:34:27+00:00",
+  "status": "awaiting_drew_review",
+  "selected_hook": {
+    "source_id": "SRC-0fa91dcbc971",
+    "text": "Why would a wasp lay its egg inside a cockroach’s egg case?",
+    "fact_ids": [
+      "SRC-0fa91dcbc971-F1",
+      "SRC-0fa91dcbc971-F2"
+    ],
+    "payoff": "Explain that the ensign wasp puts an egg inside the cockroach egg case so its developing young can feed on the cockroach eggs, and introduce what an ensign wasp is in plain English."
+  },
+  "request": {
+    "count": 5,
+    "focus": "Make five variations of the supplied liked script, not a new set of unrelated insect lessons. Preserve its clear sequence: mother places one egg, young feeds on the cockroach eggs, young grows into an adult inside that same case, adult cuts a small exit hole. Tiny toothed jaws can remain where they help the story. The customer connection must be part of the explanation, not an unrelated tip list tacked onto the end. End on a concrete useful conclusion or action, then the exact approved sign-off. Do not end on exit-hole geometry, a generic moral, a caveat list, or a promise of cockroach control. Do not explain the eaten-eggs-will-not-hatch consequence. No spoken citations or source names.",
+    "basis_text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nHelping you understand pests. Deep Six Pest Control.",
+    "length_guidance": "A little longer is welcome when it makes the relevance clear. Usually one short useful paragraph beyond the insect story is enough. No padding or fixed duration.",
+    "variation_directions": [
+      "1. Reassure a homeowner who finds this wasp: connect the emerging adult to its small size and flag-like movement, explain that it does not sting or bite people, and finish with leaving this identified harmless wasp alone.",
+      "2. Help a homeowner check for roach activity: connect the wasp's use of roach egg cases to an optional check with sticky traps. Explain the glue surface in plain words, give one or two suitable sites against walls, and finish on what the catches help locate. Do not treat a wasp sighting as a diagnosis.",
+      "3. Explain what to look for during a roach inspection: use American cockroaches as the supported host, connect their egg cases to cracks and gaps in warm damp hiding places, and give a specific inspection action. A hole in a case is not a standalone diagnostic test.",
+      "4. Connect concealed egg cases to prevention when bringing things into a home: retain the wasp story, then use the checked guidance on inspecting bags, boxes or luggage for roaches and egg cases. Make this flow from the same egg-case subject. No extra taxonomy, cardboard jargon or unsupported transport claims.",
+      "5. Help the customer respond to the right insect: retain the life-cycle story and explain that the adult ensign wasp does not sting or bite. Connect this to leaving it alone while addressing the moisture and hiding places that support American cockroaches. Keep the repair advice focused and do not promise that the wasp solves an infestation."
+    ],
+    "editor_requirements": "Judge each version as a first-time homeowner listener. Does the ending actually answer why the story matters to them? Does the practical step follow from the biology, or has a generic pest-control tip been pasted on? Fix abrupt jumps, repeat answers, vague anatomy labels and textbook language before returning."
+  },
+  "scripts": [
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nThat adult is the wasp you might notice in your home. It’s about a quarter of an inch long, with a flag-shaped back end that bobs up and down. It doesn’t sting or bite people, so if you recognize one, you can leave it alone.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3",
+        "SRC-0fa91dcbc971-F3"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nIf you find one indoors and want to check for roaches, use sticky insect traps. Their glue catches insects as they walk across. Set them against walls under sinks or behind the refrigerator. Compare where you catch roaches to decide where to inspect more closely.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3",
+        "SUP-b8f992d02be3-F1",
+        "SUP-b8f992d02be3-F2",
+        "SUP-b8f992d02be3-F3"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nAmerican cockroach egg cases are one of this wasp’s targets. Those roaches leave their cases in cracks and small gaps, and they favor warm, damp places. When you inspect those areas, look for egg cases as well as live roaches.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3",
+        "SUP-139443c3574f-F1"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nRoaches and their egg cases can hide in bags, boxes and luggage. Before bringing those items indoors, check for both. After unpacking, clear away cardboard boxes you don’t need so they don’t become hiding places for roaches.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3",
+        "SUP-139443c3574f-F3"
+      ]
+    },
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA small wasp called an ensign wasp puts one egg inside. When it hatches, the young wasp has a dozen or more cockroach eggs to feed on.\n\nThe young wasp uses pointed jaws with tiny teeth to cut through the shells of the individual eggs around it.\n\nAfter feeding and growing, it changes into an adult inside that same case. Once that change is complete, the adult cuts a small, round hole through the case and comes out.\n\nThis adult wasp doesn’t sting or bite people, so you can leave it alone. If you’re dealing with roaches, focus on the places they live: repair leaks, dry damp areas and seal the cracks they use for shelter.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SUP-d34ca591f2c4-F2",
+        "SUP-d34ca591f2c4-F3",
+        "SRC-0fa91dcbc971-F3",
+        "SUP-139443c3574f-F4"
+      ]
+    }
+  ],
+  "quality": {
+    "status": "ready_for_review",
+    "changes": [
+      "Preserved every exact hook, the feeding-to-adult sequence inside one case, and each exact sign-off.",
+      "Version 1: Connected the name directly to the visible flag movement and retained the identification-based decision to leave it alone.",
+      "Version 2: Removed the backward step to egg laying and made the two trap locations concrete.",
+      "Version 3: Replaced the rhetorical transition and repeated inspection advice with one focused flashlight check.",
+      "Version 4: Removed the padded transition and repeated conclusion; connected egg cases directly to inspecting belongings.",
+      "Version 5: Connected harmlessness directly to leaving the wasp alone, then tied repairs to American cockroach moisture and shelter.",
+      "Rechecked spoken clarity and supplied evidence; retained species limits without implying an infestation diagnosis or complete cockroach control."
+    ],
+    "unresolved": [],
+    "calls": [
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narrations",
+        "at": "2026-10-20T05:28:37+00:00",
+        "prompt_version": "ed21d6d81a44"
+      },
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narration_edit",
+        "at": "2026-10-20T05:29:28+00:00",
+        "prompt_version": "0eab4884040b"
+      }
+    ],
+    "human_approved": false,
+    "session_edit": {
+      "at": "2026-10-20T05:34:27+00:00",
+      "editor": "session_assistant",
+      "manual_text_edits": true,
+      "generated_artifact": "01-content/mp3-system/narrations-with-outro-v6-generated.json",
+      "basis_artifact": "01-content/mp3-system/narrations-with-outro-v5.json",
+      "basis_option": 3,
+      "liked_story_preserved_exactly": true,
+      "human_approved": false,
+      "checks": [
+        "Original hook and liked life-cycle story preserved in each option.",
+        "One short customer-useful passage finishes each lesson before the exact approved outro.",
+        "No unsupported flashlight claim, exit-hole diagnosis, wasp-based infestation diagnosis or control guarantee.",
+        "Final claims checked against the supplied main and supporting sources."
+      ]
+    }
+  },
+  "basis_file": "01-content/mp3-system/narrations-with-outro-v5.json",
+  "basis_option": 3,
+  "preserved_file_hashes": {
+    "BOARD.md": "1e497959fc76e20ab358f770b8fb1ffa9e7cd1b0383550a310ef684bcd347d0f",
+    "01-content/mp3-system/narrations-before-outro.json": "e8f48019c11a554f74726ccdb1f9d5a71a0dd75c923bc4f80fd4cd52bf923f3d",
+    "01-content/mp3-system/narrations-with-outro-v4.json": "066c8e0be184d49c09570e277d7caa0181ac78f00ccf1eac6d71c8f6e96ddb58",
+    "01-content/mp3-system/narrations-with-outro-v5.json": "9a799cd0bd24b11e3c74af526918cfc8a9460dd5e101d99ed09a212b39d69b11"
+  },
+  "preserved_state_fields": [
+    "approved",
+    "queue",
+    "source_queue",
+    "used_sources",
+    "next_source_id",
+    "runs"
+  ],
+  "generation_receipt": "01-content/mp3-system/narrations-with-outro-v6-generated.json"
+}

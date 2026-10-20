@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 10,
+  "idempotency_key": "d6-10-e350556f9e806221",
+  "action": {
+    "tool": "search",
+    "query": "TED-Ed MinuteEarth SciShow The Infographics Show Hashem Al-Ghaili animated educational YouTube Shorts fast narrated facts with a new visual every phrase"
+  }
+}

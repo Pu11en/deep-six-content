@@ -1,0 +1,12 @@
+{
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": 1792449602.1571658,
+  "final_url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/prompts/emollick-019567.md",
+  "id": "s11",
+  "policy": "public-readonly-free-v1",
+  "sha256": "7c4913961c05a8929c199c2061bc697782d7a6cf09be889382e470dcff720b03",
+  "source_exists": true,
+  "text": "# Opus 5.5 video by @emollick\n\n[▶ Watch the original and a live remake on Skillry](https://skillry.dev/ai-videos/opus-5-5/emollick-019567?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) · [Original post](https://x.com/emollick/status/2103688362960019567)\n\n- **Category:** Explainers\n- **Remake built with:** Canvas\n- **Author:** [@emollick](https://x.com/emollick)\n\n## Prompt\n\n```text\nA video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\n```\n",
+  "truncated": false,
+  "url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/prompts/emollick-019567.md"
+}

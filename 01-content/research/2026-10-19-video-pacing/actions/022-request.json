@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 22,
+  "idempotency_key": "d6-22-f13a9231f141998e",
+  "action": {
+    "tool": "read",
+    "url": "https://www.bytecap.io/blog/optimal-short-form-video-length-retention-analysis"
+  }
+}

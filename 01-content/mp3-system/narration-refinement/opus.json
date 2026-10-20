@@ -1,0 +1,14 @@
+{
+  "requested_model": "claude-opus-5-5",
+  "effort": "high",
+  "subscription_only": true,
+  "fallback_enabled": false,
+  "live_state_written": false,
+  "human_approved": false,
+  "started_utc": "2026-10-20T04:51:02.426376+00:00",
+  "status": "failed",
+  "error_type": "ModelError",
+  "error": "all_subscription_routes_unavailable:subscription_limit",
+  "calls": [],
+  "finished_utc": "2026-10-20T04:51:05.433850+00:00"
+}

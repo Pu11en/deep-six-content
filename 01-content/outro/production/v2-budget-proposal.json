@@ -1,0 +1,36 @@
+{
+  "approved": false,
+  "status": "historical_proposal_superseded_by_approval",
+  "proposed_total_production_cap_usd": 3.0,
+  "previous_total_production_cap_usd": 2.0,
+  "already_estimated_production_spend_usd": 1.13607,
+  "initial_image_test_separate_usd": 0.058155,
+  "proposed_replacement_allowances": {
+    "image": {
+      "maximum_new_calls": 2,
+      "maximum_usd_per_call": 0.15
+    },
+    "video": {
+      "maximum_new_calls": 1,
+      "maximum_usd_per_call": 1.25
+    },
+    "fire_ant_voice_only": {
+      "maximum_new_calls": 1,
+      "maximum_usd_per_call": 0.1,
+      "voice": "Tyler",
+      "condition": "Verify actual provider availability, credits/rate and safe per-request cost before sending. No top-up or plan change."
+    }
+  },
+  "maximum_replacement_reservation_usd": 1.65,
+  "maximum_production_total_after_requested_work_usd": 2.78607,
+  "automatic_retries": false,
+  "claude_creative_route": "Existing subscription login, API-key route disabled; no model fallback.",
+  "rates_checked_date": "2026-10-19",
+  "pricing_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "no_generation_requests_submitted_under_this_proposal": true,
+  "creative_direction": "OPUS-V2-REUSABLE.md",
+  "creative_model_verified": "claude-opus-5-5",
+  "maximum_new_video_calls": 1,
+  "approval_question": "May I raise the production cap from $2 to $3 for this replacement?",
+  "current_approval_file": "v2-production-approval.json"
+}

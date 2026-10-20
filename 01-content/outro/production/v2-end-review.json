@@ -1,0 +1,18 @@
+{
+  "checked_utc": "2026-10-20T03:49:06.325714+00:00",
+  "output": "01-content/outro/assets/outro-v2-end.jpg",
+  "sha256": "cad0d69ce9e46f16aa31aa10b37e43d5ab5c6b0053991a95189d9b2d8871fc18",
+  "accepted_for_motion": true,
+  "user_approved": false,
+  "visual_checks": {
+    "same_character_face_badge_and_prop_hands": true,
+    "clear_raised_magnifier_pose": true,
+    "empty_lens_for_real_logo_overlay": true,
+    "top_brand_area_clear": true,
+    "face_hands_badge_inside_frame": true
+  },
+  "limits": [
+    "Final body height remains close to opening body height. Generated animation must include a visible anticipation dip and rise, plus the broad arm swing; a static interpolation will not pass.",
+    "Lens is near left third at 47 percent height, below the prompt target. Track actual generated position for compositing rather than assuming prompt coordinates."
+  ]
+}

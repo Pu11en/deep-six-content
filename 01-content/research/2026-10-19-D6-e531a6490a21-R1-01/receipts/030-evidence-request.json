@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 29,
+  "idempotency_key": "research-359182d1022c-a30",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+    "quote": "Monitor and assess cockroach activity using sticky traps or glue boards."
+  }
+}

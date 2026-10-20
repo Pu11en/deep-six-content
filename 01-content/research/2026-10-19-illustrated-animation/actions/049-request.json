@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 49,
+  "idempotency_key": "d6-49-bdc8aa6c69701c5f",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s10",
+    "claim": "The ant-animation repository carries an MIT license.",
+    "quote": "MIT License"
+  }
+}

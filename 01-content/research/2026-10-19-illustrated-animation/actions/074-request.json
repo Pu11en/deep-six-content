@@ -1,0 +1,20 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 74,
+  "idempotency_key": "d6-74-de44164ff67715e0",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e4",
+      "e8",
+      "e10",
+      "e16",
+      "e17",
+      "e18"
+    ],
+    "reason": "Six candidates compared using primary descriptions and code. Ant toolkit is the first prototype recommendation because it has relevant drawing/nest modules and an inspected existing contact sheet; Anidoodle is the illustrated-art backup. No live quality ranking is claimed."
+  }
+}

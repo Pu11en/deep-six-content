@@ -1,0 +1,1476 @@
+{
+ "episode_id": "D6-6c917b49743b",
+ "segment": "full",
+ "style": "C cut-paper storybook",
+ "format": "1080x1920, 30 fps, 9:16",
+ "timing_file": "words.json",
+ "pacing_rules": {
+  "max_shot_seconds_in_hook": 1.9,
+  "new_visual_action_every_seconds": 0.5,
+  "action_lands_on_stressed_word_within_frames": 2,
+  "camera_never_fully_still": true,
+  "on_screen_text": "word-synced captions only; no labels or numbers"
+ },
+ "science_guardrails": [
+  "Fire-ant mound: irregular dome of soil with NO central opening.",
+  "Workers: six legs on the thorax, two waist nodes, elbowed antennae, red-brown head and thorax, darker gaster.",
+  "No depths, temperatures, treatment advice or survival claims. The dashed ghost mound is a symbol, not a mechanism.",
+  "Underground tunnels are illustrative, not a map.",
+  "Eggs are tiny pale ovals; larvae are pale, curved and legless; pupae are pale adult-shaped bodies with folded legs, no cocoon.",
+  "Newly emerged adults are pale and darken; no claims about how long any stage lasts.",
+  "Weather shifts show brood moved up in cold, wet weather and down in hot, dry weather, as the narration says. No depths or temperatures."
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "start": 0.0,
+   "end": 1.14,
+   "words": "A fire ant colony",
+   "visual": "Big close-up of one fire-ant worker walking left across layered paper ground. On 'colony' the camera pulls far back: the worker becomes one of dozens marching in four rows.",
+   "beats": [
+    {
+     "word": "fire",
+     "at": 0.22,
+     "action": "Antennae flick up, slight push-in."
+    },
+    {
+     "word": "ant",
+     "at": 0.52,
+     "action": "Mandibles chomp once."
+    },
+    {
+     "word": "colony",
+     "at": 0.72,
+     "action": "Fast zoom-out (0.33 s) reveals the crowd. Match cut on the same ant."
+    }
+   ],
+   "camera": "Tracks the hero ant, then zooms out from 3.4x to 0.9x.",
+   "transition_in": "Opens mid-motion; frame 0 already shows the ant."
+  },
+  {
+   "id": "S2",
+   "start": 1.14,
+   "end": 2.38,
+   "words": "doesn't always have",
+   "visual": "Backyard: house, fence, green lawn. A fire-ant mound pops up from the lawn, then squashes flat and vanishes.",
+   "beats": [
+    {
+     "word": "doesn't",
+     "at": 1.14,
+     "action": "Yard sheet slides up over the crowd; mound pops up with bounce."
+    },
+    {
+     "word": "always",
+     "at": 1.8,
+     "action": "Mound stretches, then squashes into the lawn with a dust puff."
+    },
+    {
+     "word": "have",
+     "at": 2.14,
+     "action": "Grass blades spring back over the empty spot."
+    }
+   ],
+   "camera": "Slow push-in.",
+   "transition_in": "Paper slide from below, 0.16 s."
+  },
+  {
+   "id": "S3",
+   "start": 2.38,
+   "end": 4.19,
+   "words": "a mound you can see.",
+   "visual": "Same yard. A dashed outline marks the missing mound. A magnifying glass swoops in; its lens shows ants still busy in tunnels under the flat lawn.",
+   "beats": [
+    {
+     "word": "mound",
+     "at": 2.56,
+     "action": "Dashed mound outline draws itself."
+    },
+    {
+     "word": "you",
+     "at": 2.8,
+     "action": "Magnifying glass swings in from the right."
+    },
+    {
+     "word": "see",
+     "at": 3.13,
+     "action": "Lens settles over the spot; glint sweeps the glass; ants move in the tunnels."
+    },
+    {
+     "word": "(pause)",
+     "at": 3.59,
+     "action": "Slow push-in on the lens; ants keep moving."
+    }
+   ],
+   "camera": "Push-in toward the lens.",
+   "transition_in": "Continuous with S2."
+  },
+  {
+   "id": "S4",
+   "start": 4.19,
+   "end": 4.98,
+   "words": "In a drought,",
+   "visual": "Hot yellow sky. A big paper sun drops in. A rain cloud dries up. Grass wilts and turns straw-colored.",
+   "beats": [
+    {
+     "word": "In",
+     "at": 4.19,
+     "action": "Hard cut; sun drops from the top with a bounce, rays spinning."
+    },
+    {
+     "word": "drought",
+     "at": 4.42,
+     "action": "Cloud evaporates; grass droops and fades from green to straw, left to right."
+    }
+   ],
+   "camera": "Slight push-in; heat shimmer rises.",
+   "transition_in": "Hard cut on 'In'."
+  },
+  {
+   "id": "S5",
+   "start": 4.98,
+   "end": 5.88,
+   "words": "the ground itself",
+   "visual": "Top-down close-up of dry soil. Cracks race outward and the plates pull apart.",
+   "beats": [
+    {
+     "word": "the",
+     "at": 4.98,
+     "action": "Whip tilt down from the sky to the ground."
+    },
+    {
+     "word": "ground",
+     "at": 5.14,
+     "action": "Cracks spread out from the center."
+    },
+    {
+     "word": "itself",
+     "at": 5.42,
+     "action": "Cracks widen; plate edges lift."
+    }
+   ],
+   "camera": "Slow rotate and zoom.",
+   "transition_in": "Whip pan down with motion blur, 0.16 s."
+  },
+  {
+   "id": "S6",
+   "start": 5.88,
+   "end": 7.0,
+   "words": "can be too hard",
+   "visual": "Side view at ant level on a thick dry crust. The worker walks in, rears back and bites the ground: CLANK. The crust does not dent; the ant bounces back.",
+   "beats": [
+    {
+     "word": "can",
+     "at": 5.88,
+     "action": "Ant walks in from the right."
+    },
+    {
+     "word": "too",
+     "at": 6.34,
+     "action": "Ant rears back, mandibles open (anticipation)."
+    },
+    {
+     "word": "hard",
+     "at": 6.6,
+     "action": "Strike: impact star, camera shake, ant recoils."
+    }
+   ],
+   "camera": "Close side view; shake on impact.",
+   "transition_in": "Hard cut on 'can'."
+  },
+  {
+   "id": "S7",
+   "start": 7.0,
+   "end": 7.48,
+   "words": "and dry",
+   "visual": "Dust gusts across the crust. A last drop of moisture shrinks away. Cracks open wider.",
+   "beats": [
+    {
+     "word": "and",
+     "at": 7.0,
+     "action": "Dust gust streams across."
+    },
+    {
+     "word": "dry",
+     "at": 7.2,
+     "action": "Dust puff rises; droplet evaporates with a steam curl."
+    }
+   ],
+   "camera": "Small push-in.",
+   "transition_in": "Continuous with S6."
+  },
+  {
+   "id": "S8",
+   "start": 7.48,
+   "end": 8.8,
+   "words": "for them to build one.",
+   "visual": "Camera pulls back: three ants on the cracked surface. A dashed ghost mound draws over them, then falls apart. Camera tilts down to show the colony still busy underground.",
+   "beats": [
+    {
+     "word": "for",
+     "at": 7.48,
+     "action": "Zoom out to a wider view with three ants."
+    },
+    {
+     "word": "them",
+     "at": 7.7,
+     "action": "Ants raise their antennae."
+    },
+    {
+     "word": "build",
+     "at": 8.0,
+     "action": "Dashed ghost mound draws over the ants."
+    },
+    {
+     "word": "one",
+     "at": 8.2,
+     "action": "Ghost mound dashes fall and scatter."
+    },
+    {
+     "word": "(tail)",
+     "at": 8.38,
+     "action": "Tilt down: tunnels and ants underground."
+    }
+   ],
+   "camera": "Zoom out, then tilt down.",
+   "transition_in": "Continuous with S7."
+  },
+  {
+   "id": "S9",
+   "start": 8.98,
+   "end": 9.42,
+   "words": "A colony",
+   "visual": "Full nest cutaway: mound on top, tunnels draw themselves down through the soil.",
+   "beats": [
+    {
+     "word": "colony",
+     "at": 9.1,
+     "action": "Tunnels finish drawing; ants pop into the tunnels."
+    }
+   ],
+   "camera": "Wide, slow push.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S10",
+   "start": 9.42,
+   "end": 10.52,
+   "words": "has more going on",
+   "visual": "Camera pushes into the busy middle of the nest; chambers fill with working ants one by one.",
+   "beats": [
+    {
+     "word": "more",
+     "at": 9.68,
+     "action": "First chamber gets busy."
+    },
+    {
+     "word": "going",
+     "at": 9.96,
+     "action": "Second chamber."
+    },
+    {
+     "word": "on",
+     "at": 10.24,
+     "action": "Third chamber."
+    }
+   ],
+   "camera": "Push in.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S11",
+   "start": 10.52,
+   "end": 11.48,
+   "words": "than workers walking",
+   "visual": "Whip up to the surface: workers walk across the lawn and over the mound.",
+   "beats": [
+    {
+     "word": "workers",
+     "at": 10.7,
+     "action": "Surface ants march."
+    },
+    {
+     "word": "walking",
+     "at": 11.06,
+     "action": "Close on walking legs."
+    }
+   ],
+   "camera": "Whip up, then track.",
+   "transition_in": "Whip pan up."
+  },
+  {
+   "id": "S12",
+   "start": 11.48,
+   "end": 12.99,
+   "words": "around outside.",
+   "visual": "Tracking along the surface; ants circle the mound outside the nest.",
+   "beats": [
+    {
+     "word": "around",
+     "at": 11.48,
+     "action": "Ants walk around the mound."
+    },
+    {
+     "word": "outside",
+     "at": 11.82,
+     "action": "Pull back to show they are above the ground line."
+    }
+   ],
+   "camera": "Track right, pull back.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S13",
+   "start": 12.99,
+   "end": 13.98,
+   "words": "It also has",
+   "visual": "Whip down through the soil layers.",
+   "beats": [
+    {
+     "word": "It",
+     "at": 12.99,
+     "action": "Camera dives down."
+    }
+   ],
+   "camera": "Whip tilt down.",
+   "transition_in": "Whip pan down."
+  },
+  {
+   "id": "S14",
+   "start": 13.98,
+   "end": 15.0,
+   "words": "a developing generation",
+   "visual": "A deep chamber lights up: a pile of eggs, larvae and pupae with a nurse worker.",
+   "beats": [
+    {
+     "word": "developing",
+     "at": 13.98,
+     "action": "Brood pile pops in."
+    },
+    {
+     "word": "generation",
+     "at": 14.4,
+     "action": "Warm glow; nurse tends."
+    }
+   ],
+   "camera": "Push in on the chamber.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S15",
+   "start": 15.0,
+   "end": 16.32,
+   "words": "underground:",
+   "visual": "Pull back from the chamber: it sits deep under the lawn.",
+   "beats": [
+    {
+     "word": "underground",
+     "at": 15.0,
+     "action": "Fast pull-back to the whole nest; ring around the chamber."
+    }
+   ],
+   "camera": "Zoom out.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S16",
+   "start": 16.32,
+   "end": 16.95,
+   "words": "eggs,",
+   "visual": "Close-up nursery: a clump of eggs pops in.",
+   "beats": [
+    {
+     "word": "eggs",
+     "at": 16.32,
+     "action": "Eggs pop in one by one."
+    }
+   ],
+   "camera": "Static, slight push.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S17",
+   "start": 16.95,
+   "end": 17.58,
+   "words": "larvae",
+   "visual": "Eggs slide aside; three curled larvae pop in.",
+   "beats": [
+    {
+     "word": "larvae",
+     "at": 16.95,
+     "action": "Larvae pop in and wriggle."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S18",
+   "start": 17.58,
+   "end": 18.64,
+   "words": "and pupae.",
+   "visual": "Larvae slide aside; two pale pupae pop in.",
+   "beats": [
+    {
+     "word": "pupae",
+     "at": 17.76,
+     "action": "Pupae pop in."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S19",
+   "start": 18.64,
+   "end": 19.82,
+   "words": "Together, those stages",
+   "visual": "All three slide together into one pile; nurse workers walk in.",
+   "beats": [
+    {
+     "word": "Together",
+     "at": 18.64,
+     "action": "Groups slide together."
+    },
+    {
+     "word": "stages",
+     "at": 19.5,
+     "action": "Workers arrive."
+    }
+   ],
+   "camera": "Slow push.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S20",
+   "start": 19.82,
+   "end": 21.79,
+   "words": "are called brood.",
+   "visual": "A lime loop wraps the whole pile.",
+   "beats": [
+    {
+     "word": "called",
+     "at": 20.16,
+     "action": "Loop draws around the pile."
+    },
+    {
+     "word": "brood",
+     "at": 20.5,
+     "action": "Pile bounces."
+    }
+   ],
+   "camera": "Slow push.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S21",
+   "start": 21.79,
+   "end": 22.68,
+   "words": "Eggs hatch",
+   "visual": "One big egg wobbles, cracks and splits; a tiny larva appears.",
+   "beats": [
+    {
+     "word": "Eggs",
+     "at": 21.79,
+     "action": "Egg wobbles."
+    },
+    {
+     "word": "hatch",
+     "at": 22.04,
+     "action": "Crack, split, tiny larva."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S22",
+   "start": 22.68,
+   "end": 23.49,
+   "words": "into larvae,",
+   "visual": "The tiny larva grows into a big larva.",
+   "beats": [
+    {
+     "word": "larvae",
+     "at": 22.68,
+     "action": "Larva grows with a bounce."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S23",
+   "start": 23.49,
+   "end": 24.99,
+   "words": "larvae become pupae,",
+   "visual": "The larva flips like a card and becomes a pupa.",
+   "beats": [
+    {
+     "word": "become",
+     "at": 23.82,
+     "action": "Card flip."
+    },
+    {
+     "word": "pupae",
+     "at": 24.14,
+     "action": "Pupa revealed."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S24",
+   "start": 24.99,
+   "end": 26.14,
+   "words": "and adults",
+   "visual": "The pupa flips into a pale adult worker that darkens to red-brown.",
+   "beats": [
+    {
+     "word": "adults",
+     "at": 25.1,
+     "action": "Flip to pale adult; colour darkens."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S25",
+   "start": 26.14,
+   "end": 27.29,
+   "words": "eventually emerge.",
+   "visual": "The new adult walks out of the nursery.",
+   "beats": [
+    {
+     "word": "emerge",
+     "at": 26.14,
+     "action": "Adult walks off to the right."
+    }
+   ],
+   "camera": "Pan right.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S26",
+   "start": 27.29,
+   "end": 28.26,
+   "words": "Those young ants",
+   "visual": "Nest close-up on a brood chamber; a lime ring circles the brood.",
+   "beats": [
+    {
+     "word": "young",
+     "at": 27.54,
+     "action": "Ring pops."
+    }
+   ],
+   "camera": "Close.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S27",
+   "start": 28.26,
+   "end": 29.28,
+   "words": "are part of the reason",
+   "visual": "Pull back: rings circle brood chambers across the nest.",
+   "beats": [
+    {
+     "word": "part",
+     "at": 28.48,
+     "action": "Second ring."
+    },
+    {
+     "word": "reason",
+     "at": 28.98,
+     "action": "Third ring."
+    }
+   ],
+   "camera": "Zoom out.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S28",
+   "start": 29.28,
+   "end": 30.08,
+   "words": "nest conditions",
+   "visual": "Weather above the nest flips: rain, then sun; the soil tint follows.",
+   "beats": [
+    {
+     "word": "nest",
+     "at": 29.28,
+     "action": "Rain."
+    },
+    {
+     "word": "conditions",
+     "at": 29.62,
+     "action": "Sun and heat."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S29",
+   "start": 30.08,
+   "end": 31.15,
+   "words": "matter.",
+   "visual": "Punch in on the brood pile; it pulses.",
+   "beats": [
+    {
+     "word": "matter",
+     "at": 30.08,
+     "action": "Punch-in."
+    }
+   ],
+   "camera": "Fast zoom in.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S30",
+   "start": 31.15,
+   "end": 32.06,
+   "words": "During cold,",
+   "visual": "Cold, grey-blue sky; wind swirls; grass bends.",
+   "beats": [
+    {
+     "word": "cold",
+     "at": 31.34,
+     "action": "Sky turns cold."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S31",
+   "start": 32.06,
+   "end": 32.99,
+   "words": "wet weather,",
+   "visual": "Rain clouds drop in; rain falls; puddles form.",
+   "beats": [
+    {
+     "word": "wet",
+     "at": 32.06,
+     "action": "Clouds drop in."
+    },
+    {
+     "word": "weather",
+     "at": 32.22,
+     "action": "Rain and puddles."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S32",
+   "start": 32.99,
+   "end": 34.18,
+   "words": "colonies tend to occupy",
+   "visual": "Ants stream upward through the tunnels carrying brood.",
+   "beats": [
+    {
+     "word": "colonies",
+     "at": 32.99,
+     "action": "Traffic flows up."
+    },
+    {
+     "word": "occupy",
+     "at": 33.8,
+     "action": "Camera tilts up with them."
+    }
+   ],
+   "camera": "Tilt up.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S33",
+   "start": 34.18,
+   "end": 35.9,
+   "words": "higher parts of the nest,",
+   "visual": "The mound chambers fill with brood and glow.",
+   "beats": [
+    {
+     "word": "higher",
+     "at": 34.18,
+     "action": "Upper chambers fill."
+    },
+    {
+     "word": "parts",
+     "at": 34.64,
+     "action": "Ring around the top chamber."
+    }
+   ],
+   "camera": "Close on the mound.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S34",
+   "start": 35.9,
+   "end": 37.02,
+   "words": "where they can take advantage",
+   "visual": "Clouds part and a pale sun appears.",
+   "beats": [
+    {
+     "word": "take",
+     "at": 36.24,
+     "action": "Clouds slide apart."
+    },
+    {
+     "word": "advantage",
+     "at": 36.42,
+     "action": "Sun appears."
+    }
+   ],
+   "camera": "Wider, sky in view.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S35",
+   "start": 37.02,
+   "end": 37.62,
+   "words": "of sunlight",
+   "visual": "A sunbeam hits the mound; the top chambers glow warm.",
+   "beats": [
+    {
+     "word": "sunlight",
+     "at": 37.02,
+     "action": "Beam and glow."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S36",
+   "start": 37.62,
+   "end": 38.3,
+   "words": "and keep brood",
+   "visual": "Close: workers carry larvae up into the warm chambers.",
+   "beats": [
+    {
+     "word": "brood",
+     "at": 38.0,
+     "action": "Carriers arrive."
+    }
+   ],
+   "camera": "Close.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S37",
+   "start": 38.3,
+   "end": 38.98,
+   "words": "away from",
+   "visual": "Whip down toward the deep soil.",
+   "beats": [
+    {
+     "word": "away",
+     "at": 38.3,
+     "action": "Camera dives."
+    }
+   ],
+   "camera": "Whip down.",
+   "transition_in": "Whip pan down."
+  },
+  {
+   "id": "S38",
+   "start": 38.98,
+   "end": 40.64,
+   "words": "waterlogged soil.",
+   "visual": "Water rises through the deep soil and floods the empty deep chambers.",
+   "beats": [
+    {
+     "word": "waterlogged",
+     "at": 38.98,
+     "action": "Water rises."
+    },
+    {
+     "word": "soil",
+     "at": 39.66,
+     "action": "Bubbles; flooded tunnels."
+    }
+   ],
+   "camera": "Slow push.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S39",
+   "start": 40.64,
+   "end": 41.42,
+   "words": "During hot,",
+   "visual": "A big sun slams in over the nest; hot sky.",
+   "beats": [
+    {
+     "word": "hot",
+     "at": 40.82,
+     "action": "Sun drops in."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S40",
+   "start": 41.42,
+   "end": 42.39,
+   "words": "dry weather,",
+   "visual": "Grass turns straw, the mound cracks, the top soil glows hot.",
+   "beats": [
+    {
+     "word": "dry",
+     "at": 41.42,
+     "action": "Cracks and heat tint."
+    }
+   ],
+   "camera": "Close on the mound.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S41",
+   "start": 42.39,
+   "end": 43.36,
+   "words": "cooler, moister",
+   "visual": "Whip down into the deep soil: cool blue tint and moisture glints.",
+   "beats": [
+    {
+     "word": "cooler",
+     "at": 42.39,
+     "action": "Cool tint."
+    },
+    {
+     "word": "moister",
+     "at": 43.0,
+     "action": "Sparkling moisture."
+    }
+   ],
+   "camera": "Whip down.",
+   "transition_in": "Whip pan down."
+  },
+  {
+   "id": "S42",
+   "start": 43.36,
+   "end": 44.64,
+   "words": "conditions below ground",
+   "visual": "Deep chambers glow cool; pull back to show how far below the ground they are.",
+   "beats": [
+    {
+     "word": "conditions",
+     "at": 43.36,
+     "action": "Cool glows."
+    },
+    {
+     "word": "ground",
+     "at": 44.26,
+     "action": "Pull back."
+    }
+   ],
+   "camera": "Zoom out.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S43",
+   "start": 44.64,
+   "end": 46.49,
+   "words": "become useful instead.",
+   "visual": "Workers carry brood down; the deep chambers fill as the top ones empty.",
+   "beats": [
+    {
+     "word": "become",
+     "at": 44.64,
+     "action": "Carriers flow down."
+    },
+    {
+     "word": "useful",
+     "at": 44.96,
+     "action": "Deep brood piles grow."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S44",
+   "start": 46.49,
+   "end": 47.64,
+   "words": "Workers move the brood",
+   "visual": "Tunnel close-up: a worker carries a larva; another carries a pupa.",
+   "beats": [
+    {
+     "word": "Workers",
+     "at": 46.49,
+     "action": "Carrier walks in."
+    },
+    {
+     "word": "brood",
+     "at": 47.38,
+     "action": "Second carrier with a pupa."
+    }
+   ],
+   "camera": "Tracking.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S45",
+   "start": 47.64,
+   "end": 48.4,
+   "words": "within the nest",
+   "visual": "Pull back: many carriers in the tunnels.",
+   "beats": [
+    {
+     "word": "within",
+     "at": 47.64,
+     "action": "Wide nest with carriers."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S46",
+   "start": 48.4,
+   "end": 49.02,
+   "words": "as conditions",
+   "visual": "Rain: carriers head up.",
+   "beats": [
+    {
+     "word": "conditions",
+     "at": 48.62,
+     "action": "Rain and upward flow."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S47",
+   "start": 49.02,
+   "end": 50.26,
+   "words": "change.",
+   "visual": "Sun: carriers reverse and head down.",
+   "beats": [
+    {
+     "word": "change",
+     "at": 49.02,
+     "action": "Sun; flow reverses."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S48",
+   "start": 50.26,
+   "end": 51.06,
+   "words": "Picture the nursery",
+   "visual": "A lime picture frame pops around a brood chamber.",
+   "beats": [
+    {
+     "word": "Picture",
+     "at": 50.26,
+     "action": "Frame pops."
+    },
+    {
+     "word": "nursery",
+     "at": 50.68,
+     "action": "Brood in the frame."
+    }
+   ],
+   "camera": "Close.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S49",
+   "start": 51.06,
+   "end": 51.94,
+   "words": "shifting between",
+   "visual": "The framed nursery slides to another chamber.",
+   "beats": [
+    {
+     "word": "shifting",
+     "at": 51.06,
+     "action": "Frame and brood move."
+    }
+   ],
+   "camera": "Follows.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S50",
+   "start": 51.94,
+   "end": 53.32,
+   "words": "different parts of the structure,",
+   "visual": "Wide: the frame hops around the nest, brood following.",
+   "beats": [
+    {
+     "word": "different",
+     "at": 51.94,
+     "action": "Hop."
+    },
+    {
+     "word": "parts",
+     "at": 52.3,
+     "action": "Hop."
+    },
+    {
+     "word": "structure",
+     "at": 52.88,
+     "action": "Hop."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S51",
+   "start": 53.32,
+   "end": 54.12,
+   "words": "rather than",
+   "visual": "A single-chamber card slides in.",
+   "beats": [
+    {
+     "word": "rather",
+     "at": 53.32,
+     "action": "Card slides in."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Paper slide."
+  },
+  {
+   "id": "S52",
+   "start": 54.12,
+   "end": 55.26,
+   "words": "every ant staying",
+   "visual": "Ants stand still in the one chamber.",
+   "beats": [
+    {
+     "word": "every",
+     "at": 54.12,
+     "action": "Ants appear, standing."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S53",
+   "start": 55.26,
+   "end": 56.24,
+   "words": "in one fixed room",
+   "visual": "A pushpin slams in and pins the chamber.",
+   "beats": [
+    {
+     "word": "fixed",
+     "at": 55.56,
+     "action": "Pushpin."
+    }
+   ],
+   "camera": "Static with shake.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S54",
+   "start": 56.24,
+   "end": 57.69,
+   "words": "all season.",
+   "visual": "Seasons flicker in the sky above; then a big purple X.",
+   "beats": [
+    {
+     "word": "all",
+     "at": 56.24,
+     "action": "Weather cycles."
+    },
+    {
+     "word": "season",
+     "at": 56.58,
+     "action": "X stamps."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S55",
+   "start": 57.69,
+   "end": 58.56,
+   "words": "So the nest you see",
+   "visual": "Back in the yard: the mound pops up on the lawn.",
+   "beats": [
+    {
+     "word": "nest",
+     "at": 57.96,
+     "action": "Mound pops."
+    },
+    {
+     "word": "see",
+     "at": 58.36,
+     "action": "Push toward it."
+    }
+   ],
+   "camera": "Push in.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S56",
+   "start": 58.56,
+   "end": 59.47,
+   "words": "above ground",
+   "visual": "A lime line traces the mound above the ground.",
+   "beats": [
+    {
+     "word": "above",
+     "at": 58.56,
+     "action": "Trace."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S57",
+   "start": 59.47,
+   "end": 60.22,
+   "words": "doesn't show you",
+   "visual": "A big question mark pops over the mound.",
+   "beats": [
+    {
+     "word": "doesn't",
+     "at": 59.47,
+     "action": "Question mark."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S58",
+   "start": 60.22,
+   "end": 60.66,
+   "words": "where the",
+   "visual": "The magnifier swings over the mound: its chambers are empty.",
+   "beats": [
+    {
+     "word": "where",
+     "at": 60.22,
+     "action": "Magnifier x-ray."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S59",
+   "start": 60.66,
+   "end": 61.74,
+   "words": "developing ants",
+   "visual": "Cutaway: from the empty mound, tilt down to a deep chamber holding the brood.",
+   "beats": [
+    {
+     "word": "developing",
+     "at": 60.66,
+     "action": "Tilt down."
+    },
+    {
+     "word": "ants",
+     "at": 61.08,
+     "action": "Ring on the brood."
+    }
+   ],
+   "camera": "Tilt down.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S60",
+   "start": 61.74,
+   "end": 62.73,
+   "words": "are being kept.",
+   "visual": "Close on the deep nursery; nurses tend it.",
+   "beats": [
+    {
+     "word": "kept",
+     "at": 61.74,
+     "action": "Close-up."
+    }
+   ],
+   "camera": "Close.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S61",
+   "start": 62.73,
+   "end": 64.26,
+   "words": "The colony's internal activity",
+   "visual": "Busy nest: ants rush through tunnels and chambers.",
+   "beats": [
+    {
+     "word": "internal",
+     "at": 63.32,
+     "action": "Traffic speeds up."
+    },
+    {
+     "word": "activity",
+     "at": 63.76,
+     "action": "Busy chambers."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S62",
+   "start": 64.26,
+   "end": 65.06,
+   "words": "can continue",
+   "visual": "Activity keeps going.",
+   "beats": [
+    {
+     "word": "continue",
+     "at": 64.62,
+     "action": "Loops continue."
+    }
+   ],
+   "camera": "Drift.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S63",
+   "start": 65.06,
+   "end": 65.82,
+   "words": "out of sight",
+   "visual": "A soil sheet slides over the cutaway and hides it.",
+   "beats": [
+    {
+     "word": "out",
+     "at": 65.06,
+     "action": "Cover slides."
+    },
+    {
+     "word": "sight",
+     "at": 65.52,
+     "action": "Hidden."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S64",
+   "start": 65.82,
+   "end": 66.64,
+   "words": "while the surface",
+   "visual": "Tilt up to the flat lawn.",
+   "beats": [
+    {
+     "word": "surface",
+     "at": 66.26,
+     "action": "Surface in view."
+    }
+   ],
+   "camera": "Tilt up.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S65",
+   "start": 66.64,
+   "end": 68.11,
+   "words": "looks quiet.",
+   "visual": "A still, calm lawn with no ants in sight.",
+   "beats": [
+    {
+     "word": "quiet",
+     "at": 66.92,
+     "action": "Calm hold."
+    }
+   ],
+   "camera": "Slow push.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S66",
+   "start": 68.11,
+   "end": 69.01,
+   "words": "For a homeowner,",
+   "visual": "A homeowner walks out into the yard.",
+   "beats": [
+    {
+     "word": "homeowner",
+     "at": 68.32,
+     "action": "Walks in."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S67",
+   "start": 69.01,
+   "end": 69.94,
+   "words": "that changes",
+   "visual": "A thought bubble pops.",
+   "beats": [
+    {
+     "word": "changes",
+     "at": 69.24,
+     "action": "Bubble."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S68",
+   "start": 69.94,
+   "end": 70.58,
+   "words": "what a missing mound",
+   "visual": "Inside the bubble a mound appears, then turns into a dashed outline.",
+   "beats": [
+    {
+     "word": "missing",
+     "at": 70.02,
+     "action": "Mound in bubble."
+    },
+    {
+     "word": "mound",
+     "at": 70.3,
+     "action": "Becomes dashed."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S69",
+   "start": 70.58,
+   "end": 71.64,
+   "words": "means.",
+   "visual": "A question mark in the bubble; the homeowner scratches their head.",
+   "beats": [
+    {
+     "word": "means",
+     "at": 70.58,
+     "action": "Question mark."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S70",
+   "start": 71.64,
+   "end": 72.74,
+   "words": "You're losing a visible",
+   "visual": "Close: the mound picture blows away out of the bubble.",
+   "beats": [
+    {
+     "word": "losing",
+     "at": 71.8,
+     "action": "Picture flies away."
+    }
+   ],
+   "camera": "Closer.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S71",
+   "start": 72.74,
+   "end": 73.56,
+   "words": "clue",
+   "visual": "The magnifier over the flat lawn finds only a dashed outline.",
+   "beats": [
+    {
+     "word": "clue",
+     "at": 72.74,
+     "action": "Magnifier, dashed outline."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S72",
+   "start": 73.56,
+   "end": 74.25,
+   "words": "about the nest,",
+   "visual": "The magnifier x-rays the lawn: the nest is still below.",
+   "beats": [
+    {
+     "word": "nest",
+     "at": 73.56,
+     "action": "X-ray tunnels and ants."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S73",
+   "start": 74.25,
+   "end": 74.9,
+   "words": "not getting",
+   "visual": "A gauge pops into the lawn.",
+   "beats": [
+    {
+     "word": "getting",
+     "at": 74.48,
+     "action": "Gauge."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S74",
+   "start": 74.9,
+   "end": 75.64,
+   "words": "a direct measurement",
+   "visual": "The gauge needle swings wildly and finds no reading.",
+   "beats": [
+    {
+     "word": "measurement",
+     "at": 75.22,
+     "action": "Needle swings; question mark."
+    }
+   ],
+   "camera": "Static.",
+   "transition_in": "Continuous."
+  },
+  {
+   "id": "S75",
+   "start": 75.64,
+   "end": 77.14,
+   "words": "of the colony's condition",
+   "visual": "Cutaway under the flat lawn: the busy colony with a big question mark.",
+   "beats": [
+    {
+     "word": "condition",
+     "at": 76.46,
+     "action": "Question mark pops."
+    }
+   ],
+   "camera": "Wide.",
+   "transition_in": "Hard cut."
+  },
+  {
+   "id": "S76",
+   "start": 77.14,
+   "end": 79.2,
+   "words": "or its developing young.",
+   "visual": "Zoom into a brood chamber; a question mark beside the brood. Final hold.",
+   "beats": [
+    {
+     "word": "developing",
+     "at": 77.5,
+     "action": "Zoom in."
+    },
+    {
+     "word": "young",
+     "at": 77.98,
+     "action": "Question mark."
+    }
+   ],
+   "camera": "Push in.",
+   "transition_in": "Continuous."
+  }
+ ]
+}

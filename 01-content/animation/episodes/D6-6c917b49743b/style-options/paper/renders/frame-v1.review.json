@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "fire-ant-style-options",
+  "style": "paper",
+  "candidate": "frame-v1.png",
+  "candidate_sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060",
+  "stage": "style_review",
+  "decision": "approved",
+  "feedback": [
+    {
+      "at": "2026-10-19T21:30:30.874783+00:00",
+      "user_text": "c",
+      "meaning": "Selected this illustration style from A\u2013D."
+    }
+  ],
+  "approved_by": "Drew",
+  "approved_at": "2026-10-19T21:30:30.874783+00:00",
+  "next_step_after_approval": "Measure the approved audio excerpt, then render the short moving test."
+}

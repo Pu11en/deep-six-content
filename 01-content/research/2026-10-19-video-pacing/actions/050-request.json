@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 50,
+  "idempotency_key": "d6-50-c1e4bbb44bae6b3d",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e8",
+    "assessment": "supported",
+    "reason": "Quote found; supports the one-knowledge-beat-per-shot rule in this skill."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-62-8af8d67866131923",
+  "payload": "{\"action\":{\"evidence_ids\":[\"e13\",\"e14\",\"e15\",\"e16\",\"e17\"],\"question_id\":\"q3\",\"reason\":\"The list is a gallery of X posts with prompts. The crawler snapshot was cut at 24,000 characters before the Explainers section, so only two Explainers prompt files and the Skillry gallery page were read. Prompts say 'fast moving' and 'punchy' but give no measured pacing.\",\"status\":\"addressed\",\"tool\":\"coverage\"},\"expected_revision\":62}",
+  "revision": 63,
+  "outcome": "applied"
+}

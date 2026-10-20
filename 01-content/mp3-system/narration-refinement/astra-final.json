@@ -1,0 +1,128 @@
+{
+  "requested_model": "gpt-6-astra",
+  "effort": "high",
+  "subscription_only": true,
+  "fallback_enabled": false,
+  "live_state_written": false,
+  "human_approved": false,
+  "started_utc": "2026-10-20T04:57:23.833244+00:00",
+  "status": "complete",
+  "scripts": [
+    {
+      "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA female ensign wasp places one egg inside the case. When her egg hatches, the young wasp feeds on the dozen or more cockroach eggs inside.\n\nThe adult is only about a quarter of an inch long. Its back section looks like a tiny signal flag on a thin stalk, giving the ensign wasp its name. The wasp waves that little flag up and down.\n\nIf you spot one in your home, you can leave it alone. This wasp doesn’t sting or bite people.\n\nHelping you understand pests. Deep Six Pest Control.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F4",
+        "SRC-0fa91dcbc971-F3"
+      ]
+    }
+  ],
+  "quality": {
+    "status": "ready_for_review",
+    "changes": [
+      "Tightened the size and flag description and removed commentary about noticing the movement.",
+      "Preserved the single feeding explanation, recognition lesson, exact hook and approved outro.",
+      "Rechecked the spoken sequence and factual claims against the supplied evidence."
+    ],
+    "unresolved": [],
+    "calls": [
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narrations",
+        "at": "2026-10-20T04:57:51+00:00",
+        "prompt_version": "3eb76e79d3fc"
+      },
+      {
+        "provider": "codex",
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "attempts": [
+          {
+            "provider": "codex",
+            "model": "gpt-6-astra",
+            "result": "success"
+          }
+        ],
+        "stage": "narration_edit",
+        "at": "2026-10-20T04:58:15+00:00",
+        "prompt_version": "53681555e49e"
+      }
+    ],
+    "human_approved": false
+  },
+  "calls": [
+    {
+      "stage": "narrations",
+      "provider": "codex",
+      "model": "gpt-6-astra",
+      "effort": "high",
+      "attempts": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "result": "success"
+        }
+      ],
+      "prompt_sha256": "3eb76e79d3fce913034002f9792b92ba78bd22726f31618a79b95b23c53c6a5d",
+      "elapsed_seconds": 27.9,
+      "output": {
+        "scripts": [
+          {
+            "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA female ensign wasp places one egg inside the case. When her egg hatches, the young wasp feeds on the dozen or more cockroach eggs inside.\n\nThe adult is small, only about a quarter of an inch long. Its back section sits on a thin stalk and looks like a tiny signal flag, giving the ensign wasp its name. It waves that little flag up and down, a distinctive movement you might notice even on such a small insect.\n\nIf you spot this little visitor in your home, you can leave it alone. This wasp doesn’t sting or bite people.\n\nHelping you understand pests. Deep Six Pest Control.",
+            "fact_ids": [
+              "SRC-0fa91dcbc971-F1",
+              "SRC-0fa91dcbc971-F2",
+              "SRC-0fa91dcbc971-F4",
+              "SRC-0fa91dcbc971-F3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "stage": "narration_edit",
+      "provider": "codex",
+      "model": "gpt-6-astra",
+      "effort": "high",
+      "attempts": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "result": "success"
+        }
+      ],
+      "prompt_sha256": "53681555e49e4e35eb4c32d2eea935ecd773963bd15516a7cdfd3f5d1e63d607",
+      "elapsed_seconds": 23.7,
+      "output": {
+        "scripts": [
+          {
+            "text": "Why would a wasp lay its egg inside a cockroach’s egg case?\n\nA female ensign wasp places one egg inside the case. When her egg hatches, the young wasp feeds on the dozen or more cockroach eggs inside.\n\nThe adult is only about a quarter of an inch long. Its back section looks like a tiny signal flag on a thin stalk, giving the ensign wasp its name. The wasp waves that little flag up and down.\n\nIf you spot one in your home, you can leave it alone. This wasp doesn’t sting or bite people.\n\nHelping you understand pests. Deep Six Pest Control.",
+            "fact_ids": [
+              "SRC-0fa91dcbc971-F1",
+              "SRC-0fa91dcbc971-F2",
+              "SRC-0fa91dcbc971-F4",
+              "SRC-0fa91dcbc971-F3"
+            ]
+          }
+        ],
+        "changes": [
+          "Tightened the size and flag description and removed commentary about noticing the movement.",
+          "Preserved the single feeding explanation, recognition lesson, exact hook and approved outro.",
+          "Rechecked the spoken sequence and factual claims against the supplied evidence."
+        ],
+        "unresolved": []
+      }
+    }
+  ],
+  "finished_utc": "2026-10-20T04:58:15.201223+00:00"
+}

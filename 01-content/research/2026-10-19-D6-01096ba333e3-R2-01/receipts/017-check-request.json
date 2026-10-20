@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 16,
+  "idempotency_key": "research-488991e51202-a17",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e2",
+    "assessment": "supported",
+    "reason": "The article describes the larva feeding on a dozen or more eggs and states that parasitized cases do not hatch cockroaches. The claim is limited to successful feeding, not a guaranteed outcome of every attack. Independent original-page check passed."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": 1792441227.468351,
+  "final_url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/engine/package.json",
+  "id": "s18",
+  "policy": "public-readonly-free-v1",
+  "sha256": "07b1c8e0ac22a998d85eecc4b5ae2d494039c76edb4e6f3bb2f9f595240ac5fa",
+  "source_exists": true,
+  "text": "{\n  \"name\": \"anidoodle-engine\",\n  \"version\": \"0.9.4\",\n  \"private\": true,\n  \"type\": \"module\",\n  \"description\": \"Portable art core + backend adapters for illustrations, animations and films drawn entirely in code.\",\n  \"scripts\": {\n    \"still\": \"node tools/still.mjs\",\n    \"gate\": \"node tools/gate.mjs\",\n    \"emit\": \"node tools/emit.mjs\",\n    \"render\": \"node tools/render.mjs\",\n    \"test\": \"node tools/test.mjs\"\n  },\n  \"dependencies\": {\n    \"esbuild\": \"0.25.12\"\n  },\n  \"devDependencies\": {\n    \"playwright-core\": \"1.63.0\",\n    \"typescript\": \"5.9.3\"\n  },\n  \"optionalDependencies\": {\n    \"@remotion/bundler\": \"4.0.522\",\n    \"@remotion/renderer\": \"4.0.522\",\n    \"react\": \"19.3.0\",\n    \"remotion\": \"4.0.522\"\n  }\n}\n",
+  "truncated": false,
+  "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/engine/package.json"
+}

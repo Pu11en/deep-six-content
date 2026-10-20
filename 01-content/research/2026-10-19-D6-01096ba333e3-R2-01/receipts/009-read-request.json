@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 8,
+  "idempotency_key": "research-488991e51202-a9",
+  "action": {
+    "tool": "read",
+    "url": "https://extension.okstate.edu/fact-sheets/cockroaches-and-their-control.html"
+  }
+}

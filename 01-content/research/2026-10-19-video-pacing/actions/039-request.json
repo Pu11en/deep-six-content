@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 39,
+  "idempotency_key": "d6-39-ce1a9a5ee6b8c416",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s11",
+    "claim": "A listed Explainers entry (Ethan Mollick's X post) was prompted for a self-referential, fast-moving recursion video.",
+    "quote": "make this self-referential & clever & fast moving"
+  }
+}

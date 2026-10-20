@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-29-2c565edc18880a21",
+  "payload": "{\"action\":{\"claim\":\"The same blog says story-driven Shorts need a new visual or story beat every 5-7 seconds.\",\"quote\":\"a new visual or story beat every 5-7 seconds\",\"source_id\":\"s13\",\"tool\":\"evidence\"},\"expected_revision\":29}",
+  "revision": 30,
+  "outcome": "applied"
+}

@@ -1,0 +1,17 @@
+{
+  "approved_utc": "2026-10-20T04:04:01.805819+00:00",
+  "user_reply": "good ok",
+  "context": "User approved the finished v2 review after being told approval would trigger the fire-ant closing and join.",
+  "finished_outro_approved": true,
+  "fire_ant_closing_and_join_authorized": true,
+  "approved_spoken_line": "Helping you understand pests. Deep Six Pest Control.",
+  "approved_assets": {
+    "assets/outro-animation-v2.mp4": "201c8cf62c61b415574ae0fdf3676fbc258f5a7dc1685cd34e7a4a650472569e",
+    "assets/outro-animation-clean-v2.mp4": "aef5daa51f6ad7f41dd03759ad154787ca84ccfb1ecec69c4e5f2336a145c614",
+    "assets/outro-review-fire-ant-v2.mp4": "8e8ace076c3fc93deab648bb6955432b9609e58ef56fe40233ec54a871ddf4c3"
+  },
+  "reusable_asset_has_fixed_narrator": false,
+  "future_narration_rule": "Generate each whole narration including outro in that episode voice.",
+  "publishing_authorized": false,
+  "production_cap_remains_usd": 3.0
+}

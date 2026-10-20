@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-63-94cd601ee621f05c",
+  "payload": "{\"action\":{\"evidence_ids\":[],\"question_id\":\"q4\",\"reason\":\"Limits identified: the crawler is caller-driven with no browser, no video access and no model calls; YouTube pages exceeded its size limit; page text and search snippets are leads only. Pacing was therefore measured locally on downloaded low-resolution clips.\",\"status\":\"addressed\",\"tool\":\"coverage\"},\"expected_revision\":63}",
+  "revision": 64,
+  "outcome": "coverage_requires_known_question_and_supported_evidence"
+}

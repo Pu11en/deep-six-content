@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-41-9ca7f16a2a79351f",
+  "payload": "{\"action\":{\"claim\":\"The Skillry gallery for the same list shows a creator prompt that morphs each shot into the next instead of cutting.\",\"quote\":\"shapes, type and colour transform into the next scene\",\"source_id\":\"s15\",\"tool\":\"evidence\"},\"expected_revision\":41}",
+  "revision": 42,
+  "outcome": "applied"
+}

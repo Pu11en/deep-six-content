@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "fire-ant-brood",
+  "candidate": "frame-v1.png",
+  "candidate_sha256": "cedd6ccad617f6a68973bdaeadb09654398e556438d5b42b5f862289fc307bba",
+  "stage": "style_review",
+  "decision": "revision_requested",
+  "feedback": [
+    {
+      "text": "use the branding colors from that one ad image",
+      "scope": "branding palette",
+      "recorded_at": "2026-10-19T21:04:09.009494+00:00",
+      "interpretation": "Apply the Deep Six ad palette. No rejection of the underlying insect or nest drawing was stated."
+    }
+  ],
+  "approved_by": null,
+  "approved_at": null,
+  "next_step_after_approval": "Measure the approved audio excerpt, then render the short moving test."
+}

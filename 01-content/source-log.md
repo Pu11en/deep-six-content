@@ -51,3 +51,69 @@ These inform how scripts are written, not pest facts. They do not consume a new 
 ## Coverage of this log
 
 Started October 16, 2026 with D6-ANT-001. Earlier research lists are candidate libraries. Previous scorpion experiments predate this log; their factual sources have not been reconstructed, so this is not a complete historical audit.
+
+<!-- d6-source-log:start -->
+## Writing-flow source use
+
+Reserved when presented for review (older records were reserved at hook drafting). These are review/draft records, not publication records.
+
+- SRC-24f90957c9a9 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00
+  How can I tell if I have fire ants? — https://fireant.tamu.edu/manage/how-can-i-tell-if-i-have-fire-ants
+  Lesson: A fire-ant mound can lack a visible entrance because the ants travel through underground tunnels. Look at mound structure without disturbing it.
+
+- SRC-10b6f9cb2c80 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00
+  Carpenter ants around homes — https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2001
+  Lesson: Carpenter ants use wood and cavities for shelter rather than eating wood. Texas species generally cause less damage than their northern counterparts.
+
+- SRC-6805c0a6aed7 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00
+  Swarming Insects Indoors — https://citybugs.tamu.edu/factsheets/landscape/ants/ent-2012
+  Lesson: Wings alone cannot distinguish flying ants from termites. Compare the waist, antennae and wing proportions.
+
+- SRC-5454bc8d3db2 · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00
+  Texas Leaf Cutting Ant — https://citybugs.tamu.edu/factsheets/landscape/ants/ent-1002
+  Lesson: Leaf-cutting ants carry foliage underground to grow their food. In summer, nighttime observation can help explain disappearing garden leaves.
+
+- SRC-97a7baaf455d · D6-2d2a1eb6b091 · 2026-10-19T17:25:36+00:00
+  Ants — https://npic.orst.edu/pest/ant.html
+  Lesson: Cleaning an ant trail can remove its chemical guidance signal; vacuuming also removes the ants already present.
+
+- SRC-f231feb3699d · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00
+  Fire Ant Frequently Asked Questions — https://fireant.tamu.edu/manage/faq
+  Lesson: A drought can hide fire-ant activity without eliminating the colony. A quiet-looking lawn is not proof that the ants have disappeared.
+
+- SRC-1d0e24b2f14b · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00
+  Tawny Crazy Ants: A Texas-Size Problem — https://extensionentomology.tamu.edu/wp-content/uploads/2025/03/tawny-crazy-ants-a-texas-size-problem.pdf
+  Lesson: Inspect incoming landscaping materials before moving them onto your property: people can transport tawny crazy ants with plants, mulch and other materials.
+
+- SRC-be0d626096a9 · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00
+  Cleaning insect poop off trees — https://citybugs.tamu.edu/2019/10/29/cleaning-insect-poop
+  Lesson: Ants visiting a sticky plant may be feeding on honeydew from sap-feeding insects. Look for aphids or scale insects to understand the activity.
+
+- SRC-093a88be2059 · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00
+  Identifying household ants — https://citybugs.tamu.edu/factsheets/household/ants-house/ent-2013
+  Lesson: An ant's running speed does not identify it by itself. Observe worker-size differences and activity patterns to gather useful identification clues.
+
+- SRC-6042c20d9cb3 · D6-2d2a1eb6b091 · 2026-10-19T17:41:48+00:00
+  Biology — https://fireant.tamu.edu/learn/biology
+  Lesson: Fire-ant mating flights help explain new colonies: winged reproductives leave, mate, and fertilized queens start nests after landing.
+
+- SRC-0fa91dcbc971 · D6-e531a6490a21 · 2026-10-19T23:22:54+00:00
+  Flag waving for Americans — https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans
+  Lesson: Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.
+
+- SRC-9c3cbed0ebf3 · D6-e531a6490a21 · 2026-10-19T23:22:54+00:00
+  Why do I have roaches in my home? — https://npic.orst.edu/faq/roach.html
+  Lesson: Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.
+
+- SRC-6c5ad958f7d8 · D6-e531a6490a21 · 2026-10-19T23:22:54+00:00
+  Cockroaches — https://npic.orst.edu/pest/roach.html
+  Lesson: Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.
+
+- SRC-5d9457fca92d · D6-e531a6490a21 · 2026-10-19T23:22:54+00:00
+  The Turkestan Cockroach: An Emerging Pest in Texas — https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas
+  Lesson: Male and female Turkestan cockroaches can look like different species. Learn why the male's long wings and the female's shorter wings matter when identifying this Texas invader.
+
+- SRC-8b3afefd5921 · D6-e531a6490a21 · 2026-10-19T23:22:54+00:00
+  Bug bombs bomb — https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb
+  Lesson: An apartment study found no significant drop in German cockroach numbers after fogging. Explore why filling a room with insecticide fog does not guarantee reaching roaches in protected cracks.
+<!-- d6-source-log:end -->

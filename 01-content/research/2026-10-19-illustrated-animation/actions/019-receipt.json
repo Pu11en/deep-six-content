@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-19-f7e6dae77ea0fbe2",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://motioncanvas.io/docs/flow/\"},\"expected_revision\":19}",
+  "revision": 20,
+  "outcome": "applied"
+}

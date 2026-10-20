@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 8,
+  "idempotency_key": "d6-8-d619e24b7f1ff5f2",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/lib/film.mjs"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-67-f8cee93f27f8faab",
+  "payload": "{\"action\":{\"claim\":\"HandDraw describes its core as whiteboard-animation rendering.\",\"quote\":\"Agent-native, deterministic whiteboard-animation rendering.\",\"source_id\":\"s2\",\"tool\":\"evidence\"},\"expected_revision\":67}",
+  "revision": 68,
+  "outcome": "applied"
+}

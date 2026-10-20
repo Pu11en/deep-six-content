@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-60-29b5b1c35ff87610",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e14\",\"reason\":\"Direct source declaration. Header says 60 seconds, README says 47; imported cue values were not evaluated, leaving actual duration unresolved.\",\"tool\":\"check\"},\"expected_revision\":60}",
+  "revision": 61,
+  "outcome": "applied"
+}

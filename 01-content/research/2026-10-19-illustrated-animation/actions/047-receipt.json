@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-47-f384489946fa6544",
+  "payload": "{\"action\":{\"claim\":\"The colony demo fixes 1920x1080, 24 fps and 32 seconds.\",\"quote\":\"const W = 1920, H = 1080, FPS = 24, DUR = 32;\",\"source_id\":\"s9\",\"tool\":\"evidence\"},\"expected_revision\":47}",
+  "revision": 48,
+  "outcome": "applied"
+}

@@ -1,0 +1,108 @@
+{
+  "cards": [
+    {
+      "url": "https://citybugs.tamu.edu/2015/05/05/flag-waving-for-americans/",
+      "title": "Flag waving for Americans",
+      "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+      "date": "2015-05-05",
+      "lesson": "Ensign wasps lay eggs inside cockroach egg cases, where their young feed on the roach eggs. Explain what this small, non-stinging visitor is doing in a home and how it attacks a hidden stage of the cockroach life cycle.",
+      "species": "Ensign wasp (Evania appendigaster); American cockroach (Periplaneta americana), with smokybrown and Oriental cockroaches also discussed",
+      "region": "Texas extension education; general biology relevant where the named cockroaches and wasps occur",
+      "limits": "An older educational article, not a Central Texas population survey. A wasp sighting is a clue, not proof of an active infestation or complete cockroach control. Do not extend the host relationship to every cockroach species.",
+      "facts": [
+        {
+          "statement": "A female ensign wasp places a single egg inside a cockroach egg case.",
+          "quote": "lays a single egg"
+        },
+        {
+          "statement": "The developing wasp larva feeds on cockroach eggs inside that case.",
+          "quote": "wasp larva matures while feeding on the dozen or more cockroach eggs"
+        },
+        {
+          "statement": "The ensign wasp described in this article does not sting or bite people.",
+          "quote": "it does not sting or bite"
+        }
+      ]
+    },
+    {
+      "url": "https://npic.orst.edu/faq/roach.html",
+      "title": "Why do I have roaches in my home?",
+      "publisher": "National Pesticide Information Center, Oregon State University",
+      "date": "undated",
+      "lesson": "Cockroaches can hitchhike indoors and survive even in well-kept homes. Explain why a sighting does not, by itself, mean poor housekeeping, and how incoming bags and containers can bring them inside.",
+      "species": "Household cockroaches; the article does not assign every entry route to one species",
+      "region": "General United States homeowner guidance; applicable entry routes are not a Central Texas prevalence estimate",
+      "limits": "This does not mean sanitation is unimportant or that a particular home's infestation came from a bag. Identify the species and inspect actual conditions before deciding the source. Exclude medical and pesticide-use sections from narration.",
+      "facts": [
+        {
+          "statement": "Finding cockroaches alone does not establish that a home is dirty.",
+          "quote": "Finding roaches is not a sign that your house is dirty."
+        },
+        {
+          "statement": "Cockroaches can enter homes on bags, backpacks, suitcases and other containers.",
+          "quote": "Hitching a ride on bags, backpacks, suitcases and other containers."
+        }
+      ]
+    },
+    {
+      "url": "https://npic.orst.edu/pest/roach.html",
+      "title": "Cockroaches",
+      "publisher": "National Pesticide Information Center, Oregon State University",
+      "date": "undated",
+      "lesson": "Cockroaches are attracted to their own debris. Explain why cleanup includes dead roaches, eggs and droppings, and how sticky traps help reveal areas of activity.",
+      "species": "Household cockroaches; German and American cockroaches are discussed separately where their needs differ",
+      "region": "General United States guidance; no local infestation rates or Texas-specific measurements",
+      "limits": "The page states attraction to debris but does not explain the chemical mechanism or quantify the effect. Supporting science is needed for that depth. Traps monitor activity; this source does not establish that trapping or cleaning alone eliminates an infestation. Exclude medical and product-specific advice.",
+      "facts": [
+        {
+          "statement": "Cockroaches are attracted to their own debris, which the page identifies as dead cockroaches, eggs and feces.",
+          "quote": "Cockroaches are attracted to their own debris."
+        },
+        {
+          "statement": "Sticky traps or glue boards can help identify areas of cockroach activity in a home.",
+          "quote": "Monitor and assess cockroach activity using sticky traps or glue boards."
+        }
+      ]
+    },
+    {
+      "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+      "title": "The Turkestan Cockroach: An Emerging Pest in Texas",
+      "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+      "date": "2024-06-26",
+      "lesson": "Male and female Turkestan cockroaches can look like different species. Learn why the male's long wings and the female's shorter wings matter when identifying this Texas invader.",
+      "species": "Turkestan cockroach (Blatta lateralis); American and Oriental cockroaches appear as identification comparisons",
+      "region": "Texas reports include El Paso and North Texas; no claim of confirmed New Braunfels prevalence",
+      "limits": "The 2024 article is not a current distribution survey. Do not identify an unseen insect, imply every flying roach is Turkestan, or repeat its broad disease and water-contamination claims. Preserve the distinction between males, females and nymphs.",
+      "facts": [
+        {
+          "statement": "Adult male Turkestan cockroaches are slender and brownish orange/red, with long yellowish wings.",
+          "quote": "brownish orange/red, slender, and have long, yellowish wings"
+        },
+        {
+          "statement": "Adult female Turkestan cockroaches are broader than males and have short vestigial wings.",
+          "quote": "They are broader than Turkestan males and have short vestigial wings."
+        }
+      ]
+    },
+    {
+      "url": "https://citybugs.tamu.edu/2019/02/05/bug-bombs-bomb/",
+      "title": "Bug bombs bomb",
+      "publisher": "Texas A&M AgriLife Extension Service — Insects in the City",
+      "date": "2019-02-05",
+      "lesson": "An apartment study found no significant drop in German cockroach numbers after fogging. Explore why filling a room with insecticide fog does not guarantee reaching roaches in protected cracks.",
+      "species": "German cockroach (Blattella germanica)",
+      "region": "United States study summarized by Texas extension; researchers were at North Carolina State University, but this article does not specify the apartment locations",
+      "limits": "The findings concern the studied apartments, products and two-to-four-week follow-up, not every roach species or every treatment. The article discusses hiding and resistance; do not claim hiding alone caused the study result. Keep this a behavior and evidence lesson, without product recommendations, dosing or health advice.",
+      "facts": [
+        {
+          "statement": "In the apartment study summarized here, fogger-treated homes showed no significant decrease in free-roaming German cockroach numbers two to four weeks later.",
+          "quote": "there was no significant drop in these wild cockroach numbers"
+        },
+        {
+          "statement": "The extension article explains that cockroaches can retreat to protected crevices when they sense an irritating insecticide.",
+          "quote": "cockroaches typically hide in protective crevices when they sense an irritating insecticide"
+        }
+      ]
+    }
+  ]
+}

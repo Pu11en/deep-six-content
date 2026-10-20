@@ -1,0 +1,12 @@
+{
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": 1792449603.2138836,
+  "final_url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/prompts/deedydas-252537.md",
+  "id": "s12",
+  "policy": "public-readonly-free-v1",
+  "sha256": "fb286692637183b75ce9418e59885b6c696e100adf2ed176cc75faa0cea9854f",
+  "source_exists": true,
+  "text": "# Opus 5.5 video by @deedydas\n\n[▶ Watch the original and a live remake on Skillry](https://skillry.dev/ai-videos/opus-5-5/deedydas-252537?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos) · [Original post](https://x.com/deedydas/status/2102787937482252537)\n\n- **Category:** Explainers\n- **Remake built with:** SVG · GSAP\n- **Author:** [@deedydas](https://x.com/deedydas)\n\n## Prompt\n\n```text\nmake a modern slick and punchy video for a modern startup that works on inference\n```\n",
+  "truncated": false,
+  "url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/prompts/deedydas-252537.md"
+}

@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-3-39bb1c89f1179253",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/motion-canvas/motion-canvas/main/README.md\"},\"expected_revision\":3}",
+  "revision": 4,
+  "outcome": "applied"
+}

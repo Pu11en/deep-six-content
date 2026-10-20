@@ -1,0 +1,497 @@
+{
+  "segment": "astra-ending",
+  "pacing_rules": {
+    "max_shot_seconds": 1.9,
+    "new_visual_action_every_seconds": 0.5,
+    "timing": "All shot boundaries and beat at values are absolute narration seconds. Preserve each supplied word start exactly; impacts and reveals land on the first rendered frame at or after that time at 30 fps, never late by a deliberate animation lead-in.",
+    "action_continuity": "The word field identifies the stressed word; each action explicitly covers its phrase. Ant gait, antennae, grass, parallax, and camera movement continue every frame. Additional timed follow-throughs inside action descriptions bridge spoken-word gaps and sentence pauses without inventing word-synced beats.",
+    "transitions": "Hard cuts, match cuts, or paper slides no longer than 0.16 seconds. The two production segments meet at 67.80 in the pause after 'quiet.' and before 'For'; visual shots remain much shorter than production segments.",
+    "motion_target": "Plan for no still interval over 0.33 seconds and roughly 17% picture change per half second, using meaningful subject reveals and foreground parallax rather than camera jitter; these are animator render-check targets, not measurements of this plan."
+  },
+  "science_guardrails": [
+    "Use only approved cut-paper style C: layered paper pieces made with cut(), soft cast shadows and fibre grain. Natural red-brown insects and soil, Deep Six purple #3A3148, lime #A9D554, cream #F0DDB2, paper #F6EFE2 and ink #1E1B22.",
+    "1080x1920, 9:16, 30 fps. Keep all key action inside x 80–930 and y 250–1250 after camera transforms; keep the bottom 300 pixels and rightmost 120 pixels free of important content. Coordinates in visual directions are screen coordinates, not biological dimensions.",
+    "Use only the existing yard, nest cutaway, and a macro nursery crop of that nest. Reframe the existing set rather than adding a fourth location. Mounds are irregular soil domes with no central opening.",
+    "Workers have six jointed legs attached to the thorax, two waist nodes, elbowed antennae, a red-brown head and thorax, and darker gaster. Use the kit's curved legless larvae and exposed ant-shaped pupae, never a cocoon.",
+    "Every underground image is an illustrative editorial cutaway, not an exact map, depth, measurement, optical view through a magnifier, or claim about the actual condition of a particular colony. Keep optical magnifier views strictly on surface materials.",
+    "Opaque paper covers conceal diagrams; they do not represent burial, colony death, soil collapse, or a new mechanism. Editorial mound removal and dashed silhouettes show the missing visible clue without explaining what physically removed it.",
+    "Show ordinary internal movement as something that can continue out of sight. Never imply certain survival, certain death, guaranteed brood presence, fixed relocation direction, or an assessment based on surface appearance.",
+    "No invented desiccation physiology, exact nesting depths, universal temperature cutoffs, treatment prescriptions, heat or moisture overlays, protected-depth glow, water effects, or health color coding in this excerpt.",
+    "The only symbolic devices are the existing dashed mound for absence and the existing crossed-out gauge for the explicitly negated measurement inference. The brief unreadable gauge anticipation before 'not' is immediately rejected. It is detached from the soil and never presented as a real colony diagnostic instrument.",
+    "Word-synced captions are the only writing. Use the supplied words unchanged, one to four words per group, on torn strips centered near y 1420, with lime tape landing on the spoken word. Fit the whole strip, including padding, inside x 60–940; no labels, numbers, equations, titles, or additional text.",
+    "No subsequent narration or outro was supplied. End the last shot in motion at 78.60, without inventing a new claim, slogan, or call to action."
+  ],
+  "new_assets": [],
+  "shots": [
+    {
+      "id": "S01",
+      "start": 57.6,
+      "end": 58.56,
+      "words": "So the nest you see",
+      "visual": "Open already moving across the yard's irregular soil mound, with its crown near (490,720) and swaying grass below. The house and fence establish a real backyard; the mound has no central hole.",
+      "beats": [
+        {
+          "word": "So",
+          "at": 57.69,
+          "action": "On 'So', bring the mound's near shoulder into the moving foreground to recall the surface clue; the mound is already visible at 57.60."
+        },
+        {
+          "word": "nest",
+          "at": 57.96,
+          "action": "For 'the nest', land a tighter view on the actual mound crown; three overlapping soil paper pieces separate visibly in parallax."
+        },
+        {
+          "word": "see",
+          "at": 58.36,
+          "action": "For 'you see', the existing magnifier sweeps onto the mound's left shoulder, enlarging only exposed soil crumbs, never the underground interior."
+        }
+      ],
+      "camera": "Continuous 5% push with a left-to-right drift; foreground grass crosses the lower edge of the action area. Keep the lens and its entire handle inside x 90–920, y 350–1230.",
+      "transition_in": "At 57.60 open mid-drift on a fully drawn mound; no fade from blank."
+    },
+    {
+      "id": "S02",
+      "start": 58.56,
+      "end": 59.47,
+      "words": "above ground",
+      "visual": "Match the mound to the nest cutaway set: mound above a clearly visible turf edge, with a narrow illustrative tunnel opening in the lower part of the composition. The open diagram belongs to the viewer, not to the magnifier or homeowner.",
+      "beats": [
+        {
+          "word": "above",
+          "at": 58.56,
+          "action": "On 'above', match-cut to the mound standing above the turf edge; the camera rises slightly along its outer slope."
+        },
+        {
+          "word": "ground",
+          "at": 58.84,
+          "action": "On 'ground', a lateral camera slide brings the paper turf edge across the foreground, clearly dividing exposed mound from the illustrated section below. Continue that slide to reveal another existing tunnel branch at 59.24; this is an editorial cutaway, not soil moving or a measured nest map."
+        }
+      ],
+      "camera": "Drift right across the surface boundary, keeping mound at y 430–760 and the small open section at y 850–1160. No depth scale.",
+      "transition_in": "Hard match cut on 'above' at 58.56; remove the magnifier with the cut."
+    },
+    {
+      "id": "S03",
+      "start": 59.47,
+      "end": 60.22,
+      "words": "doesn't show you",
+      "visual": "The open lower section is blocked by the nest set's opaque torn-soil cover while the mound remains visible. The cover is an editorial concealment of the diagram, not a biological event.",
+      "beats": [
+        {
+          "word": "doesn't",
+          "at": 59.47,
+          "action": "On 'doesn't', snap the opaque soil cover over the previously visible tunnel section in a 0.12-second paper slide: the expected view underneath is taken away, while the mound stays intact."
+        },
+        {
+          "word": "show",
+          "at": 59.78,
+          "action": "For 'show you', slide the camera farther along the covered section and expose only solid soil grain and pebbles; no chamber, ant, or brood can be seen through it."
+        }
+      ],
+      "camera": "Continue a 4% push and lateral drift across the opaque soil face; a grass blade sweeps across the top edge.",
+      "transition_in": "Hard cut on 'doesn't' to a closer view of the same open section, with the concealment impact on that frame."
+    },
+    {
+      "id": "S04",
+      "start": 60.22,
+      "end": 61.42,
+      "words": "where the developing ants",
+      "visual": "Reveal an illustrative nursery inside the existing nest, then move close enough to distinguish pale curved larvae and exposed ant-shaped pupae. Use existing brood drawings with a worker nearby; no cocoon, hatching, growth morph, or depth claim.",
+      "beats": [
+        {
+          "word": "where",
+          "at": 60.22,
+          "action": "For 'where the', pull the editorial soil cover aside in 0.12 seconds to expose an off-center chamber and its adjoining tunnel, changing from surface observation to an explanatory interior view."
+        },
+        {
+          "word": "developing",
+          "at": 60.66,
+          "action": "On 'developing', move the chamber's foreground paper rim aside within the crop, revealing a cluster of pale legless larvae resting on its floor."
+        },
+        {
+          "word": "ants",
+          "at": 61.08,
+          "action": "On 'ants', the lateral move reveals an existing exposed pupa beside the larvae, showing folded appendages and the developing ant body; a worker's elbowed antenna enters from the left."
+        }
+      ],
+      "camera": "Continuous 8% push into the nursery, then slide right from larvae to pupa. Keep brood at (510,930) and the worker within x 100–900, y 420–1190.",
+      "transition_in": "Hard cut on 'where' to the covered chamber crop; reveal it as an editorial diagram, never as an optical view through the yard."
+    },
+    {
+      "id": "S05",
+      "start": 61.42,
+      "end": 62.73,
+      "words": "are being kept.",
+      "visual": "In a tighter nursery view, one worker holds a pale larva over the chamber floor beside the existing brood. The chamber surrounds the group, making 'kept' a place and action rather than a floating brood icon.",
+      "beats": [
+        {
+          "word": "are",
+          "at": 61.42,
+          "action": "For 'are being', a worker already carrying a larva steps fully into the nursery crop, with all six legs attached to its thorax and both waist nodes readable."
+        },
+        {
+          "word": "kept.",
+          "at": 61.74,
+          "action": "On 'kept', the worker gently sets the larva beside the resting brood and releases it. Continue the same tending action: at 62.14 its head lifts and antennae sweep over the group; at 62.54 a second worker comes into view behind the chamber rim, sustaining visible activity through the sentence pause."
+        }
+      ],
+      "camera": "Track the first worker with a slow 5% push; drift past the near chamber rim so each worker entry changes the silhouette. Larva flexes subtly, with no developmental time-lapse.",
+      "transition_in": "Hard cut on 'are' to a closer, lower angle inside the same nursery."
+    },
+    {
+      "id": "S06",
+      "start": 62.73,
+      "end": 63.76,
+      "words": "The colony's internal",
+      "visual": "A wider nest-section view shows several workers moving through an interior tunnel and a nearby occupied chamber. All activity is illustrative; neutral soil colors carry no moisture, temperature, or health meaning.",
+      "beats": [
+        {
+          "word": "The",
+          "at": 62.73,
+          "action": "On 'The', hard-cut from the single nursery to an already moving tunnel-and-chamber view, opening the new sentence with a larger colony context."
+        },
+        {
+          "word": "colony's",
+          "at": 62.84,
+          "action": "On 'colony's', a second worker crosses into the foreground route while another remains visible in the chamber, making the collective activity literal."
+        },
+        {
+          "word": "internal",
+          "at": 63.32,
+          "action": "On 'internal', a drift behind an existing soil lip frames the workers inside the enclosing nest walls; a third worker emerges from behind that lip."
+        }
+      ],
+      "camera": "Continuous diagonal drift through the interior, with foreground soil parallax and a 4% push. Crop existing world coordinates into y 350–1200; do not show the whole vertical nest as a scale diagram.",
+      "transition_in": "Hard cut on the new sentence's 'The' at 62.73."
+    },
+    {
+      "id": "S07",
+      "start": 63.76,
+      "end": 65.06,
+      "words": "activity can continue",
+      "visual": "Track an ordinary worker walking past a chamber where another worker tends larvae. The motion demonstrates that unseen activity is possible, with no claim about the actual condition or survival of a particular colony.",
+      "beats": [
+        {
+          "word": "activity",
+          "at": 63.76,
+          "action": "On 'activity', the foreground worker steps across the chamber mouth as the nurse lowers its head toward a larva."
+        },
+        {
+          "word": "can",
+          "at": 64.26,
+          "action": "On 'can', the camera exposes the next portion of the same tunnel and a worker enters it; retain ordinary movement without a green health cue or an increase in colony size."
+        },
+        {
+          "word": "continue",
+          "at": 64.62,
+          "action": "On 'continue', carry the tracked worker uninterrupted past the next soil edge, while another worker moves in the opposite direction farther back."
+        }
+      ],
+      "camera": "Continuous horizontal tracking with a slight push; near soil pieces pass faster than the chamber wall. Ant gait, antennae, and nurse movement continue every frame.",
+      "transition_in": "Hard cut on 'activity' to a close tracking angle inside the same set."
+    },
+    {
+      "id": "S08",
+      "start": 65.06,
+      "end": 65.82,
+      "words": "out of sight",
+      "visual": "The active tunnel is successively occluded by the same opaque soil cover. Workers travel behind it instead of fading away or dying.",
+      "beats": [
+        {
+          "word": "out",
+          "at": 65.06,
+          "action": "On 'out', begin sliding the opaque editorial cover across the moving worker, concealing its head and then body while its gait continues behind the cover."
+        },
+        {
+          "word": "of",
+          "at": 65.36,
+          "action": "On 'of', the cover overtakes the next chamber opening; the visible worker is still walking at the edge until occluded."
+        },
+        {
+          "word": "sight",
+          "at": 65.52,
+          "action": "On 'sight', the last opening closes and hides the final antenna; only opaque soil and the turf edge remain, with no ghost ants showing through."
+        }
+      ],
+      "camera": "Slow upward drift along the moving cover, preparing to reach the surface; maintain parallax after the interior is fully hidden.",
+      "transition_in": "Hard cut on 'out' to a slightly wider view of the active route immediately before the cover crosses it."
+    },
+    {
+      "id": "S09",
+      "start": 65.82,
+      "end": 66.64,
+      "words": "while the surface",
+      "visual": "Return to the yard surface above the hidden activity: the mound and grass are visible, with no ants walking on the surface. The scene contrasts viewpoints, not before-and-after colony health.",
+      "beats": [
+        {
+          "word": "while",
+          "at": 65.82,
+          "action": "For 'while the', cut upward to the yard and let the turf edge from the previous composition match the lawn; a cloud continues drifting behind the mound."
+        },
+        {
+          "word": "surface",
+          "at": 66.26,
+          "action": "On 'surface', track along the exposed mound shoulder and adjacent grass, bringing a fresh patch of bare surface into view without revealing underground details."
+        }
+      ],
+      "camera": "Low lateral glide across the mound base; foreground blades pass through y 1090–1220 while the surface remains the dominant subject.",
+      "transition_in": "Hard match cut on 'while' at 65.82 from the covered section to the yard surface."
+    },
+    {
+      "id": "S10",
+      "start": 66.64,
+      "end": 67.8,
+      "words": "looks quiet.",
+      "visual": "A wider, visibly quiet mound and lawn contain no surface workers. Clouds, grass, and the camera keep moving so quiet does not become a frozen frame.",
+      "beats": [
+        {
+          "word": "looks",
+          "at": 66.64,
+          "action": "On 'looks', widen to a fresh stretch of the exposed lawn and mound, still showing no surface ants."
+        },
+        {
+          "word": "quiet.",
+          "at": 66.92,
+          "action": "On 'quiet', the drift opens a broad empty patch beside the mound. Continue that empty-surface observation through the pause: a foreground tuft crosses the mound edge at 67.32 and the moving crop reveals a fence post at 67.72; do not add a stillness symbol or stop the environmental motion."
+        }
+      ],
+      "camera": "Continuous 5% pullback and rightward drift; retain the mound near (480,880) and clear space on the left for the homeowner in the next shot.",
+      "transition_in": "Hard cut on 'looks' to the wider surface-only composition."
+    },
+    {
+      "id": "S11",
+      "start": 67.8,
+      "end": 69.01,
+      "words": "For a homeowner,",
+      "visual": "The same yard widens to include the existing homeowner stepping toward the mound, with house and fence behind. The homeowner looks at the surface clue rather than down into a visible nest.",
+      "beats": [
+        {
+          "word": "For",
+          "at": 68.11,
+          "action": "For 'For a', the homeowner's moving foot lands beside the mound while the gaze turns toward it."
+        },
+        {
+          "word": "homeowner,",
+          "at": 68.32,
+          "action": "On 'homeowner', the head turn lands and the camera exposes the house behind the shoulder. Continue the step into a settled stance at 68.72, with an arm beginning to lift toward the chin."
+        }
+      ],
+      "camera": "At the 67.80 sentence-pause segment boundary, reframe wider with the homeowner already mid-step; then drift toward the face and mound. Place the person at x 240, mound at x 600; key silhouettes stay inside y 300–1230.",
+      "transition_in": "Match cut at 67.80 inside the pause after 'quiet' and before 'For'; preserve the yard, mound, lighting, and cloud direction across the segment boundary."
+    },
+    {
+      "id": "S12",
+      "start": 69.01,
+      "end": 70.02,
+      "words": "that changes what a",
+      "visual": "Move closer to the homeowner and the still-visible mound. The homeowner's changed attention leads toward the coming absence, without a happy or alarmed health verdict.",
+      "beats": [
+        {
+          "word": "that",
+          "at": 69.01,
+          "action": "On 'that', the homeowner lowers the gaze from the mound crown to its footprint."
+        },
+        {
+          "word": "changes",
+          "at": 69.24,
+          "action": "On 'changes', the existing chin pose lands as the head tilts, turning a passing glance into a reconsidered look."
+        },
+        {
+          "word": "what",
+          "at": 69.68,
+          "action": "For 'what a', a short lateral camera move brings the whole mound silhouette into the foreground, preparing the presence-to-absence edit."
+        }
+      ],
+      "camera": "Continuous rightward slide and 4% push, keeping the homeowner's face and mound legible together; grass and cloud drift remain visible.",
+      "transition_in": "Hard cut on 'that' at 69.01 to a medium view with the mound still present."
+    },
+    {
+      "id": "S13",
+      "start": 70.02,
+      "end": 71.64,
+      "words": "missing mound means.",
+      "visual": "Switch the existing solid mound to its existing purple dashed outline over the lawn. The outline is explicitly a symbol of an absent surface clue; this is an editorial comparison, not a depicted process of collapse, removal, or treatment.",
+      "beats": [
+        {
+          "word": "missing",
+          "at": 70.02,
+          "action": "On 'missing', slide the solid mound paper layer out of the composition in 0.12 seconds, exposing the matching dashed silhouette over the empty lawn; keep the soil surface undisturbed."
+        },
+        {
+          "word": "mound",
+          "at": 70.3,
+          "action": "On 'mound', finish revealing the dashed dome shape so the missing object is unmistakable, with no central opening."
+        },
+        {
+          "word": "means.",
+          "at": 70.58,
+          "action": "On 'means', the homeowner tilts the head toward the empty footprint and keeps the chin pose, showing interpretation rather than a health conclusion. Carry the gaze through the pause: at 70.98 a grass tuft crosses the outline and at 71.38 the drifting crop exposes the bare center of the footprint."
+        }
+      ],
+      "camera": "Slow push toward the absent mound footprint while retaining the homeowner at the left edge. Keep the dashed symbol in x 270–850, y 750–1080.",
+      "transition_in": "Hard cut on 'missing' to the mound's footprint, with the solid mound visible at the instant its editorial removal begins."
+    },
+    {
+      "id": "S14",
+      "start": 71.64,
+      "end": 72.34,
+      "words": "You're losing a",
+      "visual": "Cut back to the homeowner's view over the same empty lawn; the remaining dashed mound outline supplies the reference for the lost clue. The underlying soil is not disturbed.",
+      "beats": [
+        {
+          "word": "You're",
+          "at": 71.64,
+          "action": "On 'You're', a closer view includes the homeowner's shoulder and face looking directly at the absent mound footprint."
+        },
+        {
+          "word": "losing",
+          "at": 71.8,
+          "action": "On 'losing', lift the leftmost pieces of the dashed outline away from the lawn, removing the last visual reminder rather than erasing any ants."
+        },
+        {
+          "word": "a",
+          "at": 72.06,
+          "action": "On 'a', the advancing removal reaches the crown of the outline; a moving foreground grass blade passes through the newly empty space."
+        }
+      ],
+      "camera": "Continuous 4% push past the homeowner's shoulder toward the footprint; keep the person and absence inside x 80–920.",
+      "transition_in": "Hard cut on the sentence's 'You're' at 71.64 to the homeowner's closer viewpoint."
+    },
+    {
+      "id": "S15",
+      "start": 72.34,
+      "end": 73.12,
+      "words": "visible clue",
+      "visual": "A close surface inspection uses the existing magnifier over ordinary grass and soil, with the remaining dashed mound edge outside its rim. The glass has no X-ray effect.",
+      "beats": [
+        {
+          "word": "visible",
+          "at": 72.34,
+          "action": "On 'visible', the magnifier lands over the bare mound footprint and enlarges only real surface grass and soil."
+        },
+        {
+          "word": "clue",
+          "at": 72.74,
+          "action": "On 'clue', the final dashed mound edge slips out of view beyond the lens, leaving no mound to inspect; the lens continues traveling over the bare surface."
+        }
+      ],
+      "camera": "Track the lens left-to-right with a slight push, keeping its entire handle above y 1230 and left of x 930. Never show brood through the glass.",
+      "transition_in": "Hard cut on 'visible' at 72.34 to the lens and the last part of the dashed absence symbol."
+    },
+    {
+      "id": "S16",
+      "start": 73.12,
+      "end": 74.25,
+      "words": "about the nest,",
+      "visual": "Return to a small illustrative nest section under a turf edge, visibly separate from the preceding optical lens. In the final part of this shot, the existing detached gauge enters as the expectation about to be rejected, without numbers or a readable value.",
+      "beats": [
+        {
+          "word": "about",
+          "at": 73.12,
+          "action": "For 'about the', match-cut the surface footprint to the turf edge of the explanatory nest section; a foreground soil lip slides past to reveal a chamber."
+        },
+        {
+          "word": "nest,",
+          "at": 73.56,
+          "action": "On 'nest', the drift exposes a connected tunnel with an ordinary walking worker, making the referent literal. At 73.96, the existing gauge slides in from the upper left as a loose, tilted paper prop, its dial edge-on and unreadable; it anticipates the immediately following negation and never touches or probes the soil."
+        }
+      ],
+      "camera": "Continuous short downward drift and 4% push through the illustrative chamber crop, then continue laterally as the gauge enters at x 260, y 550. Do not imply a measured link from mound size to nest size.",
+      "transition_in": "Hard cut on 'about' at 73.12; remove the physical magnifier entirely before showing the explanatory interior."
+    },
+    {
+      "id": "S17",
+      "start": 74.25,
+      "end": 75.22,
+      "words": "not getting a direct",
+      "visual": "Reject the anticipated measurement: the tilted gauge folds aside under the existing purple X. This gauge-and-X combination is solely a symbol for the negated measurement claim, never a functioning colony-health instrument.",
+      "beats": [
+        {
+          "word": "not",
+          "at": 74.25,
+          "action": "On 'not', slap the purple X over the entering gauge and knock its face farther edge-on in 0.12 seconds, visibly taking away the expected reading."
+        },
+        {
+          "word": "getting",
+          "at": 74.48,
+          "action": "For 'getting a', the rejected gauge slides away from the nest crop, exposing plain cream paper where a reading would have appeared; the X travels with the prop."
+        },
+        {
+          "word": "direct",
+          "at": 74.9,
+          "action": "On 'direct', pull the crossed-out gauge farther apart from the visible nest section, leaving an unmistakable open gap rather than a connecting arrow or probe."
+        }
+      ],
+      "camera": "Track the departing gauge with a 4% push; keep both the real soil section and the moving negation visible in x 100–900, y 400–1170.",
+      "transition_in": "Hard cut on 'not' at 74.25 to the entering gauge, with the X impact on that first word frame."
+    },
+    {
+      "id": "S18",
+      "start": 75.22,
+      "end": 76.04,
+      "words": "measurement of the",
+      "visual": "Give the rejected dial one brief close view, then return visual priority to soil and workers. The X stays over the dial; no needle sweep, score, color scale, calibrated reading, or extra writing is shown.",
+      "beats": [
+        {
+          "word": "measurement",
+          "at": 75.22,
+          "action": "On 'measurement', turn the already crossed-out gauge just enough to recognize the dial silhouette and tick marks; the X obscures its center and needle, so no value can be read."
+        },
+        {
+          "word": "of",
+          "at": 75.64,
+          "action": "For 'of the', carry the gauge and X together out of the left edge while the camera reveals an existing worker behind a chamber lip on the right, passing attention back to the living subject."
+        }
+      ],
+      "camera": "Continuous lateral move from the denied dial toward the chamber; push 3% throughout. Keep the last visible gauge within y 400–900 and the worker within y 750–1120.",
+      "transition_in": "Hard cut on 'measurement' at 75.22 to the same already-negated prop, without resetting it to an apparently usable instrument."
+    },
+    {
+      "id": "S19",
+      "start": 76.04,
+      "end": 77.14,
+      "words": "colony's condition",
+      "visual": "An illustrative worker-and-chamber view is progressively hidden behind opaque soil. The surface clue yields no visible assessment of the colony's condition: there are no healthy/sick colors, dead ants, growth indicators, or survival symbols.",
+      "beats": [
+        {
+          "word": "colony's",
+          "at": 76.04,
+          "action": "On 'colony's', reveal two workers crossing near a chamber mouth, grounding the abstract condition in the actual colony subject."
+        },
+        {
+          "word": "condition",
+          "at": 76.46,
+          "action": "On 'condition', the opaque soil cover begins concealing those workers, withholding an assessment rather than changing their bodies. At 76.86, the cover passes the chamber rim and hides the last worker while the camera continues moving; the diagram is being occluded, not the colony disappearing."
+        }
+      ],
+      "camera": "Continuous sideways drift with 5% push; the soil cover moves across the same x 170–880, y 500–1160 action region. Hold natural colors unchanged.",
+      "transition_in": "Hard cut on 'colony's' at 76.04 to the interior, with no gauge remaining and no implied diagnosis."
+    },
+    {
+      "id": "S20",
+      "start": 77.14,
+      "end": 78.6,
+      "words": "or its developing young.",
+      "visual": "Finish on a large, readable nursery example: pale legless larvae and an exposed pupa beside a tending worker. Then let the opaque soil cover conceal this explanatory view, ending on the distinction between a visible surface and hidden young without asserting their condition in an actual nest.",
+      "beats": [
+        {
+          "word": "or",
+          "at": 77.14,
+          "action": "For 'or its', hard-cut to a separate illustrative nursery crop, with the worker's antennae already moving above the resting brood."
+        },
+        {
+          "word": "developing",
+          "at": 77.5,
+          "action": "On 'developing', drift past the near chamber lip to reveal the pale curved larvae beside the exposed pupa; show these existing stages together, without a growth or hatching animation."
+        },
+        {
+          "word": "young.",
+          "at": 77.98,
+          "action": "On 'young', land the closest framing on a larva beside the worker's head, with the surrounding brood still readable. At 78.38, begin a 0.16-second editorial soil-cover slide that hides the nursery; keep drifting across the textured cover and turf edge through 78.60, ending in motion with no health verdict, end card, or invented next line."
+        }
+      ],
+      "camera": "Continuous 6% push toward brood at (500,940), with lateral parallax along the chamber rim. Keep brood and worker wholly within y 450–1210; continue the drift after the cover closes.",
+      "transition_in": "Hard cut on 'or' at 77.14 to the nursery example; finish at 78.60 on the moving covered surface, ready for a separately planned outro."
+    }
+  ]
+}

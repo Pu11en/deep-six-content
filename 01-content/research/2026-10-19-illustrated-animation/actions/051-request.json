@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 51,
+  "idempotency_key": "d6-51-332f35e2da4ca9e7",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s11",
+    "claim": "Anidoodle documents a folk-tale storybook style with paint and pencil on cream paper.",
+    "quote": "| **Folk-tale storybook** | Painted foreground dissolving into pencil line on cream paper |"
+  }
+}

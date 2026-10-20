@@ -1,0 +1,26 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 30,
+  "idempotency_key": "research-8a92111d8a9a-a31",
+  "action": {
+    "tool": "final",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "caveats": [
+      "The UC page failed with redirect_limit and contributes no imported evidence.",
+      "Minnesota species prevalence and winter management are excluded; only species biology and general indoor guidance are used.",
+      "No local whole-home suppression rate, release recommendation, infestation diagnosis from a wasp sighting, or German cockroach host claim is supported."
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "checked_date": "2026-10-19",
+  "phase": "outro_and_fire_ant_final_approved_complete",
+  "status": "Drew approved the reusable outro and complete fire-ant video; both are saved locally.",
+  "generated_assets": [
+    "assets/deep-six-fire-ants-full-v2-with-outro.mp4",
+    "assets/fire-ant-closing-tyler-source-v1.mp3",
+    "assets/fire-ant-closing-tyler-v1.wav",
+    "assets/fire-ant-tyler-signoff-review-v2.wav",
+    "assets/fire-ant-tyler-signoff-source-v2.mp3",
+    "assets/hybrid-still-v3.jpg",
+    "assets/mascot-motion-source-v1.mp4",
+    "assets/mascot-motion-source-v2.mp4",
+    "assets/outro-animation-clean-v2.mp4",
+    "assets/outro-animation-v2.mp4",
+    "assets/outro-audio-v1.wav",
+    "assets/outro-master-v1.mp4",
+    "assets/outro-review-fire-ant-v2.mp4",
+    "assets/outro-review-v1.mp4",
+    "assets/outro-v2-end.jpg",
+    "assets/outro-v2-start.jpg",
+    "previews/outro-v2-finish.png",
+    "previews/outro-v2-motion.gif"
+  ],
+  "generation_spend_usd": 2.3475645,
+  "concept_approved": true,
+  "source_files_before": {
+    "01-content/brand/fun-fact-friday-spider.png": {
+      "bytes": 1690697,
+      "sha256": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708"
+    },
+    "01-content/brand/style-spec.md": {
+      "bytes": 1939,
+      "sha256": "ff07cf364b0bf50bc33d25f5eddba8fb6475bb13c4bfb41b912cd0fe63310900"
+    },
+    "01-content/brand/code-mascot/reaper.svg": {
+      "bytes": 6615,
+      "sha256": "89ef8fe43530313efaeb4bb591461e3022d49c0787ba303fa5b98d1b3ebd1714"
+    },
+    "01-content/brand/code-mascot/compare.png": {
+      "bytes": 800545,
+      "sha256": "910b84cab0a9a46e63b02bd463aa85f8e4d3f9104106ff54900b40fa2763ec34"
+    },
+    "01-content/animation/brand.json": {
+      "bytes": 786,
+      "sha256": "9630b58d2a2a34c36121cf7e3c5e1c4d37ac5451723c36de73edb968e203e32b"
+    },
+    "01-content/animation/NEXT-SESSION.md": {
+      "bytes": 1444,
+      "sha256": "838e1b7e96f5190a62c434b70602bdd0c84cc22d7763487cd85a133a150b9cd0"
+    },
+    "01-content/mp3-system/OUTRO-PAUSE.md": {
+      "bytes": 1739,
+      "sha256": "d9b9cd49de08d8d2d8941398534345d8e1e28b95c9752c3c4da453f9628891c7"
+    },
+    "01-content/mp3-system/narrations-before-outro.json": {
+      "bytes": 15326,
+      "sha256": "e8f48019c11a554f74726ccdb1f9d5a71a0dd75c923bc4f80fd4cd52bf923f3d"
+    },
+    "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4": {
+      "bytes": 67496747,
+      "sha256": "c7ff2561764537bf68eef8b57a62ac3c5399e382f90baeec183e4620c825aa06"
+    },
+    "01-content/outro/START-SESSION.md": {
+      "bytes": 3042,
+      "sha256": "fc9c08d6d55908e9df1c8125d499e68c1538744afc8aee2b2c462602ea0aebac"
+    },
+    "01-content/outro/session-launch.json": {
+      "bytes": 494,
+      "sha256": "b6df4feed2e1cd0b5c469d9ab21132fb6952336d47373dd2f3e0d944462f8b44"
+    }
+  },
+  "source_files_unchanged": {
+    "01-content/brand/fun-fact-friday-spider.png": true,
+    "01-content/brand/style-spec.md": true,
+    "01-content/brand/code-mascot/reaper.svg": true,
+    "01-content/brand/code-mascot/compare.png": true,
+    "01-content/animation/brand.json": true,
+    "01-content/animation/NEXT-SESSION.md": false,
+    "01-content/mp3-system/OUTRO-PAUSE.md": true,
+    "01-content/mp3-system/narrations-before-outro.json": true,
+    "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4": true,
+    "01-content/outro/START-SESSION.md": true,
+    "01-content/outro/session-launch.json": true
+  },
+  "output_documents": {
+    "APPROVED-OUTRO.md": "b05788d83b5728676da7d16ce8f485e96e33b99d7f80c5fc38d2651d9f750ea8",
+    "BUSINESS-EXAMPLES.md": "c42cf33c6b70ee533ca4ef1a2caed935caa7d8d3983a1e39b1f65d8148bb6acf",
+    "CONCEPTS.md": "1a876ec7141057059420b686f44c641e418eb213a8d39b9ab668eeeac7c79586",
+    "HYBRID-DIRECTION.md": "49fcf8aa5df9946b92fe9406a64cf18ba8aaf3b686f031fabe96e19495c2676b",
+    "NARRATION-HANDOFF.md": "3d7bb2d01fe54f57450cf97f89ad18d63b11d474e62c84aa62e0c38bc218fa13",
+    "NARRATION-OPTIONS.md": "269940d311f09788fde23792c9681c42051c50f393c06264bc83e0c4e85af8df",
+    "RESEARCH.md": "478f06335ffb191b58428af9a84db8fe707529d77fbf8ec945eb51201ca7ba0c",
+    "TRANSITION-INSTRUCTIONS.md": "177f053901127a468d28684ba22b2d3eae92f2468342d85323cb9c84199bae66",
+    "VISUAL-OPTIONS.md": "dfc1b78c7b44f0226b0fb5be8d330d948c10d59dcaf35c3ba8611a36a5e19621",
+    "outro-spoken.txt": "f47d5b0db023f6f8058c810c617bcb82da3fb238b7308ca7f3f7018990936911",
+    "previews/make-options.py": "d3f6c1a4690ca74ce2268697c3b9a8dd26f958440a5d1ce41d25ec7329700115",
+    "previews/options-v1.concat.txt": "fb5f00f15fb70c1c322bded7dc7743bc3a3ead652f893bdb6ef97e95e8abbc78",
+    "production/IMAGE-TEST-REVIEW.md": "2b13b512a211ea55e7719054262a05cf5138057fa5dbae90f65e7d91e88e45fe",
+    "production/NEXT-PRODUCTION.md": "caf39f2ed7186041b7e078ba377311625613298be4bbc4bd4c608bff381ba4af",
+    "production/PLAN.md": "34a8185df0355a6fad7daa4099965265ec942aed6de5d75fde74d5890e6dc51c",
+    "production/generate-still-v1.py": "fd33e9ba7af57c9ff7a7e5eeda316039e80ce103accb3f75ce48075c3790ff95",
+    "production/still-correction-prompt.txt": "1e559f82c99276b9efcbd1e7da2389fc81feb2ea9d8d8e627d66282f81a28308",
+    "production/still-prompt.txt": "89f7db704f4beffa72ffe2524294e90cb229a29830b342655e24999db4851b3c",
+    "production/video-prompt.txt": "d465a6d664cfa9543f0e750090bdbaead1459e9fd19c8c56cc3384fd63002c83",
+    "production/voice-prompt.txt": "3eeee5d362828c2f0d38def786504f36a4b8f9ae5be900d82e1b499cc6e28128",
+    "progress.md": "05fb166220c4ffaf5f999051432081eddc4e4d4293cebf724c771683e20e32a3",
+    "production/REVIEW-V2.md": "16608755f311daa8d5f1aab2740fcac7e9fda1be663af574d5aff1f5719f631a",
+    "FIRE-ANT-FINAL.md": "8659428554eee5b381d39ce00a65ead4d69cd6a10cb09a445bbb019434911d79",
+    "production/fire-ant-final-approval.json": "d32c5ca0edb7a2885ed74c30620c144fac66bcdc982fa60f863838927453ffae"
+  },
+  "historical_checks": {
+    "validation": {
+      "brand_reference_checksum_matches": true,
+      "concept_count": 3,
+      "required_fields_present": true,
+      "exact_spoken_lines": [
+        "Brought to you by Deep Six Pest Control.",
+        "A closer look at pests, from Deep Six Pest Control.",
+        "Brought to you by Deep Six Pest Control. Follow for more pest facts."
+      ],
+      "local_document_links_resolve": true,
+      "new_notes_have_no_em_dashes": true,
+      "approval_file_absent_until_choice": true
+    },
+    "hybrid_followup": {
+      "existing_final_render_sheets_viewed": 2,
+      "mp4_dimensions": [
+        1080,
+        1920
+      ],
+      "mp4_fps": 30,
+      "mp4_duration_seconds": 79.2,
+      "read_only_account_checks_passed": true,
+      "generation_requests": 0,
+      "concept_approved": false
+    },
+    "wording_research_followup": {
+      "checked_date": "2026-10-19",
+      "businesses_with_published_video_transcripts": 3,
+      "published_transcripts_checked": 4,
+      "exact_excerpt_checks": [
+        {
+          "business": "DoMyOwn",
+          "quoted_excerpt_matches_retrieved_source": true
+        },
+        {
+          "business": "1A Auto",
+          "quoted_excerpt_matches_retrieved_source": true
+        },
+        {
+          "business": "CAA/Orion",
+          "quoted_excerpt_matches_retrieved_source": true
+        },
+        {
+          "business": "HomeTeam",
+          "quoted_excerpt_matches_retrieved_source": true
+        }
+      ],
+      "page_heading_example_not_presented_as_spoken": true,
+      "narration_options": 6,
+      "narration_word_counts": {
+        "A": 8,
+        "B": 10,
+        "C": 8,
+        "D": 6,
+        "E": 8,
+        "F": 13
+      },
+      "draft_transition_timing_checked": true,
+      "transition_example_count": 1,
+      "generation_requests": 0,
+      "concept_approved": false
+    },
+    "note": "These checks describe earlier research stages before Drew delegated the final selection. Current approval and validation are recorded separately.",
+    "specification_before_image_test": {
+      "original_brand_assets_narrations_and_video_match_initial_hashes": true,
+      "changed_video_status_note_inspected_and_left_unchanged": true,
+      "spoken_text_matches_selected_line_exactly": true,
+      "spoken_word_count_is_8": true,
+      "selected_line_in_all_current_instruction_files": true,
+      "local_document_links_resolve": true,
+      "new_notes_have_no_em_dashes": true,
+      "prepared_still_prompt_exists": true,
+      "full_script_requirement_in_approval": true,
+      "all_ten_full_versions_required_in_handoff": true,
+      "editing_cues_outside_spoken_text": true,
+      "planned_media_are_absent_as_documented": true
+    },
+    "first_image_review": {
+      "original_brand_assets_narrations_and_mp4_match_initial_hashes": true,
+      "single_generation_request": true,
+      "estimated_cost_below_approved_ceiling": true,
+      "image_decodes_and_matches_receipt": true,
+      "input_token_discrepancy_recorded": true,
+      "visual_identity_issues_explicitly_recorded": true,
+      "local_document_links_resolve": true,
+      "new_notes_have_no_em_dashes": true,
+      "exact_spoken_copy_unchanged": true,
+      "outro_approval_required_before_fire_ant_join": true
+    },
+    "visual_comparison_stage": {
+      "three_layouts_rendered_and_visually_inspected": true,
+      "all_three_clip_lengths_match_specification": true,
+      "combined_clip_16_seconds": true,
+      "no_audio_streams_claimed_or_generated": true,
+      "desktop_copy_matches_original": true,
+      "all_local_note_links_resolve": true,
+      "new_notes_have_no_em_dashes": true,
+      "approval_and_handoff_marked_under_review": true,
+      "no_additional_generation_requests": true,
+      "original_brand_narrations_and_video_unchanged": true
+    },
+    "produced_v1_for_review": {
+      "checked_utc": "2026-10-20T02:50:09.958944+00:00",
+      "phase": "produced_v1_for_review",
+      "evidence": "production/final-checks-v1.json",
+      "additional_estimated_usd": 1.13607,
+      "finished_outro_approved": false
+    }
+  },
+  "approval_basis": "Reusable outro approved with \"good ok\". Complete fire-ant video approved with \"yep good that is one finished video as far as i can tell\". Exact file recorded in production/fire-ant-final-approval.json.",
+  "duration_seconds": 5.5,
+  "timing_review": "165 frames, 5.50 seconds including entry; production/v2-composition-timing.json",
+  "source_change_observations": {
+    "01-content/animation/NEXT-SESSION.md": {
+      "current": {
+        "bytes": 2059,
+        "sha256": "b0580f9a5c56cad7927069a93cb3f35b742829116d1386be4ea868c071db83f7"
+      },
+      "note": "Changed since the initial baseline. This outro session made no writes to this file. Its current content was inspected for context and left unchanged."
+    }
+  },
+  "validation": {
+    "latest": "production/fire-ant-final-checks.json",
+    "desktop_copy_matches": true,
+    "original_video_and_narration_preserved": true,
+    "original_picture_frames_exactly_preserved": 2376,
+    "current_document_links_resolve": true
+  },
+  "spending_approved": true,
+  "narration_script_adaptations_performed_here": 0,
+  "media_production_complete": true,
+  "generation_spend_is_estimate": true,
+  "spending_scope": "Initial image test separate; production and approved fire-ant finishing remain within the $3 cumulative cap.",
+  "further_spending_approved": "No further requests planned.",
+  "proposed_next_budget_usd": null,
+  "finished_outro_approved": true,
+  "fire_ant_join_started": true,
+  "concept_selection_status": "Drew explicitly chose option 2, Educational sign-off, from VISUAL-OPTIONS.md",
+  "previously_selected_spoken_line": "Helping you understand pests. Deep Six Pest Control.",
+  "current_final_spoken_line": "Helping you understand pests. Deep Six Pest Control.",
+  "narration_handoff_settled": true,
+  "preview_artifacts": {
+    "comparison_png": "01-content/outro/previews/outro-options-v1.png",
+    "combined_mp4": "01-content/outro/previews/outro-options-v1.mp4",
+    "combined_seconds": 16,
+    "dimensions": [
+      540,
+      960
+    ],
+    "fps": 30,
+    "audio_streams": 0,
+    "options": [
+      {
+        "choice": 1,
+        "seconds": 5,
+        "silent": true
+      },
+      {
+        "choice": 2,
+        "seconds": 5,
+        "silent": true
+      },
+      {
+        "choice": 3,
+        "seconds": 6,
+        "silent": true
+      }
+    ],
+    "desktop_copy": "/mnt/c/Users/drewp/Desktop/Deep Six - Outro Options v1.mp4",
+    "additional_ai_calls": 0,
+    "additional_api_spend_usd": 0,
+    "character_animation_in_sketches": false
+  },
+  "approved_spoken_line": "Helping you understand pests. Deep Six Pest Control.",
+  "selected_visual": "Approved Opus magnifier-launch animation generated in a universal cream-paper setting.",
+  "voice_policy": "Episode narrator reads the entire narration including outro. Fire-ant v2 uses Tyler. No universal prerecorded outro voice.",
+  "rejected_v1_preserved": true,
+  "creative_model_verified": "claude-opus-5-5",
+  "creative_model_proof": "production/opus-v2-revision-receipt.json",
+  "replacement_budget_approved": true,
+  "proposed_total_production_cap_usd": 3.0,
+  "v2_budget_approved": true,
+  "production_spend_usd": 2.2894095,
+  "v2_preview_artifacts": [
+    "assets/outro-animation-clean-v2.mp4",
+    "assets/outro-animation-v2.mp4",
+    "assets/outro-review-fire-ant-v2.mp4",
+    "assets/fire-ant-tyler-signoff-review-v2.wav",
+    "previews/outro-v2-motion.gif",
+    "previews/outro-v2-finish.png"
+  ],
+  "fire_ant_join_complete": true,
+  "fire_ant_final_output": "assets/deep-six-fire-ants-full-v2-with-outro.mp4",
+  "fire_ant_final_duration_seconds": 88.1,
+  "remaining_production_work": [],
+  "fire_ant_final_approved": true,
+  "final_approval_file": "production/fire-ant-final-approval.json"
+}

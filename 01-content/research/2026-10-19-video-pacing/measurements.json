@@ -1,0 +1,1583 @@
+{
+ "generated": "2026-10-19",
+ "purpose": "Measure how fast fast-paced narrated animated shorts change scenes and move, as inspiration for Deep Six cut-paper storybook animation.",
+ "method": {
+  "download": "yt-dlp -f 'worst[height>=360]/worst' --download-sections '*0-30' (first 30 s, 360p or lower). On 23 of the YouTube clips ffmpeg got HTTP 403 with the default YouTube client; the same command with the public mweb client (--extractor-args youtube:player_client=mweb) worked each time. No login, no cookies.",
+  "hard_cuts": "ffmpeg -i v.mp4 -vf \"select='gt(scene,T)',showinfo\" -f null - ; T = 0.30 and 0.20; cut times from pts_time. Average shot length = analysed window / (cuts + 1). Shortest and longest use complete shots only (the last shot is cut off by the window).",
+  "picture_change": "Share of pixels whose colour differs by more than 40/255 between frames 0.5 s (and 1 s) apart, 48 px wide, 10 fps, over the window. Also median frame-to-frame luma change at 10 fps.",
+  "eyeballed": "Scene changes and element beats counted by eye from the 0.5 s contact sheet (first 8 s) and a 0.25 s check sheet. Scene change = clearly new shot, scene or page. Element beat = a new prop, label or paper piece appearing inside a scene.",
+  "contact_sheets": "ffmpeg fps=2, 240 px tall, tile 4x4, first 8 s, timestamps drawn in the corner."
+ },
+ "limits": [
+  "ffmpeg scene detection counts hard cuts only. Zack D. Films, Kurzgesagt and papercraft clips use dissolves, zooms, morphs and camera moves, so the hard-cut counts are far below what the eye sees. Use the eyeballed counts for real scene rate.",
+  "Eyeballed counts cover the first 8 s only and are about plus or minus 1.",
+  "Only the first 30 s of each video was measured, at 360p. Intros and hooks can differ from the rest.",
+  "Audio was not listened to. Narration is confirmed only for the two Zack bug Shorts (YouTube auto-captions, about 3 words per second). For other clips it is inferred from burned-in captions or not assessed.",
+  "Views show popularity, not effectiveness. Several papercraft examples are AI-made and have tiny audiences.",
+  "Several candidates are 16:9; their pacing transfers, their framing does not."
+ ],
+ "crawler": {
+  "client_id": "imac-research",
+  "session_id": "e5439860-a052-4860-b74f-fbb586d23a2d",
+  "request_id": "96cbfb31-0233-4527-ad2e-216fb0ba76a9",
+  "job_id": "05d97f54-c79e-4625-b757-97c9376b0ecc",
+  "status": "finished",
+  "usage": {
+   "calls": 0,
+   "pages": 20,
+   "searches": 6,
+   "steps": 67
+  },
+  "limits": {
+   "calls": 1,
+   "pages": 30,
+   "searches": 6,
+   "seconds": 900,
+   "steps": 80
+  },
+  "active_seconds": 45.0,
+  "note": "Steps ceiling is 80 because the API rejects steps above 80 (90 was requested)."
+ },
+ "overall": {
+  "n_videos": 12,
+  "ffmpeg_0_30": {
+   "median_avg_shot_len_s": 8.75,
+   "median_cuts_first_10s": 1.0
+  },
+  "ffmpeg_0_20": {
+   "median_avg_shot_len_s": 5.5,
+   "median_cuts_first_10s": 2.0
+  },
+  "eyeballed_first_8s": {
+   "median_scene_changes": 3.0,
+   "median_avg_seconds_per_scene": 2.0,
+   "median_avg_seconds_per_scene_narrated_shorts": 1.465,
+   "fastest_seconds_per_scene": 0.62
+  },
+  "picture_change_median_pct_0_5s": 11.899999999999999
+ },
+ "videos": [
+  {
+   "rank": 1,
+   "short_id": "zack-mow",
+   "title": "What Happens To Bugs When You Mow? 😯",
+   "creator": "Zack D. Films",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=esR-EXzvckw",
+   "upload_date": "20261004",
+   "views": 18993554,
+   "lead_source": "yt-dlp channel Shorts list (@zackdfilms/shorts), keyword scan",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 35,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 1,
+     "cuts_first_10s": 1,
+     "avg_shot_len_s": 15.0,
+     "shortest_complete_shot_s": 0.901,
+     "longest_complete_shot_s": 0.901,
+     "last_partial_shot_s": 29.099,
+     "cut_times_s": [
+      0.901
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 6,
+     "cuts_first_10s": 4,
+     "avg_shot_len_s": 4.286,
+     "shortest_complete_shot_s": 0.167,
+     "longest_complete_shot_s": 7.24,
+     "cut_times_s": [
+      0.734,
+      0.901,
+      1.068,
+      8.308,
+      13.647,
+      15.649
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 61.8,
+    "pct_different_0_5s_later_first8s_mean": 63.8,
+    "pct_different_1s_later_median": 72.7,
+    "median_frame_to_frame_change_10fps": 27.795,
+    "share_of_time_moving": 1.0,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 12,
+    "element_beats": null,
+    "avg_seconds_per_scene": 0.62,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "New macro shot about every 0.6-0.7 s. White 1-3 word captions at the bottom change every 0.6-1 s and each shot shows the thing the words name (mower, blade through grass, mushrooms, insects on soil, cricket eating, caterpillar, ladybug eggs). Camera never rests; changes are camera moves and quick dissolves, so ffmpeg finds almost no hard cuts.",
+   "borrow": "One new picture for every 1-3 spoken words, held under a second, with the caption naming it.",
+   "contact_sheet": "contact-sheets/zack-mow.png",
+   "narration": {
+    "words_in_first_30s": 92,
+    "words_per_second": 3.1,
+    "words_per_shot_approx": 1.9,
+    "source": "YouTube auto-captions (en-orig), parsed locally",
+    "example": "As you begin to mow, you are actually cutting down a forest where thousands of insects are hiding, eating, and laying their eggs."
+   }
+  },
+  {
+   "rank": 2,
+   "short_id": "zack-antchain",
+   "title": "Ants Form A Chain To Raid A Wasp Nest 😮",
+   "creator": "Zack D. Films",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=dxmQDoiHVnc",
+   "upload_date": "20261007",
+   "views": 6502267,
+   "lead_source": "yt-dlp channel Shorts list (@zackdfilms/shorts), keyword scan",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 30,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 29.589,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 1,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 14.795,
+     "shortest_complete_shot_s": 26.66,
+     "longest_complete_shot_s": 26.66,
+     "last_partial_shot_s": 2.929,
+     "cut_times_s": [
+      26.66
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 2,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 9.863,
+     "shortest_complete_shot_s": 0.033,
+     "longest_complete_shot_s": 26.627,
+     "cut_times_s": [
+      26.627,
+      26.66
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 24.9,
+    "pct_different_0_5s_later_first8s_mean": 22.2,
+    "pct_different_1s_later_median": 35.7,
+    "median_frame_to_frame_change_10fps": 8.962,
+    "share_of_time_moving": 1.0,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 11,
+    "element_beats": null,
+    "avg_seconds_per_scene": 0.67,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "About 11 shot changes in 8 s, a new camera angle on the same subject for each phrase (They link / their bodies / together / across the slippery ceiling). Word-by-word captions; crossfades hide most cuts, so ffmpeg finds 0-1.",
+   "borrow": "Keep one subject (ants) but change angle or framing for every phrase; the caption chunk equals the shot.",
+   "contact_sheet": "contact-sheets/zack-antchain.png",
+   "narration": {
+    "words_in_first_30s": 84,
+    "words_per_second": 2.94,
+    "words_per_shot_approx": 2.0,
+    "source": "YouTube auto-captions (en-orig), parsed locally",
+    "example": "They link their bodies together across the slippery ceiling, creating a living scaffold for the others to walk over."
+   }
+  },
+  {
+   "rank": 3,
+   "short_id": "kurz-kitchen",
+   "title": "The Deadliest Thing in Your Kitchen",
+   "creator": "Kurzgesagt – In a Nutshell",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=2cK8l5Yg5w8",
+   "upload_date": "20260723",
+   "views": 4994932,
+   "lead_source": "yt-dlp channel Shorts list (@kurzgesagt/shorts)",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 67,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "mweb",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 7,
+     "cuts_first_10s": 3,
+     "avg_shot_len_s": 3.75,
+     "shortest_complete_shot_s": 0.667,
+     "longest_complete_shot_s": 10.7,
+     "last_partial_shot_s": 4.3,
+     "cut_times_s": [
+      0.667,
+      1.4,
+      2.3,
+      13.0,
+      15.967,
+      22.9,
+      25.7
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 7,
+     "cuts_first_10s": 3,
+     "avg_shot_len_s": 3.75,
+     "shortest_complete_shot_s": 0.667,
+     "longest_complete_shot_s": 10.7,
+     "cut_times_s": [
+      0.667,
+      1.4,
+      2.3,
+      13.0,
+      15.967,
+      22.9,
+      25.7
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 17.4,
+    "pct_different_0_5s_later_first8s_mean": 45.3,
+    "pct_different_1s_later_median": 30.9,
+    "median_frame_to_frame_change_10fps": 2.902,
+    "share_of_time_moving": 0.836,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 5,
+    "element_beats": 3,
+    "avg_seconds_per_scene": 1.33,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Flat cartoon props with big eyes (banana, bowl, sugar box, man), one new character or object every 1-1.5 s plus labels that pop in (500 TEASPOONS, According to rat studies). Swipes and zooms instead of hard cuts, new background colour each scene, small centred 1-3 word captions about every 1 s. Closest in look to code-drawn flat art.",
+   "borrow": "A new flat-colour prop or label every 1-1.5 s, each introduced with a quick animated transition and a colour change.",
+   "contact_sheet": "contact-sheets/kurz-kitchen.png"
+  },
+  {
+   "rank": 4,
+   "short_id": "paper-croissant",
+   "title": "The Hunt for the Perfect Croissant | Paris, 1905 Documentary (Paper Collage Animation)",
+   "creator": "onlyone",
+   "platform": "YouTube video",
+   "url": "https://www.youtube.com/watch?v=e7jJn8Iafgg",
+   "upload_date": "20260804",
+   "views": 89,
+   "lead_source": "yt-dlp YouTube search (paper cutout history documentary)",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 60,
+   "downloaded": {
+    "resolution": "640x360",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 14,
+     "cuts_first_10s": 4,
+     "avg_shot_len_s": 2.0,
+     "shortest_complete_shot_s": 0.067,
+     "longest_complete_shot_s": 4.133,
+     "last_partial_shot_s": 1.067,
+     "cut_times_s": [
+      4.133,
+      4.2,
+      6.2,
+      8.267,
+      10.333,
+      12.4,
+      14.467,
+      16.533,
+      16.6,
+      18.6,
+      20.667,
+      24.8,
+      26.867,
+      28.933
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 19,
+     "cuts_first_10s": 6,
+     "avg_shot_len_s": 1.5,
+     "shortest_complete_shot_s": 0.033,
+     "longest_complete_shot_s": 4.133,
+     "cut_times_s": [
+      4.133,
+      4.2,
+      6.2,
+      6.4,
+      8.267,
+      8.3,
+      10.333,
+      12.4,
+      14.467,
+      16.533,
+      16.6,
+      18.6,
+      18.667,
+      20.667,
+      20.8,
+      22.733,
+      24.8,
+      26.867,
+      28.933
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 18.5,
+    "pct_different_0_5s_later_first8s_mean": 19.5,
+    "pct_different_1s_later_median": 29.7,
+    "median_frame_to_frame_change_10fps": 3.555,
+    "share_of_time_moving": 0.761,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 3,
+    "element_beats": 12,
+    "avg_seconds_per_scene": 2.0,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Paper-collage documentary: a new torn-paper page about every 2 s (3 in 8 s), and on each page a new paper piece (calendar, pin, tape, photo, stamp, red string) lands about every 0.5 s. String links connect clues. Looks AI-made (garbled map and newspaper text); tiny audience (89 views), so use for look and rhythm only. Narration not assessed.",
+   "borrow": "Page-by-page scenes with pieces landing one at a time on each noun; pins, tape, stamps and string as animated connectors.",
+   "contact_sheet": "contact-sheets/paper-croissant.png"
+  },
+  {
+   "rank": 5,
+   "short_id": "paper-collage-space",
+   "title": "Outer Space | Collage Animation",
+   "creator": "sabstabs",
+   "platform": "YouTube video",
+   "url": "https://www.youtube.com/watch?v=XAm4i1X7L_Y",
+   "upload_date": "20171205",
+   "views": 472405,
+   "lead_source": "yt-dlp YouTube search (paper cut animation documentary)",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 22,
+   "downloaded": {
+    "resolution": "640x360",
+    "analysed_window_s": 21.711,
+    "yt_dlp_player_client": "mweb",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 14,
+     "cuts_first_10s": 12,
+     "avg_shot_len_s": 1.447,
+     "shortest_complete_shot_s": 0.083,
+     "longest_complete_shot_s": 7.174,
+     "last_partial_shot_s": 2.775,
+     "cut_times_s": [
+      0.167,
+      7.341,
+      7.424,
+      7.508,
+      7.591,
+      7.674,
+      7.758,
+      7.841,
+      7.925,
+      8.008,
+      8.091,
+      8.175,
+      11.845,
+      18.936
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 21,
+     "cuts_first_10s": 18,
+     "avg_shot_len_s": 0.987,
+     "shortest_complete_shot_s": 0.083,
+     "longest_complete_shot_s": 6.632,
+     "cut_times_s": [
+      0.167,
+      2.628,
+      6.381,
+      7.257,
+      7.341,
+      7.424,
+      7.508,
+      7.591,
+      7.674,
+      7.758,
+      7.841,
+      7.925,
+      8.008,
+      8.091,
+      8.175,
+      8.258,
+      8.342,
+      8.717,
+      11.845,
+      12.304,
+      18.936
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 9.0,
+    "pct_different_0_5s_later_first8s_mean": 27.0,
+    "pct_different_1s_later_median": 20.4,
+    "median_frame_to_frame_change_10fps": 4.046,
+    "share_of_time_moving": 0.662,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 6,
+    "element_beats": null,
+    "avg_seconds_per_scene": 1.14,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Cut-paper collage: a new image about every 1.2 s, paper tears open to reveal the next scene, objects spin and drift, TV-static flash. 22 s total. Music only as far as can be told; narration not assessed.",
+   "borrow": "Torn-paper reveal as the scene transition; one new collage image about every 1.2 s.",
+   "contact_sheet": "contact-sheets/paper-collage-space.png"
+  },
+  {
+   "rank": 6,
+   "short_id": "kurz-queenant",
+   "title": "Queen Ant Clones Another Species",
+   "creator": "Kurzgesagt – In a Nutshell",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=NXhKuMQRAZ4",
+   "upload_date": "20260316",
+   "views": 716220,
+   "lead_source": "yt-dlp channel Shorts list (@kurzgesagt/shorts), keyword scan",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 69,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "mweb",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 2,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 10.0,
+     "shortest_complete_shot_s": 5.6,
+     "longest_complete_shot_s": 18.133,
+     "last_partial_shot_s": 6.267,
+     "cut_times_s": [
+      18.133,
+      23.733
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 2,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 10.0,
+     "shortest_complete_shot_s": 5.6,
+     "longest_complete_shot_s": 18.133,
+     "cut_times_s": [
+      18.133,
+      23.733
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 12.2,
+    "pct_different_0_5s_later_first8s_mean": 30.2,
+    "pct_different_1s_later_median": 28.6,
+    "median_frame_to_frame_change_10fps": 2.453,
+    "share_of_time_moving": 0.856,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 2,
+    "element_beats": null,
+    "avg_seconds_per_scene": 2.67,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Ant topic. A 4.2 s title-card hook, then new scenes about every 2 s (ant portrait with a name label, anthill, flying queens). Captions change about every 1.5 s. Medium pace, flat colour, simple in-scene movement.",
+   "borrow": "Name label pops on with each new animal or thing; scenes about 2 s after a short hook.",
+   "contact_sheet": "contact-sheets/kurz-queenant.png"
+  },
+  {
+   "rank": 7,
+   "short_id": "paper-codex",
+   "title": "How I Use Codex to Build Vox-Style Explainer Videos",
+   "creator": "AI for Real Life: Redefining Filmmaking",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=Fjns2RO9t8Q",
+   "upload_date": "20260723",
+   "views": 1332,
+   "lead_source": "MacBook crawler search 2 (papercraft explainer result)",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 44,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 0,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 30.0,
+     "shortest_complete_shot_s": null,
+     "longest_complete_shot_s": null,
+     "last_partial_shot_s": 30.0,
+     "cut_times_s": []
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 5,
+     "cuts_first_10s": 2,
+     "avg_shot_len_s": 5.0,
+     "shortest_complete_shot_s": 0.1,
+     "longest_complete_shot_s": 6.8,
+     "cut_times_s": [
+      5.933,
+      6.567,
+      12.967,
+      13.067,
+      19.867
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 7.2,
+    "pct_different_0_5s_later_first8s_mean": 14.2,
+    "pct_different_1s_later_median": 14.9,
+    "median_frame_to_frame_change_10fps": 2.841,
+    "share_of_time_moving": 0.93,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 1,
+    "element_beats": 6,
+    "avg_seconds_per_scene": 4.0,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Layered paper depth (4-5 planes) with a presenter. Only one scene change at 6.5 s, but paper boxes fold up, the camera pushes in and labels and captions slide in every 0.5-1.5 s; the scene change is a push into the phone. AI-made. Narration not assessed.",
+   "borrow": "Layered paper planes with parallax and small paper props moving in on every beat; zoom-through transition. Its 6.5 s first scene is too slow for us.",
+   "contact_sheet": "contact-sheets/paper-codex.png"
+  },
+  {
+   "rank": 8,
+   "short_id": "zack-outlets",
+   "title": "How Electrical Outlets Work 🤔",
+   "creator": "Zack D. Films",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=0BZ1C83I2R4",
+   "upload_date": "20261018",
+   "views": 35361144,
+   "lead_source": "yt-dlp channel Shorts list (@zackdfilms/shorts)",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 24,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 24.0,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 0,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 24.0,
+     "shortest_complete_shot_s": null,
+     "longest_complete_shot_s": null,
+     "last_partial_shot_s": 24.0,
+     "cut_times_s": []
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 1,
+     "cuts_first_10s": 0,
+     "avg_shot_len_s": 12.0,
+     "shortest_complete_shot_s": 18.767,
+     "longest_complete_shot_s": 18.767,
+     "cut_times_s": [
+      18.767
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 54.2,
+    "pct_different_0_5s_later_first8s_mean": 50.0,
+    "pct_different_1s_later_median": 69.5,
+    "median_frame_to_frame_change_10fps": 21.464,
+    "share_of_time_moving": 1.0,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 4,
+    "element_beats": null,
+    "avg_seconds_per_scene": 1.6,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "3D fly-through: hand to outlet to a miniature room to a hamster wheel. Only about 4 scene changes in 8 s, but the camera moves every frame and a character acts in every shot: about 54% of the picture changes within 0.5 s, the highest of the set. 35M views.",
+   "borrow": "Switch scenes by moving the camera through an object; never hold a still frame.",
+   "contact_sheet": "contact-sheets/zack-outlets.png"
+  },
+  {
+   "rank": 9,
+   "short_id": "ai-mollick",
+   "title": "Ethan Mollick - How do you explain recursion? This one is pretty fun.  I had Claude O...",
+   "creator": "Ethan Mollick",
+   "platform": "X (Twitter) video",
+   "url": "https://x.com/emollick/status/2103688362960019567",
+   "upload_date": "20260926",
+   "views": null,
+   "lead_source": "awesome-opus5-5-videos Explainers list (README copy fetched locally; prompt file read by crawler)",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 74.944,
+   "downloaded": {
+    "resolution": "640x360",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 4,
+     "cuts_first_10s": 2,
+     "avg_shot_len_s": 6.0,
+     "shortest_complete_shot_s": 0.6,
+     "longest_complete_shot_s": 22.867,
+     "last_partial_shot_s": 1.633,
+     "cut_times_s": [
+      2.0,
+      2.6,
+      25.467,
+      28.367
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 5,
+     "cuts_first_10s": 3,
+     "avg_shot_len_s": 5.0,
+     "shortest_complete_shot_s": 0.033,
+     "longest_complete_shot_s": 22.867,
+     "cut_times_s": [
+      2.0,
+      2.033,
+      2.6,
+      25.467,
+      28.367
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 9.0,
+    "pct_different_0_5s_later_first8s_mean": 24.5,
+    "pct_different_1s_later_median": 18.8,
+    "median_frame_to_frame_change_10fps": 3.674,
+    "share_of_time_moving": 0.9,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 3,
+    "element_beats": null,
+    "avg_seconds_per_scene": 2.0,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Made by Claude Opus 5.5 from the prompt \"fast moving\" (per the post). Kinetic typography: words pop in one at a time every 0.25-0.5 s, 0.3 s red flash card (\"EASY.\"), nested-frame zoom, then a hard cut to a flat illustration at 5 s. Narration not assessed.",
+   "borrow": "Word-by-word text timed to speech; very short flash cards as punctuation.",
+   "contact_sheet": "contact-sheets/ai-mollick.png"
+  },
+  {
+   "rank": 10,
+   "short_id": "kurz-water",
+   "title": "Can Earth Run Out of Water?",
+   "creator": "Kurzgesagt – In a Nutshell",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=tZ8i1RxGSYM",
+   "upload_date": "20260831",
+   "views": 3869992,
+   "lead_source": "yt-dlp channel Shorts list (@kurzgesagt/shorts)",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 78,
+   "downloaded": {
+    "resolution": "360x640",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "mweb",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 4,
+     "cuts_first_10s": 2,
+     "avg_shot_len_s": 6.0,
+     "shortest_complete_shot_s": 1.8,
+     "longest_complete_shot_s": 7.767,
+     "last_partial_shot_s": 8.467,
+     "cut_times_s": [
+      1.8,
+      9.233,
+      17.0,
+      21.533
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 4,
+     "cuts_first_10s": 2,
+     "avg_shot_len_s": 6.0,
+     "shortest_complete_shot_s": 1.8,
+     "longest_complete_shot_s": 7.767,
+     "cut_times_s": [
+      1.8,
+      9.233,
+      17.0,
+      21.533
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 11.6,
+    "pct_different_0_5s_later_first8s_mean": 18.9,
+    "pct_different_1s_later_median": 20.6,
+    "median_frame_to_frame_change_10fps": 3.355,
+    "share_of_time_moving": 0.9,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 3,
+    "element_beats": null,
+    "avg_seconds_per_scene": 2.0,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Typical Kurzgesagt pace: scene about every 2-4 s, but the pond changes colour in place and captions change about every 1 s, so there is motion all the time.",
+   "borrow": "Change a scene in place (colour or size morph) to keep movement without new art.",
+   "contact_sheet": "contact-sheets/kurz-water.png"
+  },
+  {
+   "rank": 11,
+   "short_id": "paper-diamond",
+   "title": "💎 The Secret of the World's Most Famous Diamond | Paper Cut Animation",
+   "creator": "PaperCraft Animations",
+   "platform": "YouTube video",
+   "url": "https://www.youtube.com/watch?v=CssQtDTrD90",
+   "upload_date": "20260802",
+   "views": 28,
+   "lead_source": "yt-dlp YouTube search (paper cutout animation)",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 40,
+   "downloaded": {
+    "resolution": "640x360",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "default",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 3,
+     "cuts_first_10s": 1,
+     "avg_shot_len_s": 7.5,
+     "shortest_complete_shot_s": 0.1,
+     "longest_complete_shot_s": 10.0,
+     "last_partial_shot_s": 9.9,
+     "cut_times_s": [
+      0.1,
+      10.1,
+      20.1
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 4,
+     "cuts_first_10s": 2,
+     "avg_shot_len_s": 6.0,
+     "shortest_complete_shot_s": 0.1,
+     "longest_complete_shot_s": 10.0,
+     "cut_times_s": [
+      0.1,
+      0.2,
+      10.1,
+      20.1
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 4.0,
+    "pct_different_0_5s_later_first8s_mean": 10.2,
+    "pct_different_1s_later_median": 7.5,
+    "median_frame_to_frame_change_10fps": 2.311,
+    "share_of_time_moving": 0.809,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 0,
+    "element_beats": 6,
+    "avg_seconds_per_scene": 8.0,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "Paper-cut look with no cuts (probably AI-generated; 28 views): pieces fly in from the edges, assemble into a diamond, explode apart, get cut by a craft knife and shed shards. About 6 big motions in 8 s. Narration not assessed.",
+   "borrow": "Paper behaviour: slide in from the edge, fold, split, shards falling.",
+   "contact_sheet": "contact-sheets/paper-diamond.png"
+  },
+  {
+   "rank": 12,
+   "short_id": "me-mosq",
+   "title": "Yes, mosquitoes ARE out to get you.",
+   "creator": "MinuteEarth",
+   "platform": "YouTube Short",
+   "url": "https://www.youtube.com/watch?v=fUBRGTKInbI",
+   "upload_date": "20261016",
+   "views": 38685,
+   "lead_source": "yt-dlp channel Shorts list (@MinuteEarth/shorts)",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 81,
+   "downloaded": {
+    "resolution": "202x360",
+    "analysed_window_s": 30.0,
+    "yt_dlp_player_client": "mweb",
+    "has_audio": true
+   },
+   "ffmpeg_hard_cuts": {
+    "threshold_0_30": {
+     "cuts_in_window": 2,
+     "cuts_first_10s": 1,
+     "avg_shot_len_s": 10.0,
+     "shortest_complete_shot_s": 8.292,
+     "longest_complete_shot_s": 13.583,
+     "last_partial_shot_s": 8.125,
+     "cut_times_s": [
+      8.292,
+      21.875
+     ]
+    },
+    "threshold_0_20": {
+     "cuts_in_window": 2,
+     "cuts_first_10s": 1,
+     "avg_shot_len_s": 10.0,
+     "shortest_complete_shot_s": 8.292,
+     "longest_complete_shot_s": 13.583,
+     "cut_times_s": [
+      8.292,
+      21.875
+     ]
+    },
+    "note": "Hard cuts only. Dissolves, zooms, morphs and continuous camera moves are not counted, so cartoon and CG shorts are undercounted."
+   },
+   "picture_change": {
+    "pct_of_picture_different_0_5s_later_median": 0.0,
+    "pct_different_0_5s_later_first8s_mean": 1.5,
+    "pct_different_1s_later_median": 0.0,
+    "median_frame_to_frame_change_10fps": 0.0,
+    "share_of_time_moving": 0.03,
+    "note": "Pixels whose colour differs by more than 40/255 between frames 0.5 s or 1 s apart (48 px wide, 10 fps). Counts camera and character motion; does not separate it from cuts."
+   },
+   "eyeballed_first_8s": {
+    "scene_changes": 0,
+    "element_beats": 2,
+    "avg_seconds_per_scene": 8.0,
+    "note": "Counted by eye from the 0.5 s contact sheet, checked on a 0.25 s sheet. About plus or minus 1."
+   },
+   "technique": "SLOW CONTRAST. Stick figures on one static scene for 8 s; two figures are drawn in at about 4.3 s and 5.9 s; only hard cuts are at 8.3 s and 21.9 s; about 0% of the picture changes in 0.5 s. Probably resembles the rejected test.",
+   "borrow": "Nothing; this is what to avoid.",
+   "contact_sheet": "contact-sheets/me-mosq.png"
+  }
+ ],
+ "also_measured": [
+  {
+   "short_id": "ai-deedy",
+   "title": "Deedy - Opus 5.5 is incredible at instructional video generation.   I made th...",
+   "creator": "Deedy",
+   "url": "https://x.com/deedydas/status/2102787937482252537",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 26.0,
+   "analysed_window_s": 26.006,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 2,
+    "cuts_first_10s": 2,
+    "avg_shot_len_s": 8.669
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 3,
+    "avg_shot_len_s": 6.502
+   },
+   "pct_of_picture_different_0_5s_later_median": 1.2,
+   "contact_sheet_viewed": false,
+   "note": "Code-made startup launch video (Deedy, X); not viewed."
+  },
+  {
+   "short_id": "ant-animanimals",
+   "title": "Animanimals: Ant",
+   "creator": "Filmbilder & Friends",
+   "url": "https://www.youtube.com/watch?v=pCxY70kPDnM",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 217,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 7.5
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 6.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 11.8,
+   "contact_sheet_viewed": true,
+   "note": "Crawler lead. 5 s logo intro then flat 2D animation; no narration. Not representative."
+  },
+  {
+   "short_id": "ant-bichoteca",
+   "title": "sabías que las hormigas no son un animal? #ants #hormiga #hormigas",
+   "creator": "Bichoteca",
+   "url": "https://www.youtube.com/watch?v=J4tw4UOl3zg",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 24,
+   "analysed_window_s": 23.545,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 2,
+    "avg_shot_len_s": 5.886
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 2,
+    "avg_shot_len_s": 5.886
+   },
+   "pct_of_picture_different_0_5s_later_median": 24.4,
+   "contact_sheet_viewed": true,
+   "note": "Crawler lead. Live host over macro footage; word-highlight captions about every 0.5 s; clip changes about every 3.5 s. Not animation."
+  },
+  {
+   "short_id": "ant-canal",
+   "title": "Por que as formigas fazem isso? #insects #shorts #curiosidades #youtube #youtubeshorts #ciencia",
+   "creator": "Canal Ciências",
+   "url": "https://www.youtube.com/watch?v=FiNadlTq5JQ",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 55,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 5,
+    "cuts_first_10s": 3,
+    "avg_shot_len_s": 5.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 10,
+    "cuts_first_10s": 5,
+    "avg_shot_len_s": 2.727
+   },
+   "pct_of_picture_different_0_5s_later_median": 5.3,
+   "contact_sheet_viewed": true,
+   "note": "Crawler lead. Live macro stock footage with captions, not animation."
+  },
+  {
+   "short_id": "ant-lifecycle",
+   "title": "Life Cycle of an ANT",
+   "creator": "Naa K",
+   "url": "https://www.youtube.com/watch?v=tPI6cPFFaco",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 58,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 7.5
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 6.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 0.0,
+   "contact_sheet_viewed": true,
+   "note": "PowToon-style slideshow (chalkboard, presenter, speech bubble). Slow; example of what to avoid."
+  },
+  {
+   "short_id": "ant-morph",
+   "title": "About ant morphism. Sneak peeks of our „how is an ant born?“ film",
+   "creator": "Ants Documentary",
+   "url": "https://www.youtube.com/watch?v=pJHMlrxicz4",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 23,
+   "analysed_window_s": 23.033,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 3,
+    "avg_shot_len_s": 4.607
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 3,
+    "avg_shot_len_s": 4.607
+   },
+   "pct_of_picture_different_0_5s_later_median": 1.5,
+   "contact_sheet_viewed": true,
+   "note": "Crawler lead. Live macro footage with text overlays, not animation."
+  },
+  {
+   "short_id": "ant-wings",
+   "title": "Why Do Ants Have Wings? 🐜🪽 | Eliot's Compass – Episode 2",
+   "creator": "Eliot's Compass",
+   "url": "https://www.youtube.com/watch?v=IYN-HOPRbyc",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 60,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 2.1,
+   "contact_sheet_viewed": true,
+   "note": "Title says ants, but it is an AI kids story (boy and bird). Off topic."
+  },
+  {
+   "short_id": "imperial-roach",
+   "title": "Roach Facts",
+   "creator": "Imperial Pest Prevention",
+   "url": "https://www.youtube.com/watch?v=ldYjipEaaLA",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 46,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 15.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 15.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 10.1,
+   "contact_sheet_viewed": false,
+   "note": "Pest-control company clip; not viewed."
+  },
+  {
+   "short_id": "info-center",
+   "title": "What If You Jumped to the Center of the Earth",
+   "creator": "The Infographics Show",
+   "url": "https://www.youtube.com/watch?v=wkY-2U94K6k",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 36,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 15.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 15.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 10.3,
+   "contact_sheet_viewed": false,
+   "note": "The Infographics Show Short; not viewed."
+  },
+  {
+   "short_id": "info-shrimp",
+   "title": "Shrimps Heart is in it's Head, Here's Why",
+   "creator": "The Infographics Show",
+   "url": "https://www.youtube.com/watch?v=XlLLAeo_saI",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 109,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 20.5,
+   "contact_sheet_viewed": false,
+   "note": "The Infographics Show Short; not viewed."
+  },
+  {
+   "short_id": "kurz-army",
+   "title": "The World War of the Ants – The Army Ant",
+   "creator": "Kurzgesagt – In a Nutshell",
+   "url": "https://www.youtube.com/watch?v=7_e0CA_nhaE",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 434,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 22.5,
+   "contact_sheet_viewed": true,
+   "note": "16:9 long video. First 30 s are an atmospheric intro with no narration yet, so not representative."
+  },
+  {
+   "short_id": "kurz-dust",
+   "title": "Dust Is Not What You Think",
+   "creator": "Kurzgesagt – In a Nutshell",
+   "url": "https://www.youtube.com/watch?v=YqAI0oqtt7w",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 71,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 7.5
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 7.5
+   },
+   "pct_of_picture_different_0_5s_later_median": 20.2,
+   "contact_sheet_viewed": false,
+   "note": "Kurzgesagt Short; similar to the selected Kurzgesagt Shorts."
+  },
+  {
+   "short_id": "me-beegenetics",
+   "title": "Bee genetics are Bee-zarre!",
+   "creator": "MinuteEarth",
+   "url": "https://www.youtube.com/watch?v=Z0oqTpl76rw",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 46,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 0.0,
+   "contact_sheet_viewed": false,
+   "note": "MinuteEarth Short, stick-figure and static."
+  },
+  {
+   "short_id": "me-bees",
+   "title": "Why do bees dance?",
+   "creator": "MinuteEarth",
+   "url": "https://www.youtube.com/watch?v=OqWEFV87urg",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 49,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 2,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 10.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 3,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 7.5
+   },
+   "pct_of_picture_different_0_5s_later_median": 0.0,
+   "contact_sheet_viewed": false,
+   "note": "MinuteEarth Short, stick-figure and static."
+  },
+  {
+   "short_id": "me-beetle",
+   "title": "You've never seen a beetle do THIS!",
+   "creator": "MinuteEarth",
+   "url": "https://www.youtube.com/watch?v=VeqBns83NLQ",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 70,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 15.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 4,
+    "avg_shot_len_s": 6.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 0.0,
+   "contact_sheet_viewed": false,
+   "note": "MinuteEarth Short, stick-figure and static (about 0% picture change)."
+  },
+  {
+   "short_id": "me-fleas",
+   "title": "The black death sucks for fleas, too #plague #fleas",
+   "creator": "MinuteEarth",
+   "url": "https://www.youtube.com/watch?v=nQ8NFMGXNV8",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 57,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 2,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 10.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 2,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 10.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 0.0,
+   "contact_sheet_viewed": false,
+   "note": "MinuteEarth Short, stick-figure and static."
+  },
+  {
+   "short_id": "paper-caesar",
+   "title": "Julius Caesar's Last Day, Told in Paper | The Ides of March",
+   "creator": "Paper Empire",
+   "url": "https://www.youtube.com/watch?v=p0b4x1tcbNY",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 32,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 6.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 6.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 8.4,
+   "contact_sheet_viewed": true,
+   "note": "AI paper-look historical short with subtitles; first shot holds 7.5 s. Slow."
+  },
+  {
+   "short_id": "paper-collage-mg",
+   "title": "Motion Graphic | Collage",
+   "creator": "Fakeplastictree",
+   "url": "https://www.youtube.com/watch?v=CMqw9usH8-8",
+   "aspect_ratio": "1920x900",
+   "full_duration_s": 68,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 6,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 4.286
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 7,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 3.75
+   },
+   "pct_of_picture_different_0_5s_later_median": 1.4,
+   "contact_sheet_viewed": false,
+   "note": "Collage motion graphic; not viewed."
+  },
+  {
+   "short_id": "paper-made-karthi",
+   "title": "How paper is made animation",
+   "creator": "Karthi Explains",
+   "url": "https://www.youtube.com/watch?v=DjfCpBKZCd4",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 122,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 1.3,
+   "contact_sheet_viewed": false,
+   "note": "How paper is made; not viewed."
+  },
+  {
+   "short_id": "paper-made-miles",
+   "title": "How Paper Is Made",
+   "creator": "Miles Rose",
+   "url": "https://www.youtube.com/watch?v=7IP0Ch1Va44",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 136,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 3.7,
+   "contact_sheet_viewed": false,
+   "note": "How Paper Is Made; not viewed."
+  },
+  {
+   "short_id": "paper-mammals",
+   "title": "Rise of the Mammals",
+   "creator": "Rob Ives",
+   "url": "https://www.youtube.com/watch?v=Nul9l4iW9ec",
+   "aspect_ratio": "654x480",
+   "full_duration_s": 45,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 4,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 6.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 5,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 5.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 7.9,
+   "contact_sheet_viewed": true,
+   "note": "Channel intro animation; not useful."
+  },
+  {
+   "short_id": "paper-mitosis",
+   "title": "MITOSIS: Stop Motion Animation",
+   "creator": "Calvin",
+   "url": "https://www.youtube.com/watch?v=NXBWKGRVmXk",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 56,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 1.5,
+   "contact_sheet_viewed": false,
+   "note": "Stop-motion mitosis; not viewed."
+  },
+  {
+   "short_id": "paper-pangea",
+   "title": "Pangea is BACK! 🌍",
+   "creator": "Forceman Big World",
+   "url": "https://www.youtube.com/watch?v=IhFW7dWTo1s",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 31,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 15.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 2.7,
+   "contact_sheet_viewed": true,
+   "note": "Vector map animation, not papercraft."
+  },
+  {
+   "short_id": "paper-time",
+   "title": "Did You Know? Time 📅 | Why Does a Week Have 7 Days? (Stop-Motion Origami)",
+   "creator": "Paper of the Tea",
+   "url": "https://www.youtube.com/watch?v=fuz7txD9azE",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 137,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 5,
+    "cuts_first_10s": 1,
+    "avg_shot_len_s": 5.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 7,
+    "cuts_first_10s": 2,
+    "avg_shot_len_s": 3.75
+   },
+   "pct_of_picture_different_0_5s_later_median": 5.8,
+   "contact_sheet_viewed": true,
+   "note": "AI paper-book intro; first 8 s only open a book."
+  },
+  {
+   "short_id": "scishow-aphids",
+   "title": "Aphids are speedrunning motherhood. #shorts #science #SciShow",
+   "creator": "SciShow",
+   "url": "https://www.youtube.com/watch?v=A3-yV518Zc0",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 56,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 15.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 6.3,
+   "contact_sheet_viewed": false,
+   "note": "SciShow Short; host plus graphics; not viewed."
+  },
+  {
+   "short_id": "ted-fireant",
+   "title": "Mating frenzies, sperm hoards, and brood raids: The life of a fire ant queen - Walter R. Tschinkel",
+   "creator": "TED-Ed",
+   "url": "https://www.youtube.com/watch?v=RNdouBNrnM0",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 319,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 2,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 10.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 10,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 2.727
+   },
+   "pct_of_picture_different_0_5s_later_median": 0.3,
+   "contact_sheet_viewed": true,
+   "note": "Same pest as the episode (fire ants). First 6 s are logo plus a quote, then a slow landscape: about 0.3% of the picture changes per 0.5 s. Topic reference only; do not copy the pacing."
+  },
+  {
+   "short_id": "terminix-roach",
+   "title": "Kids and Bugs: Facts About Cockroaches",
+   "creator": "Terminix",
+   "url": "https://www.youtube.com/watch?v=Mf4yD7O-kKo",
+   "aspect_ratio": "16:9",
+   "full_duration_s": 28,
+   "analysed_window_s": 28.061,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 12,
+    "cuts_first_10s": 6,
+    "avg_shot_len_s": 2.159
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 12,
+    "cuts_first_10s": 6,
+    "avg_shot_len_s": 2.159
+   },
+   "pct_of_picture_different_0_5s_later_median": 2.4,
+   "contact_sheet_viewed": true,
+   "note": "Live-action classroom ad by a pest-control brand; about 2 s per shot (12 hard cuts in 28 s). Not animated."
+  },
+  {
+   "short_id": "zack-cats",
+   "title": "Why Cats Rub Against Your Laptop 🤔",
+   "creator": "Zack D. Films",
+   "url": "https://www.youtube.com/watch?v=tUXy4cQwPAo",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 29,
+   "analysed_window_s": 29.029,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 29.029
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 29.029
+   },
+   "pct_of_picture_different_0_5s_later_median": 42.4,
+   "contact_sheet_viewed": false,
+   "note": "Zack D. Films; continuous CG, 0 hard cuts; similar to the selected Zack Shorts."
+  },
+  {
+   "short_id": "zack-koala",
+   "title": "Why Baby Koalas Eat Their Mom’s Poop 🤢",
+   "creator": "Zack D. Films",
+   "url": "https://www.youtube.com/watch?v=XGQlOprQdng",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 31,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 30.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 44.1,
+   "contact_sheet_viewed": false,
+   "note": "Zack D. Films; continuous CG, 0 hard cuts; similar to the selected Zack Shorts."
+  },
+  {
+   "short_id": "zack-posture",
+   "title": "How Bad Posture Gets Worse Over Time 😨",
+   "creator": "Zack D. Films",
+   "url": "https://www.youtube.com/watch?v=jHbhgBgaA34",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 36,
+   "analysed_window_s": 30.0,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 15.0
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 1,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 15.0
+   },
+   "pct_of_picture_different_0_5s_later_median": 50.9,
+   "contact_sheet_viewed": false,
+   "note": "Zack D. Films; continuous CG; similar to the selected Zack Shorts."
+  },
+  {
+   "short_id": "zack-zombieant",
+   "title": "How The Zombie-Ant Fungus Takes Over An Ant 😱",
+   "creator": "Zack D. Films",
+   "url": "https://www.youtube.com/watch?v=xRvQVFXrS90",
+   "aspect_ratio": "9:16",
+   "full_duration_s": 30,
+   "analysed_window_s": 29.888,
+   "hard_cuts_0_30": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 29.888
+   },
+   "hard_cuts_0_20": {
+    "cuts_in_window": 0,
+    "cuts_first_10s": 0,
+    "avg_shot_len_s": 29.888
+   },
+   "pct_of_picture_different_0_5s_later_median": 45.1,
+   "contact_sheet_viewed": false,
+   "note": "Zack D. Films ant topic; continuous CG, 0 hard cuts, 45% of picture changes per 0.5 s; similar to the selected Zack Shorts."
+  }
+ ]
+}

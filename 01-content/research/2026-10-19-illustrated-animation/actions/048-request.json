@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 48,
+  "idempotency_key": "d6-48-2f9e1287827838cb",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e8",
+    "assessment": "supported",
+    "reason": "Declaration directly read. Snapshot is truncated; the complete film was not audited. New vertical layout and narration timing are needed."
+  }
+}

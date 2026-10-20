@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 3,
+  "idempotency_key": "d6-3-35708f177340dc6c",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/yihui-dev/awesome-opus5-5-videos/main/README.md"
+  }
+}

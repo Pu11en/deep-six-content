@@ -1,0 +1,93 @@
+{
+  "checked_at": "2026-10-19T23:28:33.979030+00:00",
+  "writing_run_id": "D6-01096ba333e3",
+  "review_id": "review-7483d7c13521",
+  "status": "waiting_hooks",
+  "chosen_source": "SRC-0fa91dcbc971",
+  "other_liked_sources_saved": [
+    "SRC-9c3cbed0ebf3",
+    "SRC-6c5ad958f7d8"
+  ],
+  "old_ant_queue_and_priority": "unchanged",
+  "hook_count": 5,
+  "same_source_and_valid_fact_ids": true,
+  "distinct_texts": true,
+  "editorial_assessment": "All five openings stay within egg-case parasitism and the documented lack of stinging or biting. None diagnoses an active infestation or promises whole-home control.",
+  "model_calls": [
+    {
+      "provider": "codex",
+      "model": "gpt-6-astra",
+      "attempts": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "result": "success"
+        }
+      ],
+      "stage": "depth_check",
+      "at": "2026-10-19T23:27:43+00:00",
+      "prompt_version": "481eea264568"
+    },
+    {
+      "provider": "codex",
+      "model": "gpt-6-astra",
+      "attempts": [
+        {
+          "provider": "codex",
+          "model": "gpt-6-astra",
+          "result": "success"
+        }
+      ],
+      "stage": "hooks",
+      "at": "2026-10-19T23:28:00+00:00",
+      "prompt_version": "18fe39393341"
+    }
+  ],
+  "hooks": [
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "An ensign wasp in your house can look like a reason to worry about stings. But this wasp doesn’t sting or bite people. Its young feed on cockroach eggs.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F2",
+        "SRC-0fa91dcbc971-F3"
+      ],
+      "payoff": "Explain the difference between the harmless adult wasp a homeowner sees and its developing larva feeding inside a cockroach egg case."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A female ensign wasp adds just one egg to a cockroach’s egg case. When that egg hatches, the roach eggs become food.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Follow the single wasp egg into the larval stage and explain how that larva feeds on multiple cockroach eggs."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "A cockroach egg case can hold more than developing roaches. Inside, an ensign wasp larva may be growing by eating the eggs around it.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Reveal what can happen inside a cockroach egg case after a female ensign wasp deposits an egg there."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "How does an ensign wasp attack cockroaches before they even hatch? It starts by laying an egg inside their egg case.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Explain how the wasp’s offspring feeds on cockroach eggs, targeting the egg stage of the host species."
+    },
+    {
+      "source_id": "SRC-0fa91dcbc971",
+      "text": "Picture a mother wasp leaving her egg surrounded by food for her young. For an ensign wasp, that nursery is a cockroach egg case—and the food is cockroach eggs.",
+      "fact_ids": [
+        "SRC-0fa91dcbc971-F1",
+        "SRC-0fa91dcbc971-F2"
+      ],
+      "payoff": "Explain how placing an egg inside a cockroach egg case puts the developing wasp larva together with its food."
+    }
+  ]
+}

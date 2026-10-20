@@ -1,0 +1,42 @@
+{
+  "node": {
+    "installed": true,
+    "path": "/home/drewp/.local/node/bin/node",
+    "version": "v22.22.0"
+  },
+  "npm": {
+    "installed": true,
+    "path": "/home/drewp/.local/node/bin/npm",
+    "version": "11.19.0"
+  },
+  "ffmpeg": {
+    "installed": true,
+    "path": "/usr/bin/ffmpeg",
+    "version": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers"
+  },
+  "ffprobe": {
+    "installed": true,
+    "path": "/usr/bin/ffprobe",
+    "version": "ffprobe version 6.1.1-3ubuntu5 Copyright (c) 2007-2023 the FFmpeg developers"
+  },
+  "pkg-config": {
+    "installed": true,
+    "path": "/usr/bin/pkg-config",
+    "version": "1.8.1"
+  },
+  "canvas": {
+    "resolvable_from_project": false
+  },
+  "@napi-rs/canvas": {
+    "resolvable_from_project": false
+  },
+  "remotion": {
+    "resolvable_from_project": false
+  },
+  "@motion-canvas/core": {
+    "resolvable_from_project": false
+  },
+  "hyperframes": {
+    "resolvable_from_project": false
+  }
+}

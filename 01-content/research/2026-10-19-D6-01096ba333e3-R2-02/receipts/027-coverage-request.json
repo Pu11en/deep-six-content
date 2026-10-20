@@ -1,0 +1,17 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 26,
+  "idempotency_key": "research-8a92111d8a9a-a27",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q1",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e2",
+      "e3",
+      "e4"
+    ],
+    "reason": "The UF profile describes egg insertion, larval jaws, pupation, exit and named hosts. Historical foreign control rates are excluded."
+  }
+}

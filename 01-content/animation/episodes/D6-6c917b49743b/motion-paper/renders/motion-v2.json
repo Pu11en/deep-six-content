@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "episode_id": "D6-6c917b49743b",
+  "scene_id": "fire-ant-paper-motion",
+  "revision": "v2",
+  "status": "awaiting_motion_review",
+  "input_identity": "149ca63b875b748794c108326576626b2fe9ccc3128953a3e4b84a67608800cf",
+  "inputs": {
+    "config": "687517b5d9f223c0f566b814d7b77af084b57ac5f17cf1d5c2b9a1699da838d3",
+    "approved_audio": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+    "approved_style": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060",
+    "brand": "9630b58d2a2a34c36121cf7e3c5e1c4d37ac5451723c36de73edb968e203e32b",
+    "brand_reference": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708",
+    "render-motion.mjs": "f93ccf88acd959f17f02753caf51e5da69e8741d66d6d7a35b7025d918276a7b",
+    "scenes/fire-ant-paper-motion.mjs": "b6cb866f1c27606d65d3a8b22a78a93d27146caf2b79ea6a104f4aec5076d64a",
+    "package-lock.json": "f189a14914f2e64989afdf51407c0f2abd03c7567c871ab0142dc61afe548ca7",
+    "fonts/EBGaramond12-Regular.ttf": "689aa494b0eb1913085eaeb84d28b18e3b788b45dddbb3083a676d2e8896b5a4",
+    "fonts/DejaVuSans.ttf": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+  },
+  "video_sha256": "ea772c18ca5fec3ac3fca72b35ddb181dbf7ea43944eab956e3902dad2f9e5f0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frame_count": 258,
+  "duration_seconds": 10.76,
+  "audio_excerpt_start_seconds": 46.4,
+  "audio_excerpt_end_seconds": 57.16,
+  "audio_alignment_method": "Offline word timestamps matched to the exact approved excerpt; see excerpt-timing.json.",
+  "sample_frames": [
+    {
+      "frame": 0,
+      "time_seconds": 0,
+      "file": "motion-v2-frame-0.png",
+      "sha256": "cbd2df14894d4943ec3042a7f532f01e9e8bc5e5efd1b82c16d15757a3e37340"
+    },
+    {
+      "frame": 64,
+      "time_seconds": 2.6666666666666665,
+      "file": "motion-v2-frame-64.png",
+      "sha256": "c3ea8e75353e7d8cc89e523aaeeab7113176908787d061f2d6f8f72ce621f99f"
+    },
+    {
+      "frame": 129,
+      "time_seconds": 5.375,
+      "file": "motion-v2-frame-129.png",
+      "sha256": "f0de3ddb2635c51d61d6dea4010066a237995b39b6ae0560ec048a425162a118"
+    },
+    {
+      "frame": 193,
+      "time_seconds": 8.041666666666666,
+      "file": "motion-v2-frame-193.png",
+      "sha256": "bf316b5cf8df045655d33e5835cc36f63fe9213c17dd03258dbaa1de00d7e79c"
+    },
+    {
+      "frame": 257,
+      "time_seconds": 10.708333333333334,
+      "file": "motion-v2-frame-257.png",
+      "sha256": "f9e0de0d423919fc369498b78dd59119c136bff12aa5c106f9f4c24556285d73"
+    }
+  ],
+  "encoder": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "render_milliseconds": 15535,
+  "author_model": "gpt-6-astra",
+  "author_effort": "ultra",
+  "approval_file": "motion-v2.review.json",
+  "limitations": [
+    "Short movement test only; full video and final captions are not produced.",
+    "Motion needs Drew’s review."
+  ]
+}

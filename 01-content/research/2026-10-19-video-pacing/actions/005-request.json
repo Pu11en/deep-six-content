@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 5,
+  "idempotency_key": "d6-5-974fe5bcdb87386a",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/master/skills/papercraft-stop-motion-explainer/SKILL.md"
+  }
+}

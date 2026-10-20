@@ -1,0 +1,12 @@
+{
+  "user_rejected_v1": true,
+  "reasons": [
+    "Separate voice is wrong.",
+    "Mascot motion is too slight; needs visibly animated character action."
+  ],
+  "wording_retained": "Helping you understand pests. Deep Six Pest Control.",
+  "creative_model_requested": "Opus 5.5",
+  "future_audio_workflow": "Generate the complete script including outro in the video's own narration voice.",
+  "original_v1_files_preserved": true,
+  "replacement_media_approved": false
+}

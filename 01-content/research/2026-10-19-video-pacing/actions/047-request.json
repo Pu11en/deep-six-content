@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 47,
+  "idempotency_key": "d6-47-5104933a41ab9ac1",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "Quote found; supports ByteCap's recommendation. Vendor blog; no dataset shown for the interval."
+  }
+}

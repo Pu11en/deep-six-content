@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 7,
+  "idempotency_key": "research-488991e51202-a8",
+  "action": {
+    "tool": "read",
+    "url": "https://citybugs.tamu.edu/2013/08/02/what-is-a-beneficial-parasite/"
+  }
+}

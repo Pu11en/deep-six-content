@@ -1,0 +1,16 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 28,
+  "idempotency_key": "research-8a92111d8a9a-a29",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e9",
+      "e10",
+      "e11"
+    ],
+    "reason": "Texas extension explains edge placement, suggested trap sites and monitoring purpose."
+  }
+}

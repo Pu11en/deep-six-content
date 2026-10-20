@@ -1,0 +1,15 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 24,
+  "idempotency_key": "research-488991e51202-a25",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q4",
+    "status": "addressed",
+    "evidence_ids": [
+      "e1",
+      "e6"
+    ],
+    "reason": "The selected Texas extension article identifies American, smokybrown and Oriental cockroaches in its text; the imported core fact names American cockroaches. General host specialization supports retaining species limits. No current local abundance measurement or universal host claim is available or needed."
+  }
+}

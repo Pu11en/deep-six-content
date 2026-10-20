@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 27,
+  "idempotency_key": "d6-27-9df08cb7d9298d05",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/main/plugins/claude-animation/skills/claude-animation/scripts/sound.mjs"
+  }
+}

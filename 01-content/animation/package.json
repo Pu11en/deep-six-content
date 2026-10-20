@@ -1,0 +1,13 @@
+{
+  "name": "deep-six-illustrated-video",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "frame": "node render-frame.mjs",
+    "motion": "node render-motion.mjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.65"
+  }
+}

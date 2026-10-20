@@ -1,0 +1,12 @@
+{
+  "content_type": "application/json; charset=utf-8",
+  "fetched_at": 1792441301.626404,
+  "final_url": "https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example/src",
+  "id": "s27",
+  "policy": "public-readonly-free-v1",
+  "sha256": "1c8a6ffa9b21bd78d4ca8b7d0b88e94b1d4b5815fe723c9a95ed2b3ad645845d",
+  "source_exists": true,
+  "text": "[{\"name\":\"canvas-core\",\"path\":\"skills/anidoodle/example/src/canvas-core\",\"sha\":\"6e4cabb83a898c7fe484f34522e8f215d0c9f202\",\"size\":0,\"url\":\"https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example/src/canvas-core?ref=main\",\"html_url\":\"https://github.com/alexgreensh/anidoodle/tree/main/skills/anidoodle/example/src/canvas-core\",\"git_url\":\"https://api.github.com/repos/alexgreensh/anidoodle/git/trees/6e4cabb83a898c7fe484f34522e8f215d0c9f202\",\"download_url\":null,\"type\":\"dir\",\"_links\":{\"self\":\"https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example/src/canvas-core?ref=main\",\"git\":\"https://api.github.com/repos/alexgreensh/anidoodle/git/trees/6e4cabb83a898c7fe484f34522e8f215d0c9f202\",\"html\":\"https://github.com/alexgreensh/anidoodle/tree/main/skills/anidoodle/example/src/canvas-core\"}},{\"name\":\"hosts\",\"path\":\"skills/anidoodle/example/src/hosts\",\"sha\":\"0fa65236d1906aceb2371a5f6ad3ca1a0ca8ac7a\",\"size\":0,\"url\":\"https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example/src/hosts?ref=main\",\"html_url\":\"https://github.com/alexgreensh/anidoodle/tree/main/skills/anidoodle/example/src/hosts\",\"git_url\":\"https://api.github.com/repos/alexgreensh/anidoodle/git/trees/0fa65236d1906aceb2371a5f6ad3ca1a0ca8ac7a\",\"download_url\":null,\"type\":\"dir\",\"_links\":{\"self\":\"https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example/src/hosts?ref=main\",\"git\":\"https://api.github.com/repos/alexgreensh/anidoodle/git/trees/0fa65236d1906aceb2371a5f6ad3ca1a0ca8ac7a\",\"html\":\"https://github.com/alexgreensh/anidoodle/tree/main/skills/anidoodle/example/src/hosts\"}}]",
+  "truncated": false,
+  "url": "https://api.github.com/repos/alexgreensh/anidoodle/contents/skills/anidoodle/example/src"
+}

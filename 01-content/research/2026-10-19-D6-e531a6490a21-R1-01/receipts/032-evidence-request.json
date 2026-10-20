@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 31,
+  "idempotency_key": "research-359182d1022c-a32",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s1",
+    "claim": "Adult female Turkestan cockroaches are broader than males and have short vestigial wings.",
+    "quote": "They are broader than Turkestan males and have short vestigial wings."
+  }
+}

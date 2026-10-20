@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 12,
+  "idempotency_key": "research-8a92111d8a9a-a13",
+  "action": {
+    "tool": "evidence",
+    "source_id": "s3",
+    "claim": "Most crawling pests travel in dark areas and along edges. Place sticky insect cards directly against a wall, with open ends running parallel to it so insects can enter along that route.",
+    "quote": "travel in dark areas and along edges"
+  }
+}

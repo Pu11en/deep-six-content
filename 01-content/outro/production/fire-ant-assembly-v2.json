@@ -1,0 +1,50 @@
+{
+  "original_video_seconds": 79.2,
+  "original_video_frames": 2376,
+  "closing_duration_seconds": 3.4,
+  "closing_frames": 102,
+  "closing_spoken_text": "So a missing mound doesn't mean the colony is gone.",
+  "closing_word_count": 10,
+  "closing_caption_groups": [
+    "So a missing mound",
+    "doesn't mean the colony is gone."
+  ],
+  "caption_meaning_check": "The negation remains visible through the entire concluding clause.",
+  "closing_gain_db": 0.25,
+  "closing_speech_speed_changed": false,
+  "outro_duration_seconds": 5.5,
+  "outro_frames": 165,
+  "outro_start_seconds": 82.60000000000001,
+  "outro_entry_modified_frames": [
+    0,
+    8
+  ],
+  "outro_modification": "Replace neutral cream below entry wipe with outgoing moving teaching scene. All later approved frames used as supplied.",
+  "approved_outro_speech_start_seconds": 0.55,
+  "approved_outro_audio_reused": true,
+  "ending_frames": 267,
+  "ending_seconds": 8.9,
+  "full_frames": 2643,
+  "full_duration_seconds": 88.10000000000001,
+  "fps": 30,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "output": "/home/drewp/main-projects/deep-six-content/01-content/outro/production/fire-ant-ending-picture-v2.mp4",
+  "source_art_modules_used_read_only": [
+    "nest-world.mjs",
+    "paper-kit.mjs",
+    "yard-world.mjs"
+  ],
+  "source_scene_seed": 20261019,
+  "lesson_rendered_again": false,
+  "publication": false,
+  "final_output": "01-content/outro/assets/deep-six-fire-ants-full-v2-with-outro.mp4",
+  "final_sha256": "293b4857965531720ca278e55aaf5fa51ef047d2a38757700e26560bda38a586",
+  "lesson_video_stream_copy": true,
+  "final_audio_processing": "Original lesson audio decoded and resampled to 48 kHz, then joined to level-matched Tyler close and approved Tyler sign-off. One continuous AAC encode; speech not regenerated or retimed.",
+  "final_audio_sample_rate": 48000,
+  "final_audio_channels": 1,
+  "original_file_preserved": true
+}

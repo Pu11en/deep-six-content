@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-7-cb150308d5863aaa",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://www.opus.pro/blog/tiktok-length-format-retention-data\"},\"expected_revision\":7}",
+  "revision": 8,
+  "outcome": "applied"
+}

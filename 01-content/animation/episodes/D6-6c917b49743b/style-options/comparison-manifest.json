@@ -1,0 +1,38 @@
+{
+  "status": "awaiting_style_selection",
+  "episode_id": "D6-6c917b49743b",
+  "png_sha256": "c88ebb43ea4426f6fb0f522dc0e291d748a890909df681360cbe72ab2151f5fe",
+  "width": 1092,
+  "height": 2008,
+  "candidates": [
+    {
+      "key": "A",
+      "image": "../renders/frame-v2.png",
+      "sha256": "39e778db2e00de4124bb80be81873dbc0565ee4158e9753ae0cb7091e7ce0194",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "key": "B",
+      "image": "cartoon/renders/frame-v1.png",
+      "sha256": "ef45f3c4afc3a2b3a2c9de36718fb5fa905b7258d349a479deccd69790c8fd7a",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "key": "C",
+      "image": "paper/renders/frame-v1.png",
+      "sha256": "1497fedce35fb84d7334aaed44e5f129d6757940bf26d8341cab25b0ff666060",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "key": "D",
+      "image": "miniature/renders/frame-v1.png",
+      "sha256": "ad15ea4acddf9829b98f64db41d450752d6b823b011ba8eb3979b82b4feea936",
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "note": "Scaled full-frame previews, with no cropping or recoloring. Individual full-resolution files are retained."
+}

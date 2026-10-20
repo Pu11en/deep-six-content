@@ -1,0 +1,10 @@
+{
+  "episode_id": "D6-6c917b49743b",
+  "stage": "hook_motion_review",
+  "candidate": "astra-ending-part1-v1.mp4",
+  "candidate_sha256": "db3a13314ecdf9f3823659dea21d3d879037a06c1e1bdfef5c44195d187b2c6c",
+  "decision": "pending",
+  "feedback": [],
+  "approved_by": null,
+  "approved_at": null
+}

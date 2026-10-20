@@ -1,0 +1,203 @@
+{
+  "status": "exact_word_match",
+  "method": "Offline small.en word timestamps; exact normalized match of all 31 excerpt words. Silence padding stays clear of adjacent words. Not a human listening check.",
+  "audio_sha256": "a3e6c21969ad5432b39f784210925212b1d54b6ad896d7954a80e5579140be33",
+  "excerpt": "Workers move the brood within the nest as conditions change. Picture the nursery shifting between different parts of the structure, rather than every ant staying in one fixed room all season.",
+  "start_seconds": 46.4,
+  "end_seconds": 57.16,
+  "duration_seconds": 10.76,
+  "first_word_start_seconds": 46.56,
+  "last_word_end_seconds": 56.92,
+  "previous_word_end_seconds": 45.82,
+  "next_word_start_seconds": 57.66,
+  "matched_word_count": 31,
+  "minimum_word_probability": 0.8483633399009705,
+  "words": [
+    {
+      "start": 46.56,
+      "end": 46.8,
+      "word": " Workers",
+      "probability": 0.990327775478363
+    },
+    {
+      "start": 46.8,
+      "end": 47.16,
+      "word": " move",
+      "probability": 0.9966339468955994
+    },
+    {
+      "start": 47.16,
+      "end": 47.38,
+      "word": " the",
+      "probability": 0.9921521544456482
+    },
+    {
+      "start": 47.38,
+      "end": 47.64,
+      "word": " brood",
+      "probability": 0.9987694621086121
+    },
+    {
+      "start": 47.64,
+      "end": 47.96,
+      "word": " within",
+      "probability": 0.9942903518676758
+    },
+    {
+      "start": 47.96,
+      "end": 48.12,
+      "word": " the",
+      "probability": 0.9929325580596924
+    },
+    {
+      "start": 48.12,
+      "end": 48.4,
+      "word": " nest",
+      "probability": 0.9980487823486328
+    },
+    {
+      "start": 48.4,
+      "end": 48.62,
+      "word": " as",
+      "probability": 0.9809118509292603
+    },
+    {
+      "start": 48.62,
+      "end": 49.02,
+      "word": " conditions",
+      "probability": 0.9971554279327393
+    },
+    {
+      "start": 49.02,
+      "end": 49.6,
+      "word": " change.",
+      "probability": 0.9995844960212708
+    },
+    {
+      "start": 50.3,
+      "end": 50.4,
+      "word": " Picture",
+      "probability": 0.9953721165657043
+    },
+    {
+      "start": 50.4,
+      "end": 50.68,
+      "word": " the",
+      "probability": 0.9980329871177673
+    },
+    {
+      "start": 50.68,
+      "end": 51.02,
+      "word": " nursery",
+      "probability": 0.9798880815505981
+    },
+    {
+      "start": 51.02,
+      "end": 51.48,
+      "word": " shifting",
+      "probability": 0.9815943241119385
+    },
+    {
+      "start": 51.48,
+      "end": 51.94,
+      "word": " between",
+      "probability": 0.9991089701652527
+    },
+    {
+      "start": 51.94,
+      "end": 52.3,
+      "word": " different",
+      "probability": 0.9973763227462769
+    },
+    {
+      "start": 52.3,
+      "end": 52.58,
+      "word": " parts",
+      "probability": 0.9983152151107788
+    },
+    {
+      "start": 52.58,
+      "end": 52.78,
+      "word": " of",
+      "probability": 0.9994799494743347
+    },
+    {
+      "start": 52.78,
+      "end": 52.88,
+      "word": " the",
+      "probability": 0.9961677193641663
+    },
+    {
+      "start": 52.88,
+      "end": 53.32,
+      "word": " structure,",
+      "probability": 0.9993396401405334
+    },
+    {
+      "start": 53.32,
+      "end": 53.8,
+      "word": " rather",
+      "probability": 0.8483633399009705
+    },
+    {
+      "start": 53.8,
+      "end": 54.12,
+      "word": " than",
+      "probability": 0.9973957538604736
+    },
+    {
+      "start": 54.12,
+      "end": 54.5,
+      "word": " every",
+      "probability": 0.9958874583244324
+    },
+    {
+      "start": 54.5,
+      "end": 54.76,
+      "word": " ant",
+      "probability": 0.9832686185836792
+    },
+    {
+      "start": 54.76,
+      "end": 55.08,
+      "word": " staying",
+      "probability": 0.990265429019928
+    },
+    {
+      "start": 55.08,
+      "end": 55.26,
+      "word": " in",
+      "probability": 0.9987797141075134
+    },
+    {
+      "start": 55.26,
+      "end": 55.56,
+      "word": " one",
+      "probability": 0.9920216202735901
+    },
+    {
+      "start": 55.56,
+      "end": 55.9,
+      "word": " fixed",
+      "probability": 0.9883267283439636
+    },
+    {
+      "start": 55.9,
+      "end": 56.24,
+      "word": " room",
+      "probability": 0.9886026382446289
+    },
+    {
+      "start": 56.24,
+      "end": 56.58,
+      "word": " all",
+      "probability": 0.9884746670722961
+    },
+    {
+      "start": 56.58,
+      "end": 56.92,
+      "word": " season.",
+      "probability": 0.9702224135398865
+    }
+  ]
+}

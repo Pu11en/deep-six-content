@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 5,
+  "idempotency_key": "d6-5-fe195b814567bdbb",
+  "action": {
+    "tool": "read",
+    "url": "https://raw.githubusercontent.com/remotion-dev/remotion/main/README.md"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 23,
+  "idempotency_key": "research-488991e51202-a24",
+  "action": {
+    "tool": "coverage",
+    "question_id": "q3",
+    "status": "addressed",
+    "evidence_ids": [
+      "e3",
+      "e4"
+    ],
+    "reason": "The main article establishes adult size, stalked flag-like abdomen and its movement. Its adult does not sting or bite; the feeding larva is a different life stage."
+  }
+}

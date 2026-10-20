@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 58,
+  "idempotency_key": "d6-58-39b18702b5ab59bd",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e16",
+    "assessment": "supported",
+    "reason": "Quote found in the gallery page; supports that a creator describes morph transitions instead of cuts. Creator's claim, not verified."
+  }
+}

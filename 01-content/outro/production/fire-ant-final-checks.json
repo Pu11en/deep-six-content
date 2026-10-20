@@ -1,0 +1,181 @@
+{
+  "checked_utc": "2026-10-20T04:15:29.676401+00:00",
+  "status": "checks_passed",
+  "final_output": "01-content/outro/assets/deep-six-fire-ants-full-v2-with-outro.mp4",
+  "final_sha256": "293b4857965531720ca278e55aaf5fa51ef047d2a38757700e26560bda38a586",
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_read_frames": "2643"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 1,
+        "r_frame_rate": "0/0",
+        "nb_read_frames": "4130"
+      }
+    ],
+    "format": {
+      "duration": "88.100000"
+    }
+  },
+  "original_decoded_frames_identical": 2376,
+  "new_frames_added": 267,
+  "original_lesson_frame_comparison": "Every decoded frame hash matches the corresponding original frame.",
+  "original_audio_prefix_correlation": 0.9999597190806019,
+  "original_audio_sample_count_compared": 3801600,
+  "audio_processing_limit": "Final audio is resampled and AAC-encoded once; it is not byte-identical to original audio.",
+  "final_audio_peak_dbfs": -3.228,
+  "original_video_file_unchanged": true,
+  "approved_outro_assets_unchanged": {
+    "assets/outro-animation-v2.mp4": true,
+    "assets/outro-animation-clean-v2.mp4": true,
+    "assets/outro-review-fire-ant-v2.mp4": true
+  },
+  "same_Tyler_voice_settings": true,
+  "closing_words_and_signoff_once": true,
+  "ending_asr_transcript": "So, a missing mound doesn't mean the colony is gone. Helping you understand pests. Deep Six Pest Control.",
+  "ending_asr_segments": [
+    {
+      "text": " So, a missing mound doesn't mean the colony is gone.",
+      "start": 0.0,
+      "end": 3.2,
+      "words": [
+        {
+          "text": "So,",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "text": "a",
+          "start": 0.54,
+          "end": 0.6
+        },
+        {
+          "text": "missing",
+          "start": 0.6,
+          "end": 0.94
+        },
+        {
+          "text": "mound",
+          "start": 0.94,
+          "end": 1.28
+        },
+        {
+          "text": "doesn't",
+          "start": 1.28,
+          "end": 1.84
+        },
+        {
+          "text": "mean",
+          "start": 1.84,
+          "end": 2.04
+        },
+        {
+          "text": "the",
+          "start": 2.04,
+          "end": 2.22
+        },
+        {
+          "text": "colony",
+          "start": 2.22,
+          "end": 2.56
+        },
+        {
+          "text": "is",
+          "start": 2.56,
+          "end": 2.84
+        },
+        {
+          "text": "gone.",
+          "start": 2.84,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "text": " Helping you understand pests.",
+      "start": 4.04,
+      "end": 5.84,
+      "words": [
+        {
+          "text": "Helping",
+          "start": 4.04,
+          "end": 4.4
+        },
+        {
+          "text": "you",
+          "start": 4.4,
+          "end": 4.68
+        },
+        {
+          "text": "understand",
+          "start": 4.68,
+          "end": 5.32
+        },
+        {
+          "text": "pests.",
+          "start": 5.32,
+          "end": 5.84
+        }
+      ]
+    },
+    {
+      "text": " Deep Six Pest Control.",
+      "start": 6.5,
+      "end": 7.64,
+      "words": [
+        {
+          "text": "Deep",
+          "start": 6.5,
+          "end": 6.58
+        },
+        {
+          "text": "Six",
+          "start": 6.58,
+          "end": 6.88
+        },
+        {
+          "text": "Pest",
+          "start": 6.88,
+          "end": 7.28
+        },
+        {
+          "text": "Control.",
+          "start": 7.28,
+          "end": 7.64
+        }
+      ]
+    }
+  ],
+  "complete_narration_contains_original_and_exact_signoff_once": true,
+  "caption_negation_remains_visible_through_concluding_clause": true,
+  "closing_duration_seconds": 3.4,
+  "outro_start_seconds": 82.60000000000001,
+  "new_voice_generation_calls": 1,
+  "new_image_or_video_generation_calls": 0,
+  "automatic_retries": false,
+  "finishing_voice_estimate_usd": 0.0081,
+  "cumulative_production_estimate_usd": 2.2894095,
+  "approved_production_cap_usd": 3.0,
+  "initial_test_separate_estimate_usd": 0.058155,
+  "cost_is_invoice_confirmed": false,
+  "publishing_performed": false,
+  "other_sessions_messaged": false,
+  "desktop_copy": "/mnt/c/Users/drewp/Desktop/Deep Six - Fire Ants Full v2 - Final.mp4",
+  "desktop_copy_sha256": "293b4857965531720ca278e55aaf5fa51ef047d2a38757700e26560bda38a586",
+  "desktop_copy_matches": true,
+  "player_or_browser_opened": false,
+  "visual_join_reviewed": true,
+  "visual_check_sheet": "fire-ant-final-ending-sheet.jpg"
+}

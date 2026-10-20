@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-32-2c64a5b285968aea",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/alexgreensh/anidoodle/main/skills/anidoodle/example/src/canvas-core/mechanicalLepidoptera.ts\"},\"expected_revision\":32}",
+  "revision": 33,
+  "outcome": "applied"
+}

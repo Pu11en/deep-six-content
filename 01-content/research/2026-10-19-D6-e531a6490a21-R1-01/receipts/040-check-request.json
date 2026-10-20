@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 39,
+  "idempotency_key": "research-359182d1022c-a40",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "The control tips immediately pair dead cockroaches, eggs and feces with attraction to their debris. Chemical mechanisms and effect sizes remain unestablished here. Independently fetched original page and normalized quotation checks passed; this assessment is by the calling agent."
+  }
+}

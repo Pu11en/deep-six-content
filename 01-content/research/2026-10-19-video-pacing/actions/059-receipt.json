@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-59-f3e217290c4fab93",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e17\",\"reason\":\"Quote found in the gallery page (creator's own post text); supports the creator's claim only.\",\"tool\":\"check\"},\"expected_revision\":59}",
+  "revision": 60,
+  "outcome": "applied"
+}

@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 15,
+  "idempotency_key": "d6-15-2e8240d2051f97f0",
+  "action": {
+    "tool": "read",
+    "url": "https://www.framejam.ai/playbooks/explainer"
+  }
+}

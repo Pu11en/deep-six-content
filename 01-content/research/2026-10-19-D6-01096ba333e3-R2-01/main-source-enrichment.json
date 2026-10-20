@@ -1,0 +1,27 @@
+{
+  "source_id": "SRC-0fa91dcbc971",
+  "crawler_source_id": "s1",
+  "facts": [
+    {
+      "id": "SRC-0fa91dcbc971-F1",
+      "statement": "A female ensign wasp uses a slender egg-laying organ called an ovipositor to place one egg inside a tough cockroach egg case. American cockroaches are among its documented hosts.",
+      "quote": "slender ovipositor into the tough ootheca"
+    },
+    {
+      "id": "SRC-0fa91dcbc971-F2",
+      "statement": "The developing wasp larva feeds on the dozen or more cockroach eggs inside that case. An egg case successfully consumed in this way will not produce cockroaches.",
+      "quote": "dozen or more cockroach eggs"
+    },
+    {
+      "id": "SRC-0fa91dcbc971-F3",
+      "statement": "The ensign wasp described in this article does not sting or bite people.",
+      "quote": "does not sting or bite"
+    },
+    {
+      "id": "SRC-0fa91dcbc971-F4",
+      "statement": "The adult ensign wasp described is 5-7 mm long. Its stalked abdomen resembles a small signal flag and is waved up and down, giving the wasp its name.",
+      "quote": "unique, stalked abdomen"
+    }
+  ],
+  "reason": "Checked additional passages in the already selected source to explain the egg-laying mechanism and adult appearance in the narration."
+}

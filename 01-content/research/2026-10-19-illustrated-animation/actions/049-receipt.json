@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-49-bdc8aa6c69701c5f",
+  "payload": "{\"action\":{\"claim\":\"The ant-animation repository carries an MIT license.\",\"quote\":\"MIT License\",\"source_id\":\"s10\",\"tool\":\"evidence\"},\"expected_revision\":49}",
+  "revision": 50,
+  "outcome": "applied"
+}

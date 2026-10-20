@@ -1,0 +1,9 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 1,
+  "idempotency_key": "research-8a92111d8a9a-a2",
+  "action": {
+    "tool": "read",
+    "url": "https://ipm.ucanr.edu/home-and-landscape/cockroaches/"
+  }
+}

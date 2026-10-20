@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-13-870575b92138a05d",
+  "payload": "{\"action\":{\"tool\":\"read\",\"url\":\"https://raw.githubusercontent.com/iart-ai/explainer-video-skills/main/skills/explainer-video/SKILL.md\"},\"expected_revision\":13}",
+  "revision": 14,
+  "outcome": "applied"
+}

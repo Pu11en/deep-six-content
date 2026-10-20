@@ -1,0 +1,53 @@
+{
+  "type": "silent_layout_and_pacing_sketches",
+  "ai_generation_calls": 0,
+  "additional_spend_usd": 0,
+  "mascot_status": "Existing unapproved draft reused as a placeholder; no character animation rendered",
+  "logo_status": "Unchanged pixels displayed from original ad crop; clean logo preparation pending",
+  "voice_status": "Exact spoken copy displayed as text; no synthesized audio",
+  "choices": [
+    {
+      "id": 1,
+      "title": "Simple brand credit",
+      "seconds": 5,
+      "spoken": "Brought to you by Deep Six Pest Control.",
+      "screen": [
+        "Brought to you by"
+      ],
+      "action": "Small friendly nod; hold the logo.",
+      "preview": "01-content/outro/previews/option-01-v1.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Educational sign-off",
+      "seconds": 5,
+      "spoken": "Helping you understand pests. Deep Six Pest Control.",
+      "screen": [
+        "Helping you",
+        "understand pests."
+      ],
+      "action": "Paper wipe, then one small nod.",
+      "preview": "01-content/outro/previews/option-02-v1.mp4"
+    },
+    {
+      "id": 3,
+      "title": "A closer look",
+      "seconds": 6,
+      "spoken": "A closer look at pests, from Deep Six Pest Control.",
+      "screen": [
+        "A closer look at pests"
+      ],
+      "action": "A soft flashlight sweep across the logo.",
+      "preview": "01-content/outro/previews/option-03-v1.mp4"
+    }
+  ],
+  "comparison_graphic": "01-content/outro/previews/outro-options-v1.png",
+  "combined_preview": "01-content/outro/previews/outro-options-v1.mp4",
+  "desktop_copy": "/mnt/c/Users/drewp/Desktop/Deep Six - Outro Options v1.mp4",
+  "source_hashes": {
+    "01-content/outro/assets/hybrid-still-v1.jpg": "10d9e1416ad8c09da8ff97a7fa56ea73fb5a66622f2aa4c1e341d6eca147cf91",
+    "01-content/brand/fun-fact-friday-spider.png": "28214457f7ce7c40674f75d4acdff268bfa973f68a5980a15738d888e53c9708"
+  },
+  "player_opened": false,
+  "browser_opened": false
+}

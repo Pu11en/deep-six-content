@@ -1,0 +1,6 @@
+{
+  "idempotency_key": "d6-45-730d70f17c54060b",
+  "payload": "{\"action\":{\"assessment\":\"supported\",\"evidence_id\":\"e3\",\"reason\":\"Quote found; supports that the blog states this average. 'Data suggests' with no dataset cited; snapshot truncated at 24,000 characters.\",\"tool\":\"check\"},\"expected_revision\":45}",
+  "revision": 46,
+  "outcome": "applied"
+}

@@ -1,0 +1,11 @@
+{
+  "client_id": "imac-research",
+  "expected_revision": 19,
+  "idempotency_key": "research-488991e51202-a20",
+  "action": {
+    "tool": "check",
+    "evidence_id": "e5",
+    "assessment": "supported",
+    "reason": "The taxonomy paper introduction describes solitary predation on cockroach eggs inside oothecae. This passage is complete in the truncated crawler text and was found on the independently fetched full page."
+  }
+}
