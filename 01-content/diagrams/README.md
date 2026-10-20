@@ -1,5 +1,9 @@
 # Deep Six system in Excalidraw
 
+**Current whole-system canvas:** [animation and full plain-English flow](animation-system.excalidraw). October 19 update: Claude Code with Opus 5.5 for every planned AI role; Astra/Sol tests and future prompting research stay outside the main flow. The approved outro is reused with each episode's voice. Step 1 now names Ultimate Crawler, Parallel search, page reads and the researcher's checks. [Evidence and implementation limits](../research/2026-10-19-whiteboard-research-step.md).
+
+October 20: added **Research: start to checked evidence** to the right of the existing flows. It shows pest-specific saved sources, adaptive discovery, rejection feedback, reuse protection and the second crawler pass after hook selection. Six proposed research rules cover search memory, shortages, evidence quality and recovery. This section ends before narration writing; interface and harness selection are outside its scope. [Current design and limits](../research/2026-10-20-research-design.md) · [Research gaps reviewed](../research/2026-10-20-research-edge-cases.md).
+
 **Two views of the same working design are open in the shared Excalidraw workspace.**
 
 - [Main flow — research, choices, and production](http://localhost:3003/boards/f8724119f563ab46a50243e7) · [drawing file](video-system.excalidraw)

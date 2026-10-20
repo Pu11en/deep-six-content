@@ -1,0 +1,122 @@
+{
+  "checked_date": "2026-10-20",
+  "offline_tests": {
+    "run": 8,
+    "passed": 8,
+    "scope": [
+      "source deduplication",
+      "queue persistence",
+      "stocking rotation",
+      "rejection feedback",
+      "hook-specific supporting evidence",
+      "reserved-source reuse"
+    ]
+  },
+  "opus_render_checks": {
+    "config": {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/full/scene.json",
+      "matches_approved_render": true,
+      "sha256": "918afb11bc2a16fafd2e3d8cb4c704f5c93eda3928a6f6ef9f9b9dc77a55ee44"
+    },
+    "scene": {
+      "file": "01-content/animation/scenes/d6-6c917b49743b-full.mjs",
+      "matches_approved_render": true,
+      "sha256": "e980d3ea60691f7aa53e2dfba66f1b083095f7a24fab343ece46820035231186"
+    },
+    "kit": {
+      "file": "01-content/animation/scenes/paper-kit.mjs",
+      "matches_approved_render": false,
+      "sha256": "16088af7ee39eaece50ba86cfe81450a49bfcacc2ea1911a34151935b883791b"
+    },
+    "timing": {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/full/words.json",
+      "matches_approved_render": true,
+      "sha256": "ccabf940cb43dae142ff8e87ecfc31186dbdf98d78d76536ae9717ee1d5aeb44"
+    },
+    "shot_list": {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/full/shot-list.json",
+      "matches_approved_render": true,
+      "sha256": "d41041dd2f51b7f3e2baad5d60e1581ab8476c4d0829d45304f22c33ac02cfbd"
+    },
+    "video": {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/full/renders/full-v2.mp4",
+      "matches_approved_render": true
+    }
+  },
+  "model_test_reports": [
+    {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/model-test/test-astra-conditions/job/report.json",
+      "protected_files_restored": [],
+      "ok": true
+    },
+    {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/model-test/test-sol-conditions/job/report.json",
+      "protected_files_restored": [],
+      "ok": true
+    },
+    {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/runs/astra-ending/astra-ending-seg01/job/report.json",
+      "protected_files_restored": [],
+      "ok": true
+    },
+    {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/runs/astra-ending/astra-ending-seg02/job/report.json",
+      "protected_files_restored": [],
+      "ok": false
+    },
+    {
+      "file": "01-content/animation/episodes/D6-6c917b49743b/runs/astra-ending/plan-job/report.json",
+      "protected_files_restored": [],
+      "ok": true
+    }
+  ],
+  "instruction_hashes_at_audit": {
+    "01-content/animation/choreography/director-prompt.md": "cf7fa46c1624c28f2054042e744f79fab8c0a67b404cfb89040638b7ccbe26ce",
+    "01-content/animation/choreography/animator-prompt.md": "27a7dd5763a73ad484da84c3b2dae2dd5a8436d0123f3cad0f4e7eb10c0caf27",
+    "01-content/animation/VIDEO-FLOW.md": "51cdd162895843de26de0073b0ab5c6ab9b0fe1d2309d2b1d56f15c621c4e1cd",
+    "01-content/animation/HARNESS-NOTES.md": "adfe385509762a8c162d6350471b84093156d3eeb4b1f4f551c18966fea0237e"
+  },
+  "limits": [
+    "Model-test guard reports establish no detected edits to protected files during those runs.",
+    "No original approved-run prompt snapshot was found; current hashes are a baseline, not proof against that missing original.",
+    "Some prompt/docs still name experimental model fallbacks; they were not edited in this design session.",
+    "Current code rotates research stocking, not automatic next-episode pest selection.",
+    "Current source importer requires exactly five; a smaller valid batch is a proposed design change.",
+    "No live research job, model generation, paid call or Telegram bot started."
+  ],
+  "instruction_comparison": {
+    "source_log": "01-content/animation/episodes/D6-6c917b49743b/model-test/test-sol-conditions/job/events-sol.jsonl",
+    "details": {
+      "director_matches_test_read": true,
+      "director-and-animator-prompts.md": {
+        "historical_sha256": "e82cf0062e64eb93b5a418d874bcf5426e73ea516af8100f5b7208a73556fc20",
+        "current_sha256": "53c3d391fd36caa3c99732ba6c91622d5471660119b770009b3c920e2eb5770e",
+        "change_types": [
+          "replace",
+          "replace",
+          "replace",
+          "replace"
+        ]
+      },
+      "paper-kit.mjs": {
+        "historical_sha256": "b31ab29c5436b40bedccc877d5d8082dfcafa26888832a38018d3c4b60db6eed",
+        "current_sha256": "16088af7ee39eaece50ba86cfe81450a49bfcacc2ea1911a34151935b883791b",
+        "change_types": [
+          "insert"
+        ]
+      }
+    },
+    "diff": "2026-10-20-animation-instruction-differences.diff",
+    "assessment": "Director matches the test-read text. Animator differs in four groups of edits. Kit differs by an inserted helper block; original lines are preserved. This does not identify who made later edits or prove fresh-run quality."
+  },
+  "current_session_instruction_files_unchanged": true,
+  "canvas_validation": {
+    "elements": 665,
+    "errors": 0,
+    "warnings": 0,
+    "saved_and_fresh_routes_converge": true,
+    "rejection_returns_to_search": true,
+    "support_pass_after_hook": true,
+    "existing_flow_preserved": true
+  }
+}

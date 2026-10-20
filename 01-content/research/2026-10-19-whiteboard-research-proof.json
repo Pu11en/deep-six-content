@@ -1,0 +1,84 @@
+{
+  "checked_date": "2026-10-19",
+  "search_capabilities_file": "2026-10-19-crawler-workflow/capabilities.json",
+  "deployed_search_code": {
+    "host": "MacBook",
+    "file": "/Users/drewp/ultimate-crawler-agent/releases/5df1d38c3d36/crawler/research_public.py",
+    "lines": "208-287",
+    "read_via": "read-only SSH",
+    "backend": "parallel_public",
+    "endpoint": "https://search.parallel.ai/mcp",
+    "tool": "web_search",
+    "input_fields": [
+      "objective",
+      "search_queries",
+      "session_id"
+    ],
+    "output_fields": [
+      "url",
+      "title",
+      "snippet"
+    ],
+    "max_results": 10,
+    "credentials_or_paid_fallback": false
+  },
+  "saved_search": {
+    "request_file": "01-content/research/2026-10-19-D6-e531a6490a21-R1-01/receipts/001-search-request.json",
+    "response_file": "01-content/research/2026-10-19-D6-e531a6490a21-R1-01/receipts/001-search.json",
+    "query": "site:citybugs.tamu.edu cockroaches biology behavior Texas",
+    "result_count": 3,
+    "first_result": {
+      "title": "\n    Insect Updates - Insects in the City  ",
+      "url": "https://citybugs.tamu.edu/latest-news/insect-updates"
+    },
+    "search_limits": {
+      "calls": 1,
+      "pages": 20,
+      "searches": 4,
+      "seconds": 300,
+      "steps": 70
+    }
+  },
+  "saved_page_read": {
+    "response_file": "01-content/research/2026-10-19-D6-e531a6490a21-R1-01/receipts/003-read.json",
+    "url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas",
+    "final_url": "https://citybugs.tamu.edu/2024/06/26/the-turkestan-cockroach-an-emerging-pest-in-texas/",
+    "returned_fields": [
+      "url",
+      "final_url",
+      "text",
+      "fetched_at",
+      "sha256",
+      "content_type",
+      "truncated",
+      "policy",
+      "id",
+      "source_exists"
+    ],
+    "text_characters": 6519
+  },
+  "source_acceptance": {
+    "config_file": "01-content/harness/config.json",
+    "domains": [
+      "citybugs.tamu.edu",
+      "fireant.tamu.edu",
+      "extensionentomology.tamu.edu",
+      "agrilifeextension.tamu.edu",
+      "npic.orst.edu",
+      "epa.gov"
+    ],
+    "validator": "tools/d6_sources.py:validate_cards"
+  },
+  "outro_approval": "01-content/outro/production/finished-outro-approval-v2.json",
+  "final_video_approval": "01-content/outro/production/fire-ant-final-approval.json",
+  "scope": "Canvas and explanation only; model runner defaults unchanged; no live research or model calls; no screenshots.",
+  "canvas_validation": {
+    "model_fallback_nodes_removed": true,
+    "claude_opus_all_ai_roles": true,
+    "crawler_inputs_outputs_present": true,
+    "approved_outro_present": true,
+    "same_episode_voice": true,
+    "structural_errors": 0,
+    "structural_warnings": 0
+  }
+}

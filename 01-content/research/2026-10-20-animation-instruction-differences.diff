@@ -1,0 +1,44 @@
+--- read-during-Sol-test/director-and-animator-prompts.md
++++ current/director-and-animator-prompts.md
+@@ -88,2 +88,2 @@
+-- Kit source: `scenes/paper-kit.mjs` (read it first)
+-- Worked example: `scenes/hook-fire-ant-drought.mjs`
++- Kit and sets reference: `KIT-API.md` (read it first; open `scenes/paper-kit.mjs` only for one specific function)
++- Worked examples: `scenes/hook-fire-ant-drought.mjs` (hook) and `scenes/d6-6c917b49743b-body.mjs` (the rest of the approved video)
+@@ -108 +108 @@
+-2. **Reuse the kit.** Use `cut` for every paper piece, `placeAnt` and `walkPhase` for ants, `blade` and `tuft` for grass, `puff`, `impactStar`, `withCamera`, `shake`, `wobble`, `prog` and the easing functions. Add new props as small functions in your module.
++2. **Reuse the kit.** Use `cut` for every paper piece, `placeAnt` and `walkPhase` for ants, `blade` and `tuft` for grass, `puff`, `impactStar`, `withCamera` with `camAt` and `live`, `shake`, `wobble`, `prog` and the easing functions. Reuse the nest and yard sets where they fit. Add new props as small functions in your module.
+@@ -135 +135 @@
+-1. Render the beat sheet: `node render-shots.mjs episodes/<id>/<segment>/scene.json --sheet`. Open `dev/beats-sheet.png`.
++1. Render the beat sheet: `node render-shots.mjs episodes/<id>/<segment>/scene.json --sheet`. Open every `dev/beats-sheet-*.png` with an image viewer and look at it.
+@@ -139 +139 @@
+-5. Run the full render. Confirm 1080x1920, 30 fps, matching audio and video length, longest still stretch under 0.3 seconds, and a median picture change of at least 15% per half second (hook v1: 22%; the rejected test: 0.1%).
++5. Run `node render-shots.mjs <scene.json> --check-motion`. Targets: longest still stretch at most 0.35 seconds and a median picture change of at least 15% per half second. For reference, the approved video scores 0.33 s and 17%; the rejected single-scene test scored 0.1%.
+--- read-during-Sol-test/paper-kit.mjs
++++ current/paper-kit.mjs
+@@ -204,0 +205,25 @@
++  ctx.restore();
++}
++
++// Shot helpers (same as the approved video's). bell: 0 -> 1 -> 0 over d seconds from t0.
++export const bell = (t, t0, d) => Math.sin(Math.PI * prog(t, t0, t0 + d));
++export const cam = (x, y, zoom) => ({ x, y, zoom });
++// Camera keyframes: [[time, cam(x, y, zoom), ease?], ...]. Zoom moves in log space; default ease eIO.
++export function camAt(t, keys) {
++  if (t <= keys[0][0]) return { ...keys[0][1] };
++  for (let i = 1; i < keys.length; i += 1) {
++    const [t1, b, ease = eIO] = keys[i];
++    const [t0, a] = keys[i - 1];
++    if (t <= t1) {
++      const k = ease(clamp((t - t0) / Math.max(1e-6, t1 - t0)));
++      return { x: lerp(a.x, b.x, k), y: lerp(a.y, b.y, k), zoom: zoomTo(a.zoom, b.zoom, k), rot: lerp(a.rot ?? 0, b.rot ?? 0, k) };
++    }
++  }
++  return { ...keys[keys.length - 1][1] };
++}
++// The camera never fully stops: a slow breath and sway on top of a shot's own moves.
++export const live = (c, t) => ({ ...c, x: c.x + 6 * Math.sin(t * 0.9), y: c.y + 5 * Math.sin(t * 1.13 + 1), zoom: c.zoom * (1 + 0.022 * Math.sin(t * 1.7)) });
++export function fillScreen(ctx, color, texture) {
++  ctx.save();
++  ctx.setTransform(1, 0, 0, 1, 0, 0);
++  cut(ctx, polyPath([[0, 0], [W, 0], [W, H], [0, H]]), color, texture, 0, { grain: 0.8 });

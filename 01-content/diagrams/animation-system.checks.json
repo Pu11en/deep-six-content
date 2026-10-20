@@ -1,0 +1,29 @@
+{
+ "drawing": "animation-system.excalidraw",
+ "elements": 688,
+ "shapes": 139,
+ "pictures": 4,
+ "zones": 35,
+ "texts": 402,
+ "arrows": 99,
+ "canvas": [
+  40,
+  24,
+  6772,
+  8697
+ ],
+ "checks": [
+  "unique ids",
+  "two-way bindings",
+  "picture data present",
+  "bound text fits its shape",
+  "free text inside its own box",
+  "no text, picture or shape overlaps",
+  "arrows miss shapes, pictures and text they do not connect",
+  "arrow ends on their shapes",
+  "connector crossings listed"
+ ],
+ "errors": [],
+ "warnings": [],
+ "screenshots": "none (Drew's rule)"
+}

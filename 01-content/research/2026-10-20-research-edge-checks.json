@@ -1,0 +1,23 @@
+{
+  "checked_date": "2026-10-20",
+  "scope": "Research flow only, before narration writing",
+  "interface_planning_removed": true,
+  "research_rules": [
+    "adaptive search",
+    "search memory and partial results",
+    "honest shortage handling",
+    "claim support and original evidence",
+    "stale sources and revisions",
+    "evidence-ready gate"
+  ],
+  "source_rejection_returns_to_search": true,
+  "evidence_gaps_return_to_support_research": true,
+  "diagram_errors": 0,
+  "diagram_warnings": 0,
+  "runtime_changes": false,
+  "live_research_started": false,
+  "tests": "No new runtime tests; existing behavior was checked in the previous eight-test audit. This verifies design artifacts only.",
+  "rejection_explanation_required": false,
+  "researcher_selects_next_strategy": true,
+  "validation_limit": "Structural design checks passed; complete adaptive loop is not yet validated in a live trial."
+}
